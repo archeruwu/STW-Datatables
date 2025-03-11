@@ -1,0 +1,95 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "InputBasedAFKSettings",
+    "Class": "UScriptClass'DataTable'",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'FortTableRow_InputBasedAFKSettings'",
+        "ObjectPath": "/Script/FortniteGame"
+      }
+    },
+    "Rows": {
+      "Juno": {
+        "Settings": {
+          "TimeUntilConfirmedAFK": 300.0,
+          "TimeUntilRemainedAFK": 600.0,
+          "MinimumMovementPerSecond": 50.0,
+          "MinimumCameraRotationPerSecond": 10.0,
+          "MaxTimeWithoutInteracting": 60.0,
+          "MaxTimeWithoutInputChange": 60.0,
+          "SendInputChangeInterval": 15.0,
+          "InputActionsToTrack": [
+            "Fire",
+            "UseOrReload",
+            "Use"
+          ],
+          "ValidInteractionsGameplayEventTags": [
+            "Event.Interact.Completed",
+            "Event.Weapons.Fired",
+            "Event.CollectedPickup",
+            "Event.ConsumedItem",
+            "Event.Item.Dropped.Manually",
+            "Event.Athena.Crafting"
+          ],
+          "ValidInteractionsGameplayEffectsTags": [
+            "Gameplay.Action.Player.Emote",
+            "Conversation",
+            "Juno.Conversation"
+          ]
+        }
+      },
+      "Pilgrim": {
+        "Settings": {
+          "TimeUntilConfirmedAFK": 300.0,
+          "TimeUntilRemainedAFK": 120.0,
+          "MinimumMovementPerSecond": 50.0,
+          "MinimumCameraRotationPerSecond": 10.0,
+          "MaxTimeWithoutInteracting": 30.0,
+          "MaxTimeWithoutInputChange": 30.0,
+          "SendInputChangeInterval": 15.0,
+          "InputActionsToTrack": [
+            "Fire",
+            "Use",
+            "UseOrReload",
+            "EmotePicker",
+            "GamepadEmotePickerOrReplayLastEmoteHold"
+          ],
+          "ValidInteractionsGameplayEventTags": [
+            "Event.Interact.Completed",
+            "Event.Weapons.Fired"
+          ],
+          "ValidInteractionsGameplayEffectsTags": [
+            "Gameplay.Action.Player.Emote"
+          ]
+        }
+      },
+      "JamIsland": {
+        "Settings": {
+          "TimeUntilConfirmedAFK": 300.0,
+          "TimeUntilRemainedAFK": 120.0,
+          "MinimumMovementPerSecond": 50.0,
+          "MinimumCameraRotationPerSecond": 10.0,
+          "MaxTimeWithoutInteracting": 30.0,
+          "MaxTimeWithoutInputChange": 30.0,
+          "SendInputChangeInterval": 15.0,
+          "InputActionsToTrack": [
+            "Fire",
+            "Use",
+            "UseOrReload",
+            "EmotePicker",
+            "GamepadEmotePickerOrReplayLastEmoteHold"
+          ],
+          "ValidInteractionsGameplayEventTags": [
+            "Event.Interact.Completed",
+            "Event.Weapons.Fired"
+          ],
+          "ValidInteractionsGameplayEffectsTags": [
+            "Gameplay.Action.Player.Emote"
+          ]
+        }
+      }
+    }
+  }
+]

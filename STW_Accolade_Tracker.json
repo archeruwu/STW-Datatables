@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "FortTrackingTokenType",
+    "Name": "STW_Accolade_Tracker",
+    "Class": "UScriptClass'FortTrackingTokenType'",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "SoftWeeklyXPCap": 4000000,
+      "SoftCapMultiplier": 0.2,
+      "WeeklyResetOffsetHours": 14,
+      "DataList": [
+        {
+          "MaxStackSize": {
+            "Value": 32767.0,
+            "Curve": {
+              "CurveTable": null,
+              "RowName": "None"
+            },
+            "RegistryType": {
+              "Name": "None"
+            }
+          }
+        },
+        {
+          "MinLevel": 1,
+          "MaxLevel": 1
+        },
+        {
+          "Traits": [
+            "Item.Trait.SingleStack"
+          ]
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,5104 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "LootLevelData",
+    "Class": "UScriptClass'DataTable'",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'FortLootLevelData'",
+        "ObjectPath": "/Script/FortniteGame"
+      }
+    },
+    "Rows": {
+      "Default1": {
+        "Category": "Default",
+        "LootLevel": 0,
+        "MinItemLevel": 1,
+        "MaxItemLevel": 1
+      },
+      "Default2": {
+        "Category": "Default",
+        "LootLevel": 1,
+        "MinItemLevel": 1,
+        "MaxItemLevel": 2
+      },
+      "Default3": {
+        "Category": "Default",
+        "LootLevel": 2,
+        "MinItemLevel": 3,
+        "MaxItemLevel": 5
+      },
+      "Default4": {
+        "Category": "Default",
+        "LootLevel": 3,
+        "MinItemLevel": 5,
+        "MaxItemLevel": 7
+      },
+      "Default5": {
+        "Category": "Default",
+        "LootLevel": 4,
+        "MinItemLevel": 6,
+        "MaxItemLevel": 8
+      },
+      "Default6": {
+        "Category": "Default",
+        "LootLevel": 5,
+        "MinItemLevel": 8,
+        "MaxItemLevel": 10
+      },
+      "Default7": {
+        "Category": "Default",
+        "LootLevel": 6,
+        "MinItemLevel": 8,
+        "MaxItemLevel": 11
+      },
+      "Default8": {
+        "Category": "Default",
+        "LootLevel": 7,
+        "MinItemLevel": 10,
+        "MaxItemLevel": 13
+      },
+      "Default9": {
+        "Category": "Default",
+        "LootLevel": 8,
+        "MinItemLevel": 12,
+        "MaxItemLevel": 15
+      },
+      "Default10": {
+        "Category": "Default",
+        "LootLevel": 9,
+        "MinItemLevel": 13,
+        "MaxItemLevel": 18
+      },
+      "Default11": {
+        "Category": "Default",
+        "LootLevel": 10,
+        "MinItemLevel": 15,
+        "MaxItemLevel": 20
+      },
+      "Default12": {
+        "Category": "Default",
+        "LootLevel": 11,
+        "MinItemLevel": 15,
+        "MaxItemLevel": 22
+      },
+      "Default13": {
+        "Category": "Default",
+        "LootLevel": 12,
+        "MinItemLevel": 17,
+        "MaxItemLevel": 24
+      },
+      "Default14": {
+        "Category": "Default",
+        "LootLevel": 13,
+        "MinItemLevel": 19,
+        "MaxItemLevel": 26
+      },
+      "Default15": {
+        "Category": "Default",
+        "LootLevel": 14,
+        "MinItemLevel": 20,
+        "MaxItemLevel": 29
+      },
+      "Default16": {
+        "Category": "Default",
+        "LootLevel": 15,
+        "MinItemLevel": 22,
+        "MaxItemLevel": 31
+      },
+      "Default17": {
+        "Category": "Default",
+        "LootLevel": 16,
+        "MinItemLevel": 24,
+        "MaxItemLevel": 33
+      },
+      "Default18": {
+        "Category": "Default",
+        "LootLevel": 17,
+        "MinItemLevel": 26,
+        "MaxItemLevel": 35
+      },
+      "Default19": {
+        "Category": "Default",
+        "LootLevel": 18,
+        "MinItemLevel": 28,
+        "MaxItemLevel": 37
+      },
+      "Default20": {
+        "Category": "Default",
+        "LootLevel": 19,
+        "MinItemLevel": 30,
+        "MaxItemLevel": 40
+      },
+      "Default21": {
+        "Category": "Default",
+        "LootLevel": 20,
+        "MinItemLevel": 32,
+        "MaxItemLevel": 42
+      },
+      "Default22": {
+        "Category": "Default",
+        "LootLevel": 21,
+        "MinItemLevel": 34,
+        "MaxItemLevel": 44
+      },
+      "Default23": {
+        "Category": "Default",
+        "LootLevel": 22,
+        "MinItemLevel": 36,
+        "MaxItemLevel": 46
+      },
+      "Default24": {
+        "Category": "Default",
+        "LootLevel": 23,
+        "MinItemLevel": 38,
+        "MaxItemLevel": 48
+      },
+      "Default25": {
+        "Category": "Default",
+        "LootLevel": 24,
+        "MinItemLevel": 40,
+        "MaxItemLevel": 50
+      },
+      "Default26": {
+        "Category": "Default",
+        "LootLevel": 25,
+        "MinItemLevel": 42,
+        "MaxItemLevel": 50
+      },
+      "Default27": {
+        "Category": "Default",
+        "LootLevel": 26,
+        "MinItemLevel": 44,
+        "MaxItemLevel": 50
+      },
+      "Default28": {
+        "Category": "Default",
+        "LootLevel": 27,
+        "MinItemLevel": 46,
+        "MaxItemLevel": 50
+      },
+      "Default29": {
+        "Category": "Default",
+        "LootLevel": 28,
+        "MinItemLevel": 48,
+        "MaxItemLevel": 50
+      },
+      "Default30": {
+        "Category": "Default",
+        "LootLevel": 29,
+        "MinItemLevel": 50,
+        "MaxItemLevel": 50
+      },
+      "Default31": {
+        "Category": "Default",
+        "LootLevel": 30,
+        "MinItemLevel": 50,
+        "MaxItemLevel": 50
+      },
+      "Default32": {
+        "Category": "Default",
+        "LootLevel": 31,
+        "MinItemLevel": 50,
+        "MaxItemLevel": 50
+      },
+      "Default33": {
+        "Category": "Default",
+        "LootLevel": 32,
+        "MinItemLevel": 50,
+        "MaxItemLevel": 50
+      },
+      "Default34": {
+        "Category": "Default",
+        "LootLevel": 33,
+        "MinItemLevel": 50,
+        "MaxItemLevel": 50
+      },
+      "Default35": {
+        "Category": "Default",
+        "LootLevel": 34,
+        "MinItemLevel": 50,
+        "MaxItemLevel": 50
+      },
+      "Default36": {
+        "Category": "Default",
+        "LootLevel": 35,
+        "MinItemLevel": 50,
+        "MaxItemLevel": 50
+      },
+      "Default37": {
+        "Category": "Default",
+        "LootLevel": 36,
+        "MinItemLevel": 50,
+        "MaxItemLevel": 50
+      },
+      "Default38": {
+        "Category": "Default",
+        "LootLevel": 37,
+        "MinItemLevel": 50,
+        "MaxItemLevel": 50
+      },
+      "Default39": {
+        "Category": "Default",
+        "LootLevel": 38,
+        "MinItemLevel": 50,
+        "MaxItemLevel": 50
+      },
+      "Default40": {
+        "Category": "Default",
+        "LootLevel": 39,
+        "MinItemLevel": 50,
+        "MaxItemLevel": 50
+      },
+      "Default41": {
+        "Category": "Default",
+        "LootLevel": 40,
+        "MinItemLevel": 50,
+        "MaxItemLevel": 50
+      },
+      "Default42": {
+        "Category": "Default",
+        "LootLevel": 41,
+        "MinItemLevel": 50,
+        "MaxItemLevel": 50
+      },
+      "Default43": {
+        "Category": "Default",
+        "LootLevel": 42,
+        "MinItemLevel": 50,
+        "MaxItemLevel": 50
+      },
+      "Default44": {
+        "Category": "Default",
+        "LootLevel": 43,
+        "MinItemLevel": 50,
+        "MaxItemLevel": 50
+      },
+      "Default45": {
+        "Category": "Default",
+        "LootLevel": 44,
+        "MinItemLevel": 50,
+        "MaxItemLevel": 50
+      },
+      "Default46": {
+        "Category": "Default",
+        "LootLevel": 45,
+        "MinItemLevel": 50,
+        "MaxItemLevel": 50
+      },
+      "Default47": {
+        "Category": "Default",
+        "LootLevel": 46,
+        "MinItemLevel": 50,
+        "MaxItemLevel": 50
+      },
+      "Default48": {
+        "Category": "Default",
+        "LootLevel": 47,
+        "MinItemLevel": 50,
+        "MaxItemLevel": 50
+      },
+      "Default49": {
+        "Category": "Default",
+        "LootLevel": 48,
+        "MinItemLevel": 50,
+        "MaxItemLevel": 50
+      },
+      "Default50": {
+        "Category": "Default",
+        "LootLevel": 49,
+        "MinItemLevel": 50,
+        "MaxItemLevel": 50
+      },
+      "Default51": {
+        "Category": "Default",
+        "LootLevel": 50,
+        "MinItemLevel": 50,
+        "MaxItemLevel": 50
+      },
+      "Crafting1": {
+        "Category": "Crafting",
+        "LootLevel": 0,
+        "MinItemLevel": 0,
+        "MaxItemLevel": 0
+      },
+      "Crafting2": {
+        "Category": "Crafting",
+        "LootLevel": 1,
+        "MinItemLevel": 0,
+        "MaxItemLevel": 0
+      },
+      "Crafting3": {
+        "Category": "Crafting",
+        "LootLevel": 2,
+        "MinItemLevel": 0,
+        "MaxItemLevel": 0
+      },
+      "Crafting4": {
+        "Category": "Crafting",
+        "LootLevel": 3,
+        "MinItemLevel": 0,
+        "MaxItemLevel": 0
+      },
+      "Crafting5": {
+        "Category": "Crafting",
+        "LootLevel": 4,
+        "MinItemLevel": 0,
+        "MaxItemLevel": 0
+      },
+      "Crafting6": {
+        "Category": "Crafting",
+        "LootLevel": 5,
+        "MinItemLevel": 0,
+        "MaxItemLevel": 0
+      },
+      "Crafting7": {
+        "Category": "Crafting",
+        "LootLevel": 6,
+        "MinItemLevel": 0,
+        "MaxItemLevel": 0
+      },
+      "Crafting8": {
+        "Category": "Crafting",
+        "LootLevel": 7,
+        "MinItemLevel": 0,
+        "MaxItemLevel": 0
+      },
+      "Crafting9": {
+        "Category": "Crafting",
+        "LootLevel": 8,
+        "MinItemLevel": 0,
+        "MaxItemLevel": 0
+      },
+      "Crafting10": {
+        "Category": "Crafting",
+        "LootLevel": 9,
+        "MinItemLevel": 0,
+        "MaxItemLevel": 0
+      },
+      "Crafting11": {
+        "Category": "Crafting",
+        "LootLevel": 10,
+        "MinItemLevel": 0,
+        "MaxItemLevel": 0
+      },
+      "Crafting12": {
+        "Category": "Crafting",
+        "LootLevel": 11,
+        "MinItemLevel": 0,
+        "MaxItemLevel": 0
+      },
+      "Crafting13": {
+        "Category": "Crafting",
+        "LootLevel": 12,
+        "MinItemLevel": 0,
+        "MaxItemLevel": 0
+      },
+      "Crafting14": {
+        "Category": "Crafting",
+        "LootLevel": 13,
+        "MinItemLevel": 0,
+        "MaxItemLevel": 0
+      },
+      "Crafting15": {
+        "Category": "Crafting",
+        "LootLevel": 14,
+        "MinItemLevel": 0,
+        "MaxItemLevel": 0
+      },
+      "Crafting16": {
+        "Category": "Crafting",
+        "LootLevel": 15,
+        "MinItemLevel": 0,
+        "MaxItemLevel": 0
+      },
+      "Crafting17": {
+        "Category": "Crafting",
+        "LootLevel": 16,
+        "MinItemLevel": 0,
+        "MaxItemLevel": 0
+      },
+      "Crafting18": {
+        "Category": "Crafting",
+        "LootLevel": 17,
+        "MinItemLevel": 0,
+        "MaxItemLevel": 0
+      },
+      "Crafting19": {
+        "Category": "Crafting",
+        "LootLevel": 18,
+        "MinItemLevel": 0,
+        "MaxItemLevel": 0
+      },
+      "Crafting20": {
+        "Category": "Crafting",
+        "LootLevel": 19,
+        "MinItemLevel": 0,
+        "MaxItemLevel": 0
+      },
+      "Crafting21": {
+        "Category": "Crafting",
+        "LootLevel": 20,
+        "MinItemLevel": 0,
+        "MaxItemLevel": 0
+      },
+      "Crafting22": {
+        "Category": "Crafting",
+        "LootLevel": 21,
+        "MinItemLevel": 0,
+        "MaxItemLevel": 0
+      },
+      "Crafting23": {
+        "Category": "Crafting",
+        "LootLevel": 22,
+        "MinItemLevel": 0,
+        "MaxItemLevel": 0
+      },
+      "Crafting24": {
+        "Category": "Crafting",
+        "LootLevel": 23,
+        "MinItemLevel": 0,
+        "MaxItemLevel": 0
+      },
+      "Crafting25": {
+        "Category": "Crafting",
+        "LootLevel": 24,
+        "MinItemLevel": 0,
+        "MaxItemLevel": 0
+      },
+      "Crafting26": {
+        "Category": "Crafting",
+        "LootLevel": 25,
+        "MinItemLevel": 0,
+        "MaxItemLevel": 0
+      },
+      "Crafting27": {
+        "Category": "Crafting",
+        "LootLevel": 26,
+        "MinItemLevel": 0,
+        "MaxItemLevel": 0
+      },
+      "Crafting28": {
+        "Category": "Crafting",
+        "LootLevel": 27,
+        "MinItemLevel": 0,
+        "MaxItemLevel": 0
+      },
+      "Crafting29": {
+        "Category": "Crafting",
+        "LootLevel": 28,
+        "MinItemLevel": 0,
+        "MaxItemLevel": 0
+      },
+      "Crafting30": {
+        "Category": "Crafting",
+        "LootLevel": 29,
+        "MinItemLevel": 0,
+        "MaxItemLevel": 0
+      },
+      "Crafting31": {
+        "Category": "Crafting",
+        "LootLevel": 30,
+        "MinItemLevel": 0,
+        "MaxItemLevel": 0
+      },
+      "Crafting32": {
+        "Category": "Crafting",
+        "LootLevel": 31,
+        "MinItemLevel": 0,
+        "MaxItemLevel": 0
+      },
+      "Crafting33": {
+        "Category": "Crafting",
+        "LootLevel": 32,
+        "MinItemLevel": 0,
+        "MaxItemLevel": 0
+      },
+      "Crafting34": {
+        "Category": "Crafting",
+        "LootLevel": 33,
+        "MinItemLevel": 0,
+        "MaxItemLevel": 0
+      },
+      "Crafting35": {
+        "Category": "Crafting",
+        "LootLevel": 34,
+        "MinItemLevel": 0,
+        "MaxItemLevel": 0
+      },
+      "Crafting36": {
+        "Category": "Crafting",
+        "LootLevel": 35,
+        "MinItemLevel": 0,
+        "MaxItemLevel": 0
+      },
+      "Crafting37": {
+        "Category": "Crafting",
+        "LootLevel": 36,
+        "MinItemLevel": 0,
+        "MaxItemLevel": 0
+      },
+      "Crafting38": {
+        "Category": "Crafting",
+        "LootLevel": 37,
+        "MinItemLevel": 0,
+        "MaxItemLevel": 0
+      },
+      "Crafting39": {
+        "Category": "Crafting",
+        "LootLevel": 38,
+        "MinItemLevel": 0,
+        "MaxItemLevel": 0
+      },
+      "Crafting40": {
+        "Category": "Crafting",
+        "LootLevel": 39,
+        "MinItemLevel": 0,
+        "MaxItemLevel": 0
+      },
+      "Crafting41": {
+        "Category": "Crafting",
+        "LootLevel": 40,
+        "MinItemLevel": 0,
+        "MaxItemLevel": 0
+      },
+      "Crafting42": {
+        "Category": "Crafting",
+        "LootLevel": 41,
+        "MinItemLevel": 0,
+        "MaxItemLevel": 0
+      },
+      "Crafting43": {
+        "Category": "Crafting",
+        "LootLevel": 42,
+        "MinItemLevel": 0,
+        "MaxItemLevel": 0
+      },
+      "Crafting44": {
+        "Category": "Crafting",
+        "LootLevel": 43,
+        "MinItemLevel": 0,
+        "MaxItemLevel": 0
+      },
+      "Crafting45": {
+        "Category": "Crafting",
+        "LootLevel": 44,
+        "MinItemLevel": 0,
+        "MaxItemLevel": 0
+      },
+      "Crafting46": {
+        "Category": "Crafting",
+        "LootLevel": 45,
+        "MinItemLevel": 0,
+        "MaxItemLevel": 0
+      },
+      "Crafting47": {
+        "Category": "Crafting",
+        "LootLevel": 46,
+        "MinItemLevel": 0,
+        "MaxItemLevel": 0
+      },
+      "Crafting48": {
+        "Category": "Crafting",
+        "LootLevel": 47,
+        "MinItemLevel": 0,
+        "MaxItemLevel": 0
+      },
+      "Crafting49": {
+        "Category": "Crafting",
+        "LootLevel": 48,
+        "MinItemLevel": 0,
+        "MaxItemLevel": 0
+      },
+      "Crafting50": {
+        "Category": "Crafting",
+        "LootLevel": 49,
+        "MinItemLevel": 0,
+        "MaxItemLevel": 0
+      },
+      "Crafting51": {
+        "Category": "Crafting",
+        "LootLevel": 50,
+        "MinItemLevel": 0,
+        "MaxItemLevel": 0
+      },
+      "Harvest1": {
+        "Category": "Harvest",
+        "LootLevel": 0,
+        "MinItemLevel": 0,
+        "MaxItemLevel": 0
+      },
+      "Harvest2": {
+        "Category": "Harvest",
+        "LootLevel": 5,
+        "MinItemLevel": 0,
+        "MaxItemLevel": 0
+      },
+      "Harvest3": {
+        "Category": "Harvest",
+        "LootLevel": 10,
+        "MinItemLevel": 0,
+        "MaxItemLevel": 0
+      },
+      "Harvest4": {
+        "Category": "Harvest",
+        "LootLevel": 15,
+        "MinItemLevel": 0,
+        "MaxItemLevel": 0
+      },
+      "Harvest5": {
+        "Category": "Harvest",
+        "LootLevel": 20,
+        "MinItemLevel": 0,
+        "MaxItemLevel": 0
+      },
+      "Harvest6": {
+        "Category": "Harvest",
+        "LootLevel": 25,
+        "MinItemLevel": 0,
+        "MaxItemLevel": 0
+      },
+      "Harvest7": {
+        "Category": "Harvest",
+        "LootLevel": 30,
+        "MinItemLevel": 0,
+        "MaxItemLevel": 0
+      },
+      "Harvest8": {
+        "Category": "Harvest",
+        "LootLevel": 35,
+        "MinItemLevel": 0,
+        "MaxItemLevel": 0
+      },
+      "Harvest9": {
+        "Category": "Harvest",
+        "LootLevel": 40,
+        "MinItemLevel": 0,
+        "MaxItemLevel": 0
+      },
+      "Harvest10": {
+        "Category": "Harvest",
+        "LootLevel": 45,
+        "MinItemLevel": 0,
+        "MaxItemLevel": 0
+      },
+      "Harvest11": {
+        "Category": "Harvest",
+        "LootLevel": 50,
+        "MinItemLevel": 0,
+        "MaxItemLevel": 0
+      },
+      "Custom_EnergyBall1": {
+        "Category": "Custom_EnergyBall",
+        "LootLevel": 1,
+        "MinItemLevel": 0,
+        "MaxItemLevel": 0
+      },
+      "Custom_EnergyBall2": {
+        "Category": "Custom_EnergyBall",
+        "LootLevel": 4,
+        "MinItemLevel": 0,
+        "MaxItemLevel": 0
+      },
+      "Custom_EnergyBall3": {
+        "Category": "Custom_EnergyBall",
+        "LootLevel": 7,
+        "MinItemLevel": 0,
+        "MaxItemLevel": 0
+      },
+      "Custom_EnergyBall4": {
+        "Category": "Custom_EnergyBall",
+        "LootLevel": 10,
+        "MinItemLevel": 0,
+        "MaxItemLevel": 0
+      },
+      "Custom_EnergyBall5": {
+        "Category": "Custom_EnergyBall",
+        "LootLevel": 13,
+        "MinItemLevel": 0,
+        "MaxItemLevel": 0
+      },
+      "Custom_EnergyBall6": {
+        "Category": "Custom_EnergyBall",
+        "LootLevel": 16,
+        "MinItemLevel": 0,
+        "MaxItemLevel": 0
+      },
+      "Custom_EnergyBall7": {
+        "Category": "Custom_EnergyBall",
+        "LootLevel": 19,
+        "MinItemLevel": 0,
+        "MaxItemLevel": 0
+      },
+      "Custom_EnergyBall8": {
+        "Category": "Custom_EnergyBall",
+        "LootLevel": 22,
+        "MinItemLevel": 0,
+        "MaxItemLevel": 0
+      },
+      "Custom_EnergyBall9": {
+        "Category": "Custom_EnergyBall",
+        "LootLevel": 25,
+        "MinItemLevel": 0,
+        "MaxItemLevel": 0
+      },
+      "Custom_EnergyBall10": {
+        "Category": "Custom_EnergyBall",
+        "LootLevel": 28,
+        "MinItemLevel": 0,
+        "MaxItemLevel": 0
+      },
+      "Custom_EnergyBall11": {
+        "Category": "Custom_EnergyBall",
+        "LootLevel": 31,
+        "MinItemLevel": 0,
+        "MaxItemLevel": 0
+      },
+      "Custom_EnergyBall12": {
+        "Category": "Custom_EnergyBall",
+        "LootLevel": 34,
+        "MinItemLevel": 0,
+        "MaxItemLevel": 0
+      },
+      "Custom_EnergyBall13": {
+        "Category": "Custom_EnergyBall",
+        "LootLevel": 37,
+        "MinItemLevel": 0,
+        "MaxItemLevel": 0
+      },
+      "Custom_EnergyBall14": {
+        "Category": "Custom_EnergyBall",
+        "LootLevel": 40,
+        "MinItemLevel": 0,
+        "MaxItemLevel": 0
+      },
+      "Custom_EnergyBall15": {
+        "Category": "Custom_EnergyBall",
+        "LootLevel": 43,
+        "MinItemLevel": 0,
+        "MaxItemLevel": 0
+      },
+      "Custom_EnergyBall16": {
+        "Category": "Custom_EnergyBall",
+        "LootLevel": 44,
+        "MinItemLevel": 0,
+        "MaxItemLevel": 0
+      },
+      "Custom_EnergyBall17": {
+        "Category": "Custom_EnergyBall",
+        "LootLevel": 47,
+        "MinItemLevel": 0,
+        "MaxItemLevel": 0
+      },
+      "Custom_EnergyBall18": {
+        "Category": "Custom_EnergyBall",
+        "LootLevel": 50,
+        "MinItemLevel": 0,
+        "MaxItemLevel": 0
+      },
+      "Worker1": {
+        "Category": "Worker",
+        "LootLevel": 0,
+        "MinItemLevel": 0,
+        "MaxItemLevel": 0
+      },
+      "Gadget1": {
+        "Category": "Gadget",
+        "LootLevel": 0,
+        "MinItemLevel": 0,
+        "MaxItemLevel": 0
+      },
+      "Gadget2": {
+        "Category": "Gadget",
+        "LootLevel": 1,
+        "MinItemLevel": 0,
+        "MaxItemLevel": 0
+      },
+      "Gadget3": {
+        "Category": "Gadget",
+        "LootLevel": 2,
+        "MinItemLevel": 0,
+        "MaxItemLevel": 0
+      },
+      "Gadget4": {
+        "Category": "Gadget",
+        "LootLevel": 3,
+        "MinItemLevel": 0,
+        "MaxItemLevel": 0
+      },
+      "Gadget5": {
+        "Category": "Gadget",
+        "LootLevel": 4,
+        "MinItemLevel": 0,
+        "MaxItemLevel": 0
+      },
+      "Gadget6": {
+        "Category": "Gadget",
+        "LootLevel": 5,
+        "MinItemLevel": 0,
+        "MaxItemLevel": 0
+      },
+      "Gadget7": {
+        "Category": "Gadget",
+        "LootLevel": 6,
+        "MinItemLevel": 0,
+        "MaxItemLevel": 0
+      },
+      "Gadget8": {
+        "Category": "Gadget",
+        "LootLevel": 7,
+        "MinItemLevel": 0,
+        "MaxItemLevel": 0
+      },
+      "Gadget9": {
+        "Category": "Gadget",
+        "LootLevel": 8,
+        "MinItemLevel": 0,
+        "MaxItemLevel": 0
+      },
+      "Gadget10": {
+        "Category": "Gadget",
+        "LootLevel": 9,
+        "MinItemLevel": 0,
+        "MaxItemLevel": 0
+      },
+      "Gadget11": {
+        "Category": "Gadget",
+        "LootLevel": 10,
+        "MinItemLevel": 0,
+        "MaxItemLevel": 0
+      },
+      "Gadget12": {
+        "Category": "Gadget",
+        "LootLevel": 11,
+        "MinItemLevel": 0,
+        "MaxItemLevel": 0
+      },
+      "Gadget13": {
+        "Category": "Gadget",
+        "LootLevel": 12,
+        "MinItemLevel": 0,
+        "MaxItemLevel": 0
+      },
+      "Gadget14": {
+        "Category": "Gadget",
+        "LootLevel": 13,
+        "MinItemLevel": 0,
+        "MaxItemLevel": 0
+      },
+      "Gadget15": {
+        "Category": "Gadget",
+        "LootLevel": 14,
+        "MinItemLevel": 0,
+        "MaxItemLevel": 0
+      },
+      "Gadget16": {
+        "Category": "Gadget",
+        "LootLevel": 15,
+        "MinItemLevel": 0,
+        "MaxItemLevel": 0
+      },
+      "Gadget17": {
+        "Category": "Gadget",
+        "LootLevel": 16,
+        "MinItemLevel": 0,
+        "MaxItemLevel": 0
+      },
+      "Gadget18": {
+        "Category": "Gadget",
+        "LootLevel": 17,
+        "MinItemLevel": 0,
+        "MaxItemLevel": 0
+      },
+      "Gadget19": {
+        "Category": "Gadget",
+        "LootLevel": 18,
+        "MinItemLevel": 0,
+        "MaxItemLevel": 0
+      },
+      "Gadget20": {
+        "Category": "Gadget",
+        "LootLevel": 19,
+        "MinItemLevel": 0,
+        "MaxItemLevel": 0
+      },
+      "Gadget21": {
+        "Category": "Gadget",
+        "LootLevel": 20,
+        "MinItemLevel": 0,
+        "MaxItemLevel": 0
+      },
+      "Gadget22": {
+        "Category": "Gadget",
+        "LootLevel": 21,
+        "MinItemLevel": 0,
+        "MaxItemLevel": 0
+      },
+      "Gadget23": {
+        "Category": "Gadget",
+        "LootLevel": 22,
+        "MinItemLevel": 0,
+        "MaxItemLevel": 0
+      },
+      "Gadget24": {
+        "Category": "Gadget",
+        "LootLevel": 23,
+        "MinItemLevel": 0,
+        "MaxItemLevel": 0
+      },
+      "Gadget25": {
+        "Category": "Gadget",
+        "LootLevel": 24,
+        "MinItemLevel": 0,
+        "MaxItemLevel": 0
+      },
+      "Gadget26": {
+        "Category": "Gadget",
+        "LootLevel": 25,
+        "MinItemLevel": 0,
+        "MaxItemLevel": 0
+      },
+      "Gadget27": {
+        "Category": "Gadget",
+        "LootLevel": 26,
+        "MinItemLevel": 0,
+        "MaxItemLevel": 0
+      },
+      "Gadget28": {
+        "Category": "Gadget",
+        "LootLevel": 27,
+        "MinItemLevel": 0,
+        "MaxItemLevel": 0
+      },
+      "Gadget29": {
+        "Category": "Gadget",
+        "LootLevel": 28,
+        "MinItemLevel": 0,
+        "MaxItemLevel": 0
+      },
+      "Gadget30": {
+        "Category": "Gadget",
+        "LootLevel": 29,
+        "MinItemLevel": 0,
+        "MaxItemLevel": 0
+      },
+      "Gadget31": {
+        "Category": "Gadget",
+        "LootLevel": 30,
+        "MinItemLevel": 0,
+        "MaxItemLevel": 0
+      },
+      "Gadget32": {
+        "Category": "Gadget",
+        "LootLevel": 31,
+        "MinItemLevel": 0,
+        "MaxItemLevel": 0
+      },
+      "Gadget33": {
+        "Category": "Gadget",
+        "LootLevel": 32,
+        "MinItemLevel": 0,
+        "MaxItemLevel": 0
+      },
+      "Gadget34": {
+        "Category": "Gadget",
+        "LootLevel": 33,
+        "MinItemLevel": 0,
+        "MaxItemLevel": 0
+      },
+      "Gadget35": {
+        "Category": "Gadget",
+        "LootLevel": 34,
+        "MinItemLevel": 0,
+        "MaxItemLevel": 0
+      },
+      "Gadget36": {
+        "Category": "Gadget",
+        "LootLevel": 35,
+        "MinItemLevel": 0,
+        "MaxItemLevel": 0
+      },
+      "Gadget37": {
+        "Category": "Gadget",
+        "LootLevel": 36,
+        "MinItemLevel": 0,
+        "MaxItemLevel": 0
+      },
+      "Gadget38": {
+        "Category": "Gadget",
+        "LootLevel": 37,
+        "MinItemLevel": 0,
+        "MaxItemLevel": 0
+      },
+      "Gadget39": {
+        "Category": "Gadget",
+        "LootLevel": 38,
+        "MinItemLevel": 0,
+        "MaxItemLevel": 0
+      },
+      "Gadget40": {
+        "Category": "Gadget",
+        "LootLevel": 39,
+        "MinItemLevel": 0,
+        "MaxItemLevel": 0
+      },
+      "Gadget41": {
+        "Category": "Gadget",
+        "LootLevel": 40,
+        "MinItemLevel": 0,
+        "MaxItemLevel": 0
+      },
+      "Gadget42": {
+        "Category": "Gadget",
+        "LootLevel": 41,
+        "MinItemLevel": 0,
+        "MaxItemLevel": 0
+      },
+      "Gadget43": {
+        "Category": "Gadget",
+        "LootLevel": 42,
+        "MinItemLevel": 0,
+        "MaxItemLevel": 0
+      },
+      "Gadget44": {
+        "Category": "Gadget",
+        "LootLevel": 43,
+        "MinItemLevel": 0,
+        "MaxItemLevel": 0
+      },
+      "Gadget45": {
+        "Category": "Gadget",
+        "LootLevel": 44,
+        "MinItemLevel": 0,
+        "MaxItemLevel": 0
+      },
+      "Gadget46": {
+        "Category": "Gadget",
+        "LootLevel": 45,
+        "MinItemLevel": 0,
+        "MaxItemLevel": 0
+      },
+      "Gadget47": {
+        "Category": "Gadget",
+        "LootLevel": 46,
+        "MinItemLevel": 0,
+        "MaxItemLevel": 0
+      },
+      "Gadget48": {
+        "Category": "Gadget",
+        "LootLevel": 47,
+        "MinItemLevel": 0,
+        "MaxItemLevel": 0
+      },
+      "Gadget49": {
+        "Category": "Gadget",
+        "LootLevel": 48,
+        "MinItemLevel": 0,
+        "MaxItemLevel": 0
+      },
+      "Gadget50": {
+        "Category": "Gadget",
+        "LootLevel": 49,
+        "MinItemLevel": 0,
+        "MaxItemLevel": 0
+      },
+      "Gadget51": {
+        "Category": "Gadget",
+        "LootLevel": 50,
+        "MinItemLevel": 0,
+        "MaxItemLevel": 0
+      },
+      "NoScaling1": {
+        "Category": "NoScaling",
+        "LootLevel": 0,
+        "MinItemLevel": 0,
+        "MaxItemLevel": 0
+      },
+      "NoScaling+11": {
+        "Category": "NoScaling+1",
+        "LootLevel": 0,
+        "MinItemLevel": 1,
+        "MaxItemLevel": 1
+      },
+      "Tiered_T01_1": {
+        "Category": "Tiered_T01_",
+        "LootLevel": 0,
+        "MinItemLevel": 1,
+        "MaxItemLevel": 1
+      },
+      "Tiered_T01_2": {
+        "Category": "Tiered_T01_",
+        "LootLevel": 1,
+        "MinItemLevel": 1,
+        "MaxItemLevel": 2
+      },
+      "Tiered_T01_3": {
+        "Category": "Tiered_T01_",
+        "LootLevel": 2,
+        "MinItemLevel": 3,
+        "MaxItemLevel": 5
+      },
+      "Tiered_T01_4": {
+        "Category": "Tiered_T01_",
+        "LootLevel": 3,
+        "MinItemLevel": 5,
+        "MaxItemLevel": 7
+      },
+      "Tiered_T01_5": {
+        "Category": "Tiered_T01_",
+        "LootLevel": 4,
+        "MinItemLevel": 6,
+        "MaxItemLevel": 8
+      },
+      "Tiered_T01_6": {
+        "Category": "Tiered_T01_",
+        "LootLevel": 5,
+        "MinItemLevel": 8,
+        "MaxItemLevel": 10
+      },
+      "Tiered_T01_7": {
+        "Category": "Tiered_T01_",
+        "LootLevel": 6,
+        "MinItemLevel": 8,
+        "MaxItemLevel": 10
+      },
+      "Tiered_T01_8": {
+        "Category": "Tiered_T01_",
+        "LootLevel": 7,
+        "MinItemLevel": 8,
+        "MaxItemLevel": 10
+      },
+      "Tiered_T01_9": {
+        "Category": "Tiered_T01_",
+        "LootLevel": 8,
+        "MinItemLevel": 8,
+        "MaxItemLevel": 10
+      },
+      "Tiered_T01_10": {
+        "Category": "Tiered_T01_",
+        "LootLevel": 9,
+        "MinItemLevel": 8,
+        "MaxItemLevel": 10
+      },
+      "Tiered_T01_11": {
+        "Category": "Tiered_T01_",
+        "LootLevel": 10,
+        "MinItemLevel": 8,
+        "MaxItemLevel": 10
+      },
+      "Tiered_T01_12": {
+        "Category": "Tiered_T01_",
+        "LootLevel": 11,
+        "MinItemLevel": 8,
+        "MaxItemLevel": 10
+      },
+      "Tiered_T01_13": {
+        "Category": "Tiered_T01_",
+        "LootLevel": 12,
+        "MinItemLevel": 8,
+        "MaxItemLevel": 10
+      },
+      "Tiered_T01_14": {
+        "Category": "Tiered_T01_",
+        "LootLevel": 13,
+        "MinItemLevel": 8,
+        "MaxItemLevel": 10
+      },
+      "Tiered_T01_15": {
+        "Category": "Tiered_T01_",
+        "LootLevel": 14,
+        "MinItemLevel": 8,
+        "MaxItemLevel": 10
+      },
+      "Tiered_T01_16": {
+        "Category": "Tiered_T01_",
+        "LootLevel": 15,
+        "MinItemLevel": 8,
+        "MaxItemLevel": 10
+      },
+      "Tiered_T01_17": {
+        "Category": "Tiered_T01_",
+        "LootLevel": 16,
+        "MinItemLevel": 8,
+        "MaxItemLevel": 10
+      },
+      "Tiered_T01_18": {
+        "Category": "Tiered_T01_",
+        "LootLevel": 17,
+        "MinItemLevel": 8,
+        "MaxItemLevel": 10
+      },
+      "Tiered_T01_19": {
+        "Category": "Tiered_T01_",
+        "LootLevel": 18,
+        "MinItemLevel": 8,
+        "MaxItemLevel": 10
+      },
+      "Tiered_T01_20": {
+        "Category": "Tiered_T01_",
+        "LootLevel": 19,
+        "MinItemLevel": 8,
+        "MaxItemLevel": 10
+      },
+      "Tiered_T01_21": {
+        "Category": "Tiered_T01_",
+        "LootLevel": 20,
+        "MinItemLevel": 8,
+        "MaxItemLevel": 10
+      },
+      "Tiered_T01_22": {
+        "Category": "Tiered_T01_",
+        "LootLevel": 21,
+        "MinItemLevel": 8,
+        "MaxItemLevel": 10
+      },
+      "Tiered_T01_23": {
+        "Category": "Tiered_T01_",
+        "LootLevel": 22,
+        "MinItemLevel": 8,
+        "MaxItemLevel": 10
+      },
+      "Tiered_T01_24": {
+        "Category": "Tiered_T01_",
+        "LootLevel": 23,
+        "MinItemLevel": 8,
+        "MaxItemLevel": 10
+      },
+      "Tiered_T01_25": {
+        "Category": "Tiered_T01_",
+        "LootLevel": 24,
+        "MinItemLevel": 8,
+        "MaxItemLevel": 10
+      },
+      "Tiered_T01_26": {
+        "Category": "Tiered_T01_",
+        "LootLevel": 25,
+        "MinItemLevel": 8,
+        "MaxItemLevel": 10
+      },
+      "Tiered_T01_27": {
+        "Category": "Tiered_T01_",
+        "LootLevel": 26,
+        "MinItemLevel": 8,
+        "MaxItemLevel": 10
+      },
+      "Tiered_T01_28": {
+        "Category": "Tiered_T01_",
+        "LootLevel": 27,
+        "MinItemLevel": 8,
+        "MaxItemLevel": 10
+      },
+      "Tiered_T01_29": {
+        "Category": "Tiered_T01_",
+        "LootLevel": 28,
+        "MinItemLevel": 8,
+        "MaxItemLevel": 10
+      },
+      "Tiered_T01_30": {
+        "Category": "Tiered_T01_",
+        "LootLevel": 29,
+        "MinItemLevel": 8,
+        "MaxItemLevel": 10
+      },
+      "Tiered_T01_31": {
+        "Category": "Tiered_T01_",
+        "LootLevel": 30,
+        "MinItemLevel": 8,
+        "MaxItemLevel": 10
+      },
+      "Tiered_T01_32": {
+        "Category": "Tiered_T01_",
+        "LootLevel": 31,
+        "MinItemLevel": 8,
+        "MaxItemLevel": 10
+      },
+      "Tiered_T01_33": {
+        "Category": "Tiered_T01_",
+        "LootLevel": 32,
+        "MinItemLevel": 8,
+        "MaxItemLevel": 10
+      },
+      "Tiered_T01_34": {
+        "Category": "Tiered_T01_",
+        "LootLevel": 33,
+        "MinItemLevel": 8,
+        "MaxItemLevel": 10
+      },
+      "Tiered_T01_35": {
+        "Category": "Tiered_T01_",
+        "LootLevel": 34,
+        "MinItemLevel": 8,
+        "MaxItemLevel": 10
+      },
+      "Tiered_T01_36": {
+        "Category": "Tiered_T01_",
+        "LootLevel": 35,
+        "MinItemLevel": 8,
+        "MaxItemLevel": 10
+      },
+      "Tiered_T01_37": {
+        "Category": "Tiered_T01_",
+        "LootLevel": 36,
+        "MinItemLevel": 8,
+        "MaxItemLevel": 10
+      },
+      "Tiered_T01_38": {
+        "Category": "Tiered_T01_",
+        "LootLevel": 37,
+        "MinItemLevel": 8,
+        "MaxItemLevel": 10
+      },
+      "Tiered_T01_39": {
+        "Category": "Tiered_T01_",
+        "LootLevel": 38,
+        "MinItemLevel": 8,
+        "MaxItemLevel": 10
+      },
+      "Tiered_T01_40": {
+        "Category": "Tiered_T01_",
+        "LootLevel": 39,
+        "MinItemLevel": 8,
+        "MaxItemLevel": 10
+      },
+      "Tiered_T01_41": {
+        "Category": "Tiered_T01_",
+        "LootLevel": 40,
+        "MinItemLevel": 8,
+        "MaxItemLevel": 10
+      },
+      "Tiered_T01_42": {
+        "Category": "Tiered_T01_",
+        "LootLevel": 41,
+        "MinItemLevel": 8,
+        "MaxItemLevel": 10
+      },
+      "Tiered_T01_43": {
+        "Category": "Tiered_T01_",
+        "LootLevel": 42,
+        "MinItemLevel": 8,
+        "MaxItemLevel": 10
+      },
+      "Tiered_T01_44": {
+        "Category": "Tiered_T01_",
+        "LootLevel": 43,
+        "MinItemLevel": 8,
+        "MaxItemLevel": 10
+      },
+      "Tiered_T01_45": {
+        "Category": "Tiered_T01_",
+        "LootLevel": 44,
+        "MinItemLevel": 8,
+        "MaxItemLevel": 10
+      },
+      "Tiered_T01_46": {
+        "Category": "Tiered_T01_",
+        "LootLevel": 45,
+        "MinItemLevel": 8,
+        "MaxItemLevel": 10
+      },
+      "Tiered_T01_47": {
+        "Category": "Tiered_T01_",
+        "LootLevel": 46,
+        "MinItemLevel": 8,
+        "MaxItemLevel": 10
+      },
+      "Tiered_T01_48": {
+        "Category": "Tiered_T01_",
+        "LootLevel": 47,
+        "MinItemLevel": 8,
+        "MaxItemLevel": 10
+      },
+      "Tiered_T01_49": {
+        "Category": "Tiered_T01_",
+        "LootLevel": 48,
+        "MinItemLevel": 8,
+        "MaxItemLevel": 10
+      },
+      "Tiered_T01_50": {
+        "Category": "Tiered_T01_",
+        "LootLevel": 49,
+        "MinItemLevel": 8,
+        "MaxItemLevel": 10
+      },
+      "Tiered_T01_51": {
+        "Category": "Tiered_T01_",
+        "LootLevel": 50,
+        "MinItemLevel": 8,
+        "MaxItemLevel": 10
+      },
+      "Tiered_T02_1": {
+        "Category": "Tiered_T02_",
+        "LootLevel": 0,
+        "MinItemLevel": 10,
+        "MaxItemLevel": 10
+      },
+      "Tiered_T02_2": {
+        "Category": "Tiered_T02_",
+        "LootLevel": 1,
+        "MinItemLevel": 10,
+        "MaxItemLevel": 10
+      },
+      "Tiered_T02_3": {
+        "Category": "Tiered_T02_",
+        "LootLevel": 2,
+        "MinItemLevel": 10,
+        "MaxItemLevel": 10
+      },
+      "Tiered_T02_4": {
+        "Category": "Tiered_T02_",
+        "LootLevel": 3,
+        "MinItemLevel": 10,
+        "MaxItemLevel": 10
+      },
+      "Tiered_T02_5": {
+        "Category": "Tiered_T02_",
+        "LootLevel": 4,
+        "MinItemLevel": 10,
+        "MaxItemLevel": 10
+      },
+      "Tiered_T02_6": {
+        "Category": "Tiered_T02_",
+        "LootLevel": 5,
+        "MinItemLevel": 10,
+        "MaxItemLevel": 11
+      },
+      "Tiered_T02_7": {
+        "Category": "Tiered_T02_",
+        "LootLevel": 6,
+        "MinItemLevel": 10,
+        "MaxItemLevel": 12
+      },
+      "Tiered_T02_8": {
+        "Category": "Tiered_T02_",
+        "LootLevel": 7,
+        "MinItemLevel": 10,
+        "MaxItemLevel": 13
+      },
+      "Tiered_T02_9": {
+        "Category": "Tiered_T02_",
+        "LootLevel": 8,
+        "MinItemLevel": 12,
+        "MaxItemLevel": 15
+      },
+      "Tiered_T02_10": {
+        "Category": "Tiered_T02_",
+        "LootLevel": 9,
+        "MinItemLevel": 13,
+        "MaxItemLevel": 18
+      },
+      "Tiered_T02_11": {
+        "Category": "Tiered_T02_",
+        "LootLevel": 10,
+        "MinItemLevel": 15,
+        "MaxItemLevel": 20
+      },
+      "Tiered_T02_12": {
+        "Category": "Tiered_T02_",
+        "LootLevel": 11,
+        "MinItemLevel": 15,
+        "MaxItemLevel": 20
+      },
+      "Tiered_T02_13": {
+        "Category": "Tiered_T02_",
+        "LootLevel": 12,
+        "MinItemLevel": 17,
+        "MaxItemLevel": 20
+      },
+      "Tiered_T02_14": {
+        "Category": "Tiered_T02_",
+        "LootLevel": 13,
+        "MinItemLevel": 18,
+        "MaxItemLevel": 20
+      },
+      "Tiered_T02_15": {
+        "Category": "Tiered_T02_",
+        "LootLevel": 14,
+        "MinItemLevel": 18,
+        "MaxItemLevel": 20
+      },
+      "Tiered_T02_16": {
+        "Category": "Tiered_T02_",
+        "LootLevel": 15,
+        "MinItemLevel": 18,
+        "MaxItemLevel": 20
+      },
+      "Tiered_T02_17": {
+        "Category": "Tiered_T02_",
+        "LootLevel": 16,
+        "MinItemLevel": 18,
+        "MaxItemLevel": 20
+      },
+      "Tiered_T02_18": {
+        "Category": "Tiered_T02_",
+        "LootLevel": 17,
+        "MinItemLevel": 18,
+        "MaxItemLevel": 20
+      },
+      "Tiered_T02_19": {
+        "Category": "Tiered_T02_",
+        "LootLevel": 18,
+        "MinItemLevel": 18,
+        "MaxItemLevel": 20
+      },
+      "Tiered_T02_20": {
+        "Category": "Tiered_T02_",
+        "LootLevel": 19,
+        "MinItemLevel": 18,
+        "MaxItemLevel": 20
+      },
+      "Tiered_T02_21": {
+        "Category": "Tiered_T02_",
+        "LootLevel": 20,
+        "MinItemLevel": 18,
+        "MaxItemLevel": 20
+      },
+      "Tiered_T02_22": {
+        "Category": "Tiered_T02_",
+        "LootLevel": 21,
+        "MinItemLevel": 18,
+        "MaxItemLevel": 20
+      },
+      "Tiered_T02_23": {
+        "Category": "Tiered_T02_",
+        "LootLevel": 22,
+        "MinItemLevel": 18,
+        "MaxItemLevel": 20
+      },
+      "Tiered_T02_24": {
+        "Category": "Tiered_T02_",
+        "LootLevel": 23,
+        "MinItemLevel": 18,
+        "MaxItemLevel": 20
+      },
+      "Tiered_T02_25": {
+        "Category": "Tiered_T02_",
+        "LootLevel": 24,
+        "MinItemLevel": 18,
+        "MaxItemLevel": 20
+      },
+      "Tiered_T02_26": {
+        "Category": "Tiered_T02_",
+        "LootLevel": 25,
+        "MinItemLevel": 18,
+        "MaxItemLevel": 20
+      },
+      "Tiered_T02_27": {
+        "Category": "Tiered_T02_",
+        "LootLevel": 26,
+        "MinItemLevel": 18,
+        "MaxItemLevel": 20
+      },
+      "Tiered_T02_28": {
+        "Category": "Tiered_T02_",
+        "LootLevel": 27,
+        "MinItemLevel": 18,
+        "MaxItemLevel": 20
+      },
+      "Tiered_T02_29": {
+        "Category": "Tiered_T02_",
+        "LootLevel": 28,
+        "MinItemLevel": 18,
+        "MaxItemLevel": 20
+      },
+      "Tiered_T02_30": {
+        "Category": "Tiered_T02_",
+        "LootLevel": 29,
+        "MinItemLevel": 18,
+        "MaxItemLevel": 20
+      },
+      "Tiered_T02_31": {
+        "Category": "Tiered_T02_",
+        "LootLevel": 30,
+        "MinItemLevel": 18,
+        "MaxItemLevel": 20
+      },
+      "Tiered_T02_32": {
+        "Category": "Tiered_T02_",
+        "LootLevel": 31,
+        "MinItemLevel": 18,
+        "MaxItemLevel": 20
+      },
+      "Tiered_T02_33": {
+        "Category": "Tiered_T02_",
+        "LootLevel": 32,
+        "MinItemLevel": 18,
+        "MaxItemLevel": 20
+      },
+      "Tiered_T02_34": {
+        "Category": "Tiered_T02_",
+        "LootLevel": 33,
+        "MinItemLevel": 18,
+        "MaxItemLevel": 20
+      },
+      "Tiered_T02_35": {
+        "Category": "Tiered_T02_",
+        "LootLevel": 34,
+        "MinItemLevel": 18,
+        "MaxItemLevel": 20
+      },
+      "Tiered_T02_36": {
+        "Category": "Tiered_T02_",
+        "LootLevel": 35,
+        "MinItemLevel": 18,
+        "MaxItemLevel": 20
+      },
+      "Tiered_T02_37": {
+        "Category": "Tiered_T02_",
+        "LootLevel": 36,
+        "MinItemLevel": 18,
+        "MaxItemLevel": 20
+      },
+      "Tiered_T02_38": {
+        "Category": "Tiered_T02_",
+        "LootLevel": 37,
+        "MinItemLevel": 18,
+        "MaxItemLevel": 20
+      },
+      "Tiered_T02_39": {
+        "Category": "Tiered_T02_",
+        "LootLevel": 38,
+        "MinItemLevel": 18,
+        "MaxItemLevel": 20
+      },
+      "Tiered_T02_40": {
+        "Category": "Tiered_T02_",
+        "LootLevel": 39,
+        "MinItemLevel": 18,
+        "MaxItemLevel": 20
+      },
+      "Tiered_T02_41": {
+        "Category": "Tiered_T02_",
+        "LootLevel": 40,
+        "MinItemLevel": 18,
+        "MaxItemLevel": 20
+      },
+      "Tiered_T02_42": {
+        "Category": "Tiered_T02_",
+        "LootLevel": 41,
+        "MinItemLevel": 18,
+        "MaxItemLevel": 20
+      },
+      "Tiered_T02_43": {
+        "Category": "Tiered_T02_",
+        "LootLevel": 42,
+        "MinItemLevel": 18,
+        "MaxItemLevel": 20
+      },
+      "Tiered_T02_44": {
+        "Category": "Tiered_T02_",
+        "LootLevel": 43,
+        "MinItemLevel": 18,
+        "MaxItemLevel": 20
+      },
+      "Tiered_T02_45": {
+        "Category": "Tiered_T02_",
+        "LootLevel": 44,
+        "MinItemLevel": 18,
+        "MaxItemLevel": 20
+      },
+      "Tiered_T02_46": {
+        "Category": "Tiered_T02_",
+        "LootLevel": 45,
+        "MinItemLevel": 18,
+        "MaxItemLevel": 20
+      },
+      "Tiered_T02_47": {
+        "Category": "Tiered_T02_",
+        "LootLevel": 46,
+        "MinItemLevel": 18,
+        "MaxItemLevel": 20
+      },
+      "Tiered_T02_48": {
+        "Category": "Tiered_T02_",
+        "LootLevel": 47,
+        "MinItemLevel": 18,
+        "MaxItemLevel": 20
+      },
+      "Tiered_T02_49": {
+        "Category": "Tiered_T02_",
+        "LootLevel": 48,
+        "MinItemLevel": 18,
+        "MaxItemLevel": 20
+      },
+      "Tiered_T02_50": {
+        "Category": "Tiered_T02_",
+        "LootLevel": 49,
+        "MinItemLevel": 18,
+        "MaxItemLevel": 20
+      },
+      "Tiered_T02_51": {
+        "Category": "Tiered_T02_",
+        "LootLevel": 50,
+        "MinItemLevel": 18,
+        "MaxItemLevel": 20
+      },
+      "Tiered_T03_1": {
+        "Category": "Tiered_T03_",
+        "LootLevel": 0,
+        "MinItemLevel": 20,
+        "MaxItemLevel": 20
+      },
+      "Tiered_T03_2": {
+        "Category": "Tiered_T03_",
+        "LootLevel": 1,
+        "MinItemLevel": 20,
+        "MaxItemLevel": 20
+      },
+      "Tiered_T03_3": {
+        "Category": "Tiered_T03_",
+        "LootLevel": 2,
+        "MinItemLevel": 20,
+        "MaxItemLevel": 20
+      },
+      "Tiered_T03_4": {
+        "Category": "Tiered_T03_",
+        "LootLevel": 3,
+        "MinItemLevel": 20,
+        "MaxItemLevel": 20
+      },
+      "Tiered_T03_5": {
+        "Category": "Tiered_T03_",
+        "LootLevel": 4,
+        "MinItemLevel": 20,
+        "MaxItemLevel": 20
+      },
+      "Tiered_T03_6": {
+        "Category": "Tiered_T03_",
+        "LootLevel": 5,
+        "MinItemLevel": 20,
+        "MaxItemLevel": 20
+      },
+      "Tiered_T03_7": {
+        "Category": "Tiered_T03_",
+        "LootLevel": 6,
+        "MinItemLevel": 20,
+        "MaxItemLevel": 20
+      },
+      "Tiered_T03_8": {
+        "Category": "Tiered_T03_",
+        "LootLevel": 7,
+        "MinItemLevel": 20,
+        "MaxItemLevel": 20
+      },
+      "Tiered_T03_9": {
+        "Category": "Tiered_T03_",
+        "LootLevel": 8,
+        "MinItemLevel": 20,
+        "MaxItemLevel": 20
+      },
+      "Tiered_T03_10": {
+        "Category": "Tiered_T03_",
+        "LootLevel": 9,
+        "MinItemLevel": 20,
+        "MaxItemLevel": 20
+      },
+      "Tiered_T03_11": {
+        "Category": "Tiered_T03_",
+        "LootLevel": 10,
+        "MinItemLevel": 20,
+        "MaxItemLevel": 22
+      },
+      "Tiered_T03_12": {
+        "Category": "Tiered_T03_",
+        "LootLevel": 11,
+        "MinItemLevel": 20,
+        "MaxItemLevel": 22
+      },
+      "Tiered_T03_13": {
+        "Category": "Tiered_T03_",
+        "LootLevel": 12,
+        "MinItemLevel": 20,
+        "MaxItemLevel": 24
+      },
+      "Tiered_T03_14": {
+        "Category": "Tiered_T03_",
+        "LootLevel": 13,
+        "MinItemLevel": 20,
+        "MaxItemLevel": 26
+      },
+      "Tiered_T03_15": {
+        "Category": "Tiered_T03_",
+        "LootLevel": 14,
+        "MinItemLevel": 20,
+        "MaxItemLevel": 29
+      },
+      "Tiered_T03_16": {
+        "Category": "Tiered_T03_",
+        "LootLevel": 15,
+        "MinItemLevel": 22,
+        "MaxItemLevel": 30
+      },
+      "Tiered_T03_17": {
+        "Category": "Tiered_T03_",
+        "LootLevel": 16,
+        "MinItemLevel": 24,
+        "MaxItemLevel": 30
+      },
+      "Tiered_T03_18": {
+        "Category": "Tiered_T03_",
+        "LootLevel": 17,
+        "MinItemLevel": 26,
+        "MaxItemLevel": 30
+      },
+      "Tiered_T03_19": {
+        "Category": "Tiered_T03_",
+        "LootLevel": 18,
+        "MinItemLevel": 28,
+        "MaxItemLevel": 30
+      },
+      "Tiered_T03_20": {
+        "Category": "Tiered_T03_",
+        "LootLevel": 19,
+        "MinItemLevel": 28,
+        "MaxItemLevel": 30
+      },
+      "Tiered_T03_21": {
+        "Category": "Tiered_T03_",
+        "LootLevel": 20,
+        "MinItemLevel": 28,
+        "MaxItemLevel": 30
+      },
+      "Tiered_T03_22": {
+        "Category": "Tiered_T03_",
+        "LootLevel": 21,
+        "MinItemLevel": 28,
+        "MaxItemLevel": 30
+      },
+      "Tiered_T03_23": {
+        "Category": "Tiered_T03_",
+        "LootLevel": 22,
+        "MinItemLevel": 28,
+        "MaxItemLevel": 30
+      },
+      "Tiered_T03_24": {
+        "Category": "Tiered_T03_",
+        "LootLevel": 23,
+        "MinItemLevel": 28,
+        "MaxItemLevel": 30
+      },
+      "Tiered_T03_25": {
+        "Category": "Tiered_T03_",
+        "LootLevel": 24,
+        "MinItemLevel": 28,
+        "MaxItemLevel": 30
+      },
+      "Tiered_T03_26": {
+        "Category": "Tiered_T03_",
+        "LootLevel": 25,
+        "MinItemLevel": 28,
+        "MaxItemLevel": 30
+      },
+      "Tiered_T03_27": {
+        "Category": "Tiered_T03_",
+        "LootLevel": 26,
+        "MinItemLevel": 28,
+        "MaxItemLevel": 30
+      },
+      "Tiered_T03_28": {
+        "Category": "Tiered_T03_",
+        "LootLevel": 27,
+        "MinItemLevel": 28,
+        "MaxItemLevel": 30
+      },
+      "Tiered_T03_29": {
+        "Category": "Tiered_T03_",
+        "LootLevel": 28,
+        "MinItemLevel": 28,
+        "MaxItemLevel": 30
+      },
+      "Tiered_T03_30": {
+        "Category": "Tiered_T03_",
+        "LootLevel": 29,
+        "MinItemLevel": 28,
+        "MaxItemLevel": 30
+      },
+      "Tiered_T03_31": {
+        "Category": "Tiered_T03_",
+        "LootLevel": 30,
+        "MinItemLevel": 28,
+        "MaxItemLevel": 30
+      },
+      "Tiered_T03_32": {
+        "Category": "Tiered_T03_",
+        "LootLevel": 31,
+        "MinItemLevel": 28,
+        "MaxItemLevel": 30
+      },
+      "Tiered_T03_33": {
+        "Category": "Tiered_T03_",
+        "LootLevel": 32,
+        "MinItemLevel": 28,
+        "MaxItemLevel": 30
+      },
+      "Tiered_T03_34": {
+        "Category": "Tiered_T03_",
+        "LootLevel": 33,
+        "MinItemLevel": 28,
+        "MaxItemLevel": 30
+      },
+      "Tiered_T03_35": {
+        "Category": "Tiered_T03_",
+        "LootLevel": 34,
+        "MinItemLevel": 28,
+        "MaxItemLevel": 30
+      },
+      "Tiered_T03_36": {
+        "Category": "Tiered_T03_",
+        "LootLevel": 35,
+        "MinItemLevel": 28,
+        "MaxItemLevel": 30
+      },
+      "Tiered_T03_37": {
+        "Category": "Tiered_T03_",
+        "LootLevel": 36,
+        "MinItemLevel": 28,
+        "MaxItemLevel": 30
+      },
+      "Tiered_T03_38": {
+        "Category": "Tiered_T03_",
+        "LootLevel": 37,
+        "MinItemLevel": 28,
+        "MaxItemLevel": 30
+      },
+      "Tiered_T03_39": {
+        "Category": "Tiered_T03_",
+        "LootLevel": 38,
+        "MinItemLevel": 28,
+        "MaxItemLevel": 30
+      },
+      "Tiered_T03_40": {
+        "Category": "Tiered_T03_",
+        "LootLevel": 39,
+        "MinItemLevel": 28,
+        "MaxItemLevel": 30
+      },
+      "Tiered_T03_41": {
+        "Category": "Tiered_T03_",
+        "LootLevel": 40,
+        "MinItemLevel": 28,
+        "MaxItemLevel": 30
+      },
+      "Tiered_T03_42": {
+        "Category": "Tiered_T03_",
+        "LootLevel": 41,
+        "MinItemLevel": 28,
+        "MaxItemLevel": 30
+      },
+      "Tiered_T03_43": {
+        "Category": "Tiered_T03_",
+        "LootLevel": 42,
+        "MinItemLevel": 28,
+        "MaxItemLevel": 30
+      },
+      "Tiered_T03_44": {
+        "Category": "Tiered_T03_",
+        "LootLevel": 43,
+        "MinItemLevel": 28,
+        "MaxItemLevel": 30
+      },
+      "Tiered_T03_45": {
+        "Category": "Tiered_T03_",
+        "LootLevel": 44,
+        "MinItemLevel": 28,
+        "MaxItemLevel": 30
+      },
+      "Tiered_T03_46": {
+        "Category": "Tiered_T03_",
+        "LootLevel": 45,
+        "MinItemLevel": 28,
+        "MaxItemLevel": 30
+      },
+      "Tiered_T03_47": {
+        "Category": "Tiered_T03_",
+        "LootLevel": 46,
+        "MinItemLevel": 28,
+        "MaxItemLevel": 30
+      },
+      "Tiered_T03_48": {
+        "Category": "Tiered_T03_",
+        "LootLevel": 47,
+        "MinItemLevel": 28,
+        "MaxItemLevel": 30
+      },
+      "Tiered_T03_49": {
+        "Category": "Tiered_T03_",
+        "LootLevel": 48,
+        "MinItemLevel": 28,
+        "MaxItemLevel": 30
+      },
+      "Tiered_T03_50": {
+        "Category": "Tiered_T03_",
+        "LootLevel": 49,
+        "MinItemLevel": 28,
+        "MaxItemLevel": 30
+      },
+      "Tiered_T03_51": {
+        "Category": "Tiered_T03_",
+        "LootLevel": 50,
+        "MinItemLevel": 28,
+        "MaxItemLevel": 30
+      },
+      "Tiered_T04_1": {
+        "Category": "Tiered_T04_",
+        "LootLevel": 0,
+        "MinItemLevel": 30,
+        "MaxItemLevel": 30
+      },
+      "Tiered_T04_2": {
+        "Category": "Tiered_T04_",
+        "LootLevel": 1,
+        "MinItemLevel": 30,
+        "MaxItemLevel": 30
+      },
+      "Tiered_T04_3": {
+        "Category": "Tiered_T04_",
+        "LootLevel": 2,
+        "MinItemLevel": 30,
+        "MaxItemLevel": 30
+      },
+      "Tiered_T04_4": {
+        "Category": "Tiered_T04_",
+        "LootLevel": 3,
+        "MinItemLevel": 30,
+        "MaxItemLevel": 30
+      },
+      "Tiered_T04_5": {
+        "Category": "Tiered_T04_",
+        "LootLevel": 4,
+        "MinItemLevel": 30,
+        "MaxItemLevel": 30
+      },
+      "Tiered_T04_6": {
+        "Category": "Tiered_T04_",
+        "LootLevel": 5,
+        "MinItemLevel": 30,
+        "MaxItemLevel": 30
+      },
+      "Tiered_T04_7": {
+        "Category": "Tiered_T04_",
+        "LootLevel": 6,
+        "MinItemLevel": 30,
+        "MaxItemLevel": 30
+      },
+      "Tiered_T04_8": {
+        "Category": "Tiered_T04_",
+        "LootLevel": 7,
+        "MinItemLevel": 30,
+        "MaxItemLevel": 30
+      },
+      "Tiered_T04_9": {
+        "Category": "Tiered_T04_",
+        "LootLevel": 8,
+        "MinItemLevel": 30,
+        "MaxItemLevel": 30
+      },
+      "Tiered_T04_10": {
+        "Category": "Tiered_T04_",
+        "LootLevel": 9,
+        "MinItemLevel": 30,
+        "MaxItemLevel": 30
+      },
+      "Tiered_T04_11": {
+        "Category": "Tiered_T04_",
+        "LootLevel": 10,
+        "MinItemLevel": 30,
+        "MaxItemLevel": 30
+      },
+      "Tiered_T04_12": {
+        "Category": "Tiered_T04_",
+        "LootLevel": 11,
+        "MinItemLevel": 30,
+        "MaxItemLevel": 30
+      },
+      "Tiered_T04_13": {
+        "Category": "Tiered_T04_",
+        "LootLevel": 12,
+        "MinItemLevel": 30,
+        "MaxItemLevel": 30
+      },
+      "Tiered_T04_14": {
+        "Category": "Tiered_T04_",
+        "LootLevel": 13,
+        "MinItemLevel": 30,
+        "MaxItemLevel": 30
+      },
+      "Tiered_T04_15": {
+        "Category": "Tiered_T04_",
+        "LootLevel": 14,
+        "MinItemLevel": 30,
+        "MaxItemLevel": 31
+      },
+      "Tiered_T04_16": {
+        "Category": "Tiered_T04_",
+        "LootLevel": 15,
+        "MinItemLevel": 30,
+        "MaxItemLevel": 32
+      },
+      "Tiered_T04_17": {
+        "Category": "Tiered_T04_",
+        "LootLevel": 16,
+        "MinItemLevel": 30,
+        "MaxItemLevel": 33
+      },
+      "Tiered_T04_18": {
+        "Category": "Tiered_T04_",
+        "LootLevel": 17,
+        "MinItemLevel": 30,
+        "MaxItemLevel": 35
+      },
+      "Tiered_T04_19": {
+        "Category": "Tiered_T04_",
+        "LootLevel": 18,
+        "MinItemLevel": 30,
+        "MaxItemLevel": 37
+      },
+      "Tiered_T04_20": {
+        "Category": "Tiered_T04_",
+        "LootLevel": 19,
+        "MinItemLevel": 30,
+        "MaxItemLevel": 40
+      },
+      "Tiered_T04_21": {
+        "Category": "Tiered_T04_",
+        "LootLevel": 20,
+        "MinItemLevel": 32,
+        "MaxItemLevel": 40
+      },
+      "Tiered_T04_22": {
+        "Category": "Tiered_T04_",
+        "LootLevel": 21,
+        "MinItemLevel": 34,
+        "MaxItemLevel": 40
+      },
+      "Tiered_T04_23": {
+        "Category": "Tiered_T04_",
+        "LootLevel": 22,
+        "MinItemLevel": 36,
+        "MaxItemLevel": 40
+      },
+      "Tiered_T04_24": {
+        "Category": "Tiered_T04_",
+        "LootLevel": 23,
+        "MinItemLevel": 38,
+        "MaxItemLevel": 40
+      },
+      "Tiered_T04_25": {
+        "Category": "Tiered_T04_",
+        "LootLevel": 24,
+        "MinItemLevel": 38,
+        "MaxItemLevel": 40
+      },
+      "Tiered_T04_26": {
+        "Category": "Tiered_T04_",
+        "LootLevel": 25,
+        "MinItemLevel": 38,
+        "MaxItemLevel": 40
+      },
+      "Tiered_T04_27": {
+        "Category": "Tiered_T04_",
+        "LootLevel": 26,
+        "MinItemLevel": 38,
+        "MaxItemLevel": 40
+      },
+      "Tiered_T04_28": {
+        "Category": "Tiered_T04_",
+        "LootLevel": 27,
+        "MinItemLevel": 38,
+        "MaxItemLevel": 40
+      },
+      "Tiered_T04_29": {
+        "Category": "Tiered_T04_",
+        "LootLevel": 28,
+        "MinItemLevel": 38,
+        "MaxItemLevel": 40
+      },
+      "Tiered_T04_30": {
+        "Category": "Tiered_T04_",
+        "LootLevel": 29,
+        "MinItemLevel": 38,
+        "MaxItemLevel": 40
+      },
+      "Tiered_T04_31": {
+        "Category": "Tiered_T04_",
+        "LootLevel": 30,
+        "MinItemLevel": 38,
+        "MaxItemLevel": 40
+      },
+      "Tiered_T04_32": {
+        "Category": "Tiered_T04_",
+        "LootLevel": 31,
+        "MinItemLevel": 38,
+        "MaxItemLevel": 40
+      },
+      "Tiered_T04_33": {
+        "Category": "Tiered_T04_",
+        "LootLevel": 32,
+        "MinItemLevel": 38,
+        "MaxItemLevel": 40
+      },
+      "Tiered_T04_34": {
+        "Category": "Tiered_T04_",
+        "LootLevel": 33,
+        "MinItemLevel": 38,
+        "MaxItemLevel": 40
+      },
+      "Tiered_T04_35": {
+        "Category": "Tiered_T04_",
+        "LootLevel": 34,
+        "MinItemLevel": 38,
+        "MaxItemLevel": 40
+      },
+      "Tiered_T04_36": {
+        "Category": "Tiered_T04_",
+        "LootLevel": 35,
+        "MinItemLevel": 38,
+        "MaxItemLevel": 40
+      },
+      "Tiered_T04_37": {
+        "Category": "Tiered_T04_",
+        "LootLevel": 36,
+        "MinItemLevel": 38,
+        "MaxItemLevel": 40
+      },
+      "Tiered_T04_38": {
+        "Category": "Tiered_T04_",
+        "LootLevel": 37,
+        "MinItemLevel": 38,
+        "MaxItemLevel": 40
+      },
+      "Tiered_T04_39": {
+        "Category": "Tiered_T04_",
+        "LootLevel": 38,
+        "MinItemLevel": 38,
+        "MaxItemLevel": 40
+      },
+      "Tiered_T04_40": {
+        "Category": "Tiered_T04_",
+        "LootLevel": 39,
+        "MinItemLevel": 38,
+        "MaxItemLevel": 40
+      },
+      "Tiered_T04_41": {
+        "Category": "Tiered_T04_",
+        "LootLevel": 40,
+        "MinItemLevel": 38,
+        "MaxItemLevel": 40
+      },
+      "Tiered_T04_42": {
+        "Category": "Tiered_T04_",
+        "LootLevel": 41,
+        "MinItemLevel": 38,
+        "MaxItemLevel": 40
+      },
+      "Tiered_T04_43": {
+        "Category": "Tiered_T04_",
+        "LootLevel": 42,
+        "MinItemLevel": 38,
+        "MaxItemLevel": 40
+      },
+      "Tiered_T04_44": {
+        "Category": "Tiered_T04_",
+        "LootLevel": 43,
+        "MinItemLevel": 38,
+        "MaxItemLevel": 40
+      },
+      "Tiered_T04_45": {
+        "Category": "Tiered_T04_",
+        "LootLevel": 44,
+        "MinItemLevel": 38,
+        "MaxItemLevel": 40
+      },
+      "Tiered_T04_46": {
+        "Category": "Tiered_T04_",
+        "LootLevel": 45,
+        "MinItemLevel": 38,
+        "MaxItemLevel": 40
+      },
+      "Tiered_T04_47": {
+        "Category": "Tiered_T04_",
+        "LootLevel": 46,
+        "MinItemLevel": 38,
+        "MaxItemLevel": 40
+      },
+      "Tiered_T04_48": {
+        "Category": "Tiered_T04_",
+        "LootLevel": 47,
+        "MinItemLevel": 38,
+        "MaxItemLevel": 40
+      },
+      "Tiered_T04_49": {
+        "Category": "Tiered_T04_",
+        "LootLevel": 48,
+        "MinItemLevel": 38,
+        "MaxItemLevel": 40
+      },
+      "Tiered_T04_50": {
+        "Category": "Tiered_T04_",
+        "LootLevel": 49,
+        "MinItemLevel": 38,
+        "MaxItemLevel": 40
+      },
+      "Tiered_T04_51": {
+        "Category": "Tiered_T04_",
+        "LootLevel": 50,
+        "MinItemLevel": 38,
+        "MaxItemLevel": 40
+      },
+      "Tiered_T05_1": {
+        "Category": "Tiered_T05_",
+        "LootLevel": 0,
+        "MinItemLevel": 40,
+        "MaxItemLevel": 40
+      },
+      "Tiered_T05_2": {
+        "Category": "Tiered_T05_",
+        "LootLevel": 1,
+        "MinItemLevel": 40,
+        "MaxItemLevel": 40
+      },
+      "Tiered_T05_3": {
+        "Category": "Tiered_T05_",
+        "LootLevel": 2,
+        "MinItemLevel": 40,
+        "MaxItemLevel": 40
+      },
+      "Tiered_T05_4": {
+        "Category": "Tiered_T05_",
+        "LootLevel": 3,
+        "MinItemLevel": 40,
+        "MaxItemLevel": 40
+      },
+      "Tiered_T05_5": {
+        "Category": "Tiered_T05_",
+        "LootLevel": 4,
+        "MinItemLevel": 40,
+        "MaxItemLevel": 40
+      },
+      "Tiered_T05_6": {
+        "Category": "Tiered_T05_",
+        "LootLevel": 5,
+        "MinItemLevel": 40,
+        "MaxItemLevel": 40
+      },
+      "Tiered_T05_7": {
+        "Category": "Tiered_T05_",
+        "LootLevel": 6,
+        "MinItemLevel": 40,
+        "MaxItemLevel": 40
+      },
+      "Tiered_T05_8": {
+        "Category": "Tiered_T05_",
+        "LootLevel": 7,
+        "MinItemLevel": 40,
+        "MaxItemLevel": 40
+      },
+      "Tiered_T05_9": {
+        "Category": "Tiered_T05_",
+        "LootLevel": 8,
+        "MinItemLevel": 40,
+        "MaxItemLevel": 40
+      },
+      "Tiered_T05_10": {
+        "Category": "Tiered_T05_",
+        "LootLevel": 9,
+        "MinItemLevel": 40,
+        "MaxItemLevel": 40
+      },
+      "Tiered_T05_11": {
+        "Category": "Tiered_T05_",
+        "LootLevel": 10,
+        "MinItemLevel": 40,
+        "MaxItemLevel": 40
+      },
+      "Tiered_T05_12": {
+        "Category": "Tiered_T05_",
+        "LootLevel": 11,
+        "MinItemLevel": 40,
+        "MaxItemLevel": 40
+      },
+      "Tiered_T05_13": {
+        "Category": "Tiered_T05_",
+        "LootLevel": 12,
+        "MinItemLevel": 40,
+        "MaxItemLevel": 40
+      },
+      "Tiered_T05_14": {
+        "Category": "Tiered_T05_",
+        "LootLevel": 13,
+        "MinItemLevel": 40,
+        "MaxItemLevel": 40
+      },
+      "Tiered_T05_15": {
+        "Category": "Tiered_T05_",
+        "LootLevel": 14,
+        "MinItemLevel": 40,
+        "MaxItemLevel": 40
+      },
+      "Tiered_T05_16": {
+        "Category": "Tiered_T05_",
+        "LootLevel": 15,
+        "MinItemLevel": 40,
+        "MaxItemLevel": 40
+      },
+      "Tiered_T05_17": {
+        "Category": "Tiered_T05_",
+        "LootLevel": 16,
+        "MinItemLevel": 40,
+        "MaxItemLevel": 40
+      },
+      "Tiered_T05_18": {
+        "Category": "Tiered_T05_",
+        "LootLevel": 17,
+        "MinItemLevel": 40,
+        "MaxItemLevel": 40
+      },
+      "Tiered_T05_19": {
+        "Category": "Tiered_T05_",
+        "LootLevel": 18,
+        "MinItemLevel": 40,
+        "MaxItemLevel": 41
+      },
+      "Tiered_T05_20": {
+        "Category": "Tiered_T05_",
+        "LootLevel": 19,
+        "MinItemLevel": 40,
+        "MaxItemLevel": 42
+      },
+      "Tiered_T05_21": {
+        "Category": "Tiered_T05_",
+        "LootLevel": 20,
+        "MinItemLevel": 40,
+        "MaxItemLevel": 42
+      },
+      "Tiered_T05_22": {
+        "Category": "Tiered_T05_",
+        "LootLevel": 21,
+        "MinItemLevel": 40,
+        "MaxItemLevel": 44
+      },
+      "Tiered_T05_23": {
+        "Category": "Tiered_T05_",
+        "LootLevel": 22,
+        "MinItemLevel": 40,
+        "MaxItemLevel": 46
+      },
+      "Tiered_T05_24": {
+        "Category": "Tiered_T05_",
+        "LootLevel": 23,
+        "MinItemLevel": 40,
+        "MaxItemLevel": 48
+      },
+      "Tiered_T05_25": {
+        "Category": "Tiered_T05_",
+        "LootLevel": 24,
+        "MinItemLevel": 40,
+        "MaxItemLevel": 50
+      },
+      "Tiered_T05_26": {
+        "Category": "Tiered_T05_",
+        "LootLevel": 25,
+        "MinItemLevel": 42,
+        "MaxItemLevel": 50
+      },
+      "Tiered_T05_27": {
+        "Category": "Tiered_T05_",
+        "LootLevel": 26,
+        "MinItemLevel": 44,
+        "MaxItemLevel": 50
+      },
+      "Tiered_T05_28": {
+        "Category": "Tiered_T05_",
+        "LootLevel": 27,
+        "MinItemLevel": 46,
+        "MaxItemLevel": 50
+      },
+      "Tiered_T05_29": {
+        "Category": "Tiered_T05_",
+        "LootLevel": 28,
+        "MinItemLevel": 48,
+        "MaxItemLevel": 50
+      },
+      "Tiered_T05_30": {
+        "Category": "Tiered_T05_",
+        "LootLevel": 29,
+        "MinItemLevel": 48,
+        "MaxItemLevel": 50
+      },
+      "Tiered_T05_31": {
+        "Category": "Tiered_T05_",
+        "LootLevel": 30,
+        "MinItemLevel": 48,
+        "MaxItemLevel": 50
+      },
+      "Tiered_T05_32": {
+        "Category": "Tiered_T05_",
+        "LootLevel": 31,
+        "MinItemLevel": 48,
+        "MaxItemLevel": 50
+      },
+      "Tiered_T05_33": {
+        "Category": "Tiered_T05_",
+        "LootLevel": 32,
+        "MinItemLevel": 48,
+        "MaxItemLevel": 50
+      },
+      "Tiered_T05_34": {
+        "Category": "Tiered_T05_",
+        "LootLevel": 33,
+        "MinItemLevel": 48,
+        "MaxItemLevel": 50
+      },
+      "Tiered_T05_35": {
+        "Category": "Tiered_T05_",
+        "LootLevel": 34,
+        "MinItemLevel": 48,
+        "MaxItemLevel": 50
+      },
+      "Tiered_T05_36": {
+        "Category": "Tiered_T05_",
+        "LootLevel": 35,
+        "MinItemLevel": 48,
+        "MaxItemLevel": 50
+      },
+      "Tiered_T05_37": {
+        "Category": "Tiered_T05_",
+        "LootLevel": 36,
+        "MinItemLevel": 48,
+        "MaxItemLevel": 50
+      },
+      "Tiered_T05_38": {
+        "Category": "Tiered_T05_",
+        "LootLevel": 37,
+        "MinItemLevel": 48,
+        "MaxItemLevel": 50
+      },
+      "Tiered_T05_39": {
+        "Category": "Tiered_T05_",
+        "LootLevel": 38,
+        "MinItemLevel": 48,
+        "MaxItemLevel": 50
+      },
+      "Tiered_T05_40": {
+        "Category": "Tiered_T05_",
+        "LootLevel": 39,
+        "MinItemLevel": 48,
+        "MaxItemLevel": 50
+      },
+      "Tiered_T05_41": {
+        "Category": "Tiered_T05_",
+        "LootLevel": 40,
+        "MinItemLevel": 48,
+        "MaxItemLevel": 50
+      },
+      "Tiered_T05_42": {
+        "Category": "Tiered_T05_",
+        "LootLevel": 41,
+        "MinItemLevel": 48,
+        "MaxItemLevel": 50
+      },
+      "Tiered_T05_43": {
+        "Category": "Tiered_T05_",
+        "LootLevel": 42,
+        "MinItemLevel": 48,
+        "MaxItemLevel": 50
+      },
+      "Tiered_T05_44": {
+        "Category": "Tiered_T05_",
+        "LootLevel": 43,
+        "MinItemLevel": 48,
+        "MaxItemLevel": 50
+      },
+      "Tiered_T05_45": {
+        "Category": "Tiered_T05_",
+        "LootLevel": 44,
+        "MinItemLevel": 48,
+        "MaxItemLevel": 50
+      },
+      "Tiered_T05_46": {
+        "Category": "Tiered_T05_",
+        "LootLevel": 45,
+        "MinItemLevel": 48,
+        "MaxItemLevel": 50
+      },
+      "Tiered_T05_47": {
+        "Category": "Tiered_T05_",
+        "LootLevel": 46,
+        "MinItemLevel": 48,
+        "MaxItemLevel": 50
+      },
+      "Tiered_T05_48": {
+        "Category": "Tiered_T05_",
+        "LootLevel": 47,
+        "MinItemLevel": 48,
+        "MaxItemLevel": 50
+      },
+      "Tiered_T05_49": {
+        "Category": "Tiered_T05_",
+        "LootLevel": 48,
+        "MinItemLevel": 48,
+        "MaxItemLevel": 50
+      },
+      "Tiered_T05_50": {
+        "Category": "Tiered_T05_",
+        "LootLevel": 49,
+        "MinItemLevel": 48,
+        "MaxItemLevel": 50
+      },
+      "Tiered_T05_51": {
+        "Category": "Tiered_T05_",
+        "LootLevel": 50,
+        "MinItemLevel": 48,
+        "MaxItemLevel": 50
+      },
+      "Tiered_T06_1": {
+        "Category": "Tiered_T06_",
+        "LootLevel": 0,
+        "MinItemLevel": 50,
+        "MaxItemLevel": 50
+      },
+      "Tiered_T06_2": {
+        "Category": "Tiered_T06_",
+        "LootLevel": 1,
+        "MinItemLevel": 50,
+        "MaxItemLevel": 50
+      },
+      "Tiered_T06_3": {
+        "Category": "Tiered_T06_",
+        "LootLevel": 2,
+        "MinItemLevel": 50,
+        "MaxItemLevel": 50
+      },
+      "Tiered_T06_4": {
+        "Category": "Tiered_T06_",
+        "LootLevel": 3,
+        "MinItemLevel": 50,
+        "MaxItemLevel": 50
+      },
+      "Tiered_T06_5": {
+        "Category": "Tiered_T06_",
+        "LootLevel": 4,
+        "MinItemLevel": 50,
+        "MaxItemLevel": 50
+      },
+      "Tiered_T06_6": {
+        "Category": "Tiered_T06_",
+        "LootLevel": 5,
+        "MinItemLevel": 50,
+        "MaxItemLevel": 50
+      },
+      "Tiered_T06_7": {
+        "Category": "Tiered_T06_",
+        "LootLevel": 6,
+        "MinItemLevel": 50,
+        "MaxItemLevel": 50
+      },
+      "Tiered_T06_8": {
+        "Category": "Tiered_T06_",
+        "LootLevel": 7,
+        "MinItemLevel": 50,
+        "MaxItemLevel": 50
+      },
+      "Tiered_T06_9": {
+        "Category": "Tiered_T06_",
+        "LootLevel": 8,
+        "MinItemLevel": 50,
+        "MaxItemLevel": 50
+      },
+      "Tiered_T06_10": {
+        "Category": "Tiered_T06_",
+        "LootLevel": 9,
+        "MinItemLevel": 50,
+        "MaxItemLevel": 50
+      },
+      "Tiered_T06_11": {
+        "Category": "Tiered_T06_",
+        "LootLevel": 10,
+        "MinItemLevel": 50,
+        "MaxItemLevel": 50
+      },
+      "Tiered_T06_12": {
+        "Category": "Tiered_T06_",
+        "LootLevel": 11,
+        "MinItemLevel": 50,
+        "MaxItemLevel": 50
+      },
+      "Tiered_T06_13": {
+        "Category": "Tiered_T06_",
+        "LootLevel": 12,
+        "MinItemLevel": 50,
+        "MaxItemLevel": 50
+      },
+      "Tiered_T06_14": {
+        "Category": "Tiered_T06_",
+        "LootLevel": 13,
+        "MinItemLevel": 50,
+        "MaxItemLevel": 50
+      },
+      "Tiered_T06_15": {
+        "Category": "Tiered_T06_",
+        "LootLevel": 14,
+        "MinItemLevel": 50,
+        "MaxItemLevel": 50
+      },
+      "Tiered_T06_16": {
+        "Category": "Tiered_T06_",
+        "LootLevel": 15,
+        "MinItemLevel": 50,
+        "MaxItemLevel": 50
+      },
+      "Tiered_T06_17": {
+        "Category": "Tiered_T06_",
+        "LootLevel": 16,
+        "MinItemLevel": 50,
+        "MaxItemLevel": 50
+      },
+      "Tiered_T06_18": {
+        "Category": "Tiered_T06_",
+        "LootLevel": 17,
+        "MinItemLevel": 50,
+        "MaxItemLevel": 50
+      },
+      "Tiered_T06_19": {
+        "Category": "Tiered_T06_",
+        "LootLevel": 18,
+        "MinItemLevel": 50,
+        "MaxItemLevel": 50
+      },
+      "Tiered_T06_20": {
+        "Category": "Tiered_T06_",
+        "LootLevel": 19,
+        "MinItemLevel": 50,
+        "MaxItemLevel": 50
+      },
+      "Tiered_T06_21": {
+        "Category": "Tiered_T06_",
+        "LootLevel": 20,
+        "MinItemLevel": 50,
+        "MaxItemLevel": 50
+      },
+      "Tiered_T06_22": {
+        "Category": "Tiered_T06_",
+        "LootLevel": 21,
+        "MinItemLevel": 50,
+        "MaxItemLevel": 50
+      },
+      "Tiered_T06_23": {
+        "Category": "Tiered_T06_",
+        "LootLevel": 22,
+        "MinItemLevel": 50,
+        "MaxItemLevel": 50
+      },
+      "Tiered_T06_24": {
+        "Category": "Tiered_T06_",
+        "LootLevel": 23,
+        "MinItemLevel": 50,
+        "MaxItemLevel": 51
+      },
+      "Tiered_T06_25": {
+        "Category": "Tiered_T06_",
+        "LootLevel": 24,
+        "MinItemLevel": 50,
+        "MaxItemLevel": 52
+      },
+      "Tiered_T06_26": {
+        "Category": "Tiered_T06_",
+        "LootLevel": 25,
+        "MinItemLevel": 50,
+        "MaxItemLevel": 53
+      },
+      "Tiered_T06_27": {
+        "Category": "Tiered_T06_",
+        "LootLevel": 26,
+        "MinItemLevel": 50,
+        "MaxItemLevel": 55
+      },
+      "Tiered_T06_28": {
+        "Category": "Tiered_T06_",
+        "LootLevel": 27,
+        "MinItemLevel": 50,
+        "MaxItemLevel": 57
+      },
+      "Tiered_T06_29": {
+        "Category": "Tiered_T06_",
+        "LootLevel": 28,
+        "MinItemLevel": 50,
+        "MaxItemLevel": 59
+      },
+      "Tiered_T06_30": {
+        "Category": "Tiered_T06_",
+        "LootLevel": 29,
+        "MinItemLevel": 50,
+        "MaxItemLevel": 60
+      },
+      "Tiered_T06_31": {
+        "Category": "Tiered_T06_",
+        "LootLevel": 30,
+        "MinItemLevel": 52,
+        "MaxItemLevel": 60
+      },
+      "Tiered_T06_32": {
+        "Category": "Tiered_T06_",
+        "LootLevel": 31,
+        "MinItemLevel": 54,
+        "MaxItemLevel": 60
+      },
+      "Tiered_T06_33": {
+        "Category": "Tiered_T06_",
+        "LootLevel": 32,
+        "MinItemLevel": 56,
+        "MaxItemLevel": 60
+      },
+      "Tiered_T06_34": {
+        "Category": "Tiered_T06_",
+        "LootLevel": 33,
+        "MinItemLevel": 58,
+        "MaxItemLevel": 60
+      },
+      "Tiered_T06_35": {
+        "Category": "Tiered_T06_",
+        "LootLevel": 34,
+        "MinItemLevel": 58,
+        "MaxItemLevel": 60
+      },
+      "Tiered_T06_36": {
+        "Category": "Tiered_T06_",
+        "LootLevel": 35,
+        "MinItemLevel": 58,
+        "MaxItemLevel": 60
+      },
+      "Tiered_T06_37": {
+        "Category": "Tiered_T06_",
+        "LootLevel": 36,
+        "MinItemLevel": 58,
+        "MaxItemLevel": 60
+      },
+      "Tiered_T06_38": {
+        "Category": "Tiered_T06_",
+        "LootLevel": 37,
+        "MinItemLevel": 58,
+        "MaxItemLevel": 60
+      },
+      "Tiered_T06_39": {
+        "Category": "Tiered_T06_",
+        "LootLevel": 38,
+        "MinItemLevel": 58,
+        "MaxItemLevel": 60
+      },
+      "Tiered_T06_40": {
+        "Category": "Tiered_T06_",
+        "LootLevel": 39,
+        "MinItemLevel": 58,
+        "MaxItemLevel": 60
+      },
+      "Tiered_T06_41": {
+        "Category": "Tiered_T06_",
+        "LootLevel": 40,
+        "MinItemLevel": 58,
+        "MaxItemLevel": 60
+      },
+      "Tiered_T06_42": {
+        "Category": "Tiered_T06_",
+        "LootLevel": 41,
+        "MinItemLevel": 58,
+        "MaxItemLevel": 60
+      },
+      "Tiered_T06_43": {
+        "Category": "Tiered_T06_",
+        "LootLevel": 42,
+        "MinItemLevel": 58,
+        "MaxItemLevel": 60
+      },
+      "Tiered_T06_44": {
+        "Category": "Tiered_T06_",
+        "LootLevel": 43,
+        "MinItemLevel": 58,
+        "MaxItemLevel": 60
+      },
+      "Tiered_T06_45": {
+        "Category": "Tiered_T06_",
+        "LootLevel": 44,
+        "MinItemLevel": 58,
+        "MaxItemLevel": 60
+      },
+      "Tiered_T06_46": {
+        "Category": "Tiered_T06_",
+        "LootLevel": 45,
+        "MinItemLevel": 58,
+        "MaxItemLevel": 60
+      },
+      "Tiered_T06_47": {
+        "Category": "Tiered_T06_",
+        "LootLevel": 46,
+        "MinItemLevel": 58,
+        "MaxItemLevel": 60
+      },
+      "Tiered_T06_48": {
+        "Category": "Tiered_T06_",
+        "LootLevel": 47,
+        "MinItemLevel": 58,
+        "MaxItemLevel": 60
+      },
+      "Tiered_T06_49": {
+        "Category": "Tiered_T06_",
+        "LootLevel": 48,
+        "MinItemLevel": 58,
+        "MaxItemLevel": 60
+      },
+      "Tiered_T06_50": {
+        "Category": "Tiered_T06_",
+        "LootLevel": 49,
+        "MinItemLevel": 58,
+        "MaxItemLevel": 60
+      },
+      "Tiered_T06_51": {
+        "Category": "Tiered_T06_",
+        "LootLevel": 50,
+        "MinItemLevel": 58,
+        "MaxItemLevel": 60
+      },
+      "Trap_T01_1": {
+        "Category": "Trap_T01_",
+        "LootLevel": 0,
+        "MinItemLevel": 1,
+        "MaxItemLevel": 1
+      },
+      "Trap_T01_2": {
+        "Category": "Trap_T01_",
+        "LootLevel": 1,
+        "MinItemLevel": 1,
+        "MaxItemLevel": 1
+      },
+      "Trap_T01_3": {
+        "Category": "Trap_T01_",
+        "LootLevel": 2,
+        "MinItemLevel": 5,
+        "MaxItemLevel": 5
+      },
+      "Trap_T01_4": {
+        "Category": "Trap_T01_",
+        "LootLevel": 3,
+        "MinItemLevel": 5,
+        "MaxItemLevel": 5
+      },
+      "Trap_T01_5": {
+        "Category": "Trap_T01_",
+        "LootLevel": 4,
+        "MinItemLevel": 10,
+        "MaxItemLevel": 10
+      },
+      "Trap_T01_6": {
+        "Category": "Trap_T01_",
+        "LootLevel": 5,
+        "MinItemLevel": 10,
+        "MaxItemLevel": 10
+      },
+      "Trap_T01_7": {
+        "Category": "Trap_T01_",
+        "LootLevel": 6,
+        "MinItemLevel": 10,
+        "MaxItemLevel": 10
+      },
+      "Trap_T01_8": {
+        "Category": "Trap_T01_",
+        "LootLevel": 7,
+        "MinItemLevel": 10,
+        "MaxItemLevel": 10
+      },
+      "Trap_T01_9": {
+        "Category": "Trap_T01_",
+        "LootLevel": 8,
+        "MinItemLevel": 10,
+        "MaxItemLevel": 10
+      },
+      "Trap_T01_10": {
+        "Category": "Trap_T01_",
+        "LootLevel": 9,
+        "MinItemLevel": 10,
+        "MaxItemLevel": 10
+      },
+      "Trap_T01_11": {
+        "Category": "Trap_T01_",
+        "LootLevel": 10,
+        "MinItemLevel": 10,
+        "MaxItemLevel": 10
+      },
+      "Trap_T01_12": {
+        "Category": "Trap_T01_",
+        "LootLevel": 11,
+        "MinItemLevel": 10,
+        "MaxItemLevel": 10
+      },
+      "Trap_T01_13": {
+        "Category": "Trap_T01_",
+        "LootLevel": 12,
+        "MinItemLevel": 10,
+        "MaxItemLevel": 10
+      },
+      "Trap_T01_14": {
+        "Category": "Trap_T01_",
+        "LootLevel": 13,
+        "MinItemLevel": 10,
+        "MaxItemLevel": 10
+      },
+      "Trap_T01_15": {
+        "Category": "Trap_T01_",
+        "LootLevel": 14,
+        "MinItemLevel": 10,
+        "MaxItemLevel": 10
+      },
+      "Trap_T01_16": {
+        "Category": "Trap_T01_",
+        "LootLevel": 15,
+        "MinItemLevel": 10,
+        "MaxItemLevel": 10
+      },
+      "Trap_T01_17": {
+        "Category": "Trap_T01_",
+        "LootLevel": 16,
+        "MinItemLevel": 10,
+        "MaxItemLevel": 10
+      },
+      "Trap_T01_18": {
+        "Category": "Trap_T01_",
+        "LootLevel": 17,
+        "MinItemLevel": 10,
+        "MaxItemLevel": 10
+      },
+      "Trap_T01_19": {
+        "Category": "Trap_T01_",
+        "LootLevel": 18,
+        "MinItemLevel": 10,
+        "MaxItemLevel": 10
+      },
+      "Trap_T01_20": {
+        "Category": "Trap_T01_",
+        "LootLevel": 19,
+        "MinItemLevel": 10,
+        "MaxItemLevel": 10
+      },
+      "Trap_T01_21": {
+        "Category": "Trap_T01_",
+        "LootLevel": 20,
+        "MinItemLevel": 10,
+        "MaxItemLevel": 10
+      },
+      "Trap_T01_22": {
+        "Category": "Trap_T01_",
+        "LootLevel": 21,
+        "MinItemLevel": 10,
+        "MaxItemLevel": 10
+      },
+      "Trap_T01_23": {
+        "Category": "Trap_T01_",
+        "LootLevel": 22,
+        "MinItemLevel": 10,
+        "MaxItemLevel": 10
+      },
+      "Trap_T01_24": {
+        "Category": "Trap_T01_",
+        "LootLevel": 23,
+        "MinItemLevel": 10,
+        "MaxItemLevel": 10
+      },
+      "Trap_T01_25": {
+        "Category": "Trap_T01_",
+        "LootLevel": 24,
+        "MinItemLevel": 10,
+        "MaxItemLevel": 10
+      },
+      "Trap_T01_26": {
+        "Category": "Trap_T01_",
+        "LootLevel": 25,
+        "MinItemLevel": 10,
+        "MaxItemLevel": 10
+      },
+      "Trap_T01_27": {
+        "Category": "Trap_T01_",
+        "LootLevel": 26,
+        "MinItemLevel": 10,
+        "MaxItemLevel": 10
+      },
+      "Trap_T01_28": {
+        "Category": "Trap_T01_",
+        "LootLevel": 27,
+        "MinItemLevel": 10,
+        "MaxItemLevel": 10
+      },
+      "Trap_T01_29": {
+        "Category": "Trap_T01_",
+        "LootLevel": 28,
+        "MinItemLevel": 10,
+        "MaxItemLevel": 10
+      },
+      "Trap_T01_30": {
+        "Category": "Trap_T01_",
+        "LootLevel": 29,
+        "MinItemLevel": 10,
+        "MaxItemLevel": 10
+      },
+      "Trap_T01_31": {
+        "Category": "Trap_T01_",
+        "LootLevel": 30,
+        "MinItemLevel": 10,
+        "MaxItemLevel": 10
+      },
+      "Trap_T01_32": {
+        "Category": "Trap_T01_",
+        "LootLevel": 31,
+        "MinItemLevel": 10,
+        "MaxItemLevel": 10
+      },
+      "Trap_T01_33": {
+        "Category": "Trap_T01_",
+        "LootLevel": 32,
+        "MinItemLevel": 10,
+        "MaxItemLevel": 10
+      },
+      "Trap_T01_34": {
+        "Category": "Trap_T01_",
+        "LootLevel": 33,
+        "MinItemLevel": 10,
+        "MaxItemLevel": 10
+      },
+      "Trap_T01_35": {
+        "Category": "Trap_T01_",
+        "LootLevel": 34,
+        "MinItemLevel": 10,
+        "MaxItemLevel": 10
+      },
+      "Trap_T01_36": {
+        "Category": "Trap_T01_",
+        "LootLevel": 35,
+        "MinItemLevel": 10,
+        "MaxItemLevel": 10
+      },
+      "Trap_T01_37": {
+        "Category": "Trap_T01_",
+        "LootLevel": 36,
+        "MinItemLevel": 10,
+        "MaxItemLevel": 10
+      },
+      "Trap_T01_38": {
+        "Category": "Trap_T01_",
+        "LootLevel": 37,
+        "MinItemLevel": 10,
+        "MaxItemLevel": 10
+      },
+      "Trap_T01_39": {
+        "Category": "Trap_T01_",
+        "LootLevel": 38,
+        "MinItemLevel": 10,
+        "MaxItemLevel": 10
+      },
+      "Trap_T01_40": {
+        "Category": "Trap_T01_",
+        "LootLevel": 39,
+        "MinItemLevel": 10,
+        "MaxItemLevel": 10
+      },
+      "Trap_T01_41": {
+        "Category": "Trap_T01_",
+        "LootLevel": 40,
+        "MinItemLevel": 10,
+        "MaxItemLevel": 10
+      },
+      "Trap_T01_42": {
+        "Category": "Trap_T01_",
+        "LootLevel": 41,
+        "MinItemLevel": 10,
+        "MaxItemLevel": 10
+      },
+      "Trap_T01_43": {
+        "Category": "Trap_T01_",
+        "LootLevel": 42,
+        "MinItemLevel": 10,
+        "MaxItemLevel": 10
+      },
+      "Trap_T01_44": {
+        "Category": "Trap_T01_",
+        "LootLevel": 43,
+        "MinItemLevel": 10,
+        "MaxItemLevel": 10
+      },
+      "Trap_T01_45": {
+        "Category": "Trap_T01_",
+        "LootLevel": 44,
+        "MinItemLevel": 10,
+        "MaxItemLevel": 10
+      },
+      "Trap_T01_46": {
+        "Category": "Trap_T01_",
+        "LootLevel": 45,
+        "MinItemLevel": 10,
+        "MaxItemLevel": 10
+      },
+      "Trap_T01_47": {
+        "Category": "Trap_T01_",
+        "LootLevel": 46,
+        "MinItemLevel": 10,
+        "MaxItemLevel": 10
+      },
+      "Trap_T01_48": {
+        "Category": "Trap_T01_",
+        "LootLevel": 47,
+        "MinItemLevel": 10,
+        "MaxItemLevel": 10
+      },
+      "Trap_T01_49": {
+        "Category": "Trap_T01_",
+        "LootLevel": 48,
+        "MinItemLevel": 10,
+        "MaxItemLevel": 10
+      },
+      "Trap_T01_50": {
+        "Category": "Trap_T01_",
+        "LootLevel": 49,
+        "MinItemLevel": 10,
+        "MaxItemLevel": 10
+      },
+      "Trap_T01_51": {
+        "Category": "Trap_T01_",
+        "LootLevel": 50,
+        "MinItemLevel": 10,
+        "MaxItemLevel": 10
+      },
+      "Trap_T02_1": {
+        "Category": "Trap_T02_",
+        "LootLevel": 0,
+        "MinItemLevel": 10,
+        "MaxItemLevel": 10
+      },
+      "Trap_T02_2": {
+        "Category": "Trap_T02_",
+        "LootLevel": 1,
+        "MinItemLevel": 10,
+        "MaxItemLevel": 10
+      },
+      "Trap_T02_3": {
+        "Category": "Trap_T02_",
+        "LootLevel": 2,
+        "MinItemLevel": 10,
+        "MaxItemLevel": 10
+      },
+      "Trap_T02_4": {
+        "Category": "Trap_T02_",
+        "LootLevel": 3,
+        "MinItemLevel": 10,
+        "MaxItemLevel": 10
+      },
+      "Trap_T02_5": {
+        "Category": "Trap_T02_",
+        "LootLevel": 4,
+        "MinItemLevel": 10,
+        "MaxItemLevel": 10
+      },
+      "Trap_T02_6": {
+        "Category": "Trap_T02_",
+        "LootLevel": 5,
+        "MinItemLevel": 10,
+        "MaxItemLevel": 10
+      },
+      "Trap_T02_7": {
+        "Category": "Trap_T02_",
+        "LootLevel": 6,
+        "MinItemLevel": 10,
+        "MaxItemLevel": 10
+      },
+      "Trap_T02_8": {
+        "Category": "Trap_T02_",
+        "LootLevel": 7,
+        "MinItemLevel": 15,
+        "MaxItemLevel": 15
+      },
+      "Trap_T02_9": {
+        "Category": "Trap_T02_",
+        "LootLevel": 8,
+        "MinItemLevel": 15,
+        "MaxItemLevel": 15
+      },
+      "Trap_T02_10": {
+        "Category": "Trap_T02_",
+        "LootLevel": 9,
+        "MinItemLevel": 20,
+        "MaxItemLevel": 20
+      },
+      "Trap_T02_11": {
+        "Category": "Trap_T02_",
+        "LootLevel": 10,
+        "MinItemLevel": 20,
+        "MaxItemLevel": 20
+      },
+      "Trap_T02_12": {
+        "Category": "Trap_T02_",
+        "LootLevel": 11,
+        "MinItemLevel": 20,
+        "MaxItemLevel": 20
+      },
+      "Trap_T02_13": {
+        "Category": "Trap_T02_",
+        "LootLevel": 12,
+        "MinItemLevel": 20,
+        "MaxItemLevel": 20
+      },
+      "Trap_T02_14": {
+        "Category": "Trap_T02_",
+        "LootLevel": 13,
+        "MinItemLevel": 20,
+        "MaxItemLevel": 20
+      },
+      "Trap_T02_15": {
+        "Category": "Trap_T02_",
+        "LootLevel": 14,
+        "MinItemLevel": 20,
+        "MaxItemLevel": 20
+      },
+      "Trap_T02_16": {
+        "Category": "Trap_T02_",
+        "LootLevel": 15,
+        "MinItemLevel": 20,
+        "MaxItemLevel": 20
+      },
+      "Trap_T02_17": {
+        "Category": "Trap_T02_",
+        "LootLevel": 16,
+        "MinItemLevel": 20,
+        "MaxItemLevel": 20
+      },
+      "Trap_T02_18": {
+        "Category": "Trap_T02_",
+        "LootLevel": 17,
+        "MinItemLevel": 20,
+        "MaxItemLevel": 20
+      },
+      "Trap_T02_19": {
+        "Category": "Trap_T02_",
+        "LootLevel": 18,
+        "MinItemLevel": 20,
+        "MaxItemLevel": 20
+      },
+      "Trap_T02_20": {
+        "Category": "Trap_T02_",
+        "LootLevel": 19,
+        "MinItemLevel": 20,
+        "MaxItemLevel": 20
+      },
+      "Trap_T02_21": {
+        "Category": "Trap_T02_",
+        "LootLevel": 20,
+        "MinItemLevel": 20,
+        "MaxItemLevel": 20
+      },
+      "Trap_T02_22": {
+        "Category": "Trap_T02_",
+        "LootLevel": 21,
+        "MinItemLevel": 20,
+        "MaxItemLevel": 20
+      },
+      "Trap_T02_23": {
+        "Category": "Trap_T02_",
+        "LootLevel": 22,
+        "MinItemLevel": 20,
+        "MaxItemLevel": 20
+      },
+      "Trap_T02_24": {
+        "Category": "Trap_T02_",
+        "LootLevel": 23,
+        "MinItemLevel": 20,
+        "MaxItemLevel": 20
+      },
+      "Trap_T02_25": {
+        "Category": "Trap_T02_",
+        "LootLevel": 24,
+        "MinItemLevel": 20,
+        "MaxItemLevel": 20
+      },
+      "Trap_T02_26": {
+        "Category": "Trap_T02_",
+        "LootLevel": 25,
+        "MinItemLevel": 20,
+        "MaxItemLevel": 20
+      },
+      "Trap_T02_27": {
+        "Category": "Trap_T02_",
+        "LootLevel": 26,
+        "MinItemLevel": 20,
+        "MaxItemLevel": 20
+      },
+      "Trap_T02_28": {
+        "Category": "Trap_T02_",
+        "LootLevel": 27,
+        "MinItemLevel": 20,
+        "MaxItemLevel": 20
+      },
+      "Trap_T02_29": {
+        "Category": "Trap_T02_",
+        "LootLevel": 28,
+        "MinItemLevel": 20,
+        "MaxItemLevel": 20
+      },
+      "Trap_T02_30": {
+        "Category": "Trap_T02_",
+        "LootLevel": 29,
+        "MinItemLevel": 20,
+        "MaxItemLevel": 20
+      },
+      "Trap_T02_31": {
+        "Category": "Trap_T02_",
+        "LootLevel": 30,
+        "MinItemLevel": 20,
+        "MaxItemLevel": 20
+      },
+      "Trap_T02_32": {
+        "Category": "Trap_T02_",
+        "LootLevel": 31,
+        "MinItemLevel": 20,
+        "MaxItemLevel": 20
+      },
+      "Trap_T02_33": {
+        "Category": "Trap_T02_",
+        "LootLevel": 32,
+        "MinItemLevel": 20,
+        "MaxItemLevel": 20
+      },
+      "Trap_T02_34": {
+        "Category": "Trap_T02_",
+        "LootLevel": 33,
+        "MinItemLevel": 20,
+        "MaxItemLevel": 20
+      },
+      "Trap_T02_35": {
+        "Category": "Trap_T02_",
+        "LootLevel": 34,
+        "MinItemLevel": 20,
+        "MaxItemLevel": 20
+      },
+      "Trap_T02_36": {
+        "Category": "Trap_T02_",
+        "LootLevel": 35,
+        "MinItemLevel": 20,
+        "MaxItemLevel": 20
+      },
+      "Trap_T02_37": {
+        "Category": "Trap_T02_",
+        "LootLevel": 36,
+        "MinItemLevel": 20,
+        "MaxItemLevel": 20
+      },
+      "Trap_T02_38": {
+        "Category": "Trap_T02_",
+        "LootLevel": 37,
+        "MinItemLevel": 20,
+        "MaxItemLevel": 20
+      },
+      "Trap_T02_39": {
+        "Category": "Trap_T02_",
+        "LootLevel": 38,
+        "MinItemLevel": 20,
+        "MaxItemLevel": 20
+      },
+      "Trap_T02_40": {
+        "Category": "Trap_T02_",
+        "LootLevel": 39,
+        "MinItemLevel": 20,
+        "MaxItemLevel": 20
+      },
+      "Trap_T02_41": {
+        "Category": "Trap_T02_",
+        "LootLevel": 40,
+        "MinItemLevel": 20,
+        "MaxItemLevel": 20
+      },
+      "Trap_T02_42": {
+        "Category": "Trap_T02_",
+        "LootLevel": 41,
+        "MinItemLevel": 20,
+        "MaxItemLevel": 20
+      },
+      "Trap_T02_43": {
+        "Category": "Trap_T02_",
+        "LootLevel": 42,
+        "MinItemLevel": 20,
+        "MaxItemLevel": 20
+      },
+      "Trap_T02_44": {
+        "Category": "Trap_T02_",
+        "LootLevel": 43,
+        "MinItemLevel": 20,
+        "MaxItemLevel": 20
+      },
+      "Trap_T02_45": {
+        "Category": "Trap_T02_",
+        "LootLevel": 44,
+        "MinItemLevel": 20,
+        "MaxItemLevel": 20
+      },
+      "Trap_T02_46": {
+        "Category": "Trap_T02_",
+        "LootLevel": 45,
+        "MinItemLevel": 20,
+        "MaxItemLevel": 20
+      },
+      "Trap_T02_47": {
+        "Category": "Trap_T02_",
+        "LootLevel": 46,
+        "MinItemLevel": 20,
+        "MaxItemLevel": 20
+      },
+      "Trap_T02_48": {
+        "Category": "Trap_T02_",
+        "LootLevel": 47,
+        "MinItemLevel": 20,
+        "MaxItemLevel": 20
+      },
+      "Trap_T02_49": {
+        "Category": "Trap_T02_",
+        "LootLevel": 48,
+        "MinItemLevel": 20,
+        "MaxItemLevel": 20
+      },
+      "Trap_T02_50": {
+        "Category": "Trap_T02_",
+        "LootLevel": 49,
+        "MinItemLevel": 20,
+        "MaxItemLevel": 20
+      },
+      "Trap_T02_51": {
+        "Category": "Trap_T02_",
+        "LootLevel": 50,
+        "MinItemLevel": 20,
+        "MaxItemLevel": 20
+      },
+      "Trap_T03_1": {
+        "Category": "Trap_T03_",
+        "LootLevel": 0,
+        "MinItemLevel": 20,
+        "MaxItemLevel": 20
+      },
+      "Trap_T03_2": {
+        "Category": "Trap_T03_",
+        "LootLevel": 1,
+        "MinItemLevel": 20,
+        "MaxItemLevel": 20
+      },
+      "Trap_T03_3": {
+        "Category": "Trap_T03_",
+        "LootLevel": 2,
+        "MinItemLevel": 20,
+        "MaxItemLevel": 20
+      },
+      "Trap_T03_4": {
+        "Category": "Trap_T03_",
+        "LootLevel": 3,
+        "MinItemLevel": 20,
+        "MaxItemLevel": 20
+      },
+      "Trap_T03_5": {
+        "Category": "Trap_T03_",
+        "LootLevel": 4,
+        "MinItemLevel": 20,
+        "MaxItemLevel": 20
+      },
+      "Trap_T03_6": {
+        "Category": "Trap_T03_",
+        "LootLevel": 5,
+        "MinItemLevel": 20,
+        "MaxItemLevel": 20
+      },
+      "Trap_T03_7": {
+        "Category": "Trap_T03_",
+        "LootLevel": 6,
+        "MinItemLevel": 20,
+        "MaxItemLevel": 20
+      },
+      "Trap_T03_8": {
+        "Category": "Trap_T03_",
+        "LootLevel": 7,
+        "MinItemLevel": 20,
+        "MaxItemLevel": 20
+      },
+      "Trap_T03_9": {
+        "Category": "Trap_T03_",
+        "LootLevel": 8,
+        "MinItemLevel": 20,
+        "MaxItemLevel": 20
+      },
+      "Trap_T03_10": {
+        "Category": "Trap_T03_",
+        "LootLevel": 9,
+        "MinItemLevel": 20,
+        "MaxItemLevel": 20
+      },
+      "Trap_T03_11": {
+        "Category": "Trap_T03_",
+        "LootLevel": 10,
+        "MinItemLevel": 20,
+        "MaxItemLevel": 20
+      },
+      "Trap_T03_12": {
+        "Category": "Trap_T03_",
+        "LootLevel": 11,
+        "MinItemLevel": 20,
+        "MaxItemLevel": 20
+      },
+      "Trap_T03_13": {
+        "Category": "Trap_T03_",
+        "LootLevel": 12,
+        "MinItemLevel": 25,
+        "MaxItemLevel": 25
+      },
+      "Trap_T03_14": {
+        "Category": "Trap_T03_",
+        "LootLevel": 13,
+        "MinItemLevel": 25,
+        "MaxItemLevel": 25
+      },
+      "Trap_T03_15": {
+        "Category": "Trap_T03_",
+        "LootLevel": 14,
+        "MinItemLevel": 25,
+        "MaxItemLevel": 25
+      },
+      "Trap_T03_16": {
+        "Category": "Trap_T03_",
+        "LootLevel": 15,
+        "MinItemLevel": 30,
+        "MaxItemLevel": 30
+      },
+      "Trap_T03_17": {
+        "Category": "Trap_T03_",
+        "LootLevel": 16,
+        "MinItemLevel": 30,
+        "MaxItemLevel": 30
+      },
+      "Trap_T03_18": {
+        "Category": "Trap_T03_",
+        "LootLevel": 17,
+        "MinItemLevel": 30,
+        "MaxItemLevel": 30
+      },
+      "Trap_T03_19": {
+        "Category": "Trap_T03_",
+        "LootLevel": 18,
+        "MinItemLevel": 30,
+        "MaxItemLevel": 30
+      },
+      "Trap_T03_20": {
+        "Category": "Trap_T03_",
+        "LootLevel": 19,
+        "MinItemLevel": 30,
+        "MaxItemLevel": 30
+      },
+      "Trap_T03_21": {
+        "Category": "Trap_T03_",
+        "LootLevel": 20,
+        "MinItemLevel": 30,
+        "MaxItemLevel": 30
+      },
+      "Trap_T03_22": {
+        "Category": "Trap_T03_",
+        "LootLevel": 21,
+        "MinItemLevel": 30,
+        "MaxItemLevel": 30
+      },
+      "Trap_T03_23": {
+        "Category": "Trap_T03_",
+        "LootLevel": 22,
+        "MinItemLevel": 30,
+        "MaxItemLevel": 30
+      },
+      "Trap_T03_24": {
+        "Category": "Trap_T03_",
+        "LootLevel": 23,
+        "MinItemLevel": 30,
+        "MaxItemLevel": 30
+      },
+      "Trap_T03_25": {
+        "Category": "Trap_T03_",
+        "LootLevel": 24,
+        "MinItemLevel": 30,
+        "MaxItemLevel": 30
+      },
+      "Trap_T03_26": {
+        "Category": "Trap_T03_",
+        "LootLevel": 25,
+        "MinItemLevel": 30,
+        "MaxItemLevel": 30
+      },
+      "Trap_T03_27": {
+        "Category": "Trap_T03_",
+        "LootLevel": 26,
+        "MinItemLevel": 30,
+        "MaxItemLevel": 30
+      },
+      "Trap_T03_28": {
+        "Category": "Trap_T03_",
+        "LootLevel": 27,
+        "MinItemLevel": 30,
+        "MaxItemLevel": 30
+      },
+      "Trap_T03_29": {
+        "Category": "Trap_T03_",
+        "LootLevel": 28,
+        "MinItemLevel": 30,
+        "MaxItemLevel": 30
+      },
+      "Trap_T03_30": {
+        "Category": "Trap_T03_",
+        "LootLevel": 29,
+        "MinItemLevel": 30,
+        "MaxItemLevel": 30
+      },
+      "Trap_T03_31": {
+        "Category": "Trap_T03_",
+        "LootLevel": 30,
+        "MinItemLevel": 30,
+        "MaxItemLevel": 30
+      },
+      "Trap_T03_32": {
+        "Category": "Trap_T03_",
+        "LootLevel": 31,
+        "MinItemLevel": 30,
+        "MaxItemLevel": 30
+      },
+      "Trap_T03_33": {
+        "Category": "Trap_T03_",
+        "LootLevel": 32,
+        "MinItemLevel": 30,
+        "MaxItemLevel": 30
+      },
+      "Trap_T03_34": {
+        "Category": "Trap_T03_",
+        "LootLevel": 33,
+        "MinItemLevel": 30,
+        "MaxItemLevel": 30
+      },
+      "Trap_T03_35": {
+        "Category": "Trap_T03_",
+        "LootLevel": 34,
+        "MinItemLevel": 30,
+        "MaxItemLevel": 30
+      },
+      "Trap_T03_36": {
+        "Category": "Trap_T03_",
+        "LootLevel": 35,
+        "MinItemLevel": 30,
+        "MaxItemLevel": 30
+      },
+      "Trap_T03_37": {
+        "Category": "Trap_T03_",
+        "LootLevel": 36,
+        "MinItemLevel": 30,
+        "MaxItemLevel": 30
+      },
+      "Trap_T03_38": {
+        "Category": "Trap_T03_",
+        "LootLevel": 37,
+        "MinItemLevel": 30,
+        "MaxItemLevel": 30
+      },
+      "Trap_T03_39": {
+        "Category": "Trap_T03_",
+        "LootLevel": 38,
+        "MinItemLevel": 30,
+        "MaxItemLevel": 30
+      },
+      "Trap_T03_40": {
+        "Category": "Trap_T03_",
+        "LootLevel": 39,
+        "MinItemLevel": 30,
+        "MaxItemLevel": 30
+      },
+      "Trap_T03_41": {
+        "Category": "Trap_T03_",
+        "LootLevel": 40,
+        "MinItemLevel": 30,
+        "MaxItemLevel": 30
+      },
+      "Trap_T03_42": {
+        "Category": "Trap_T03_",
+        "LootLevel": 41,
+        "MinItemLevel": 30,
+        "MaxItemLevel": 30
+      },
+      "Trap_T03_43": {
+        "Category": "Trap_T03_",
+        "LootLevel": 42,
+        "MinItemLevel": 30,
+        "MaxItemLevel": 30
+      },
+      "Trap_T03_44": {
+        "Category": "Trap_T03_",
+        "LootLevel": 43,
+        "MinItemLevel": 30,
+        "MaxItemLevel": 30
+      },
+      "Trap_T03_45": {
+        "Category": "Trap_T03_",
+        "LootLevel": 44,
+        "MinItemLevel": 30,
+        "MaxItemLevel": 30
+      },
+      "Trap_T03_46": {
+        "Category": "Trap_T03_",
+        "LootLevel": 45,
+        "MinItemLevel": 30,
+        "MaxItemLevel": 30
+      },
+      "Trap_T03_47": {
+        "Category": "Trap_T03_",
+        "LootLevel": 46,
+        "MinItemLevel": 30,
+        "MaxItemLevel": 30
+      },
+      "Trap_T03_48": {
+        "Category": "Trap_T03_",
+        "LootLevel": 47,
+        "MinItemLevel": 30,
+        "MaxItemLevel": 30
+      },
+      "Trap_T03_49": {
+        "Category": "Trap_T03_",
+        "LootLevel": 48,
+        "MinItemLevel": 30,
+        "MaxItemLevel": 30
+      },
+      "Trap_T03_50": {
+        "Category": "Trap_T03_",
+        "LootLevel": 49,
+        "MinItemLevel": 30,
+        "MaxItemLevel": 30
+      },
+      "Trap_T03_51": {
+        "Category": "Trap_T03_",
+        "LootLevel": 50,
+        "MinItemLevel": 30,
+        "MaxItemLevel": 30
+      },
+      "Trap_T04_1": {
+        "Category": "Trap_T04_",
+        "LootLevel": 0,
+        "MinItemLevel": 30,
+        "MaxItemLevel": 30
+      },
+      "Trap_T04_2": {
+        "Category": "Trap_T04_",
+        "LootLevel": 1,
+        "MinItemLevel": 30,
+        "MaxItemLevel": 30
+      },
+      "Trap_T04_3": {
+        "Category": "Trap_T04_",
+        "LootLevel": 2,
+        "MinItemLevel": 30,
+        "MaxItemLevel": 30
+      },
+      "Trap_T04_4": {
+        "Category": "Trap_T04_",
+        "LootLevel": 3,
+        "MinItemLevel": 30,
+        "MaxItemLevel": 30
+      },
+      "Trap_T04_5": {
+        "Category": "Trap_T04_",
+        "LootLevel": 4,
+        "MinItemLevel": 30,
+        "MaxItemLevel": 30
+      },
+      "Trap_T04_6": {
+        "Category": "Trap_T04_",
+        "LootLevel": 5,
+        "MinItemLevel": 30,
+        "MaxItemLevel": 30
+      },
+      "Trap_T04_7": {
+        "Category": "Trap_T04_",
+        "LootLevel": 6,
+        "MinItemLevel": 30,
+        "MaxItemLevel": 30
+      },
+      "Trap_T04_8": {
+        "Category": "Trap_T04_",
+        "LootLevel": 7,
+        "MinItemLevel": 30,
+        "MaxItemLevel": 30
+      },
+      "Trap_T04_9": {
+        "Category": "Trap_T04_",
+        "LootLevel": 8,
+        "MinItemLevel": 30,
+        "MaxItemLevel": 30
+      },
+      "Trap_T04_10": {
+        "Category": "Trap_T04_",
+        "LootLevel": 9,
+        "MinItemLevel": 30,
+        "MaxItemLevel": 30
+      },
+      "Trap_T04_11": {
+        "Category": "Trap_T04_",
+        "LootLevel": 10,
+        "MinItemLevel": 30,
+        "MaxItemLevel": 30
+      },
+      "Trap_T04_12": {
+        "Category": "Trap_T04_",
+        "LootLevel": 11,
+        "MinItemLevel": 30,
+        "MaxItemLevel": 30
+      },
+      "Trap_T04_13": {
+        "Category": "Trap_T04_",
+        "LootLevel": 12,
+        "MinItemLevel": 30,
+        "MaxItemLevel": 30
+      },
+      "Trap_T04_14": {
+        "Category": "Trap_T04_",
+        "LootLevel": 13,
+        "MinItemLevel": 30,
+        "MaxItemLevel": 30
+      },
+      "Trap_T04_15": {
+        "Category": "Trap_T04_",
+        "LootLevel": 14,
+        "MinItemLevel": 30,
+        "MaxItemLevel": 30
+      },
+      "Trap_T04_16": {
+        "Category": "Trap_T04_",
+        "LootLevel": 15,
+        "MinItemLevel": 30,
+        "MaxItemLevel": 30
+      },
+      "Trap_T04_17": {
+        "Category": "Trap_T04_",
+        "LootLevel": 16,
+        "MinItemLevel": 30,
+        "MaxItemLevel": 30
+      },
+      "Trap_T04_18": {
+        "Category": "Trap_T04_",
+        "LootLevel": 17,
+        "MinItemLevel": 30,
+        "MaxItemLevel": 30
+      },
+      "Trap_T04_19": {
+        "Category": "Trap_T04_",
+        "LootLevel": 18,
+        "MinItemLevel": 35,
+        "MaxItemLevel": 35
+      },
+      "Trap_T04_20": {
+        "Category": "Trap_T04_",
+        "LootLevel": 19,
+        "MinItemLevel": 35,
+        "MaxItemLevel": 35
+      },
+      "Trap_T04_21": {
+        "Category": "Trap_T04_",
+        "LootLevel": 20,
+        "MinItemLevel": 35,
+        "MaxItemLevel": 35
+      },
+      "Trap_T04_22": {
+        "Category": "Trap_T04_",
+        "LootLevel": 21,
+        "MinItemLevel": 40,
+        "MaxItemLevel": 40
+      },
+      "Trap_T04_23": {
+        "Category": "Trap_T04_",
+        "LootLevel": 22,
+        "MinItemLevel": 40,
+        "MaxItemLevel": 40
+      },
+      "Trap_T04_24": {
+        "Category": "Trap_T04_",
+        "LootLevel": 23,
+        "MinItemLevel": 40,
+        "MaxItemLevel": 40
+      },
+      "Trap_T04_25": {
+        "Category": "Trap_T04_",
+        "LootLevel": 24,
+        "MinItemLevel": 40,
+        "MaxItemLevel": 40
+      },
+      "Trap_T04_26": {
+        "Category": "Trap_T04_",
+        "LootLevel": 25,
+        "MinItemLevel": 40,
+        "MaxItemLevel": 40
+      },
+      "Trap_T04_27": {
+        "Category": "Trap_T04_",
+        "LootLevel": 26,
+        "MinItemLevel": 40,
+        "MaxItemLevel": 40
+      },
+      "Trap_T04_28": {
+        "Category": "Trap_T04_",
+        "LootLevel": 27,
+        "MinItemLevel": 40,
+        "MaxItemLevel": 40
+      },
+      "Trap_T04_29": {
+        "Category": "Trap_T04_",
+        "LootLevel": 28,
+        "MinItemLevel": 40,
+        "MaxItemLevel": 40
+      },
+      "Trap_T04_30": {
+        "Category": "Trap_T04_",
+        "LootLevel": 29,
+        "MinItemLevel": 40,
+        "MaxItemLevel": 40
+      },
+      "Trap_T04_31": {
+        "Category": "Trap_T04_",
+        "LootLevel": 30,
+        "MinItemLevel": 40,
+        "MaxItemLevel": 40
+      },
+      "Trap_T04_32": {
+        "Category": "Trap_T04_",
+        "LootLevel": 31,
+        "MinItemLevel": 40,
+        "MaxItemLevel": 40
+      },
+      "Trap_T04_33": {
+        "Category": "Trap_T04_",
+        "LootLevel": 32,
+        "MinItemLevel": 40,
+        "MaxItemLevel": 40
+      },
+      "Trap_T04_34": {
+        "Category": "Trap_T04_",
+        "LootLevel": 33,
+        "MinItemLevel": 40,
+        "MaxItemLevel": 40
+      },
+      "Trap_T04_35": {
+        "Category": "Trap_T04_",
+        "LootLevel": 34,
+        "MinItemLevel": 40,
+        "MaxItemLevel": 40
+      },
+      "Trap_T04_36": {
+        "Category": "Trap_T04_",
+        "LootLevel": 35,
+        "MinItemLevel": 40,
+        "MaxItemLevel": 40
+      },
+      "Trap_T04_37": {
+        "Category": "Trap_T04_",
+        "LootLevel": 36,
+        "MinItemLevel": 40,
+        "MaxItemLevel": 40
+      },
+      "Trap_T04_38": {
+        "Category": "Trap_T04_",
+        "LootLevel": 37,
+        "MinItemLevel": 40,
+        "MaxItemLevel": 40
+      },
+      "Trap_T04_39": {
+        "Category": "Trap_T04_",
+        "LootLevel": 38,
+        "MinItemLevel": 40,
+        "MaxItemLevel": 40
+      },
+      "Trap_T04_40": {
+        "Category": "Trap_T04_",
+        "LootLevel": 39,
+        "MinItemLevel": 40,
+        "MaxItemLevel": 40
+      },
+      "Trap_T04_41": {
+        "Category": "Trap_T04_",
+        "LootLevel": 40,
+        "MinItemLevel": 40,
+        "MaxItemLevel": 40
+      },
+      "Trap_T04_42": {
+        "Category": "Trap_T04_",
+        "LootLevel": 41,
+        "MinItemLevel": 40,
+        "MaxItemLevel": 40
+      },
+      "Trap_T04_43": {
+        "Category": "Trap_T04_",
+        "LootLevel": 42,
+        "MinItemLevel": 40,
+        "MaxItemLevel": 40
+      },
+      "Trap_T04_44": {
+        "Category": "Trap_T04_",
+        "LootLevel": 43,
+        "MinItemLevel": 40,
+        "MaxItemLevel": 40
+      },
+      "Trap_T04_45": {
+        "Category": "Trap_T04_",
+        "LootLevel": 44,
+        "MinItemLevel": 40,
+        "MaxItemLevel": 40
+      },
+      "Trap_T04_46": {
+        "Category": "Trap_T04_",
+        "LootLevel": 45,
+        "MinItemLevel": 40,
+        "MaxItemLevel": 40
+      },
+      "Trap_T04_47": {
+        "Category": "Trap_T04_",
+        "LootLevel": 46,
+        "MinItemLevel": 40,
+        "MaxItemLevel": 40
+      },
+      "Trap_T04_48": {
+        "Category": "Trap_T04_",
+        "LootLevel": 47,
+        "MinItemLevel": 40,
+        "MaxItemLevel": 40
+      },
+      "Trap_T04_49": {
+        "Category": "Trap_T04_",
+        "LootLevel": 48,
+        "MinItemLevel": 40,
+        "MaxItemLevel": 40
+      },
+      "Trap_T04_50": {
+        "Category": "Trap_T04_",
+        "LootLevel": 49,
+        "MinItemLevel": 40,
+        "MaxItemLevel": 40
+      },
+      "Trap_T04_51": {
+        "Category": "Trap_T04_",
+        "LootLevel": 50,
+        "MinItemLevel": 40,
+        "MaxItemLevel": 40
+      },
+      "Trap_T05_1": {
+        "Category": "Trap_T05_",
+        "LootLevel": 0,
+        "MinItemLevel": 40,
+        "MaxItemLevel": 40
+      },
+      "Trap_T05_2": {
+        "Category": "Trap_T05_",
+        "LootLevel": 1,
+        "MinItemLevel": 40,
+        "MaxItemLevel": 40
+      },
+      "Trap_T05_3": {
+        "Category": "Trap_T05_",
+        "LootLevel": 2,
+        "MinItemLevel": 40,
+        "MaxItemLevel": 40
+      },
+      "Trap_T05_4": {
+        "Category": "Trap_T05_",
+        "LootLevel": 3,
+        "MinItemLevel": 40,
+        "MaxItemLevel": 40
+      },
+      "Trap_T05_5": {
+        "Category": "Trap_T05_",
+        "LootLevel": 4,
+        "MinItemLevel": 40,
+        "MaxItemLevel": 40
+      },
+      "Trap_T05_6": {
+        "Category": "Trap_T05_",
+        "LootLevel": 5,
+        "MinItemLevel": 40,
+        "MaxItemLevel": 40
+      },
+      "Trap_T05_7": {
+        "Category": "Trap_T05_",
+        "LootLevel": 6,
+        "MinItemLevel": 40,
+        "MaxItemLevel": 40
+      },
+      "Trap_T05_8": {
+        "Category": "Trap_T05_",
+        "LootLevel": 7,
+        "MinItemLevel": 40,
+        "MaxItemLevel": 40
+      },
+      "Trap_T05_9": {
+        "Category": "Trap_T05_",
+        "LootLevel": 8,
+        "MinItemLevel": 40,
+        "MaxItemLevel": 40
+      },
+      "Trap_T05_10": {
+        "Category": "Trap_T05_",
+        "LootLevel": 9,
+        "MinItemLevel": 40,
+        "MaxItemLevel": 40
+      },
+      "Trap_T05_11": {
+        "Category": "Trap_T05_",
+        "LootLevel": 10,
+        "MinItemLevel": 40,
+        "MaxItemLevel": 40
+      },
+      "Trap_T05_12": {
+        "Category": "Trap_T05_",
+        "LootLevel": 11,
+        "MinItemLevel": 40,
+        "MaxItemLevel": 40
+      },
+      "Trap_T05_13": {
+        "Category": "Trap_T05_",
+        "LootLevel": 12,
+        "MinItemLevel": 40,
+        "MaxItemLevel": 40
+      },
+      "Trap_T05_14": {
+        "Category": "Trap_T05_",
+        "LootLevel": 13,
+        "MinItemLevel": 40,
+        "MaxItemLevel": 40
+      },
+      "Trap_T05_15": {
+        "Category": "Trap_T05_",
+        "LootLevel": 14,
+        "MinItemLevel": 40,
+        "MaxItemLevel": 40
+      },
+      "Trap_T05_16": {
+        "Category": "Trap_T05_",
+        "LootLevel": 15,
+        "MinItemLevel": 40,
+        "MaxItemLevel": 40
+      },
+      "Trap_T05_17": {
+        "Category": "Trap_T05_",
+        "LootLevel": 16,
+        "MinItemLevel": 40,
+        "MaxItemLevel": 40
+      },
+      "Trap_T05_18": {
+        "Category": "Trap_T05_",
+        "LootLevel": 17,
+        "MinItemLevel": 40,
+        "MaxItemLevel": 40
+      },
+      "Trap_T05_19": {
+        "Category": "Trap_T05_",
+        "LootLevel": 18,
+        "MinItemLevel": 40,
+        "MaxItemLevel": 40
+      },
+      "Trap_T05_20": {
+        "Category": "Trap_T05_",
+        "LootLevel": 19,
+        "MinItemLevel": 40,
+        "MaxItemLevel": 40
+      },
+      "Trap_T05_21": {
+        "Category": "Trap_T05_",
+        "LootLevel": 20,
+        "MinItemLevel": 40,
+        "MaxItemLevel": 40
+      },
+      "Trap_T05_22": {
+        "Category": "Trap_T05_",
+        "LootLevel": 21,
+        "MinItemLevel": 40,
+        "MaxItemLevel": 40
+      },
+      "Trap_T05_23": {
+        "Category": "Trap_T05_",
+        "LootLevel": 22,
+        "MinItemLevel": 40,
+        "MaxItemLevel": 40
+      },
+      "Trap_T05_24": {
+        "Category": "Trap_T05_",
+        "LootLevel": 23,
+        "MinItemLevel": 45,
+        "MaxItemLevel": 45
+      },
+      "Trap_T05_25": {
+        "Category": "Trap_T05_",
+        "LootLevel": 24,
+        "MinItemLevel": 45,
+        "MaxItemLevel": 45
+      },
+      "Trap_T05_26": {
+        "Category": "Trap_T05_",
+        "LootLevel": 25,
+        "MinItemLevel": 45,
+        "MaxItemLevel": 45
+      },
+      "Trap_T05_27": {
+        "Category": "Trap_T05_",
+        "LootLevel": 26,
+        "MinItemLevel": 50,
+        "MaxItemLevel": 50
+      },
+      "Trap_T05_28": {
+        "Category": "Trap_T05_",
+        "LootLevel": 27,
+        "MinItemLevel": 50,
+        "MaxItemLevel": 50
+      },
+      "Trap_T05_29": {
+        "Category": "Trap_T05_",
+        "LootLevel": 28,
+        "MinItemLevel": 50,
+        "MaxItemLevel": 50
+      },
+      "Trap_T05_30": {
+        "Category": "Trap_T05_",
+        "LootLevel": 29,
+        "MinItemLevel": 50,
+        "MaxItemLevel": 50
+      },
+      "Trap_T05_31": {
+        "Category": "Trap_T05_",
+        "LootLevel": 30,
+        "MinItemLevel": 50,
+        "MaxItemLevel": 50
+      },
+      "Trap_T05_32": {
+        "Category": "Trap_T05_",
+        "LootLevel": 31,
+        "MinItemLevel": 50,
+        "MaxItemLevel": 50
+      },
+      "Trap_T05_33": {
+        "Category": "Trap_T05_",
+        "LootLevel": 32,
+        "MinItemLevel": 50,
+        "MaxItemLevel": 50
+      },
+      "Trap_T05_34": {
+        "Category": "Trap_T05_",
+        "LootLevel": 33,
+        "MinItemLevel": 50,
+        "MaxItemLevel": 50
+      },
+      "Trap_T05_35": {
+        "Category": "Trap_T05_",
+        "LootLevel": 34,
+        "MinItemLevel": 50,
+        "MaxItemLevel": 50
+      },
+      "Trap_T05_36": {
+        "Category": "Trap_T05_",
+        "LootLevel": 35,
+        "MinItemLevel": 50,
+        "MaxItemLevel": 50
+      },
+      "Trap_T05_37": {
+        "Category": "Trap_T05_",
+        "LootLevel": 36,
+        "MinItemLevel": 50,
+        "MaxItemLevel": 50
+      },
+      "Trap_T05_38": {
+        "Category": "Trap_T05_",
+        "LootLevel": 37,
+        "MinItemLevel": 50,
+        "MaxItemLevel": 50
+      },
+      "Trap_T05_39": {
+        "Category": "Trap_T05_",
+        "LootLevel": 38,
+        "MinItemLevel": 50,
+        "MaxItemLevel": 50
+      },
+      "Trap_T05_40": {
+        "Category": "Trap_T05_",
+        "LootLevel": 39,
+        "MinItemLevel": 50,
+        "MaxItemLevel": 50
+      },
+      "Trap_T05_41": {
+        "Category": "Trap_T05_",
+        "LootLevel": 40,
+        "MinItemLevel": 50,
+        "MaxItemLevel": 50
+      },
+      "Trap_T05_42": {
+        "Category": "Trap_T05_",
+        "LootLevel": 41,
+        "MinItemLevel": 50,
+        "MaxItemLevel": 50
+      },
+      "Trap_T05_43": {
+        "Category": "Trap_T05_",
+        "LootLevel": 42,
+        "MinItemLevel": 50,
+        "MaxItemLevel": 50
+      },
+      "Trap_T05_44": {
+        "Category": "Trap_T05_",
+        "LootLevel": 43,
+        "MinItemLevel": 50,
+        "MaxItemLevel": 50
+      },
+      "Trap_T05_45": {
+        "Category": "Trap_T05_",
+        "LootLevel": 44,
+        "MinItemLevel": 50,
+        "MaxItemLevel": 50
+      },
+      "Trap_T05_46": {
+        "Category": "Trap_T05_",
+        "LootLevel": 45,
+        "MinItemLevel": 50,
+        "MaxItemLevel": 50
+      },
+      "Trap_T05_47": {
+        "Category": "Trap_T05_",
+        "LootLevel": 46,
+        "MinItemLevel": 50,
+        "MaxItemLevel": 50
+      },
+      "Trap_T05_48": {
+        "Category": "Trap_T05_",
+        "LootLevel": 47,
+        "MinItemLevel": 50,
+        "MaxItemLevel": 50
+      },
+      "Trap_T05_49": {
+        "Category": "Trap_T05_",
+        "LootLevel": 48,
+        "MinItemLevel": 50,
+        "MaxItemLevel": 50
+      },
+      "Trap_T05_50": {
+        "Category": "Trap_T05_",
+        "LootLevel": 49,
+        "MinItemLevel": 50,
+        "MaxItemLevel": 50
+      },
+      "Trap_T05_51": {
+        "Category": "Trap_T05_",
+        "LootLevel": 50,
+        "MinItemLevel": 50,
+        "MaxItemLevel": 50
+      },
+      "Trap_T06_1": {
+        "Category": "Trap_T06_",
+        "LootLevel": 0,
+        "MinItemLevel": 50,
+        "MaxItemLevel": 50
+      },
+      "Trap_T06_2": {
+        "Category": "Trap_T06_",
+        "LootLevel": 1,
+        "MinItemLevel": 50,
+        "MaxItemLevel": 50
+      },
+      "Trap_T06_3": {
+        "Category": "Trap_T06_",
+        "LootLevel": 2,
+        "MinItemLevel": 50,
+        "MaxItemLevel": 50
+      },
+      "Trap_T06_4": {
+        "Category": "Trap_T06_",
+        "LootLevel": 3,
+        "MinItemLevel": 50,
+        "MaxItemLevel": 50
+      },
+      "Trap_T06_5": {
+        "Category": "Trap_T06_",
+        "LootLevel": 4,
+        "MinItemLevel": 50,
+        "MaxItemLevel": 50
+      },
+      "Trap_T06_6": {
+        "Category": "Trap_T06_",
+        "LootLevel": 5,
+        "MinItemLevel": 50,
+        "MaxItemLevel": 50
+      },
+      "Trap_T06_7": {
+        "Category": "Trap_T06_",
+        "LootLevel": 6,
+        "MinItemLevel": 50,
+        "MaxItemLevel": 50
+      },
+      "Trap_T06_8": {
+        "Category": "Trap_T06_",
+        "LootLevel": 7,
+        "MinItemLevel": 50,
+        "MaxItemLevel": 50
+      },
+      "Trap_T06_9": {
+        "Category": "Trap_T06_",
+        "LootLevel": 8,
+        "MinItemLevel": 50,
+        "MaxItemLevel": 50
+      },
+      "Trap_T06_10": {
+        "Category": "Trap_T06_",
+        "LootLevel": 9,
+        "MinItemLevel": 50,
+        "MaxItemLevel": 50
+      },
+      "Trap_T06_11": {
+        "Category": "Trap_T06_",
+        "LootLevel": 10,
+        "MinItemLevel": 50,
+        "MaxItemLevel": 50
+      },
+      "Trap_T06_12": {
+        "Category": "Trap_T06_",
+        "LootLevel": 11,
+        "MinItemLevel": 50,
+        "MaxItemLevel": 50
+      },
+      "Trap_T06_13": {
+        "Category": "Trap_T06_",
+        "LootLevel": 12,
+        "MinItemLevel": 50,
+        "MaxItemLevel": 50
+      },
+      "Trap_T06_14": {
+        "Category": "Trap_T06_",
+        "LootLevel": 13,
+        "MinItemLevel": 50,
+        "MaxItemLevel": 50
+      },
+      "Trap_T06_15": {
+        "Category": "Trap_T06_",
+        "LootLevel": 14,
+        "MinItemLevel": 50,
+        "MaxItemLevel": 50
+      },
+      "Trap_T06_16": {
+        "Category": "Trap_T06_",
+        "LootLevel": 15,
+        "MinItemLevel": 50,
+        "MaxItemLevel": 50
+      },
+      "Trap_T06_17": {
+        "Category": "Trap_T06_",
+        "LootLevel": 16,
+        "MinItemLevel": 50,
+        "MaxItemLevel": 50
+      },
+      "Trap_T06_18": {
+        "Category": "Trap_T06_",
+        "LootLevel": 17,
+        "MinItemLevel": 50,
+        "MaxItemLevel": 50
+      },
+      "Trap_T06_19": {
+        "Category": "Trap_T06_",
+        "LootLevel": 18,
+        "MinItemLevel": 50,
+        "MaxItemLevel": 50
+      },
+      "Trap_T06_20": {
+        "Category": "Trap_T06_",
+        "LootLevel": 19,
+        "MinItemLevel": 50,
+        "MaxItemLevel": 50
+      },
+      "Trap_T06_21": {
+        "Category": "Trap_T06_",
+        "LootLevel": 20,
+        "MinItemLevel": 50,
+        "MaxItemLevel": 50
+      },
+      "Trap_T06_22": {
+        "Category": "Trap_T06_",
+        "LootLevel": 21,
+        "MinItemLevel": 50,
+        "MaxItemLevel": 50
+      },
+      "Trap_T06_23": {
+        "Category": "Trap_T06_",
+        "LootLevel": 22,
+        "MinItemLevel": 50,
+        "MaxItemLevel": 50
+      },
+      "Trap_T06_24": {
+        "Category": "Trap_T06_",
+        "LootLevel": 23,
+        "MinItemLevel": 50,
+        "MaxItemLevel": 50
+      },
+      "Trap_T06_25": {
+        "Category": "Trap_T06_",
+        "LootLevel": 24,
+        "MinItemLevel": 50,
+        "MaxItemLevel": 50
+      },
+      "Trap_T06_26": {
+        "Category": "Trap_T06_",
+        "LootLevel": 25,
+        "MinItemLevel": 50,
+        "MaxItemLevel": 50
+      },
+      "Trap_T06_27": {
+        "Category": "Trap_T06_",
+        "LootLevel": 26,
+        "MinItemLevel": 50,
+        "MaxItemLevel": 50
+      },
+      "Trap_T06_28": {
+        "Category": "Trap_T06_",
+        "LootLevel": 27,
+        "MinItemLevel": 50,
+        "MaxItemLevel": 50
+      },
+      "Trap_T06_29": {
+        "Category": "Trap_T06_",
+        "LootLevel": 28,
+        "MinItemLevel": 50,
+        "MaxItemLevel": 50
+      },
+      "Trap_T06_30": {
+        "Category": "Trap_T06_",
+        "LootLevel": 29,
+        "MinItemLevel": 55,
+        "MaxItemLevel": 55
+      },
+      "Trap_T06_31": {
+        "Category": "Trap_T06_",
+        "LootLevel": 30,
+        "MinItemLevel": 55,
+        "MaxItemLevel": 55
+      },
+      "Trap_T06_32": {
+        "Category": "Trap_T06_",
+        "LootLevel": 31,
+        "MinItemLevel": 55,
+        "MaxItemLevel": 55
+      },
+      "Trap_T06_33": {
+        "Category": "Trap_T06_",
+        "LootLevel": 32,
+        "MinItemLevel": 60,
+        "MaxItemLevel": 60
+      },
+      "Trap_T06_34": {
+        "Category": "Trap_T06_",
+        "LootLevel": 33,
+        "MinItemLevel": 60,
+        "MaxItemLevel": 60
+      },
+      "Trap_T06_35": {
+        "Category": "Trap_T06_",
+        "LootLevel": 34,
+        "MinItemLevel": 60,
+        "MaxItemLevel": 60
+      },
+      "Trap_T06_36": {
+        "Category": "Trap_T06_",
+        "LootLevel": 35,
+        "MinItemLevel": 60,
+        "MaxItemLevel": 60
+      },
+      "Trap_T06_37": {
+        "Category": "Trap_T06_",
+        "LootLevel": 36,
+        "MinItemLevel": 60,
+        "MaxItemLevel": 60
+      },
+      "Trap_T06_38": {
+        "Category": "Trap_T06_",
+        "LootLevel": 37,
+        "MinItemLevel": 60,
+        "MaxItemLevel": 60
+      },
+      "Trap_T06_39": {
+        "Category": "Trap_T06_",
+        "LootLevel": 38,
+        "MinItemLevel": 60,
+        "MaxItemLevel": 60
+      },
+      "Trap_T06_40": {
+        "Category": "Trap_T06_",
+        "LootLevel": 39,
+        "MinItemLevel": 60,
+        "MaxItemLevel": 60
+      },
+      "Trap_T06_41": {
+        "Category": "Trap_T06_",
+        "LootLevel": 40,
+        "MinItemLevel": 60,
+        "MaxItemLevel": 60
+      },
+      "Trap_T06_42": {
+        "Category": "Trap_T06_",
+        "LootLevel": 41,
+        "MinItemLevel": 60,
+        "MaxItemLevel": 60
+      },
+      "Trap_T06_43": {
+        "Category": "Trap_T06_",
+        "LootLevel": 42,
+        "MinItemLevel": 60,
+        "MaxItemLevel": 60
+      },
+      "Trap_T06_44": {
+        "Category": "Trap_T06_",
+        "LootLevel": 43,
+        "MinItemLevel": 60,
+        "MaxItemLevel": 60
+      },
+      "Trap_T06_45": {
+        "Category": "Trap_T06_",
+        "LootLevel": 44,
+        "MinItemLevel": 60,
+        "MaxItemLevel": 60
+      },
+      "Trap_T06_46": {
+        "Category": "Trap_T06_",
+        "LootLevel": 45,
+        "MinItemLevel": 60,
+        "MaxItemLevel": 60
+      },
+      "Trap_T06_47": {
+        "Category": "Trap_T06_",
+        "LootLevel": 46,
+        "MinItemLevel": 60,
+        "MaxItemLevel": 60
+      },
+      "Trap_T06_48": {
+        "Category": "Trap_T06_",
+        "LootLevel": 47,
+        "MinItemLevel": 60,
+        "MaxItemLevel": 60
+      },
+      "Trap_T06_49": {
+        "Category": "Trap_T06_",
+        "LootLevel": 48,
+        "MinItemLevel": 60,
+        "MaxItemLevel": 60
+      },
+      "Trap_T06_50": {
+        "Category": "Trap_T06_",
+        "LootLevel": 49,
+        "MinItemLevel": 60,
+        "MaxItemLevel": 60
+      },
+      "Trap_T06_51": {
+        "Category": "Trap_T06_",
+        "LootLevel": 50,
+        "MinItemLevel": 60,
+        "MaxItemLevel": 60
+      },
+      "Fixed1": {
+        "Category": "Fixed",
+        "LootLevel": 0,
+        "MinItemLevel": 1,
+        "MaxItemLevel": 1
+      },
+      "Fixed2": {
+        "Category": "Fixed",
+        "LootLevel": 1,
+        "MinItemLevel": 2,
+        "MaxItemLevel": 2
+      },
+      "Fixed3": {
+        "Category": "Fixed",
+        "LootLevel": 2,
+        "MinItemLevel": 4,
+        "MaxItemLevel": 4
+      },
+      "Fixed4": {
+        "Category": "Fixed",
+        "LootLevel": 3,
+        "MinItemLevel": 6,
+        "MaxItemLevel": 6
+      },
+      "Fixed5": {
+        "Category": "Fixed",
+        "LootLevel": 4,
+        "MinItemLevel": 8,
+        "MaxItemLevel": 8
+      },
+      "Fixed6": {
+        "Category": "Fixed",
+        "LootLevel": 5,
+        "MinItemLevel": 10,
+        "MaxItemLevel": 10
+      },
+      "Fixed7": {
+        "Category": "Fixed",
+        "LootLevel": 6,
+        "MinItemLevel": 12,
+        "MaxItemLevel": 12
+      },
+      "Fixed8": {
+        "Category": "Fixed",
+        "LootLevel": 7,
+        "MinItemLevel": 14,
+        "MaxItemLevel": 14
+      },
+      "Fixed9": {
+        "Category": "Fixed",
+        "LootLevel": 8,
+        "MinItemLevel": 16,
+        "MaxItemLevel": 16
+      },
+      "Fixed10": {
+        "Category": "Fixed",
+        "LootLevel": 9,
+        "MinItemLevel": 18,
+        "MaxItemLevel": 18
+      },
+      "Fixed11": {
+        "Category": "Fixed",
+        "LootLevel": 10,
+        "MinItemLevel": 20,
+        "MaxItemLevel": 20
+      },
+      "Fixed12": {
+        "Category": "Fixed",
+        "LootLevel": 11,
+        "MinItemLevel": 22,
+        "MaxItemLevel": 22
+      },
+      "Fixed13": {
+        "Category": "Fixed",
+        "LootLevel": 12,
+        "MinItemLevel": 24,
+        "MaxItemLevel": 24
+      },
+      "Fixed14": {
+        "Category": "Fixed",
+        "LootLevel": 13,
+        "MinItemLevel": 26,
+        "MaxItemLevel": 26
+      },
+      "Fixed15": {
+        "Category": "Fixed",
+        "LootLevel": 14,
+        "MinItemLevel": 28,
+        "MaxItemLevel": 28
+      },
+      "Fixed16": {
+        "Category": "Fixed",
+        "LootLevel": 15,
+        "MinItemLevel": 30,
+        "MaxItemLevel": 30
+      },
+      "Fixed17": {
+        "Category": "Fixed",
+        "LootLevel": 16,
+        "MinItemLevel": 32,
+        "MaxItemLevel": 32
+      },
+      "Fixed18": {
+        "Category": "Fixed",
+        "LootLevel": 17,
+        "MinItemLevel": 34,
+        "MaxItemLevel": 34
+      },
+      "Fixed19": {
+        "Category": "Fixed",
+        "LootLevel": 18,
+        "MinItemLevel": 36,
+        "MaxItemLevel": 36
+      },
+      "Fixed20": {
+        "Category": "Fixed",
+        "LootLevel": 19,
+        "MinItemLevel": 38,
+        "MaxItemLevel": 38
+      },
+      "Fixed21": {
+        "Category": "Fixed",
+        "LootLevel": 20,
+        "MinItemLevel": 40,
+        "MaxItemLevel": 40
+      },
+      "Fixed22": {
+        "Category": "Fixed",
+        "LootLevel": 21,
+        "MinItemLevel": 42,
+        "MaxItemLevel": 42
+      },
+      "Fixed23": {
+        "Category": "Fixed",
+        "LootLevel": 22,
+        "MinItemLevel": 44,
+        "MaxItemLevel": 44
+      },
+      "Fixed24": {
+        "Category": "Fixed",
+        "LootLevel": 23,
+        "MinItemLevel": 46,
+        "MaxItemLevel": 46
+      },
+      "Fixed25": {
+        "Category": "Fixed",
+        "LootLevel": 24,
+        "MinItemLevel": 48,
+        "MaxItemLevel": 48
+      },
+      "Fixed26": {
+        "Category": "Fixed",
+        "LootLevel": 25,
+        "MinItemLevel": 50,
+        "MaxItemLevel": 50
+      },
+      "Fixed27": {
+        "Category": "Fixed",
+        "LootLevel": 26,
+        "MinItemLevel": 50,
+        "MaxItemLevel": 50
+      },
+      "Fixed28": {
+        "Category": "Fixed",
+        "LootLevel": 27,
+        "MinItemLevel": 50,
+        "MaxItemLevel": 50
+      },
+      "Fixed29": {
+        "Category": "Fixed",
+        "LootLevel": 28,
+        "MinItemLevel": 50,
+        "MaxItemLevel": 50
+      },
+      "Fixed30": {
+        "Category": "Fixed",
+        "LootLevel": 29,
+        "MinItemLevel": 50,
+        "MaxItemLevel": 50
+      },
+      "Fixed31": {
+        "Category": "Fixed",
+        "LootLevel": 30,
+        "MinItemLevel": 50,
+        "MaxItemLevel": 50
+      },
+      "Fixed32": {
+        "Category": "Fixed",
+        "LootLevel": 31,
+        "MinItemLevel": 50,
+        "MaxItemLevel": 50
+      },
+      "Fixed33": {
+        "Category": "Fixed",
+        "LootLevel": 32,
+        "MinItemLevel": 50,
+        "MaxItemLevel": 50
+      },
+      "Fixed34": {
+        "Category": "Fixed",
+        "LootLevel": 33,
+        "MinItemLevel": 50,
+        "MaxItemLevel": 50
+      },
+      "Fixed35": {
+        "Category": "Fixed",
+        "LootLevel": 34,
+        "MinItemLevel": 50,
+        "MaxItemLevel": 50
+      },
+      "Fixed36": {
+        "Category": "Fixed",
+        "LootLevel": 35,
+        "MinItemLevel": 50,
+        "MaxItemLevel": 50
+      },
+      "Fixed37": {
+        "Category": "Fixed",
+        "LootLevel": 36,
+        "MinItemLevel": 50,
+        "MaxItemLevel": 50
+      },
+      "Fixed38": {
+        "Category": "Fixed",
+        "LootLevel": 37,
+        "MinItemLevel": 50,
+        "MaxItemLevel": 50
+      },
+      "Fixed39": {
+        "Category": "Fixed",
+        "LootLevel": 38,
+        "MinItemLevel": 50,
+        "MaxItemLevel": 50
+      },
+      "Fixed40": {
+        "Category": "Fixed",
+        "LootLevel": 39,
+        "MinItemLevel": 50,
+        "MaxItemLevel": 50
+      },
+      "Fixed41": {
+        "Category": "Fixed",
+        "LootLevel": 40,
+        "MinItemLevel": 50,
+        "MaxItemLevel": 50
+      },
+      "Fixed42": {
+        "Category": "Fixed",
+        "LootLevel": 41,
+        "MinItemLevel": 50,
+        "MaxItemLevel": 50
+      },
+      "Fixed43": {
+        "Category": "Fixed",
+        "LootLevel": 42,
+        "MinItemLevel": 50,
+        "MaxItemLevel": 50
+      },
+      "Fixed44": {
+        "Category": "Fixed",
+        "LootLevel": 43,
+        "MinItemLevel": 50,
+        "MaxItemLevel": 50
+      },
+      "Fixed45": {
+        "Category": "Fixed",
+        "LootLevel": 44,
+        "MinItemLevel": 50,
+        "MaxItemLevel": 50
+      },
+      "Fixed46": {
+        "Category": "Fixed",
+        "LootLevel": 45,
+        "MinItemLevel": 50,
+        "MaxItemLevel": 50
+      },
+      "Fixed47": {
+        "Category": "Fixed",
+        "LootLevel": 46,
+        "MinItemLevel": 50,
+        "MaxItemLevel": 50
+      },
+      "Fixed48": {
+        "Category": "Fixed",
+        "LootLevel": 47,
+        "MinItemLevel": 50,
+        "MaxItemLevel": 50
+      },
+      "Fixed49": {
+        "Category": "Fixed",
+        "LootLevel": 48,
+        "MinItemLevel": 50,
+        "MaxItemLevel": 50
+      },
+      "Fixed50": {
+        "Category": "Fixed",
+        "LootLevel": 49,
+        "MinItemLevel": 50,
+        "MaxItemLevel": 50
+      },
+      "Fixed51": {
+        "Category": "Fixed",
+        "LootLevel": 50,
+        "MinItemLevel": 50,
+        "MaxItemLevel": 50
+      }
+    }
+  }
+]
