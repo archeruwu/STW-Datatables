@@ -1,0 +1,298 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "QuestTagToIconDataRows",
+    "Class": "UScriptClass'DataTable'",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'FortQuestTagToIconDataRow'",
+        "ObjectPath": "/Script/FortniteGame"
+      }
+    },
+    "Rows": {
+      "Building.Type.Container.TreasureChest": {
+        "Icon": {
+          "AssetPathName": "/Game/Athena/UI/Challenges/Art/ChallengeTypeIcons/UI_ChallengeIcon_Collect.UI_ChallengeIcon_Collect",
+          "SubPathString": ""
+        }
+      },
+      "Quest.ChallengeIcon.Damage": {
+        "Icon": {
+          "AssetPathName": "/Game/Athena/UI/Challenges/Art/ChallengeTypeIcons/UI_ChallengeIcon_Damage.UI_ChallengeIcon_Damage",
+          "SubPathString": ""
+        }
+      },
+      "Quest.ChallengeIcon.Interact": {
+        "Icon": {
+          "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Replay/T-Icon-Replay-Exclamation-L.T-Icon-Replay-Exclamation-L",
+          "SubPathString": ""
+        }
+      },
+      "Quest.ChallengeIcon.Visit": {
+        "Icon": {
+          "AssetPathName": "/Game/Athena/UI/Challenges/Art/ChallengeTypeIcons/UI_ChallengeIcon_Visit.UI_ChallengeIcon_Visit",
+          "SubPathString": ""
+        }
+      },
+      "Quest.ChallengeIcon.Land": {
+        "Icon": {
+          "AssetPathName": "/Game/Athena/UI/Challenges/Art/ChallengeTypeIcons/UI_ChallengeIcon_Land.UI_ChallengeIcon_Land",
+          "SubPathString": ""
+        }
+      },
+      "Quest.ChallengeIcon.Emote": {
+        "Icon": {
+          "AssetPathName": "/Game/Athena/UI/Challenges/Art/ChallengeTypeIcons/UI_ChallengeIcon_Emote.UI_ChallengeIcon_Emote",
+          "SubPathString": ""
+        }
+      },
+      "Quest.ChallengeIcon.Collect": {
+        "Icon": {
+          "AssetPathName": "/Game/Athena/UI/Challenges/Art/ChallengeTypeIcons/UI_ChallengeIcon_Collect.UI_ChallengeIcon_Collect",
+          "SubPathString": ""
+        }
+      },
+      "Quest.ChallengeIcon.Destroy": {
+        "Icon": {
+          "AssetPathName": "/Game/Athena/UI/Challenges/Art/ChallengeTypeIcons/UI_ChallengeIcon_Destroy.UI_ChallengeIcon_Destroy",
+          "SubPathString": ""
+        }
+      },
+      "Quest.ChallengeIcon.Heal": {
+        "Icon": {
+          "AssetPathName": "/Game/Athena/UI/Challenges/Art/ChallengeTypeIcons/UI_ChallengeIcon_Heal.UI_ChallengeIcon_Heal",
+          "SubPathString": ""
+        }
+      },
+      "Quest.ChallengeIcon.Elim": {
+        "Icon": {
+          "AssetPathName": "/Game/Athena/UI/Challenges/Art/ChallengeTypeIcons/UI_ChallengeIcon_Elim.UI_ChallengeIcon_Elim",
+          "SubPathString": ""
+        }
+      },
+      "Quest.ChallengeIcon.Fish": {
+        "Icon": {
+          "AssetPathName": "/Game/Athena/UI/Challenges/Art/ChallengeTypeIcons/UI_ChallengeIcon_Fishing.UI_ChallengeIcon_Fishing",
+          "SubPathString": ""
+        }
+      },
+      "Quest.ChallengeIcon.Find": {
+        "Icon": {
+          "AssetPathName": "/Game/Athena/UI/Challenges/Art/ChallengeTypeIcons/UI_ChallengeIcon_Find.UI_ChallengeIcon_Find",
+          "SubPathString": ""
+        }
+      },
+      "Quest.ChallengeIcon.AmmoBox": {
+        "Icon": {
+          "AssetPathName": "/Game/Athena/UI/Challenges/Art/ChallengeTypeIcons/UI_ChallengeIcon_Ammo.UI_ChallengeIcon_Ammo",
+          "SubPathString": ""
+        }
+      },
+      "Quest.ChallengeIcon.Placement": {
+        "Icon": {
+          "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Quest/T-Icon-Trophy-64.T-Icon-Trophy-64",
+          "SubPathString": ""
+        }
+      },
+      "Quest.ChallengeIcon.Medals": {
+        "Icon": {
+          "AssetPathName": "/Game/Athena/UI/Challenges/Art/ChallengeTypeIcons/UI_ChallengeIcon_Medals.UI_ChallengeIcon_Medals",
+          "SubPathString": ""
+        }
+      },
+      "Quest.ChallengeIcon.AssaultRifle": {
+        "Icon": {
+          "AssetPathName": "/Game/UI/Foundation/Textures/Icons/ItemTypes/T-Icon-Assault-64.T-Icon-Assault-64",
+          "SubPathString": ""
+        }
+      },
+      "Quest.ChallengeIcon.Shotgun": {
+        "Icon": {
+          "AssetPathName": "/Game/UI/Foundation/Textures/Icons/ItemTypes/T-Icon-Shotgun-64.T-Icon-Shotgun-64",
+          "SubPathString": ""
+        }
+      },
+      "Quest.ChallengeIcon.SMG": {
+        "Icon": {
+          "AssetPathName": "/Game/UI/Foundation/Textures/Icons/ItemTypes/T-Icon-SMG-64.T-Icon-SMG-64",
+          "SubPathString": ""
+        }
+      },
+      "Quest.ChallengeIcon.SniperRifle": {
+        "Icon": {
+          "AssetPathName": "/Game/UI/Foundation/Textures/Icons/ItemTypes/T-Icon-Sniper-64.T-Icon-Sniper-64",
+          "SubPathString": ""
+        }
+      },
+      "Quest.ChallengeIcon.RocketLauncher": {
+        "Icon": {
+          "AssetPathName": "/Game/Athena/UI/Challenges/Art/ChallengeTypeIcons/UI_ChallengeIcon_Explosives.UI_ChallengeIcon_Explosives",
+          "SubPathString": ""
+        }
+      },
+      "Quest.ChallengeIcon.Pistol": {
+        "Icon": {
+          "AssetPathName": "/Game/Athena/UI/Challenges/Art/ChallengeTypeIcons/UI_ChallengeIcon_Pistol.UI_ChallengeIcon_Pistol",
+          "SubPathString": ""
+        }
+      },
+      "Quest.ChallengeIcon.Pickaxe": {
+        "Icon": {
+          "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Mission/T-Icon-Harvesting-64.T-Icon-Harvesting-64",
+          "SubPathString": ""
+        }
+      },
+      "Quest.ChallengeIcon.SpyHenchmen": {
+        "Icon": {
+          "AssetPathName": "/Game/Athena/UI/Challenges/Art/ChallengeTypeIcons/UI_ChallengeIcon_Henchman.UI_ChallengeIcon_Henchman",
+          "SubPathString": ""
+        }
+      },
+      "Quest.ChallengeIcon.SpyBoss": {
+        "Icon": {
+          "AssetPathName": "/Game/Athena/UI/Challenges/Art/ChallengeTypeIcons/UI_ChallengeIcon_Spyboss.UI_ChallengeIcon_Spyboss",
+          "SubPathString": ""
+        }
+      },
+      "Quest.ChallengeIcon.Motorboat": {
+        "Icon": {
+          "AssetPathName": "/Game/UI/Foundation/Textures/Icons/SkillTree/T-Icon-ST-Speedboat-64.T-Icon-ST-Speedboat-64",
+          "SubPathString": ""
+        }
+      },
+      "Quest.ChallengeIcon.Helicopter": {
+        "Icon": {
+          "AssetPathName": "/Game/UI/Foundation/Textures/Icons/SkillTree/T-Icon-ST-Helicopter-64.T-Icon-ST-Helicopter-64",
+          "SubPathString": ""
+        }
+      },
+      "Quest.ChallengeCharacter.TnTina": {
+        "Icon": {
+          "AssetPathName": "/Game/Athena/Prototype/Textures/Cosmetic_Placeholder_Icons/Characters/T_Placeholder_CharacterTNTina.T_Placeholder_CharacterTNTina",
+          "SubPathString": ""
+        }
+      },
+      "Quest.ChallengeCharacter.Skulldude": {
+        "Icon": {
+          "AssetPathName": "/Game/Athena/Prototype/Textures/Cosmetic_Placeholder_Icons/Characters/T_Placeholder_CharacterHenchmanTough.T_Placeholder_CharacterHenchmanTough",
+          "SubPathString": ""
+        }
+      },
+      "Quest.ChallengeCharacter.AdventureGirl": {
+        "Icon": {
+          "AssetPathName": "/Game/Athena/Prototype/Textures/Cosmetic_Placeholder_Icons/Characters/T_Placeholder_CharacterPhotographer.T_Placeholder_CharacterPhotographer",
+          "SubPathString": ""
+        }
+      },
+      "Quest.ChallengeCharacter.Meowscle": {
+        "Icon": {
+          "AssetPathName": "/Game/Athena/Prototype/Textures/Cosmetic_Placeholder_Icons/Characters/T_Placeholder_CharacterBuffCat.T_Placeholder_CharacterBuffCat",
+          "SubPathString": ""
+        }
+      },
+      "Quest.ChallengeCharacter.Midas": {
+        "Icon": {
+          "AssetPathName": "/Game/Athena/Prototype/Textures/Cosmetic_Placeholder_Icons/Characters/T_Placeholder_CharacterCatBurglar.T_Placeholder_CharacterCatBurglar",
+          "SubPathString": ""
+        }
+      },
+      "Quest.ChallengeCharacter.PaperDoll": {
+        "Icon": {
+          "AssetPathName": "/Game/Athena/Prototype/Textures/Cosmetic_Placeholder_Icons/Characters/T_Placeholder_CharacterDesertOpsCamo.T_Placeholder_CharacterDesertOpsCamo",
+          "SubPathString": ""
+        }
+      },
+      "Quest.ChallengeCharacter.Donut": {
+        "Icon": {
+          "AssetPathName": "/Game/Athena/Prototype/Textures/Cosmetic_Placeholder_Icons/Characters/T_Placeholder_CharacterDonut.T_Placeholder_CharacterDonut",
+          "SubPathString": ""
+        }
+      },
+      "Quest.ChallengeIcon.Car": {
+        "Icon": {
+          "AssetPathName": "/Game/Athena/UI/Challenges/Art/ChallengeTypeIcons/UI_ChallengeIcon_Car.UI_ChallengeIcon_Car",
+          "SubPathString": ""
+        }
+      },
+      "Quest.ChallengeIcon.HightowerGrape": {
+        "Icon": {
+          "AssetPathName": "/Game/Athena/UI/Challenges/Art/ChallengeTypeIcons/UI_Challenge_Icon_HightowerGrape.UI_Challenge_Icon_HightowerGrape",
+          "SubPathString": ""
+        }
+      },
+      "Quest.ChallengeIcon.HightowerDate": {
+        "Icon": {
+          "AssetPathName": "/Game/Athena/UI/Challenges/Art/ChallengeTypeIcons/UI_Challenge_Icon_HightowerDate.UI_Challenge_Icon_HightowerDate",
+          "SubPathString": ""
+        }
+      },
+      "Quest.ChallengeIcon.HightowerHoneydew": {
+        "Icon": {
+          "AssetPathName": "/Game/Athena/UI/Challenges/Art/ChallengeTypeIcons/UI_Challenge_Icon_HightowerHoneydew.UI_Challenge_Icon_HightowerHoneydew",
+          "SubPathString": ""
+        }
+      },
+      "Quest.ChallengeIcon.HightowerMango": {
+        "Icon": {
+          "AssetPathName": "/Game/Athena/UI/Challenges/Art/ChallengeTypeIcons/UI_Challenge_Icon_HightowerMango.UI_Challenge_Icon_HightowerMango",
+          "SubPathString": ""
+        }
+      },
+      "Quest.ChallengeIcon.HightowerSquash": {
+        "Icon": {
+          "AssetPathName": "/Game/Athena/UI/Challenges/Art/ChallengeTypeIcons/UI_Challenge_Icon_HightowerSquash.UI_Challenge_Icon_HightowerSquash",
+          "SubPathString": ""
+        }
+      },
+      "Quest.ChallengeIcon.HightowerTapas": {
+        "Icon": {
+          "AssetPathName": "/Game/Athena/UI/Challenges/Art/ChallengeTypeIcons/UI_Challenge_Icon_HightowerTapas.UI_Challenge_Icon_HightowerTapas",
+          "SubPathString": ""
+        }
+      },
+      "Quest.ChallengeIcon.HightowerTomato": {
+        "Icon": {
+          "AssetPathName": "/Game/Athena/UI/Challenges/Art/ChallengeTypeIcons/UI_Challenge_Icon_HightowerTomato.UI_Challenge_Icon_HightowerTomato",
+          "SubPathString": ""
+        }
+      },
+      "Quest.ChallengeIcon.HightowerWasabi": {
+        "Icon": {
+          "AssetPathName": "/Game/Athena/UI/Challenges/Art/ChallengeTypeIcons/UI_Challenge_Icon_HightowerWasabi.UI_Challenge_Icon_HightowerWasabi",
+          "SubPathString": ""
+        }
+      },
+      "Quest.ChallengeIcon.MatchQuestExploration": {
+        "Icon": {
+          "AssetPathName": "/Game/Athena/HUD/Discoverability/Icons/T_UI_MatchQuest_Exploration.T_UI_MatchQuest_Exploration",
+          "SubPathString": ""
+        }
+      },
+      "Quest.ChallengeIcon.Jam": {
+        "Icon": {
+          "AssetPathName": "/Game/Athena/UI/Challenges/Art/ChallengeTypeIcons/UI_ChallengeIcon_Jam.UI_ChallengeIcon_Jam",
+          "SubPathString": ""
+        }
+      },
+      "Quest.ChallengeIcon.Spray": {
+        "Icon": {
+          "AssetPathName": "/Game/Athena/UI/Challenges/Art/ChallengeTypeIcons/UI_ChallengeIcon_Spray.UI_ChallengeIcon_Spray",
+          "SubPathString": ""
+        }
+      },
+      "Quest.ChallengeIcon.FoundQuest": {
+        "Icon": {
+          "AssetPathName": "/Game/Athena/HUD/Interaction/T_UI_Icon_FoundQuest.T_UI_Icon_FoundQuest",
+          "SubPathString": ""
+        }
+      },
+      "Quest.ChallengeIcon.Birthday": {
+        "Icon": {
+          "AssetPathName": "/Game/Athena/HUD/Interaction/T_UI_Quest_BirthdayCake.T_UI_Quest_BirthdayCake",
+          "SubPathString": ""
+        }
+      }
+    }
+  }
+]
