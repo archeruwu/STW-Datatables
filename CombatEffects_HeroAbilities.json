@@ -383,7 +383,7 @@
         "Keys": [
           {
             "Time": 0.0,
-            "Value": 1.25
+            "Value": 2.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -10698,31 +10698,43 @@
         "PreInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant",
         "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
       },
-      "Perk.AlternatingCurrent.ChainDamage": {
+      "Perk.Overcharge.EnergyDamage": {
         "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
         "Keys": [
           {
             "Time": 0.0,
-            "Value": 75.0
+            "Value": 120.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
         "PreInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant",
         "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
       },
-      "Perk.AlternatingCurrent.RecoilDamage": {
+      "Perk.Overcharge.NatureDamage": {
         "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
         "Keys": [
           {
             "Time": 0.0,
-            "Value": 150.0
+            "Value": 120.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
         "PreInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant",
         "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
       },
-      "Perk.AlternatingCurrent.MoveSpeed": {
+      "Perk.Overcharge.TargetsPerChain.Charged": {
+        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "Keys": [
+          {
+            "Time": 0.0,
+            "Value": 8.0
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant",
+        "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
+      },
+      "Perk.Overcharge.TargetsPerChain.Uncharged": {
         "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
         "Keys": [
           {
@@ -10734,19 +10746,19 @@
         "PreInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant",
         "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
       },
-      "Perk.AlternatingCurrent.AttackSpeed": {
+      "Perk.Overcharge.TimeToCharge": {
         "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
         "Keys": [
           {
             "Time": 0.0,
-            "Value": 1.1
+            "Value": 2.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
         "PreInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant",
         "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
       },
-      "Perk.AlternatingCurrent.Radius": {
+      "Perk.Overcharge.Radius": {
         "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
         "Keys": [
           {
@@ -10758,7 +10770,7 @@
         "PreInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant",
         "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
       },
-      "Perk.AlternatingCurrent.ChainDelay": {
+      "Perk.Overcharge.ChainDelay": {
         "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
         "Keys": [
           {
@@ -10770,36 +10782,72 @@
         "PreInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant",
         "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
       },
-      "Perk.AlternatingCurrent.TargetsPerChain": {
+      "Perk.Wisplight.Damage.T01": {
         "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
         "Keys": [
           {
             "Time": 0.0,
-            "Value": 6.0
+            "Value": 37.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
         "PreInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant",
         "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
       },
-      "Perk.AlternatingCurrent.MoveSpeedTime": {
+      "Perk.Wisplight.Damage.T02": {
         "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
         "Keys": [
           {
             "Time": 0.0,
-            "Value": 3.0
+            "Value": 75.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
         "PreInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant",
         "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
       },
-      "Perk.AlternatingCurrent.AttackSpeedTime": {
+      "Perk.Wisplight.OrbitRadius.Attached": {
         "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
         "Keys": [
           {
             "Time": 0.0,
-            "Value": 1.0
+            "Value": 128.0
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant",
+        "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
+      },
+      "Perk.Wisplight.Lifespan.T01": {
+        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "Keys": [
+          {
+            "Time": 0.0,
+            "Value": 15.0
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant",
+        "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
+      },
+      "Perk.Wisplight.Lifespan.T02": {
+        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "Keys": [
+          {
+            "Time": 0.0,
+            "Value": 20.0
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant",
+        "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
+      },
+      "Perk.Wisplight.MaxWisps": {
+        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "Keys": [
+          {
+            "Time": 0.0,
+            "Value": 8.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
