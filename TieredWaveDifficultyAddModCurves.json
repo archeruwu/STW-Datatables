@@ -1,0 +1,27 @@
+[
+  {
+    "Type": "CurveTable",
+    "Name": "TieredWaveDifficultyAddModCurves",
+    "Class": "UScriptClass'CurveTable'",
+    "Flags": "RF_Public | RF_Standalone | RF_WasLoaded | RF_LoadCompleted",
+    "CurveTableMode": "SimpleCurves",
+    "Rows": {
+      "PrestigeDifficultyAddMod": {
+        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "Keys": [
+          {
+            "Time": 0.0,
+            "Value": 0.0
+          },
+          {
+            "Time": 5000.0,
+            "Value": 2500.0
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant",
+        "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
+      }
+    }
+  }
+]
