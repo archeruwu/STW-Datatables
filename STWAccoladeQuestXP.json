@@ -7,11 +7,11 @@
     "CurveTableMode": "SimpleCurves",
     "Rows": {
       "Quest_General_Daily": {
-        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "InterpMode": "ERichCurveInterpMode::RCIM_Constant",
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 14000.0
+            "Value": 12000.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -19,11 +19,11 @@
         "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
       },
       "Quest_General_Weekly": {
-        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "InterpMode": "ERichCurveInterpMode::RCIM_Constant",
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 82000.0
+            "Value": 75000.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -31,11 +31,11 @@
         "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
       },
       "Quest_HitTheRoad_Daily": {
-        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "InterpMode": "ERichCurveInterpMode::RCIM_Constant",
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 25000.0
+            "Value": 23000.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -43,11 +43,11 @@
         "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
       },
       "Quest_HitTheRoad_Weekly": {
-        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "InterpMode": "ERichCurveInterpMode::RCIM_Constant",
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 35000.0
+            "Value": 31000.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -55,7 +55,7 @@
         "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
       },
       "Quest_Dungeon_Daily": {
-        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "InterpMode": "ERichCurveInterpMode::RCIM_Constant",
         "Keys": [
           {
             "Time": 1.0,
@@ -67,11 +67,11 @@
         "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
       },
       "Quest_Frostnite_Daily": {
-        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "InterpMode": "ERichCurveInterpMode::RCIM_Constant",
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 13000.0
+            "Value": 12000.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -79,11 +79,11 @@
         "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
       },
       "Quest_Frostnite_Weekly": {
-        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "InterpMode": "ERichCurveInterpMode::RCIM_Constant",
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 55000.0
+            "Value": 50000.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -91,11 +91,11 @@
         "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
       },
       "Quest_Wargames_Daily": {
-        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "InterpMode": "ERichCurveInterpMode::RCIM_Constant",
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 18000.0
+            "Value": 17000.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -103,11 +103,11 @@
         "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
       },
       "Quest_Wargames_Weekly": {
-        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "InterpMode": "ERichCurveInterpMode::RCIM_Constant",
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 16000.0
+            "Value": 14000.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -115,7 +115,7 @@
         "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
       },
       "Quest_Endurance_Daily_W05": {
-        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "InterpMode": "ERichCurveInterpMode::RCIM_Constant",
         "Keys": [
           {
             "Time": 1.0,
@@ -127,11 +127,11 @@
         "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
       },
       "Quest_Endurance_Daily_W10": {
-        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "InterpMode": "ERichCurveInterpMode::RCIM_Constant",
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 8000.0
+            "Value": 7000.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -139,7 +139,7 @@
         "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
       },
       "Quest_Endurance_Daily_W15": {
-        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "InterpMode": "ERichCurveInterpMode::RCIM_Constant",
         "Keys": [
           {
             "Time": 1.0,
@@ -151,11 +151,11 @@
         "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
       },
       "Quest_Endurance_Daily_W20": {
-        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "InterpMode": "ERichCurveInterpMode::RCIM_Constant",
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 7000.0
+            "Value": 6000.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -163,7 +163,7 @@
         "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
       },
       "Quest_Endurance_Daily_W25": {
-        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "InterpMode": "ERichCurveInterpMode::RCIM_Constant",
         "Keys": [
           {
             "Time": 1.0,
@@ -175,11 +175,11 @@
         "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
       },
       "Quest_Endurance_Daily_W30": {
-        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "InterpMode": "ERichCurveInterpMode::RCIM_Constant",
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 6000.0
+            "Value": 5000.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -187,7 +187,7 @@
         "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
       },
       "Quest_HordeV3_Daily_W05": {
-        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "InterpMode": "ERichCurveInterpMode::RCIM_Constant",
         "Keys": [
           {
             "Time": 1.0,
@@ -199,11 +199,11 @@
         "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
       },
       "Quest_HordeV3_Daily_W10": {
-        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "InterpMode": "ERichCurveInterpMode::RCIM_Constant",
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 9000.0
+            "Value": 10000.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -211,11 +211,11 @@
         "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
       },
       "Quest_HordeV3_Daily_W15": {
-        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "InterpMode": "ERichCurveInterpMode::RCIM_Constant",
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 11000.0
+            "Value": 14000.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -223,11 +223,11 @@
         "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
       },
       "Quest_HordeV3_Weekly": {
-        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "InterpMode": "ERichCurveInterpMode::RCIM_Constant",
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 56000.0
+            "Value": 74000.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
