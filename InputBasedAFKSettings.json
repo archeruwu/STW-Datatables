@@ -89,6 +89,34 @@
             "Gameplay.Action.Player.Emote"
           ]
         }
+      },
+      "Creative": {
+        "Settings": {
+          "TimeUntilConfirmedAFK": 300.0,
+          "TimeUntilRemainedAFK": 1500.0,
+          "MinimumMovementPerSecond": 50.0,
+          "MinimumCameraRotationPerSecond": 10.0,
+          "MaxTimeWithoutInteracting": 60.0,
+          "MaxTimeWithoutInputChange": 60.0,
+          "SendInputChangeInterval": 15.0,
+          "InputActionsToTrack": [
+            "Fire",
+            "Use",
+            "UseOrReload"
+          ],
+          "ValidInteractionsGameplayEventTags": [
+            "Event.Interact.Completed",
+            "Event.Weapons.Fired",
+            "Event.CollectedPickup",
+            "Event.ConsumedItem",
+            "Event.Item.Dropped.Manually",
+            "Event.Athena.Crafting"
+          ],
+          "ValidInteractionsGameplayEffectsTags": [
+            "Gameplay.Action.Player.Emote",
+            "Conversation"
+          ]
+        }
       }
     }
   }

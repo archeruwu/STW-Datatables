@@ -1,0 +1,72 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "TPMToWeightMultiplier",
+    "Class": "UScriptClass'DataTable'",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'TPMToWeightMultiplier'",
+        "ObjectPath": "/Script/FortniteGame"
+      }
+    },
+    "Rows": {
+      "1": {
+        "TPMFloor": 0.0,
+        "WeightMultiplier": 0.01
+      },
+      "2": {
+        "TPMFloor": 1E-05,
+        "WeightMultiplier": 0.02
+      },
+      "3": {
+        "TPMFloor": 3E-05,
+        "WeightMultiplier": 0.05
+      },
+      "4": {
+        "TPMFloor": 0.0001,
+        "WeightMultiplier": 0.1
+      },
+      "5": {
+        "TPMFloor": 0.0003,
+        "WeightMultiplier": 0.2
+      },
+      "6": {
+        "TPMFloor": 0.001,
+        "WeightMultiplier": 0.5
+      },
+      "7": {
+        "TPMFloor": 0.003,
+        "WeightMultiplier": 1.0
+      },
+      "8": {
+        "TPMFloor": 0.01,
+        "WeightMultiplier": 2.0
+      },
+      "9": {
+        "TPMFloor": 0.03,
+        "WeightMultiplier": 5.0
+      },
+      "10": {
+        "TPMFloor": 0.1,
+        "WeightMultiplier": 10.0
+      },
+      "11": {
+        "TPMFloor": 0.3,
+        "WeightMultiplier": 20.0
+      },
+      "12": {
+        "TPMFloor": 1.0,
+        "WeightMultiplier": 50.0
+      },
+      "13": {
+        "TPMFloor": 3.0,
+        "WeightMultiplier": 100.0
+      },
+      "14": {
+        "TPMFloor": 10.0,
+        "WeightMultiplier": 200.0
+      }
+    }
+  }
+]

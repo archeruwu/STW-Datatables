@@ -1,0 +1,199 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_FeralPlaylistPluginOverrides",
+    "Class": "UScriptClass'DataTable'",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'PlaylistPluginOverrideRow'",
+        "ObjectPath": "/Script/FortniteGame"
+      }
+    },
+    "Rows": {
+      "BallerV2": {
+        "bAllowActivation": false
+      },
+      "BasicSUV": {
+        "bAllowActivation": false
+      },
+      "Beanstalk": {
+        "bAllowActivation": false
+      },
+      "BeanstalkCosmetics": {
+        "bAllowActivation": false
+      },
+      "BeanstalkGFSMetaData": {
+        "bAllowActivation": false
+      },
+      "BeanstalkGameDebuggers": {
+        "bAllowActivation": false
+      },
+      "CactusFruits": {
+        "bAllowActivation": false
+      },
+      "ChronoRaptor": {
+        "bAllowActivation": false
+      },
+      "DelMarGFSMetaData": {
+        "bAllowActivation": false
+      },
+      "DelMarSettings": {
+        "bAllowActivation": false
+      },
+      "DemonMaskFire": {
+        "bAllowActivation": false
+      },
+      "DemonMaskShared": {
+        "bAllowActivation": false
+      },
+      "DemonMaskVoid": {
+        "bAllowActivation": false
+      },
+      "DeployableTurretGameplayUI": {
+        "bAllowActivation": false
+      },
+      "DeployedCoverGameplay": {
+        "bAllowActivation": false
+      },
+      "Dirtbike": {
+        "bAllowActivation": false
+      },
+      "DriftBasicCar": {
+        "bAllowActivation": false
+      },
+      "Figment_Trap_Ceiling_Electric_Athena": {
+        "bAllowActivation": false
+      },
+      "FirePetalBoonsGameplay": {
+        "bAllowActivation": false
+      },
+      "Figment_Trap_Wall_Electric_Athena": {
+        "bAllowActivation": false
+      },
+      "FirePetalSnowGrenade": {
+        "bAllowActivation": false
+      },
+      "FirePetalWindConsumable": {
+        "bAllowActivation": false
+      },
+      "FirePetalWeaponGameplay": {
+        "bAllowActivation": false
+      },
+      "FlamingHoopsGameplay": {
+        "bAllowActivation": false
+      },
+      "FortNPCMovieSceneCharacterBindings": {
+        "bAllowActivation": false
+      },
+      "FortniteConversationUI": {
+        "bAllowActivation": false
+      },
+      "Freaky": {
+        "bAllowActivation": false
+      },
+      "GetAwayCar": {
+        "bAllowActivation": false
+      },
+      "Hoagie": {
+        "bAllowActivation": false
+      },
+      "HookshotGameplay": {
+        "bAllowActivation": false
+      },
+      "HoverGameplay": {
+        "bAllowActivation": false
+      },
+      "HoverboardV2": {
+        "bAllowActivation": false
+      },
+      "IceSkates": {
+        "bAllowActivation": false
+      },
+      "ModdedBasicCar": {
+        "bAllowActivation": false
+      },
+      "MoonFlaxWarBus": {
+        "bAllowActivation": false
+      },
+      "MoonflaxBossVehicle": {
+        "bAllowActivation": false
+      },
+      "MoonflaxMedallions": {
+        "bAllowActivation": false
+      },
+      "Motorboat": {
+        "bAllowActivation": false
+      },
+      "Motorcycle": {
+        "bAllowActivation": false
+      },
+      "Nevada": {
+        "bAllowActivation": false
+      },
+      "NitroBarrel": {
+        "bAllowActivation": false
+      },
+      "NitroGameplay": {
+        "bAllowActivation": false
+      },
+      "NitroGauntletsGameplay": {
+        "bAllowActivation": false
+      },
+      "NitroPlayerStateUI": {
+        "bAllowActivation": false
+      },
+      "NitroUI": {
+        "bAllowActivation": false
+      },
+      "PotteryHunterGameplay": {
+        "bAllowActivation": false
+      },
+      "QuadCrasher": {
+        "bAllowActivation": false
+      },
+      "RockVehicle": {
+        "bAllowActivation": false
+      },
+      "Sportbike": {
+        "bAllowActivation": false
+      },
+      "Sprites": {
+        "bAllowActivation": false
+      },
+      "Sprites_AirSprite": {
+        "bAllowActivation": false
+      },
+      "Sprites_EarthSprite": {
+        "bAllowActivation": false
+      },
+      "Sprites_WaterSprite": {
+        "bAllowActivation": false
+      },
+      "SunRoseFactionChestGameplay": {
+        "bAllowActivation": false
+      },
+      "SunRoseFlyingUI": {
+        "bAllowActivation": false
+      },
+      "TakedownMedallion": {
+        "bAllowActivation": false
+      },
+      "Tank": {
+        "bAllowActivation": false
+      },
+      "Valet": {
+        "bAllowActivation": false
+      },
+      "VehicleCosmetics": {
+        "bAllowActivation": false
+      },
+      "VehicleMods": {
+        "bAllowActivation": false
+      },
+      "Volcano_Comp": {
+        "bAllowActivation": false
+      }
+    }
+  }
+]
