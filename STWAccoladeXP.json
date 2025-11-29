@@ -11,7 +11,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 3000.0
+            "Value": 1400.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -23,7 +23,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 650.0
+            "Value": 300.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -35,7 +35,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 650.0
+            "Value": 300.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -47,7 +47,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 650.0
+            "Value": 300.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -59,7 +59,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 1900.0
+            "Value": 900.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -71,7 +71,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 1900.0
+            "Value": 900.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -83,7 +83,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 1900.0
+            "Value": 900.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -95,7 +95,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 2700.0
+            "Value": 1300.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -107,7 +107,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 2700.0
+            "Value": 1300.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -119,7 +119,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 2700.0
+            "Value": 1300.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -131,7 +131,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 2900.0
+            "Value": 1400.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -143,7 +143,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 2900.0
+            "Value": 1400.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -155,7 +155,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 2900.0
+            "Value": 1400.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -167,7 +167,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 1900.0
+            "Value": 900.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -179,7 +179,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 4200.0
+            "Value": 2000.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -191,7 +191,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 4800.0
+            "Value": 2300.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -203,7 +203,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 5200.0
+            "Value": 2500.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -215,7 +215,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 29600.0
+            "Value": 14200.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -227,7 +227,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 14800.0
+            "Value": 7100.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -239,7 +239,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 4200.0
+            "Value": 2000.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -251,7 +251,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 41300.0
+            "Value": 19800.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -263,7 +263,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 44200.0
+            "Value": 21200.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -275,7 +275,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 50500.0
+            "Value": 24300.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -287,7 +287,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 19700.0
+            "Value": 9500.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -299,7 +299,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 4500.0
+            "Value": 2100.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -311,7 +311,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 5400.0
+            "Value": 2600.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -323,7 +323,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 6000.0
+            "Value": 2900.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -335,7 +335,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 31600.0
+            "Value": 15200.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -347,7 +347,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 13100.0
+            "Value": 6300.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -359,7 +359,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 4300.0
+            "Value": 2000.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -371,7 +371,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 6400.0
+            "Value": 3100.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -383,7 +383,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 30800.0
+            "Value": 14800.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -395,7 +395,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 20900.0
+            "Value": 10000.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -407,7 +407,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 28300.0
+            "Value": 13600.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -419,7 +419,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 9800.0
+            "Value": 4700.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -431,7 +431,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 31300.0
+            "Value": 15000.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -443,7 +443,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 23900.0
+            "Value": 11500.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -455,7 +455,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 3800.0
+            "Value": 1800.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -467,7 +467,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 11800.0
+            "Value": 5700.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -479,7 +479,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 11600.0
+            "Value": 5600.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -491,7 +491,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 7600.0
+            "Value": 3700.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -503,7 +503,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 7600.0
+            "Value": 3700.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -515,7 +515,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 7800.0
+            "Value": 3700.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -527,7 +527,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 7800.0
+            "Value": 3700.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -539,7 +539,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 20900.0
+            "Value": 10100.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -551,7 +551,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 20900.0
+            "Value": 10100.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -563,7 +563,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 41900.0
+            "Value": 20100.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -575,7 +575,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 6000.0
+            "Value": 2900.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -587,7 +587,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 6000.0
+            "Value": 2900.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -599,7 +599,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 6000.0
+            "Value": 2900.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -611,7 +611,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 11900.0
+            "Value": 5700.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -623,7 +623,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 23900.0
+            "Value": 11500.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -635,7 +635,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 29800.0
+            "Value": 14300.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -647,7 +647,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 35800.0
+            "Value": 17200.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -659,7 +659,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 41800.0
+            "Value": 20000.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -671,7 +671,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 47700.0
+            "Value": 22900.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -683,7 +683,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 50700.0
+            "Value": 24300.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -695,7 +695,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 53700.0
+            "Value": 25800.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -707,7 +707,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 56700.0
+            "Value": 27200.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -719,7 +719,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 59600.0
+            "Value": 28600.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -731,7 +731,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 8400.0
+            "Value": 4000.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -743,7 +743,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 11900.0
+            "Value": 5700.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -755,7 +755,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 23900.0
+            "Value": 11500.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -767,7 +767,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 29800.0
+            "Value": 14300.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -779,7 +779,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 35800.0
+            "Value": 17200.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -791,7 +791,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 41800.0
+            "Value": 20000.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -803,7 +803,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 47700.0
+            "Value": 22900.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -815,7 +815,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 50700.0
+            "Value": 24300.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -827,7 +827,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 53700.0
+            "Value": 25800.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -839,7 +839,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 56700.0
+            "Value": 27200.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -851,7 +851,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 59600.0
+            "Value": 28600.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -863,7 +863,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 8900.0
+            "Value": 4300.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -875,7 +875,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 11900.0
+            "Value": 5700.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -887,7 +887,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 23900.0
+            "Value": 11500.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -899,7 +899,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 29800.0
+            "Value": 14300.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -911,7 +911,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 35800.0
+            "Value": 17200.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -923,7 +923,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 41800.0
+            "Value": 20000.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -935,7 +935,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 47700.0
+            "Value": 22900.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -947,7 +947,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 50700.0
+            "Value": 24300.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -959,7 +959,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 53700.0
+            "Value": 25800.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -971,7 +971,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 56700.0
+            "Value": 27200.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -983,7 +983,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 59600.0
+            "Value": 28600.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -995,7 +995,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 9300.0
+            "Value": 4500.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -1007,7 +1007,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 52300.0
+            "Value": 25100.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -1019,7 +1019,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 55200.0
+            "Value": 26500.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -1031,7 +1031,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 58200.0
+            "Value": 27900.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -1043,7 +1043,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 61100.0
+            "Value": 29300.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -1055,7 +1055,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 66900.0
+            "Value": 32100.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -1067,7 +1067,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 68300.0
+            "Value": 32800.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -1079,7 +1079,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 72700.0
+            "Value": 34900.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -1091,7 +1091,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 81400.0
+            "Value": 39100.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -1103,7 +1103,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 82900.0
+            "Value": 39800.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -1115,7 +1115,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 84300.0
+            "Value": 40500.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -1127,7 +1127,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 25600.0
+            "Value": 12300.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -1139,7 +1139,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 17900.0
+            "Value": 8600.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -1151,7 +1151,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 7500.0
+            "Value": 3600.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -1163,7 +1163,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 8100.0
+            "Value": 3900.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -1175,7 +1175,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 8900.0
+            "Value": 4300.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -1187,7 +1187,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 10100.0
+            "Value": 4900.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -1199,7 +1199,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 44000.0
+            "Value": 21100.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -1211,7 +1211,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 19400.0
+            "Value": 9300.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -1223,7 +1223,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 9500.0
+            "Value": 4600.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -1235,7 +1235,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 11900.0
+            "Value": 5700.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -1247,7 +1247,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 19800.0
+            "Value": 9500.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -1259,7 +1259,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 39100.0
+            "Value": 18800.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -1271,7 +1271,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 43200.0
+            "Value": 20800.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -1283,7 +1283,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 2600.0
+            "Value": 1200.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -1295,7 +1295,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 3000.0
+            "Value": 1400.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -1307,7 +1307,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 15900.0
+            "Value": 7600.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -1319,7 +1319,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 350.0
+            "Value": 200.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -1331,7 +1331,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 29800.0
+            "Value": 14300.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -1343,7 +1343,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 11600.0
+            "Value": 5600.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -1355,7 +1355,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 1500.0
+            "Value": 700.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -1367,7 +1367,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 1500.0
+            "Value": 700.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -1379,7 +1379,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 14800.0
+            "Value": 6700.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -1391,7 +1391,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 2100.0
+            "Value": 1000.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -1403,7 +1403,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 5800.0
+            "Value": 2800.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -1415,7 +1415,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 5300.0
+            "Value": 2600.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -1427,7 +1427,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 4900.0
+            "Value": 2400.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -1439,7 +1439,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 7600.0
+            "Value": 3600.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -1451,7 +1451,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 1600.0
+            "Value": 750.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -1463,7 +1463,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 4800.0
+            "Value": 2300.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -1475,7 +1475,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 4400.0
+            "Value": 2100.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -1487,7 +1487,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 4000.0
+            "Value": 1900.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -1499,7 +1499,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 5800.0
+            "Value": 1400.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -1511,7 +1511,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 1500.0
+            "Value": 700.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -1523,7 +1523,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 5700.0
+            "Value": 2700.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -1535,7 +1535,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 5500.0
+            "Value": 2600.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -1547,7 +1547,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 5400.0
+            "Value": 2600.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -1559,7 +1559,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 7600.0
+            "Value": 3700.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -1571,7 +1571,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 2300.0
+            "Value": 1100.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -1583,7 +1583,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 5200.0
+            "Value": 2500.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -1595,7 +1595,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 4800.0
+            "Value": 2300.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -1607,7 +1607,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 4600.0
+            "Value": 2200.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -1619,7 +1619,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 13900.0
+            "Value": 6700.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -1631,7 +1631,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 3500.0
+            "Value": 1700.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -1643,7 +1643,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 8300.0
+            "Value": 4000.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -1655,7 +1655,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 7100.0
+            "Value": 3400.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -1667,7 +1667,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 5900.0
+            "Value": 2800.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -1679,7 +1679,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 53400.0
+            "Value": 25600.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -1691,7 +1691,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 12300.0
+            "Value": 5900.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -1703,7 +1703,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 20300.0
+            "Value": 9700.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -1715,7 +1715,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 14900.0
+            "Value": 7200.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -1727,7 +1727,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 1200.0
+            "Value": 550.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -1739,7 +1739,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 1500.0
+            "Value": 700.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -1751,7 +1751,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 1500.0
+            "Value": 700.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -1763,7 +1763,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 1200.0
+            "Value": 550.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -1775,7 +1775,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 17900.0
+            "Value": 8600.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -1787,7 +1787,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 31300.0
+            "Value": 15000.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -1799,7 +1799,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 49200.0
+            "Value": 23600.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -1811,7 +1811,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 62600.0
+            "Value": 30100.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -1823,7 +1823,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 74600.0
+            "Value": 35800.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -1835,7 +1835,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 88000.0
+            "Value": 42200.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -1847,7 +1847,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 101400.0
+            "Value": 48700.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -1859,7 +1859,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 113300.0
+            "Value": 54400.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -1871,7 +1871,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 125300.0
+            "Value": 60100.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -1883,7 +1883,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 140200.0
+            "Value": 67300.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -1895,7 +1895,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 153600.0
+            "Value": 73700.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -1907,7 +1907,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 168500.0
+            "Value": 80900.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -1919,7 +1919,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 186400.0
+            "Value": 89500.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -1931,7 +1931,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 201300.0
+            "Value": 96700.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -1943,7 +1943,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 217700.0
+            "Value": 104500.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -1955,7 +1955,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 238600.0
+            "Value": 114600.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -1967,7 +1967,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 253500.0
+            "Value": 121700.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -1979,7 +1979,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 283300.0
+            "Value": 136000.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -1991,7 +1991,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 301200.0
+            "Value": 144600.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -2003,7 +2003,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 308700.0
+            "Value": 148200.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -2015,7 +2015,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 50700.0
+            "Value": 24300.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -2027,7 +2027,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 52200.0
+            "Value": 25100.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -2039,7 +2039,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 53700.0
+            "Value": 25800.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -2051,7 +2051,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 55200.0
+            "Value": 26500.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -2063,7 +2063,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 7500.0
+            "Value": 3600.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -2075,7 +2075,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 3000.0
+            "Value": 1400.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -2087,7 +2087,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 37300.0
+            "Value": 17900.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -2099,7 +2099,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 34300.0
+            "Value": 16500.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -2111,7 +2111,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 35800.0
+            "Value": 17200.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -2123,7 +2123,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 37300.0
+            "Value": 17900.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -2135,7 +2135,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 37900.0
+            "Value": 18200.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -2147,7 +2147,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 14900.0
+            "Value": 7200.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -2159,7 +2159,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 21600.0
+            "Value": 10400.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -2171,7 +2171,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 22400.0
+            "Value": 10700.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -2183,7 +2183,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 23100.0
+            "Value": 11100.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -2195,7 +2195,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 29800.0
+            "Value": 14300.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -2207,7 +2207,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 11900.0
+            "Value": 5700.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -2219,7 +2219,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 1500.0
+            "Value": 700.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -2231,7 +2231,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 1500.0
+            "Value": 700.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -2243,7 +2243,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 3000.0
+            "Value": 1400.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -2255,7 +2255,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 8900.0
+            "Value": 4300.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -2267,7 +2267,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 16400.0
+            "Value": 7900.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -2279,7 +2279,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 26800.0
+            "Value": 12900.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -2291,7 +2291,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 37300.0
+            "Value": 17900.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -2303,7 +2303,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 50700.0
+            "Value": 24300.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -2315,7 +2315,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 59600.0
+            "Value": 28600.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -2327,7 +2327,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 68600.0
+            "Value": 32900.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -2339,7 +2339,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 79000.0
+            "Value": 37900.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -2351,7 +2351,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 89500.0
+            "Value": 43000.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -2363,7 +2363,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 99900.0
+            "Value": 48000.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -2375,7 +2375,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 110300.0
+            "Value": 53000.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -2387,7 +2387,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 123800.0
+            "Value": 59400.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -2399,7 +2399,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 134200.0
+            "Value": 64400.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -2411,7 +2411,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 150600.0
+            "Value": 72300.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -2423,7 +2423,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 158100.0
+            "Value": 75900.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -2435,7 +2435,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 173000.0
+            "Value": 83100.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -2447,7 +2447,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 187900.0
+            "Value": 90200.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -2459,7 +2459,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 201300.0
+            "Value": 96700.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -2471,7 +2471,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 214700.0
+            "Value": 103100.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -2483,7 +2483,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 232600.0
+            "Value": 111700.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -2495,7 +2495,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 241600.0
+            "Value": 116000.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -2507,7 +2507,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 265400.0
+            "Value": 127400.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -2519,7 +2519,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 280300.0
+            "Value": 134600.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -2531,7 +2531,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 296700.0
+            "Value": 142500.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -2543,7 +2543,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 317600.0
+            "Value": 152500.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -2555,7 +2555,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 335500.0
+            "Value": 161100.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -2567,7 +2567,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 353400.0
+            "Value": 169700.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -2579,7 +2579,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 372800.0
+            "Value": 179000.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -2591,7 +2591,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 392200.0
+            "Value": 188300.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -2603,7 +2603,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 14900.0
+            "Value": 7200.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -2615,7 +2615,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 46200.0
+            "Value": 22200.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -2627,7 +2627,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 4600.0
+            "Value": 2200.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -2639,7 +2639,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 34900.0
+            "Value": 16800.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -2651,7 +2651,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 20900.0
+            "Value": 10000.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -2663,7 +2663,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 6000.0
+            "Value": 2900.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -2675,7 +2675,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 3200.0
+            "Value": 1600.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -2687,7 +2687,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 29800.0
+            "Value": 14300.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -2699,7 +2699,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 12400.0
+            "Value": 6000.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -2711,7 +2711,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 38800.0
+            "Value": 18600.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -2723,7 +2723,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 17900.0
+            "Value": 8600.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -2735,7 +2735,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 41800.0
+            "Value": 20000.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -2747,7 +2747,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 15200.0
+            "Value": 7300.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -2759,7 +2759,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 8200.0
+            "Value": 3900.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -2771,7 +2771,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 4500.0
+            "Value": 2100.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -2783,7 +2783,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 34300.0
+            "Value": 16500.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -2795,7 +2795,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 4200.0
+            "Value": 2000.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -2807,7 +2807,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 17100.0
+            "Value": 8200.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -2819,7 +2819,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 44700.0
+            "Value": 21500.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -2831,7 +2831,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 17900.0
+            "Value": 8600.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -2843,7 +2843,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 26800.0
+            "Value": 12900.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -2855,7 +2855,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 14600.0
+            "Value": 7000.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -2867,7 +2867,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 6000.0
+            "Value": 2900.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -2879,7 +2879,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 41800.0
+            "Value": 20000.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -2891,7 +2891,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 11600.0
+            "Value": 5600.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -2903,7 +2903,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 7500.0
+            "Value": 3600.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -2915,7 +2915,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 35800.0
+            "Value": 17200.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -2927,7 +2927,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 13400.0
+            "Value": 6400.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -2939,7 +2939,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 6000.0
+            "Value": 2900.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -2951,7 +2951,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 15500.0
+            "Value": 7400.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -2963,7 +2963,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 2800.0
+            "Value": 1300.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -2975,7 +2975,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 11900.0
+            "Value": 5700.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -2987,7 +2987,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 35800.0
+            "Value": 17200.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -2999,7 +2999,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 4500.0
+            "Value": 2200.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -3011,7 +3011,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 14900.0
+            "Value": 7200.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -3023,7 +3023,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 26800.0
+            "Value": 12900.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -3035,7 +3035,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 11700.0
+            "Value": 5600.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -3047,7 +3047,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 20900.0
+            "Value": 10000.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -3059,7 +3059,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 11900.0
+            "Value": 5700.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -3071,7 +3071,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 3000.0
+            "Value": 1400.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -3083,7 +3083,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 38800.0
+            "Value": 18600.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -3095,7 +3095,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 19400.0
+            "Value": 9300.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -3107,7 +3107,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 25400.0
+            "Value": 12200.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -3119,7 +3119,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 14900.0
+            "Value": 7200.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -3131,7 +3131,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 1500.0
+            "Value": 700.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -3143,7 +3143,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 35800.0
+            "Value": 17200.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -3155,7 +3155,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 17900.0
+            "Value": 8600.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -3167,7 +3167,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 26800.0
+            "Value": 12900.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -3179,7 +3179,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 11900.0
+            "Value": 5700.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -3191,7 +3191,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 6000.0
+            "Value": 2900.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -3203,7 +3203,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 31300.0
+            "Value": 15000.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -3215,7 +3215,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 12400.0
+            "Value": 6000.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -3227,7 +3227,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 3000.0
+            "Value": 1400.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -3239,7 +3239,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 56700.0
+            "Value": 27200.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -3251,7 +3251,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 26800.0
+            "Value": 12900.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -3263,7 +3263,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 6000.0
+            "Value": 2900.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -3275,7 +3275,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 20900.0
+            "Value": 10000.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -3287,7 +3287,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 6000.0
+            "Value": 2900.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -3299,7 +3299,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 11400.0
+            "Value": 5500.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -3311,7 +3311,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 23900.0
+            "Value": 11500.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -3323,7 +3323,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 25400.0
+            "Value": 12200.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -3335,7 +3335,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 26800.0
+            "Value": 12900.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -3347,7 +3347,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 28300.0
+            "Value": 13600.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -3359,7 +3359,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 14900.0
+            "Value": 7200.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -3371,7 +3371,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 3000.0
+            "Value": 1400.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -3383,7 +3383,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 1900.0
+            "Value": 900.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -3395,7 +3395,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 8900.0
+            "Value": 4300.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -3407,7 +3407,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 19400.0
+            "Value": 9300.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -3419,7 +3419,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 32800.0
+            "Value": 15800.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -3431,7 +3431,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 43200.0
+            "Value": 20800.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -3443,7 +3443,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 55200.0
+            "Value": 26500.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -3455,7 +3455,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 67100.0
+            "Value": 32200.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -3467,7 +3467,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 79000.0
+            "Value": 37900.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -3479,7 +3479,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 91000.0
+            "Value": 43700.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -3491,7 +3491,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 102900.0
+            "Value": 49400.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -3503,7 +3503,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 116300.0
+            "Value": 55800.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -3515,7 +3515,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 128200.0
+            "Value": 61600.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -3527,7 +3527,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 141700.0
+            "Value": 68000.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -3539,7 +3539,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 155100.0
+            "Value": 74500.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -3551,7 +3551,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 168500.0
+            "Value": 80900.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -3563,7 +3563,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 187900.0
+            "Value": 90200.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -3575,7 +3575,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 11900.0
+            "Value": 5700.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -3587,7 +3587,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 8900.0
+            "Value": 4300.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -3599,7 +3599,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 11900.0
+            "Value": 5700.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -3611,7 +3611,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 14900.0
+            "Value": 7200.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -3623,7 +3623,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 41800.0
+            "Value": 20000.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -3635,7 +3635,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 2700.0
+            "Value": 1300.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -3647,7 +3647,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 21300.0
+            "Value": 10200.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -3659,7 +3659,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 10600.0
+            "Value": 5100.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -3671,7 +3671,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 18700.0
+            "Value": 9000.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -3683,7 +3683,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 21900.0
+            "Value": 10500.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -3695,7 +3695,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 25000.0
+            "Value": 12000.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -3707,7 +3707,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 28100.0
+            "Value": 13500.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
