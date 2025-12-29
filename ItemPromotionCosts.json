@@ -1,0 +1,456 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "ItemPromotionCosts",
+    "Class": "UScriptClass'DataTable'",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'ItemPromotionCosts'",
+        "ObjectPath": "/Script/FortniteGame"
+      }
+    },
+    "Rows": {
+      "Hero1": {
+        "PromotionCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_promotion_heroes"
+            },
+            "Quantity": 1
+          },
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_people"
+            },
+            "Quantity": 775
+          }
+        ]
+      },
+      "Hero2": {
+        "PromotionCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_promotion_heroes"
+            },
+            "Quantity": 1
+          },
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_people"
+            },
+            "Quantity": 875
+          }
+        ]
+      },
+      "Hero3": {
+        "PromotionCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_promotion_heroes"
+            },
+            "Quantity": 1
+          },
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_people"
+            },
+            "Quantity": 1000
+          }
+        ]
+      },
+      "Hero4": {
+        "PromotionCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_promotion_heroes"
+            },
+            "Quantity": 1
+          },
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_people"
+            },
+            "Quantity": 1100
+          }
+        ]
+      },
+      "Hero5": {
+        "PromotionCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_promotion_heroes"
+            },
+            "Quantity": 1
+          },
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_people"
+            },
+            "Quantity": 1200
+          }
+        ]
+      },
+      "Weapon1": {
+        "PromotionCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_promotion_weapons"
+            },
+            "Quantity": 1
+          },
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_weapons"
+            },
+            "Quantity": 350
+          }
+        ]
+      },
+      "Weapon2": {
+        "PromotionCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_promotion_weapons"
+            },
+            "Quantity": 1
+          },
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_weapons"
+            },
+            "Quantity": 400
+          }
+        ]
+      },
+      "Weapon3": {
+        "PromotionCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_promotion_weapons"
+            },
+            "Quantity": 1
+          },
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_weapons"
+            },
+            "Quantity": 450
+          }
+        ]
+      },
+      "Weapon4": {
+        "PromotionCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_promotion_weapons"
+            },
+            "Quantity": 1
+          },
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_weapons"
+            },
+            "Quantity": 500
+          }
+        ]
+      },
+      "Weapon5": {
+        "PromotionCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_promotion_weapons"
+            },
+            "Quantity": 1
+          },
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_weapons"
+            },
+            "Quantity": 550
+          }
+        ]
+      },
+      "Worker1": {
+        "PromotionCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_promotion_survivors"
+            },
+            "Quantity": 1
+          },
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_people"
+            },
+            "Quantity": 350
+          }
+        ]
+      },
+      "Worker2": {
+        "PromotionCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_promotion_survivors"
+            },
+            "Quantity": 1
+          },
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_people"
+            },
+            "Quantity": 400
+          }
+        ]
+      },
+      "Worker3": {
+        "PromotionCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_promotion_survivors"
+            },
+            "Quantity": 1
+          },
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_people"
+            },
+            "Quantity": 450
+          }
+        ]
+      },
+      "Worker4": {
+        "PromotionCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_promotion_survivors"
+            },
+            "Quantity": 1
+          },
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_people"
+            },
+            "Quantity": 500
+          }
+        ]
+      },
+      "Worker5": {
+        "PromotionCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_promotion_survivors"
+            },
+            "Quantity": 1
+          },
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_people"
+            },
+            "Quantity": 550
+          }
+        ]
+      },
+      "Trap1": {
+        "PromotionCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_promotion_traps"
+            },
+            "Quantity": 1
+          },
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_traps"
+            },
+            "Quantity": 350
+          }
+        ]
+      },
+      "Trap2": {
+        "PromotionCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_promotion_traps"
+            },
+            "Quantity": 1
+          },
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_traps"
+            },
+            "Quantity": 400
+          }
+        ]
+      },
+      "Trap3": {
+        "PromotionCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_promotion_traps"
+            },
+            "Quantity": 1
+          },
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_traps"
+            },
+            "Quantity": 450
+          }
+        ]
+      },
+      "Trap4": {
+        "PromotionCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_promotion_traps"
+            },
+            "Quantity": 1
+          },
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_traps"
+            },
+            "Quantity": 500
+          }
+        ]
+      },
+      "Trap5": {
+        "PromotionCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_promotion_traps"
+            },
+            "Quantity": 1
+          },
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_traps"
+            },
+            "Quantity": 550
+          }
+        ]
+      }
+    }
+  }
+]

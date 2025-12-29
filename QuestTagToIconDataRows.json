@@ -292,6 +292,24 @@
           "AssetPathName": "/Game/Athena/HUD/Interaction/T_UI_Quest_BirthdayCake.T_UI_Quest_BirthdayCake",
           "SubPathString": ""
         }
+      },
+      "Quest.ChallengeIcon.Zone.Large": {
+        "Icon": {
+          "AssetPathName": "/Game/Athena/HUD/Interaction/T_UI_MapQuestZone_L.T_UI_MapQuestZone_L",
+          "SubPathString": ""
+        }
+      },
+      "Quest.ChallengeIcon.Zone.Medium": {
+        "Icon": {
+          "AssetPathName": "/Game/Athena/HUD/Interaction/T_UI_MapQuestZone_M.T_UI_MapQuestZone_M",
+          "SubPathString": ""
+        }
+      },
+      "Quest.ChallengeIcon.Zone.Small": {
+        "Icon": {
+          "AssetPathName": "/Game/Athena/HUD/Interaction/T_UI_MapQuestZone_S.T_UI_MapQuestZone_S",
+          "SubPathString": ""
+        }
       }
     }
   }

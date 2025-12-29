@@ -1440,7 +1440,7 @@
         "ScoreThreshold": -1
       },
       "MissionBadge_Resupply_Participation": {
-        "ScoreAwarded": 65000,
+        "ScoreAwarded": 36000,
         "MissionPoints": 0,
         "ScoreCategory": "EStatCategory::Max_None",
         "ScoreThreshold": -1
@@ -1892,6 +1892,30 @@
       "MissionBadge_HTM_Participation": {
         "ScoreAwarded": 85000,
         "MissionPoints": 1,
+        "ScoreCategory": "EStatCategory::Max_None",
+        "ScoreThreshold": -1
+      },
+      "MissionBadge_Resupply_Bronze": {
+        "ScoreAwarded": 360000,
+        "MissionPoints": 1,
+        "ScoreCategory": "EStatCategory::Max_None",
+        "ScoreThreshold": -1
+      },
+      "MissionBadge_Resupply_Silver": {
+        "ScoreAwarded": 550000,
+        "MissionPoints": 2,
+        "ScoreCategory": "EStatCategory::Max_None",
+        "ScoreThreshold": -1
+      },
+      "MissionBadge_Resupply_Gold": {
+        "ScoreAwarded": 598000,
+        "MissionPoints": 3,
+        "ScoreCategory": "EStatCategory::Max_None",
+        "ScoreThreshold": -1
+      },
+      "MissionBadge_Resupply_Platinum": {
+        "ScoreAwarded": 645000,
+        "MissionPoints": 5,
         "ScoreCategory": "EStatCategory::Max_None",
         "ScoreThreshold": -1
       }

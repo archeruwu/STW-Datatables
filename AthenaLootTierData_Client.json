@@ -76,6 +76,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaTest;LPKG:WorldList.AthenaTest"
       },
       "Loot_AthenaFloorLoot_01": {
@@ -143,6 +144,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaFloorLoot;LPKG:WorldPKG.AthenaLoot.Weapon.Shotgun"
       },
       "Loot_AthenaFloorLoot_02": {
@@ -210,6 +212,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaFloorLoot;LPKG:WorldPKG.AthenaLoot.Weapon.Handgun"
       },
       "Loot_AthenaFloorLoot_03": {
@@ -277,6 +280,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaFloorLoot;LPKG:WorldPKG.AthenaLoot.Weapon.Revolver"
       },
       "Loot_AthenaFloorLoot_04": {
@@ -344,6 +348,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaFloorLoot;LPKG:WorldPKG.AthenaLoot.Weapon.SMG"
       },
       "Loot_AthenaFloorLoot_05": {
@@ -411,6 +416,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaFloorLoot;LPKG:WorldPKG.AthenaLoot.Weapon.AssaultAuto"
       },
       "Loot_AthenaFloorLoot_06": {
@@ -478,6 +484,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaFloorLoot;LPKG:WorldPKG.AthenaLoot.Weapon.Sniper"
       },
       "Loot_AthenaFloorLoot_07": {
@@ -545,6 +552,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaFloorLoot;LPKG:WorldPKG.AthenaLoot.Weapon.Crossbow"
       },
       "Loot_AthenaFloorLoot_08": {
@@ -612,6 +620,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaFloorLoot;LPKG:WorldPKG.AthenaLoot.Weapon.HandCannon"
       },
       "Loot_AthenaFloorLoot_09": {
@@ -679,6 +688,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaFloorLoot;LPKG:WorldPKG.AthenaLoot.Weapon.Rocket"
       },
       "Loot_AthenaFloorLoot_10": {
@@ -746,6 +756,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaFloorLoot;LPKG:WorldPKG.AthenaLoot.Weapon.Hero"
       },
       "Loot_AthenaFloorLoot_11": {
@@ -813,6 +824,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaFloorLoot;LPKG:WorldPKG.AthenaLoot.Gadget"
       },
       "Loot_AthenaFloorLoot_12": {
@@ -880,6 +892,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaFloorLoot;LPKG:WorldPKG.AthenaLoot.Consumable"
       },
       "Loot_AthenaFloorLoot_13": {
@@ -947,6 +960,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaFloorLoot;LPKG:WorldPKG.AthenaLoot.Trap"
       },
       "Loot_AthenaFloorLoot_14": {
@@ -1014,6 +1028,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaFloorLoot;LPKG:WorldPKG.AthenaLoot.Ammo"
       },
       "Loot_AthenaFloorLoot_15": {
@@ -1081,6 +1096,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaFloorLoot;LPKG:WorldPKG.AthenaLoot.Resources"
       },
       "Loot_AthenaFloorLoot_16": {
@@ -1148,6 +1164,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaFloorLoot;LPKG:WorldList.AthenaLoot.Empty"
       },
       "Loot_AthenaVending_01": {
@@ -1215,6 +1232,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaVending;LPKG:WorldList.AthenaLoot.VendingMachine.Consumables.Common"
       },
       "Loot_AthenaVending_02": {
@@ -1282,6 +1300,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaVending;LPKG:WorldPKG.AthenaLoot.VendingMachine.Weapons.Common.Shells"
       },
       "Loot_AthenaVending_03": {
@@ -1349,6 +1368,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaVending;LPKG:WorldPKG.AthenaLoot.VendingMachine.Weapons.Common.Light"
       },
       "Loot_AthenaVending_04": {
@@ -1416,6 +1436,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaVending;LPKG:WorldPKG.AthenaLoot.VendingMachine.Weapons.Common.Medium"
       },
       "Loot_AthenaVending_05": {
@@ -1483,6 +1504,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaVending;LPKG:WorldPKG.AthenaLoot.VendingMachine.Weapons.Common.Heavy"
       },
       "Loot_AthenaVending_06": {
@@ -1550,6 +1572,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaVending;LPKG:WorldList.AthenaHighConsumables"
       },
       "Loot_AthenaVending_07": {
@@ -1617,6 +1640,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaVending.T01;LPKG:WorldList.AthenaLoot.VendingMachine.Consumables.Uncommon"
       },
       "Loot_AthenaVending_08": {
@@ -1684,6 +1708,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaVending.T01;LPKG:WorldPKG.AthenaLoot.VendingMachine.Weapons.Uncommon.Shells"
       },
       "Loot_AthenaVending_09": {
@@ -1751,6 +1776,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaVending.T01;LPKG:WorldPKG.AthenaLoot.VendingMachine.Weapons.Uncommon.Light"
       },
       "Loot_AthenaVending_10": {
@@ -1818,6 +1844,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaVending.T01;LPKG:WorldPKG.AthenaLoot.VendingMachine.Weapons.Uncommon.Medium"
       },
       "Loot_AthenaVending_11": {
@@ -1885,6 +1912,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaVending.T01;LPKG:WorldPKG.AthenaLoot.VendingMachine.Weapons.Uncommon.Heavy"
       },
       "Loot_AthenaVending_12": {
@@ -1952,6 +1980,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaVending.T01;LPKG:WorldList.AthenaHighConsumables"
       },
       "Loot_AthenaVending_13": {
@@ -2019,6 +2048,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaVending.T02;LPKG:WorldList.AthenaLoot.VendingMachine.Consumables.Rare"
       },
       "Loot_AthenaVending_14": {
@@ -2086,6 +2116,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaVending.T02;LPKG:WorldPKG.AthenaLoot.VendingMachine.Weapons.Rare.Shells"
       },
       "Loot_AthenaVending_15": {
@@ -2153,6 +2184,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaVending.T02;LPKG:WorldPKG.AthenaLoot.VendingMachine.Weapons.Rare.Light"
       },
       "Loot_AthenaVending_16": {
@@ -2220,6 +2252,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaVending.T02;LPKG:WorldPKG.AthenaLoot.VendingMachine.Weapons.Rare.Medium"
       },
       "Loot_AthenaVending_17": {
@@ -2287,6 +2320,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaVending.T02;LPKG:WorldPKG.AthenaLoot.VendingMachine.Weapons.Rare.Heavy"
       },
       "Loot_AthenaVending_18": {
@@ -2354,6 +2388,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaVending.T02;LPKG:WorldPKG.AthenaLoot.VendingMachine.Weapons.Rare.Rocket"
       },
       "Loot_AthenaVending_19": {
@@ -2421,6 +2456,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaVending.T02;LPKG:WorldPKG.AthenaLoot.VendingMachine.Weapons.Rare.Gadget"
       },
       "Loot_AthenaVending_20": {
@@ -2488,6 +2524,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaVending.T02;LPKG:WorldList.AthenaHighConsumables"
       },
       "Loot_AthenaVending_21": {
@@ -2555,6 +2592,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaVending.T03;LPKG:WorldList.AthenaLoot.VendingMachine.Consumables.Epic"
       },
       "Loot_AthenaVending_22": {
@@ -2622,6 +2660,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaVending.T03;LPKG:WorldPKG.AthenaLoot.VendingMachine.Weapons.Epic.Shells"
       },
       "Loot_AthenaVending_23": {
@@ -2689,6 +2728,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaVending.T03;LPKG:WorldPKG.AthenaLoot.VendingMachine.Weapons.Epic.Light"
       },
       "Loot_AthenaVending_24": {
@@ -2756,6 +2796,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaVending.T03;LPKG:WorldPKG.AthenaLoot.VendingMachine.Weapons.Epic.Medium"
       },
       "Loot_AthenaVending_25": {
@@ -2823,6 +2864,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaVending.T03;LPKG:WorldPKG.AthenaLoot.VendingMachine.Weapons.Epic.Heavy"
       },
       "Loot_AthenaVending_26": {
@@ -2890,6 +2932,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaVending.T03;LPKG:WorldPKG.AthenaLoot.VendingMachine.Weapons.Epic.Rocket"
       },
       "Loot_AthenaVending_27": {
@@ -2957,6 +3000,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaVending.T03;LPKG:WorldPKG.AthenaLoot.VendingMachine.Weapons.Epic.Gadget"
       },
       "Loot_AthenaVending_28": {
@@ -3024,6 +3068,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaVending.T03;LPKG:WorldList.AthenaHighConsumables"
       },
       "Loot_AthenaVending_29": {
@@ -3091,6 +3136,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaVending.T04;LPKG:WorldList.AthenaLoot.VendingMachine.Consumables.Legendary"
       },
       "Loot_AthenaVending_30": {
@@ -3158,6 +3204,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaVending.T04;LPKG:WorldPKG.AthenaLoot.VendingMachine.Weapons.Legendary.Shells"
       },
       "Loot_AthenaVending_31": {
@@ -3225,6 +3272,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaVending.T04;LPKG:WorldPKG.AthenaLoot.VendingMachine.Weapons.Legendary.Light"
       },
       "Loot_AthenaVending_32": {
@@ -3292,6 +3340,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaVending.T04;LPKG:WorldPKG.AthenaLoot.VendingMachine.Weapons.Legendary.Medium"
       },
       "Loot_AthenaVending_33": {
@@ -3359,6 +3408,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaVending.T04;LPKG:WorldPKG.AthenaLoot.VendingMachine.Weapons.Legendary.Heavy"
       },
       "Loot_AthenaVending_34": {
@@ -3426,6 +3476,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaVending.T04;LPKG:WorldPKG.AthenaLoot.VendingMachine.Weapons.Legendary.Rocket"
       },
       "Loot_AthenaVending_35": {
@@ -3493,6 +3544,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaVending.T04;LPKG:WorldList.AthenaHighConsumables"
       },
       "Loot_AthenaFloorLoot_Warmup_01": {
@@ -3560,6 +3612,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaFloorLoot_Warmup;LPKG:WorldPKG.AthenaLoot.Weapon.Shotgun"
       },
       "Loot_AthenaFloorLoot_Warmup_02": {
@@ -3627,6 +3680,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaFloorLoot_Warmup;LPKG:WorldPKG.AthenaLoot.Weapon.Handgun"
       },
       "Loot_AthenaFloorLoot_Warmup_03": {
@@ -3694,6 +3748,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaFloorLoot_Warmup;LPKG:WorldPKG.AthenaLoot.Weapon.Revolver"
       },
       "Loot_AthenaFloorLoot_Warmup_04": {
@@ -3761,6 +3816,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaFloorLoot_Warmup;LPKG:WorldPKG.AthenaLoot.Weapon.SMG"
       },
       "Loot_AthenaFloorLoot_Warmup_05": {
@@ -3828,6 +3884,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaFloorLoot_Warmup;LPKG:WorldPKG.AthenaLoot.Weapon.AssaultAuto"
       },
       "Loot_AthenaFloorLoot_Warmup_06": {
@@ -3895,6 +3952,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaFloorLoot_Warmup;LPKG:WorldPKG.AthenaLoot.Weapon.Sniper"
       },
       "Loot_AthenaFloorLoot_Warmup_07": {
@@ -3962,6 +4020,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaFloorLoot_Warmup;LPKG:WorldPKG.AthenaLoot.Weapon.Rocket"
       },
       "Loot_AthenaFloorLoot_Warmup_08": {
@@ -4029,6 +4088,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaFloorLoot_Warmup;LPKG:WorldPKG.AthenaLoot.Consumable"
       },
       "Loot_AthenaFloorLoot_Warmup_09": {
@@ -4096,11 +4156,12 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaFloorLoot_Warmup;LPKG:WorldPKG.AthenaLoot.Resources"
       },
       "Loot_AthenaTreasure_01": {
         "TierGroup": "Loot_AthenaTreasure",
-        "Weight": 0.22,
+        "Weight": 0.3,
         "QuotaLevel": "ELootQuotaLevel::Unlimited",
         "LootTier": 0,
         "MinWorldLevel": -1,
@@ -4163,6 +4224,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaTreasure;LPKG:WorldPKG.AthenaLoot.Weapon.HighShotgun"
       },
       "Loot_AthenaTreasure_02": {
@@ -4230,11 +4292,12 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaTreasure;LPKG:WorldPKG.AthenaLoot.Weapon.HighSMG"
       },
       "Loot_AthenaTreasure_03": {
         "TierGroup": "Loot_AthenaTreasure",
-        "Weight": 0.33,
+        "Weight": 0.36,
         "QuotaLevel": "ELootQuotaLevel::Unlimited",
         "LootTier": 0,
         "MinWorldLevel": -1,
@@ -4297,11 +4360,12 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaTreasure;LPKG:WorldPKG.AthenaLoot.Weapon.HighAssaultAuto"
       },
       "Loot_AthenaTreasure_04": {
         "TierGroup": "Loot_AthenaTreasure",
-        "Weight": 0.0,
+        "Weight": 0.06,
         "QuotaLevel": "ELootQuotaLevel::Unlimited",
         "LootTier": 0,
         "MinWorldLevel": -1,
@@ -4364,6 +4428,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaTreasure;LPKG:WorldPKG.AthenaLoot.Weapon.HighSniper"
       },
       "Loot_AthenaTreasure_05": {
@@ -4431,6 +4496,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaTreasure;LPKG:WorldPKG.AthenaLoot.Weapon.HighCrossbow"
       },
       "Loot_AthenaTreasure_06": {
@@ -4447,8 +4513,8 @@
         "LootPackage": "WorldPKG.AthenaLoot.Weapon.HighHandCannon",
         "LootPreviewPackage": "None",
         "NumLootPackageDropsRange": {
-          "X": 3.0,
-          "Y": 3.0
+          "X": 4.0,
+          "Y": 4.0
         },
         "LootPackageCategoryWeightArray": [
           1,
@@ -4468,7 +4534,7 @@
           0,
           1,
           1,
-          0,
+          1,
           0,
           0,
           0,
@@ -4498,6 +4564,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaTreasure;LPKG:WorldPKG.AthenaLoot.Weapon.HighHandCannon"
       },
       "Loot_AthenaTreasure_07": {
@@ -4565,6 +4632,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaTreasure;LPKG:WorldPKG.AthenaLoot.Weapon.HighRocket"
       },
       "Loot_AthenaTreasure_08": {
@@ -4632,6 +4700,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaTreasure;LPKG:WorldPKG.AthenaLoot.Weapon.HighHandgun"
       },
       "Loot_AthenaTreasure_09": {
@@ -4699,6 +4768,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaTreasure;LPKG:WorldPKG.AthenaLoot.Weapon.HighRevolver"
       },
       "Loot_AthenaTreasure_10": {
@@ -4766,6 +4836,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaTreasure;LPKG:WorldPKG.AthenaLoot.Gadget"
       },
       "Loot_AthenaTreasure_11": {
@@ -4833,6 +4904,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaTreasure;LPKG:WorldPKG.AthenaLoot.Weapon.HighHero"
       },
       "Loot_AthenaTreasure_RiftEncounter_01": {
@@ -4900,6 +4972,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaTreasure_RiftEncounter;LPKG:WorldPKG.RiftEncounterLoot.Weapon.HighShotgun"
       },
       "Loot_AthenaTreasure_RiftEncounter_02": {
@@ -4967,6 +5040,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaTreasure_RiftEncounter;LPKG:WorldPKG.RiftEncounterLoot.Weapon.HighSMG"
       },
       "Loot_AthenaTreasure_RiftEncounter_03": {
@@ -5034,6 +5108,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaTreasure_RiftEncounter;LPKG:WorldPKG.RiftEncounterLoot.Weapon.HighAssaultAuto"
       },
       "Loot_AthenaTreasure_RiftEncounter_04": {
@@ -5101,6 +5176,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaTreasure_RiftEncounter;LPKG:WorldPKG.RiftEncounterLoot.Weapon.HighSniper"
       },
       "Loot_AthenaTreasure_RiftEncounter_05": {
@@ -5117,15 +5193,15 @@
         "LootPackage": "WorldPKG.RiftEncounterLoot.Weapon.Crossbow",
         "LootPreviewPackage": "None",
         "NumLootPackageDropsRange": {
-          "X": 3.0,
-          "Y": 3.0
+          "X": 4.0,
+          "Y": 4.0
         },
         "LootPackageCategoryWeightArray": [
           1,
           1,
           1,
           1,
-          0,
+          1,
           0,
           0,
           0,
@@ -5138,7 +5214,7 @@
           0,
           1,
           1,
-          0,
+          1,
           0,
           0,
           0,
@@ -5168,6 +5244,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaTreasure_RiftEncounter;LPKG:WorldPKG.RiftEncounterLoot.Weapon.Crossbow"
       },
       "Loot_AthenaTreasure_RiftEncounter_06": {
@@ -5184,15 +5261,15 @@
         "LootPackage": "WorldPKG.RiftEncounterLoot.Weapon.HighHandCannon",
         "LootPreviewPackage": "None",
         "NumLootPackageDropsRange": {
-          "X": 3.0,
-          "Y": 3.0
+          "X": 4.0,
+          "Y": 4.0
         },
         "LootPackageCategoryWeightArray": [
           1,
           1,
           1,
           1,
-          0,
+          1,
           0,
           0,
           0,
@@ -5205,7 +5282,7 @@
           0,
           1,
           1,
-          0,
+          1,
           0,
           0,
           0,
@@ -5235,6 +5312,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaTreasure_RiftEncounter;LPKG:WorldPKG.RiftEncounterLoot.Weapon.HighHandCannon"
       },
       "Loot_AthenaTreasure_RiftEncounter_07": {
@@ -5302,6 +5380,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaTreasure_RiftEncounter;LPKG:WorldPKG.RiftEncounterLoot.Weapon.HighRocket"
       },
       "Loot_AthenaTreasure_RiftEncounter_08": {
@@ -5369,6 +5448,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaTreasure_RiftEncounter;LPKG:WorldPKG.RiftEncounterLoot.Weapon.HighHandgun"
       },
       "Loot_AthenaTreasure_RiftEncounter_09": {
@@ -5436,6 +5516,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaTreasure_RiftEncounter;LPKG:WorldPKG.RiftEncounterLoot.Weapon.HighRevolver"
       },
       "Loot_AthenaTreasure_RiftEncounter_10": {
@@ -5503,6 +5584,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaTreasure_RiftEncounter;LPKG:WorldPKG.RiftEncounterLoot.Gadget"
       },
       "Loot_AthenaTreasure_RiftEncounter_11": {
@@ -5570,6 +5652,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaTreasure_RiftEncounter;LPKG:WorldPKG.RiftEncounterLoot.Weapon.HighCrossbow"
       },
       "Loot_AthenaTreasure_Red_01": {
@@ -5637,6 +5720,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaTreasure_Red;LPKG:WorldPKG.FactionLoot.Weapon.Red"
       },
       "Loot_AthenaTreasure_Blue_01": {
@@ -5704,6 +5788,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaTreasure_Blue;LPKG:WorldPKG.FactionLoot.Weapon.Blue"
       },
       "Loot_AthenaTreasure_Yellow_01": {
@@ -5771,6 +5856,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaTreasure_Yellow;LPKG:WorldPKG.FactionLoot.Weapon.Yellow"
       },
       "Loot_AthenaTreasure_White_01": {
@@ -5838,6 +5924,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaTreasure_White;LPKG:WorldPKG.FactionLoot.Weapon.White"
       },
       "Loot_AthenaTreasure_Prepper_01": {
@@ -5905,6 +5992,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaTreasure_Prepper;LPKG:WorldPKG.PrepperLoot.Weapon"
       },
       "Loot_AthenaTreasure_IO_01": {
@@ -5972,6 +6060,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaTreasure_IO;LPKG:WorldPKG.FactionLoot.Weapon.IO"
       },
       "Loot_AthenaInterrogate_01": {
@@ -6039,6 +6128,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaInterrogate;LPKG:WorldPKG.InterrogateLoot"
       },
       "Loot_ApolloTreasure_Rare_01": {
@@ -6106,6 +6196,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_ApolloTreasure_Rare.T02;LPKG:WorldPKG.ApolloLoot.Weapon.HighShotgun"
       },
       "Loot_ApolloTreasure_Rare_02": {
@@ -6173,6 +6264,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_ApolloTreasure_Rare.T02;LPKG:WorldPKG.ApolloLoot.Weapon.SMG"
       },
       "Loot_ApolloTreasure_Rare_03": {
@@ -6240,11 +6332,12 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_ApolloTreasure_Rare.T02;LPKG:WorldPKG.ApolloLoot.Weapon.AssaultAuto"
       },
       "Loot_ApolloTreasure_Rare_04": {
         "TierGroup": "Loot_ApolloTreasure_Rare",
-        "Weight": 0.0,
+        "Weight": 0.15,
         "QuotaLevel": "ELootQuotaLevel::Unlimited",
         "LootTier": 2,
         "MinWorldLevel": -1,
@@ -6307,6 +6400,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_ApolloTreasure_Rare.T02;LPKG:WorldPKG.ApolloLoot.Weapon.Sniper"
       },
       "Loot_ApolloTreasure_Rare_05": {
@@ -6374,6 +6468,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_ApolloTreasure_Rare.T02;LPKG:WorldPKG.ApolloLoot.Weapon.Rocket"
       },
       "Loot_ApolloTreasure_Rare_06": {
@@ -6441,6 +6536,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_ApolloTreasure_Rare.T02;LPKG:WorldPKG.ApolloLoot.Weapon.HighHandgun"
       },
       "Loot_ApolloTreasure_Rare_07": {
@@ -6508,6 +6604,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_ApolloTreasure_Rare.T02;LPKG:WorldPKG.ApolloLoot.Weapon.Hero"
       },
       "Loot_ApolloAmmoBox_Rare_01": {
@@ -6575,6 +6672,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_ApolloAmmoBox_Rare.T02;LPKG:WorldPKG.ApolloAmmoBox.Standard"
       },
       "Loot_ApolloAmmoBox_Rare_02": {
@@ -6642,6 +6740,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_ApolloAmmoBox_Rare.T02;LPKG:WorldPKG.ApolloAmmoBox.Heavy"
       },
       "Loot_ApolloAmmoBox_Rare_03": {
@@ -6709,6 +6808,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_ApolloAmmoBox_Rare.T02;LPKG:WorldPKG.ApolloAmmoBox.Rocket"
       },
       "Loot_ApolloAmmoBox_Rare_04": {
@@ -6776,6 +6876,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_ApolloAmmoBox_Rare.T02;LPKG:WorldPKG.ApolloAmmoBox.Consumables"
       },
       "Loot_ApolloRodBox_01": {
@@ -6843,6 +6944,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_ApolloRodBox;LPKG:WorldPKG.ApolloRodBox"
       },
       "Loot_ApolloRodBox_02": {
@@ -6910,6 +7012,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_ApolloRodBox;LPKG:WorldPKG.ApolloRodBox.Harpoon"
       },
       "Loot_AthenaIceBox_01": {
@@ -6977,6 +7080,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaIceBox;LPKG:WorldPKG.AthenaIceBox"
       },
       "Loot_AthenaFrozen_01": {
@@ -7044,6 +7148,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaFrozen;LPKG:WorldPKG.AthenaFrozen"
       },
       "Loot_AthenaBroomBox_01": {
@@ -7111,6 +7216,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaBroomBox;LPKG:WorldPKG.AthenaBroomBox"
       },
       "Loot_AthenaCandyBucket_01": {
@@ -7178,6 +7284,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaCandyBucket;LPKG:WorldPKG.AthenaCandyBucket"
       },
       "Loot_AthenaGhostMidas_01": {
@@ -7245,6 +7352,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaGhostMidas;LPKG:WorldPKG.AthenaGhostMidas"
       },
       "Loot_AthenaLlama_01": {
@@ -7312,6 +7420,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaLlama;LPKG:WorldPKG.AthenaLlama"
       },
       "Loot_AI_Llama_Eliminated_01": {
@@ -7379,6 +7488,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AI_Llama_Eliminated;LPKG:WorldPKG.AI.Llama.Eliminated"
       },
       "Loot_AI_Llama_Flee_01": {
@@ -7446,6 +7556,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AI_Llama_Flee;LPKG:WorldPKG.AI.Llama.Flee.Ammo"
       },
       "Loot_AI_Llama_Flee_02": {
@@ -7513,6 +7624,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AI_Llama_Flee;LPKG:WorldPKG.AI.Llama.Flee.Consumable"
       },
       "Loot_AI_Llama_Flee_03": {
@@ -7580,6 +7692,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AI_Llama_Flee;LPKG:WorldPKG.AI.Llama.Flee.Raredrop"
       },
       "Loot_AI_Llama_Flee_04": {
@@ -7647,6 +7760,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AI_Llama_Flee;LPKG:WorldPKG.AI.Llama.Flee.Resources"
       },
       "Loot_FundingStations_DonateReward_01": {
@@ -7714,6 +7828,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_FundingStations_DonateReward;LPKG:WorldPKG.FundingStations.DonateReward"
       },
       "Loot_FundingStationResolve_UnvaultTwo_Rtg_01": {
@@ -7781,6 +7896,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_FundingStationResolve_UnvaultTwo_Rtg;LPKG:WorldList.FundingStationResolve.UnvaultTwo.Rtg"
       },
       "Loot_FundingStationResolve_UnvaultTwo_BB_01": {
@@ -7848,6 +7964,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_FundingStationResolve_UnvaultTwo_BB;LPKG:WorldList.FundingStationResolve.UnvaultTwo.BB"
       },
       "Loot_FundingStationResolve_UnvaultThree_ShieldBub_01": {
@@ -7915,6 +8032,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_FundingStationResolve_UnvaultThree_ShieldBub;LPKG:WorldList.FundingStationResolve.UnvaultThree.ShieldBub"
       },
       "Loot_FundingStationResolve_UnvaultThree_Balloons_01": {
@@ -7982,6 +8100,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_FundingStationResolve_UnvaultThree_Balloons;LPKG:WorldList.FundingStationResolve.UnvaultThree.Balloons"
       },
       "Loot_FriendsChest_Two_01": {
@@ -8049,6 +8168,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_FriendsChest_Two;LPKG:WorldPKG.FriendsChest.Weapon.Shell"
       },
       "Loot_FriendsChest_Two_02": {
@@ -8116,6 +8236,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_FriendsChest_Two;LPKG:WorldPKG.FriendsChest.Weapon.Light"
       },
       "Loot_FriendsChest_Two_03": {
@@ -8183,6 +8304,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_FriendsChest_Two;LPKG:WorldPKG.FriendsChest.Weapon.Medium"
       },
       "Loot_FriendsChest_Two_04": {
@@ -8250,6 +8372,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_FriendsChest_Two;LPKG:WorldPKG.FriendsChest.Weapon.Heavy"
       },
       "Loot_FriendsChest_Two_05": {
@@ -8317,6 +8440,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_FriendsChest_Two;LPKG:WorldPKG.FriendsChest.Weapon.Rocket"
       },
       "Loot_FriendsChest_Three_01": {
@@ -8384,6 +8508,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_FriendsChest_Three;LPKG:WorldPKG.FriendsChest.Weapon.Shell"
       },
       "Loot_FriendsChest_Three_02": {
@@ -8451,6 +8576,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_FriendsChest_Three;LPKG:WorldPKG.FriendsChest.Weapon.Light"
       },
       "Loot_FriendsChest_Three_03": {
@@ -8518,6 +8644,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_FriendsChest_Three;LPKG:WorldPKG.FriendsChest.Weapon.Medium"
       },
       "Loot_FriendsChest_Three_04": {
@@ -8585,6 +8712,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_FriendsChest_Three;LPKG:WorldPKG.FriendsChest.Weapon.Heavy"
       },
       "Loot_FriendsChest_Three_05": {
@@ -8652,6 +8780,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_FriendsChest_Three;LPKG:WorldPKG.FriendsChest.Weapon.Rocket"
       },
       "Loot_FriendsChest_Four_01": {
@@ -8719,6 +8848,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_FriendsChest_Four;LPKG:WorldPKG.FriendsChest.Weapon.Shell"
       },
       "Loot_FriendsChest_Four_02": {
@@ -8786,6 +8916,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_FriendsChest_Four;LPKG:WorldPKG.FriendsChest.Weapon.Light"
       },
       "Loot_FriendsChest_Four_03": {
@@ -8853,6 +8984,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_FriendsChest_Four;LPKG:WorldPKG.FriendsChest.Weapon.Medium"
       },
       "Loot_FriendsChest_Four_04": {
@@ -8920,6 +9052,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_FriendsChest_Four;LPKG:WorldPKG.FriendsChest.Weapon.Heavy"
       },
       "Loot_FriendsChest_Four_05": {
@@ -8987,11 +9120,12 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_FriendsChest_Four;LPKG:WorldPKG.FriendsChest.Weapon.Rocket"
       },
       "Loot_AthenaSupplyDrop_01": {
         "TierGroup": "Loot_AthenaSupplyDrop",
-        "Weight": 1.2,
+        "Weight": 1.0,
         "QuotaLevel": "ELootQuotaLevel::Unlimited",
         "LootTier": 0,
         "MinWorldLevel": -1,
@@ -9054,6 +9188,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaSupplyDrop;LPKG:WorldPKG.AthenaSupplyDrop.Weapon.Assault"
       },
       "Loot_AthenaSupplyDrop_02": {
@@ -9121,11 +9256,12 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaSupplyDrop;LPKG:WorldPKG.AthenaSupplyDrop.Weapon.Rocket"
       },
       "Loot_AthenaSupplyDrop_03": {
         "TierGroup": "Loot_AthenaSupplyDrop",
-        "Weight": 0.0,
+        "Weight": 0.5,
         "QuotaLevel": "ELootQuotaLevel::Unlimited",
         "LootTier": 0,
         "MinWorldLevel": -1,
@@ -9188,11 +9324,12 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaSupplyDrop;LPKG:WorldPKG.AthenaSupplyDrop.Weapon.Sniper"
       },
       "Loot_AthenaSupplyDrop_04": {
         "TierGroup": "Loot_AthenaSupplyDrop",
-        "Weight": 0.6,
+        "Weight": 1.0,
         "QuotaLevel": "ELootQuotaLevel::Unlimited",
         "LootTier": 0,
         "MinWorldLevel": -1,
@@ -9255,11 +9392,12 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaSupplyDrop;LPKG:WorldPKG.AthenaSupplyDrop.Weapon.Shotgun"
       },
       "Loot_AthenaSupplyDrop_05": {
         "TierGroup": "Loot_AthenaSupplyDrop",
-        "Weight": 0.4,
+        "Weight": 0.25,
         "QuotaLevel": "ELootQuotaLevel::Unlimited",
         "LootTier": 0,
         "MinWorldLevel": -1,
@@ -9322,6 +9460,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaSupplyDrop;LPKG:WorldPKG.AthenaSupplyDrop.Weapon.HandCannon"
       },
       "Loot_AthenaSupplyDrop_06": {
@@ -9389,11 +9528,12 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaSupplyDrop;LPKG:WorldPKG.AthenaSupplyDrop.Weapon.Handgun"
       },
       "Loot_AthenaSupplyDrop_07": {
         "TierGroup": "Loot_AthenaSupplyDrop",
-        "Weight": 0.0,
+        "Weight": 0.75,
         "QuotaLevel": "ELootQuotaLevel::Unlimited",
         "LootTier": 0,
         "MinWorldLevel": -1,
@@ -9456,6 +9596,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaSupplyDrop;LPKG:WorldPKG.AthenaSupplyDrop.Weapon.SMG"
       },
       "Loot_AthenaSupplyDrop_08": {
@@ -9523,6 +9664,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaSupplyDrop;LPKG:WorldPKG.AthenaSupplyDrop.Weapon.Crossbow"
       },
       "Loot_AthenaSupplyDrop_09": {
@@ -9590,6 +9732,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaSupplyDrop;LPKG:WorldPKG.AthenaSupplyDrop.Weapon.Hero"
       },
       "Loot_AthenaSharkLoot_01": {
@@ -9657,6 +9800,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaSharkLoot;LPKG:WorldPKG.AthenaSharkLoot.Low"
       },
       "Loot_AthenaSharkLoot_02": {
@@ -9724,6 +9868,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaSharkLoot;LPKG:WorldPKG.AthenaSharkLoot.Low"
       },
       "Loot_AthenaSharkLoot_03": {
@@ -9791,6 +9936,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaSharkLoot;LPKG:WorldPKG.AthenaSharkLoot.High"
       },
       "Loot_AthenaSharkLoot_04": {
@@ -9858,6 +10004,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaSharkLoot;LPKG:WorldPKG.AthenaSharkLoot.High"
       },
       "Loot_AthenaSharkLoot_05": {
@@ -9925,6 +10072,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaSharkLoot;LPKG:WorldPKG.AthenaSharkLoot.Flopper"
       },
       "Loot_AthenaWadStash_Small_01": {
@@ -9992,6 +10140,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaWadStash_Small;LPKG:WorldPKG.AthenaWadStash.Small"
       },
       "Loot_AthenaWadStash_Medium_01": {
@@ -10059,6 +10208,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaWadStash_Medium;LPKG:WorldPKG.AthenaWadStash.Medium"
       },
       "Loot_AthenaWadStash_Large_01": {
@@ -10126,6 +10276,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaWadStash_Large;LPKG:WorldPKG.AthenaWadStash.Large"
       },
       "Loot_AthenaWadSafe_01": {
@@ -10193,6 +10344,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaWadSafe;LPKG:WorldPKG.AthenaWadSafe"
       },
       "Loot_AthenaWadGoldBarStack_Small_01": {
@@ -10260,6 +10412,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaWadGoldBarStack_Small;LPKG:WorldPKG.AthenaWadGoldBarStack.Small"
       },
       "Loot_AthenaWadGoldBarStack_Medium_01": {
@@ -10327,6 +10480,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaWadGoldBarStack_Medium;LPKG:WorldPKG.AthenaWadGoldBarStack.Medium"
       },
       "Loot_AthenaWadGoldBarStack_Large_01": {
@@ -10394,6 +10548,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaWadGoldBarStack_Large;LPKG:WorldPKG.AthenaWadGoldBarStack.Large"
       },
       "Loot_WadGoldenIdol_01": {
@@ -10461,6 +10616,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_WadGoldenIdol;LPKG:WorldPKG.WadGoldenIdol"
       },
       "Loot_AthenaMedBox_01": {
@@ -10528,6 +10684,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaMedBox;LPKG:WorldPKG.AthenaMedBox.Health"
       },
       "Loot_AthenaMedBox_02": {
@@ -10595,6 +10752,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaMedBox;LPKG:WorldPKG.AthenaMedBox.Shield"
       },
       "Loot_AthenaMedBox_03": {
@@ -10662,6 +10820,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaMedBox;LPKG:WorldPKG.AthenaMedBox.Mix"
       },
       "Loot_AthenaMeteorDrop_01": {
@@ -10729,6 +10888,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaMeteorDrop;LPKG:WorldList.AthenaLoot.Empty"
       },
       "Loot_AthenaMeteorDrop_02": {
@@ -10796,6 +10956,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaMeteorDrop;LPKG:WorldPKG.AthenaLoot.Meteor.Metal"
       },
       "Loot_AthenaAmmoLarge_01": {
@@ -10863,6 +11024,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaAmmoLarge.T01;LPKG:WorldList.AthenaAmmoLarge"
       },
       "Loot_AthenaAmmoSmall_01": {
@@ -10930,6 +11092,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaAmmoSmall;LPKG:WorldList.AthenaAmmoSmall"
       },
       "Loot_AthenaAmmoSmall_02": {
@@ -10997,6 +11160,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaAmmoSmall;LPKG:WorldList.AthenaAmmoSmall"
       },
       "Loot_GatheredItem_Cabbage_01": {
@@ -11064,6 +11228,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_GatheredItem_Cabbage;LPKG:WorldPKG.GatheredItem.Cabbage"
       },
       "Loot_GatheredItem_Corn_01": {
@@ -11131,6 +11296,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_GatheredItem_Corn;LPKG:WorldPKG.GatheredItem.Corn"
       },
       "Loot_GatheredItem_Apple_01": {
@@ -11198,6 +11364,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_GatheredItem_Apple;LPKG:WorldPKG.GatheredItem.Apple"
       },
       "Loot_GatheredItem_Banana_01": {
@@ -11265,6 +11432,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_GatheredItem_Banana;LPKG:WorldPKG.GatheredItem.Banana"
       },
       "Loot_GatheredItem_Coconut_01": {
@@ -11332,6 +11500,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_GatheredItem_Coconut;LPKG:WorldPKG.GatheredItem.Coconut"
       },
       "Loot_GatheredItem_Pepper_01": {
@@ -11399,6 +11568,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_GatheredItem_Pepper;LPKG:WorldPKG.GatheredItem.Pepper"
       },
       "Loot_GatheredItem_SlurpMushroom_01": {
@@ -11466,6 +11636,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_GatheredItem_SlurpMushroom;LPKG:WorldPKG.GatheredItem.SlurpMushroom"
       },
       "Loot_GatheredItem_ShieldMushroom_01": {
@@ -11533,6 +11704,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_GatheredItem_ShieldMushroom;LPKG:WorldPKG.GatheredItem.ShieldMushroom"
       },
       "Loot_GatheredItem_GoldenTruffle_01": {
@@ -11600,6 +11772,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_GatheredItem_GoldenTruffle;LPKG:WorldPKG.GatheredItem.GoldenTruffle"
       },
       "Loot_GatheredItem_PepperMint_01": {
@@ -11667,6 +11840,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_GatheredItem_PepperMint;LPKG:WorldPKG.GatheredItem.PepperMint"
       },
       "Loot_GatheredItem_HopDrop_01": {
@@ -11734,6 +11908,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_GatheredItem_HopDrop;LPKG:WorldPKG.GatheredItem.HopDrop"
       },
       "Loot_GatheredItem_CandyCorn_01": {
@@ -11801,6 +11976,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_GatheredItem_CandyCorn;LPKG:WorldPKG.GatheredItem.CandyCorn"
       },
       "Loot_GatheredItem_JellyBean_01": {
@@ -11868,6 +12044,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_GatheredItem_JellyBean;LPKG:WorldPKG.GatheredItem.JellyBean"
       },
       "Loot_GatheredItem_ThermalTaffy_01": {
@@ -11935,6 +12112,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_GatheredItem_ThermalTaffy;LPKG:WorldPKG.GatheredItem.ThermalTaffy"
       },
       "Loot_GatheredItem_ShieldHops_01": {
@@ -12002,6 +12180,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_GatheredItem_ShieldHops;LPKG:WorldPKG.GatheredItem.ShieldHops"
       },
       "Loot_FoodBox_Produce_01": {
@@ -12069,6 +12248,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_FoodBox_Produce;LPKG:WorldPKG.FoodBox.Produce"
       },
       "Loot_FoodBox_Apples_01": {
@@ -12136,6 +12316,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_FoodBox_Apples;LPKG:WorldPKG.FoodBox.Apples"
       },
       "Loot_FoodBox_Corn_01": {
@@ -12203,6 +12384,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_FoodBox_Corn;LPKG:WorldPKG.FoodBox.Corn"
       },
       "Loot_AthenaFlopper_Default_01": {
@@ -12270,6 +12452,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaFlopper_Default;LPKG:WorldPKG.FlopperDefault.Shell"
       },
       "Loot_AthenaFlopper_Default_02": {
@@ -12337,6 +12520,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaFlopper_Default;LPKG:WorldPKG.FlopperDefault.Light"
       },
       "Loot_AthenaFlopper_Default_03": {
@@ -12404,6 +12588,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaFlopper_Default;LPKG:WorldPKG.FlopperDefault.Medium"
       },
       "Loot_AthenaFlopper_Default_04": {
@@ -12471,6 +12656,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaFlopper_Default;LPKG:WorldPKG.FlopperDefault.Trash"
       },
       "Loot_AthenaFlopper_Default_05": {
@@ -12538,6 +12724,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaFlopper_Default;LPKG:WorldPKG.FlopperDefault.Consumable"
       },
       "Loot_AthenaFlopper_High_01": {
@@ -12605,6 +12792,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaFlopper_High;LPKG:WorldPKG.FlopperHigh.Light"
       },
       "Loot_AthenaFlopper_High_02": {
@@ -12672,6 +12860,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaFlopper_High;LPKG:WorldPKG.FlopperHigh.Shell"
       },
       "Loot_AthenaFlopper_High_03": {
@@ -12739,6 +12928,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaFlopper_High;LPKG:WorldPKG.FlopperHigh.Medium"
       },
       "Loot_AthenaFlopper_High_04": {
@@ -12806,6 +12996,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaFlopper_High;LPKG:WorldPKG.FlopperHigh.Heavy"
       },
       "Loot_AthenaFlopper_High_05": {
@@ -12873,6 +13064,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaFlopper_High;LPKG:WorldPKG.FlopperHigh.Trash"
       },
       "Loot_AthenaFlopper_High_06": {
@@ -12940,6 +13132,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaFlopper_High;LPKG:WorldPKG.FlopperHigh.Consumable"
       },
       "Loot_AthenaFlopper_Swamp_High_01": {
@@ -13007,6 +13200,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaFlopper_Swamp_High;LPKG:WorldPKG.FlopperHigh.Light"
       },
       "Loot_AthenaFlopper_Swamp_High_02": {
@@ -13074,6 +13268,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaFlopper_Swamp_High;LPKG:WorldPKG.FlopperHigh.Shell"
       },
       "Loot_AthenaFlopper_Swamp_High_03": {
@@ -13141,6 +13336,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaFlopper_Swamp_High;LPKG:WorldPKG.FlopperHigh.Medium"
       },
       "Loot_AthenaFlopper_Swamp_High_04": {
@@ -13208,6 +13404,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaFlopper_Swamp_High;LPKG:WorldPKG.FlopperHigh.Heavy"
       },
       "Loot_AthenaFlopper_Swamp_High_05": {
@@ -13275,6 +13472,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaFlopper_Swamp_High;LPKG:WorldPKG.FlopperHigh.Trash"
       },
       "Loot_AthenaFlopper_Swamp_High_06": {
@@ -13342,6 +13540,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaFlopper_Swamp_High;LPKG:WorldPKG.FlopperSwampHigh.Consumable"
       },
       "Loot_AthenaFlopper_Swamp_Default_01": {
@@ -13409,6 +13608,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaFlopper_Swamp_Default;LPKG:WorldPKG.FlopperDefault.Shell"
       },
       "Loot_AthenaFlopper_Swamp_Default_02": {
@@ -13476,6 +13676,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaFlopper_Swamp_Default;LPKG:WorldPKG.FlopperDefault.Light"
       },
       "Loot_AthenaFlopper_Swamp_Default_03": {
@@ -13543,6 +13744,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaFlopper_Swamp_Default;LPKG:WorldPKG.FlopperDefault.Medium"
       },
       "Loot_AthenaFlopper_Swamp_Default_04": {
@@ -13610,6 +13812,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaFlopper_Swamp_Default;LPKG:WorldPKG.FlopperDefault.Trash"
       },
       "Loot_AthenaFlopper_Swamp_Default_05": {
@@ -13677,6 +13880,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaFlopper_Swamp_Default;LPKG:WorldPKG.FlopperSwampDefault.Consumable"
       },
       "Loot_AthenaFlopper_High_Pro_01": {
@@ -13744,6 +13948,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaFlopper_High_Pro;LPKG:WorldPKG.FlopperHigh.Light"
       },
       "Loot_AthenaFlopper_High_Pro_02": {
@@ -13811,6 +14016,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaFlopper_High_Pro;LPKG:WorldPKG.FlopperHigh.Shell"
       },
       "Loot_AthenaFlopper_High_Pro_03": {
@@ -13878,6 +14084,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaFlopper_High_Pro;LPKG:WorldPKG.FlopperHigh.Medium"
       },
       "Loot_AthenaFlopper_High_Pro_04": {
@@ -13945,6 +14152,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaFlopper_High_Pro;LPKG:WorldPKG.FlopperHigh.Heavy"
       },
       "Loot_AthenaFlopper_High_Pro_05": {
@@ -14012,6 +14220,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaFlopper_High_Pro;LPKG:WorldPKG.FlopperHigh.Trash"
       },
       "Loot_AthenaFlopper_High_Pro_06": {
@@ -14079,6 +14288,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaFlopper_High_Pro;LPKG:WorldPKG.FlopperHigh.Pro.Consumable"
       },
       "Loot_AthenaFlopper_Swamp_High_Pro_01": {
@@ -14146,6 +14356,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaFlopper_Swamp_High_Pro;LPKG:WorldPKG.FlopperHigh.Light"
       },
       "Loot_AthenaFlopper_Swamp_High_Pro_02": {
@@ -14213,6 +14424,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaFlopper_Swamp_High_Pro;LPKG:WorldPKG.FlopperHigh.Shell"
       },
       "Loot_AthenaFlopper_Swamp_High_Pro_03": {
@@ -14280,6 +14492,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaFlopper_Swamp_High_Pro;LPKG:WorldPKG.FlopperHigh.Medium"
       },
       "Loot_AthenaFlopper_Swamp_High_Pro_04": {
@@ -14347,6 +14560,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaFlopper_Swamp_High_Pro;LPKG:WorldPKG.FlopperHigh.Heavy"
       },
       "Loot_AthenaFlopper_Swamp_High_Pro_05": {
@@ -14414,6 +14628,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaFlopper_Swamp_High_Pro;LPKG:WorldPKG.FlopperHigh.Trash"
       },
       "Loot_AthenaFlopper_Swamp_High_Pro_06": {
@@ -14481,6 +14696,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaFlopper_Swamp_High_Pro;LPKG:WorldPKG.FlopperSwampHigh.Pro.Consumable"
       },
       "Loot_ForagedItem_GravityRocks_01": {
@@ -14548,6 +14764,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_ForagedItem_GravityRocks;LPKG:WorldList.ForagedItems.GravityRocks"
       },
       "Loot_ForagedItem_GravityRocks_02": {
@@ -14615,6 +14832,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_ForagedItem_GravityRocks;LPKG:WorldList.ForagedItems.GravityRocks"
       },
       "Loot_ForagedItem_AthenaRift_01": {
@@ -14682,6 +14900,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_ForagedItem_AthenaRift;LPKG:WorldList.ForagedItems.AthenaRift"
       },
       "Loot_ForagedItem_AthenaRift_02": {
@@ -14749,6 +14968,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_ForagedItem_AthenaRift;LPKG:WorldList.ForagedItems.AthenaRift"
       },
       "Loot_ForagedItem_SpookyMist_01": {
@@ -14816,6 +15036,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_ForagedItem_SpookyMist;LPKG:WorldList.ForagedItems.SpookyMist"
       },
       "Loot_ForagedItem_SpookyMist_02": {
@@ -14883,6 +15104,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_ForagedItem_SpookyMist;LPKG:WorldList.ForagedItems.SpookyMist"
       },
       "Loot_ForagedItem_TempEvent_01": {
@@ -14950,6 +15172,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_ForagedItem_TempEvent;LPKG:WorldList.ForagedItems.TempEvent"
       },
       "Loot_ForagedItem_TempEvent_02": {
@@ -15017,6 +15240,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_ForagedItem_TempEvent;LPKG:WorldList.ForagedItems.TempEvent"
       },
       "Loot_ForagedItem_Grassland_01": {
@@ -15084,6 +15308,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_ForagedItem_Grassland;LPKG:WorldList.ForagedItems.Grassland"
       },
       "Loot_ForagedItem_Grassland_02": {
@@ -15151,6 +15376,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_ForagedItem_Grassland;LPKG:WorldList.ForagedItems.Grassland"
       },
       "Loot_ForagedItem_Farmland_01": {
@@ -15218,6 +15444,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_ForagedItem_Farmland;LPKG:WorldList.ForagedItems.Farmland"
       },
       "Loot_ForagedItem_Farmland_02": {
@@ -15285,6 +15512,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_ForagedItem_Farmland;LPKG:WorldList.ForagedItems.Farmland"
       },
       "Loot_ForagedItem_Forest_01": {
@@ -15352,6 +15580,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_ForagedItem_Forest;LPKG:WorldList.ForagedItems.Forest"
       },
       "Loot_ForagedItem_Forest_02": {
@@ -15419,6 +15648,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_ForagedItem_Forest;LPKG:WorldList.ForagedItems.Forest"
       },
       "Loot_ForagedItem_Mountain_01": {
@@ -15486,6 +15716,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_ForagedItem_Mountain;LPKG:WorldList.ForagedItems.Mountain"
       },
       "Loot_ForagedItem_Mountain_02": {
@@ -15553,6 +15784,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_ForagedItem_Mountain;LPKG:WorldList.ForagedItems.Mountain"
       },
       "Loot_ForagedItem_Arid_01": {
@@ -15620,6 +15852,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_ForagedItem_Arid;LPKG:WorldList.ForagedItems.Arid"
       },
       "Loot_ForagedItem_Arid_02": {
@@ -15687,6 +15920,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_ForagedItem_Arid;LPKG:WorldList.ForagedItems.Arid"
       },
       "Loot_ForagedItem_Jungle_01": {
@@ -15754,6 +15988,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_ForagedItem_Jungle;LPKG:WorldList.ForagedItems.Jungle"
       },
       "Loot_ForagedItem_Jungle_02": {
@@ -15821,6 +16056,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_ForagedItem_Jungle;LPKG:WorldList.ForagedItems.Jungle"
       },
       "Loot_ForagedItem_Cream_01": {
@@ -15888,6 +16124,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_ForagedItem_Cream;LPKG:WorldList.ForagedItems.Cream"
       },
       "Loot_ForagedItem_Cream_02": {
@@ -15955,6 +16192,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_ForagedItem_Cream;LPKG:WorldList.ForagedItems.Cream"
       },
       "Loot_ForagedItem_Glitch_01": {
@@ -16022,6 +16260,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_ForagedItem_Glitch;LPKG:WorldList.ForagedItems.Glitch"
       },
       "Loot_ForagedItem_Glitch_02": {
@@ -16089,6 +16328,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_ForagedItem_Glitch;LPKG:WorldList.ForagedItems.Glitch"
       },
       "Loot_ForagedItem_Swamp_01": {
@@ -16156,6 +16396,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_ForagedItem_Swamp;LPKG:WorldList.ForagedItems.Swamp"
       },
       "Loot_ForagedItem_Swamp_02": {
@@ -16223,6 +16464,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_ForagedItem_Swamp;LPKG:WorldList.ForagedItems.Swamp"
       },
       "Loot_ForagedItem_Fireflies_01": {
@@ -16290,6 +16532,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_ForagedItem_Fireflies;LPKG:WorldList.ForagedItems.Fireflies"
       },
       "Loot_ForagedItem_Fireflies_02": {
@@ -16357,6 +16600,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_ForagedItem_Fireflies;LPKG:WorldList.ForagedItems.Fireflies"
       },
       "Loot_ForagedItem_HWC_01": {
@@ -16424,6 +16668,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_ForagedItem_HWC;LPKG:WorldList.ForagedItems.HWC"
       },
       "Loot_ForagedItem_HWC_02": {
@@ -16491,6 +16736,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_ForagedItem_HWC;LPKG:WorldList.ForagedItems.HWC"
       },
       "Loot_ForagedItem_ZeroPoint_01": {
@@ -16558,6 +16804,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_ForagedItem_ZeroPoint;LPKG:WorldList.ForagedItems.ZeroPoint"
       },
       "Loot_ForagedItem_ZeroPoint_02": {
@@ -16625,6 +16872,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_ForagedItem_ZeroPoint;LPKG:WorldList.ForagedItems.ZeroPoint"
       },
       "Loot_ForagedItem_HopDrops_01": {
@@ -16692,6 +16940,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_ForagedItem_HopDrops;LPKG:WorldList.ForagedItems.ShieldHops"
       },
       "Loot_ForagedItem_HopDrops_02": {
@@ -16759,6 +17008,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_ForagedItem_HopDrops;LPKG:WorldList.ForagedItems.ShieldHops"
       },
       "Loot_AthenaSCM_01": {
@@ -16826,6 +17076,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaSCM;LPKG:WorldPKG.AthenaSCM"
       },
       "Loot_PlayerBots_01": {
@@ -16893,6 +17144,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_PlayerBots;LPKG:WorldPKG.PlayerBots"
       },
       "Loot_IO_Guard_01": {
@@ -16960,6 +17212,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_IO_Guard;LPKG:WorldPKG.IO.Guard"
       },
       "Loot_Gibson_Type01_01": {
@@ -17027,6 +17280,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_Gibson_Type01;LPKG:WorldPKG.Gibson.Type01"
       },
       "Loot_Gibson_Type02_01": {
@@ -17094,6 +17348,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_Gibson_Type02;LPKG:WorldPKG.Gibson.Type02"
       },
       "Loot_Gibson_Type03_01": {
@@ -17161,6 +17416,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_Gibson_Type03;LPKG:WorldPKG.Gibson.Type03"
       },
       "Loot_Gibson_Type04_01": {
@@ -17228,6 +17484,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_Gibson_Type04;LPKG:WorldPKG.Gibson.Type04"
       },
       "Loot_Gibson_Type05_01": {
@@ -17295,6 +17552,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_Gibson_Type05;LPKG:WorldPKG.Gibson.Type05"
       },
       "Loot_ItemSpawner_AssaultRifle_GoldWrap_01": {
@@ -17362,6 +17620,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_ItemSpawner_AssaultRifle_GoldWrap;LPKG:WorldList.Tribute.Weapon"
       },
       "Loot_AthenaBooty_01": {
@@ -17429,6 +17688,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaBooty;LPKG:WorldPKG.AthenaBooty"
       },
       "Loot_AthenaBooty_02": {
@@ -17496,6 +17756,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaBooty;LPKG:WorldPKG.AthenaBooty"
       },
       "Loot_AthenaBooty_03": {
@@ -17563,6 +17824,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaBooty;LPKG:WorldPKG.AthenaBooty"
       },
       "Loot_AthenaDingo_01": {
@@ -17630,6 +17892,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaDingo;LPKG:WorldPKG.AthenaDingo.Shell"
       },
       "Loot_AthenaDingo_02": {
@@ -17697,6 +17960,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaDingo;LPKG:WorldPKG.AthenaDingo.Light"
       },
       "Loot_AthenaDingo_03": {
@@ -17764,6 +18028,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaDingo;LPKG:WorldPKG.AthenaDingo.Medium"
       },
       "Loot_AthenaDingo_04": {
@@ -17831,6 +18096,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaDingo;LPKG:WorldPKG.AthenaDingo.Heavy"
       },
       "Loot_AthenaDingo_05": {
@@ -17898,6 +18164,7 @@
           "AutoDescription": ""
         },
         "bAllowBonusLootDrops": true,
+        "bAvoidDuplicateLootDrops": false,
         "Annotation": "TG:Loot_AthenaDingo;LPKG:WorldPKG.AthenaDingo.Rocket"
       }
     }

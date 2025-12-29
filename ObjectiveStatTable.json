@@ -25332,6 +25332,33 @@
         "TemplateId": "",
         "AlternateTemplateIds": []
       },
+      "Tutorial_HeroLoadout_TeamPerk_4": {
+        "Type": "EFortQuestObjectiveStatEvent::Client",
+        "TargetTagContainer": [],
+        "SourceTagContainer": [],
+        "ContextTagContainer": [],
+        "Condition": "",
+        "TemplateId": "",
+        "AlternateTemplateIds": []
+      },
+      "Tutorial_HeroLoadout_TeamPerk_5": {
+        "Type": "EFortQuestObjectiveStatEvent::Client",
+        "TargetTagContainer": [],
+        "SourceTagContainer": [],
+        "ContextTagContainer": [],
+        "Condition": "",
+        "TemplateId": "",
+        "AlternateTemplateIds": []
+      },
+      "Tutorial_HeroLoadout_TeamPerk_6": {
+        "Type": "EFortQuestObjectiveStatEvent::Client",
+        "TargetTagContainer": [],
+        "SourceTagContainer": [],
+        "ContextTagContainer": [],
+        "Condition": "",
+        "TemplateId": "",
+        "AlternateTemplateIds": []
+      },
       "Tutorial_HeroUpgrade_00": {
         "Type": "EFortQuestObjectiveStatEvent::Client",
         "TargetTagContainer": [],
@@ -35384,7 +35411,7 @@
       "hordev3_quest_event_modcomplete_w09": {
         "Type": "EFortQuestObjectiveStatEvent::WaveComplete",
         "TargetTagContainer": [
-          "Stat.Mission.Primary.Horde.Week08"
+          "Stat.Mission.Primary.Horde.Week09"
         ],
         "SourceTagContainer": [],
         "ContextTagContainer": [
@@ -35440,7 +35467,7 @@
         "ContextTagContainer": [
           "Stat.Theater.Horde"
         ],
-        "Condition": "Mission.Tier = 1 && Mission.Wave = 15",
+        "Condition": "Mission.Tier = 2 && Mission.Wave = 15",
         "TemplateId": "",
         "AlternateTemplateIds": []
       },
@@ -35451,7 +35478,7 @@
         "ContextTagContainer": [
           "Stat.Theater.Horde"
         ],
-        "Condition": "Mission.Tier = 2 && Mission.Wave = 15",
+        "Condition": "Mission.Tier = 3 && Mission.Wave = 15",
         "TemplateId": "",
         "AlternateTemplateIds": []
       },
@@ -35462,7 +35489,7 @@
         "ContextTagContainer": [
           "Stat.Theater.Horde"
         ],
-        "Condition": "Mission.Tier = 3 && Mission.Wave = 15",
+        "Condition": "Mission.Tier = 4 && Mission.Wave = 15",
         "TemplateId": "",
         "AlternateTemplateIds": []
       },
@@ -35473,8 +35500,98 @@
         "ContextTagContainer": [
           "Stat.Theater.Horde"
         ],
-        "Condition": "Mission.Tier = 4 && Mission.Wave = 15",
+        "Condition": "Mission.Tier = 5 && Mission.Wave = 15",
         "TemplateId": "",
+        "AlternateTemplateIds": []
+      },
+      "stwstarterbundle23_01": {
+        "Type": "EFortQuestObjectiveStatEvent::QuestComplete",
+        "TargetTagContainer": [],
+        "SourceTagContainer": [],
+        "ContextTagContainer": [],
+        "Condition": "Item HasTag Quest.Daily",
+        "TemplateId": "Quest",
+        "AlternateTemplateIds": []
+      },
+      "stwstarterbundle23_02": {
+        "Type": "EFortQuestObjectiveStatEvent::QuestComplete",
+        "TargetTagContainer": [],
+        "SourceTagContainer": [],
+        "ContextTagContainer": [],
+        "Condition": "Item HasTag Quest.Daily",
+        "TemplateId": "Quest",
+        "AlternateTemplateIds": []
+      },
+      "stwstarterbundle23_03": {
+        "Type": "EFortQuestObjectiveStatEvent::QuestComplete",
+        "TargetTagContainer": [],
+        "SourceTagContainer": [],
+        "ContextTagContainer": [],
+        "Condition": "Item HasTag Quest.Daily",
+        "TemplateId": "Quest",
+        "AlternateTemplateIds": []
+      },
+      "stwstarterbundle23_04": {
+        "Type": "EFortQuestObjectiveStatEvent::QuestComplete",
+        "TargetTagContainer": [],
+        "SourceTagContainer": [],
+        "ContextTagContainer": [],
+        "Condition": "Item HasTag Quest.Daily",
+        "TemplateId": "Quest",
+        "AlternateTemplateIds": []
+      },
+      "stwstarterbundle23_05": {
+        "Type": "EFortQuestObjectiveStatEvent::QuestComplete",
+        "TargetTagContainer": [],
+        "SourceTagContainer": [],
+        "ContextTagContainer": [],
+        "Condition": "Item HasTag Quest.Daily",
+        "TemplateId": "Quest",
+        "AlternateTemplateIds": []
+      },
+      "stwstarterbundle24_01": {
+        "Type": "EFortQuestObjectiveStatEvent::QuestComplete",
+        "TargetTagContainer": [],
+        "SourceTagContainer": [],
+        "ContextTagContainer": [],
+        "Condition": "Item HasTag Quest.Daily",
+        "TemplateId": "Quest",
+        "AlternateTemplateIds": []
+      },
+      "stwstarterbundle24_02": {
+        "Type": "EFortQuestObjectiveStatEvent::QuestComplete",
+        "TargetTagContainer": [],
+        "SourceTagContainer": [],
+        "ContextTagContainer": [],
+        "Condition": "Item HasTag Quest.Daily",
+        "TemplateId": "Quest",
+        "AlternateTemplateIds": []
+      },
+      "stwstarterbundle24_03": {
+        "Type": "EFortQuestObjectiveStatEvent::QuestComplete",
+        "TargetTagContainer": [],
+        "SourceTagContainer": [],
+        "ContextTagContainer": [],
+        "Condition": "Item HasTag Quest.Daily",
+        "TemplateId": "Quest",
+        "AlternateTemplateIds": []
+      },
+      "stwstarterbundle24_04": {
+        "Type": "EFortQuestObjectiveStatEvent::QuestComplete",
+        "TargetTagContainer": [],
+        "SourceTagContainer": [],
+        "ContextTagContainer": [],
+        "Condition": "Item HasTag Quest.Daily",
+        "TemplateId": "Quest",
+        "AlternateTemplateIds": []
+      },
+      "stwstarterbundle24_05": {
+        "Type": "EFortQuestObjectiveStatEvent::QuestComplete",
+        "TargetTagContainer": [],
+        "SourceTagContainer": [],
+        "ContextTagContainer": [],
+        "Condition": "Item HasTag Quest.Daily",
+        "TemplateId": "Quest",
         "AlternateTemplateIds": []
       }
     }

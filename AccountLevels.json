@@ -32,7 +32,7 @@
         "Rewards": [
           {
             "TemplateId": "Stat:fortitude",
-            "Quantity": 3
+            "Quantity": 10
           }
         ],
         "RestXPCap": 19637889,
@@ -46,7 +46,7 @@
         "Rewards": [
           {
             "TemplateId": "Stat:offense",
-            "Quantity": 3
+            "Quantity": 10
           }
         ],
         "RestXPCap": 19637889,
@@ -60,7 +60,7 @@
         "Rewards": [
           {
             "TemplateId": "Stat:resistance",
-            "Quantity": 3
+            "Quantity": 10
           }
         ],
         "RestXPCap": 21423152,
@@ -74,7 +74,7 @@
         "Rewards": [
           {
             "TemplateId": "Stat:technology",
-            "Quantity": 3
+            "Quantity": 10
           }
         ],
         "RestXPCap": 18205735,
@@ -87,8 +87,8 @@
         "XPDisplayMultiplier": 0.00938,
         "Rewards": [
           {
-            "TemplateId": "Schematic:sid_assault_semiauto_uc_ore_t01",
-            "Quantity": 1
+            "TemplateId": "Stat:fortitude",
+            "Quantity": 10
           }
         ],
         "RestXPCap": 18651998,
@@ -101,8 +101,8 @@
         "XPDisplayMultiplier": 0.010082,
         "Rewards": [
           {
-            "TemplateId": "Schematic:sid_edged_sword_light_uc_ore_t01",
-            "Quantity": 1
+            "TemplateId": "Stat:offense",
+            "Quantity": 10
           }
         ],
         "RestXPCap": 19920436,
@@ -115,8 +115,8 @@
         "XPDisplayMultiplier": 0.010784,
         "Rewards": [
           {
-            "TemplateId": "Schematic:sid_floor_spikes_wood_uc_t01",
-            "Quantity": 1
+            "TemplateId": "Stat:resistance",
+            "Quantity": 10
           }
         ],
         "RestXPCap": 21189928,
@@ -129,8 +129,8 @@
         "XPDisplayMultiplier": 0.011486,
         "Rewards": [
           {
-            "TemplateId": "Schematic:sid_wall_wood_spikes_uc_t01",
-            "Quantity": 1
+            "TemplateId": "Stat:technology",
+            "Quantity": 10
           }
         ],
         "RestXPCap": 22459688,
@@ -140,10 +140,14 @@
       "10": {
         "XP": 10000000,
         "DifficultyLevel": 1,
-        "XPDisplayMultiplier": 0.0125475,
+        "XPDisplayMultiplier": 0.012548,
         "Rewards": [
           {
-            "TemplateId": "Token:homebasepoints",
+            "TemplateId": "HomebaseNode:skilltree_backpacksize",
+            "Quantity": 1
+          },
+          {
+            "TemplateId": "HomebaseNode:skilltree_stormshieldstorage",
             "Quantity": 1
           }
         ],
@@ -157,8 +161,8 @@
         "XPDisplayMultiplier": 0.01327,
         "Rewards": [
           {
-            "TemplateId": "Stat:fortitude_team",
-            "Quantity": 3
+            "TemplateId": "Stat:fortitude",
+            "Quantity": 10
           }
         ],
         "RestXPCap": 23005398,
@@ -168,11 +172,11 @@
       "12": {
         "XP": 10000000,
         "DifficultyLevel": 3,
-        "XPDisplayMultiplier": 0.0139925,
+        "XPDisplayMultiplier": 0.013992,
         "Rewards": [
           {
-            "TemplateId": "Stat:offense_team",
-            "Quantity": 3
+            "TemplateId": "Stat:offense",
+            "Quantity": 10
           }
         ],
         "RestXPCap": 22965579,
@@ -185,8 +189,8 @@
         "XPDisplayMultiplier": 0.014716,
         "Rewards": [
           {
-            "TemplateId": "Stat:resistance_team",
-            "Quantity": 3
+            "TemplateId": "Stat:resistance",
+            "Quantity": 10
           }
         ],
         "RestXPCap": 22928803,
@@ -199,8 +203,8 @@
         "XPDisplayMultiplier": 0.015439,
         "Rewards": [
           {
-            "TemplateId": "Stat:technology_team",
-            "Quantity": 3
+            "TemplateId": "Stat:technology",
+            "Quantity": 10
           }
         ],
         "RestXPCap": 22895305,
@@ -213,7 +217,7 @@
         "XPDisplayMultiplier": 0.016163,
         "Rewards": [
           {
-            "TemplateId": "Token:homebasepoints",
+            "TemplateId": "HomebaseNode:skilltree_buildinghealth",
             "Quantity": 1
           }
         ],
@@ -227,8 +231,8 @@
         "XPDisplayMultiplier": 0.016887,
         "Rewards": [
           {
-            "TemplateId": "Worker:workerbasic_uc_t01",
-            "Quantity": 1
+            "TemplateId": "Stat:fortitude",
+            "Quantity": 10
           }
         ],
         "RestXPCap": 22834887,
@@ -241,8 +245,8 @@
         "XPDisplayMultiplier": 0.017612,
         "Rewards": [
           {
-            "TemplateId": "Schematic:sid_ceiling_electric_single_uc_t01",
-            "Quantity": 1
+            "TemplateId": "Stat:offense",
+            "Quantity": 10
           }
         ],
         "RestXPCap": 22807410,
@@ -255,8 +259,8 @@
         "XPDisplayMultiplier": 0.018337,
         "Rewards": [
           {
-            "TemplateId": "Schematic:sid_shotgun_break_uc_ore_t01",
-            "Quantity": 1
+            "TemplateId": "Stat:resistance",
+            "Quantity": 10
           }
         ],
         "RestXPCap": 22781826,
@@ -269,8 +273,8 @@
         "XPDisplayMultiplier": 0.019063,
         "Rewards": [
           {
-            "TemplateId": "Schematic:sid_blunt_medium_uc_ore_t01",
-            "Quantity": 1
+            "TemplateId": "Stat:technology",
+            "Quantity": 10
           }
         ],
         "RestXPCap": 22757339,
@@ -280,10 +284,14 @@
       "20": {
         "XP": 10000000,
         "DifficultyLevel": 3,
-        "XPDisplayMultiplier": 0.0197885,
+        "XPDisplayMultiplier": 0.019788,
         "Rewards": [
           {
-            "TemplateId": "Token:homebasepoints",
+            "TemplateId": "HomebaseNode:skilltree_buildandrepairspeed",
+            "Quantity": 1
+          },
+          {
+            "TemplateId": "HomebaseNode:skilltree_supplydrop",
             "Quantity": 1
           }
         ],
@@ -298,7 +306,7 @@
         "Rewards": [
           {
             "TemplateId": "Stat:fortitude",
-            "Quantity": 3
+            "Quantity": 10
           }
         ],
         "RestXPCap": 22712669,
@@ -312,7 +320,7 @@
         "Rewards": [
           {
             "TemplateId": "Stat:offense",
-            "Quantity": 3
+            "Quantity": 10
           }
         ],
         "RestXPCap": 22691953,
@@ -326,7 +334,7 @@
         "Rewards": [
           {
             "TemplateId": "Stat:resistance",
-            "Quantity": 3
+            "Quantity": 10
           }
         ],
         "RestXPCap": 22672307,
@@ -340,7 +348,7 @@
         "Rewards": [
           {
             "TemplateId": "Stat:technology",
-            "Quantity": 3
+            "Quantity": 10
           }
         ],
         "RestXPCap": 22652952,
@@ -350,10 +358,10 @@
       "25": {
         "XP": 10000000,
         "DifficultyLevel": 5,
-        "XPDisplayMultiplier": 0.0234245,
+        "XPDisplayMultiplier": 0.023425,
         "Rewards": [
           {
-            "TemplateId": "Token:homebasepoints",
+            "TemplateId": "HomebaseNode:skilltree_pickaxe",
             "Quantity": 1
           }
         ],
@@ -367,8 +375,8 @@
         "XPDisplayMultiplier": 0.024153,
         "Rewards": [
           {
-            "TemplateId": "Hero:hid_commando_008_r_t01",
-            "Quantity": 1
+            "TemplateId": "Stat:fortitude",
+            "Quantity": 10
           }
         ],
         "RestXPCap": 22617684,
@@ -378,11 +386,11 @@
       "27": {
         "XP": 10000000,
         "DifficultyLevel": 5,
-        "XPDisplayMultiplier": 0.0248825,
+        "XPDisplayMultiplier": 0.024882,
         "Rewards": [
           {
-            "TemplateId": "Worker:workerbasic_r_t01",
-            "Quantity": 1
+            "TemplateId": "Stat:offense",
+            "Quantity": 10
           }
         ],
         "RestXPCap": 22600732,
@@ -395,8 +403,8 @@
         "XPDisplayMultiplier": 0.025611,
         "Rewards": [
           {
-            "TemplateId": "HomebaseNode:commanderlevel_rpcollection",
-            "Quantity": 1
+            "TemplateId": "Stat:resistance",
+            "Quantity": 10
           }
         ],
         "RestXPCap": 22585088,
@@ -409,8 +417,8 @@
         "XPDisplayMultiplier": 0.026341,
         "Rewards": [
           {
-            "TemplateId": "Schematic:sid_pistol_auto_r_ore_t01",
-            "Quantity": 1
+            "TemplateId": "Stat:technology",
+            "Quantity": 10
           }
         ],
         "RestXPCap": 22569209,
@@ -420,10 +428,10 @@
       "30": {
         "XP": 10000000,
         "DifficultyLevel": 5,
-        "XPDisplayMultiplier": 0.0270705,
+        "XPDisplayMultiplier": 0.02707,
         "Rewards": [
           {
-            "TemplateId": "Token:homebasepoints",
+            "TemplateId": "HomebaseNode:skilltree_backpacksize",
             "Quantity": 1
           }
         ],
@@ -438,7 +446,7 @@
         "Rewards": [
           {
             "TemplateId": "Stat:fortitude",
-            "Quantity": 4
+            "Quantity": 10
           }
         ],
         "RestXPCap": 22539815,
@@ -448,11 +456,11 @@
       "32": {
         "XP": 10000000,
         "DifficultyLevel": 5,
-        "XPDisplayMultiplier": 0.0285315,
+        "XPDisplayMultiplier": 0.028531,
         "Rewards": [
           {
             "TemplateId": "Stat:offense",
-            "Quantity": 4
+            "Quantity": 10
           }
         ],
         "RestXPCap": 22525784,
@@ -466,7 +474,7 @@
         "Rewards": [
           {
             "TemplateId": "Stat:resistance",
-            "Quantity": 4
+            "Quantity": 10
           }
         ],
         "RestXPCap": 22512534,
@@ -476,11 +484,11 @@
       "34": {
         "XP": 10000000,
         "DifficultyLevel": 7,
-        "XPDisplayMultiplier": 0.0299935,
+        "XPDisplayMultiplier": 0.029994,
         "Rewards": [
           {
             "TemplateId": "Stat:technology",
-            "Quantity": 4
+            "Quantity": 10
           }
         ],
         "RestXPCap": 22499301,
@@ -493,7 +501,11 @@
         "XPDisplayMultiplier": 0.030725,
         "Rewards": [
           {
-            "TemplateId": "Token:homebasepoints",
+            "TemplateId": "HomebaseNode:skilltree_stormshieldstorage",
+            "Quantity": 1
+          },
+          {
+            "TemplateId": "HomebaseNode:skilltree_hoverturret",
             "Quantity": 1
           }
         ],
@@ -504,11 +516,11 @@
       "36": {
         "XP": 10000000,
         "DifficultyLevel": 7,
-        "XPDisplayMultiplier": 0.0314565,
+        "XPDisplayMultiplier": 0.031457,
         "Rewards": [
           {
-            "TemplateId": "Schematic:sid_floor_spikes_r_t01",
-            "Quantity": 1
+            "TemplateId": "Stat:fortitude",
+            "Quantity": 10
           }
         ],
         "RestXPCap": 22474402,
@@ -521,8 +533,8 @@
         "XPDisplayMultiplier": 0.032189,
         "Rewards": [
           {
-            "TemplateId": "Schematic:sid_edged_axe_heavy_r_ore_t01",
-            "Quantity": 1
+            "TemplateId": "Stat:offense",
+            "Quantity": 10
           }
         ],
         "RestXPCap": 22462227,
@@ -535,8 +547,8 @@
         "XPDisplayMultiplier": 0.032921,
         "Rewards": [
           {
-            "TemplateId": "Schematic:sid_wall_launcher_r_t01",
-            "Quantity": 1
+            "TemplateId": "Stat:resistance",
+            "Quantity": 10
           }
         ],
         "RestXPCap": 22450571,
@@ -546,11 +558,11 @@
       "39": {
         "XP": 10000000,
         "DifficultyLevel": 7,
-        "XPDisplayMultiplier": 0.0336535,
+        "XPDisplayMultiplier": 0.033654,
         "Rewards": [
           {
-            "TemplateId": "Schematic:sid_ceiling_electric_aoe_r_t01",
-            "Quantity": 1
+            "TemplateId": "Stat:technology",
+            "Quantity": 10
           }
         ],
         "RestXPCap": 22439434,
@@ -560,10 +572,14 @@
       "40": {
         "XP": 10000000,
         "DifficultyLevel": 7,
-        "XPDisplayMultiplier": 0.0343865,
+        "XPDisplayMultiplier": 0.034387,
         "Rewards": [
           {
-            "TemplateId": "Token:homebasepoints",
+            "TemplateId": "HomebaseNode:skilltree_banner",
+            "Quantity": 1
+          },
+          {
+            "TemplateId": "HomebaseNode:skilltree_adrenalinerush",
             "Quantity": 1
           }
         ],
@@ -578,7 +594,7 @@
         "Rewards": [
           {
             "TemplateId": "Stat:fortitude",
-            "Quantity": 4
+            "Quantity": 10
           }
         ],
         "RestXPCap": 22417445,
@@ -588,11 +604,11 @@
       "42": {
         "XP": 10000000,
         "DifficultyLevel": 7,
-        "XPDisplayMultiplier": 0.0358535,
+        "XPDisplayMultiplier": 0.035854,
         "Rewards": [
           {
             "TemplateId": "Stat:offense",
-            "Quantity": 4
+            "Quantity": 10
           }
         ],
         "RestXPCap": 22406844,
@@ -602,11 +618,11 @@
       "43": {
         "XP": 10000000,
         "DifficultyLevel": 7,
-        "XPDisplayMultiplier": 0.0365875,
+        "XPDisplayMultiplier": 0.036587,
         "Rewards": [
           {
             "TemplateId": "Stat:resistance",
-            "Quantity": 4
+            "Quantity": 10
           }
         ],
         "RestXPCap": 22396506,
@@ -620,7 +636,7 @@
         "Rewards": [
           {
             "TemplateId": "Stat:technology",
-            "Quantity": 4
+            "Quantity": 10
           }
         ],
         "RestXPCap": 22386933,
@@ -633,7 +649,11 @@
         "XPDisplayMultiplier": 0.038056,
         "Rewards": [
           {
-            "TemplateId": "Token:homebasepoints",
+            "TemplateId": "HomebaseNode:skilltree_buildinghealth",
+            "Quantity": 1
+          },
+          {
+            "TemplateId": "HomebaseNode:skilltree_airstrike",
             "Quantity": 1
           }
         ],
@@ -647,8 +667,8 @@
         "XPDisplayMultiplier": 0.03879,
         "Rewards": [
           {
-            "TemplateId": "Worker:managersoldier_uc_t01",
-            "Quantity": 1
+            "TemplateId": "Stat:fortitude",
+            "Quantity": 10
           }
         ],
         "RestXPCap": 22367560,
@@ -661,8 +681,8 @@
         "XPDisplayMultiplier": 0.039525,
         "Rewards": [
           {
-            "TemplateId": "Hero:hid_ninja_slashbreath_r_t01",
-            "Quantity": 1
+            "TemplateId": "Stat:offense",
+            "Quantity": 10
           }
         ],
         "RestXPCap": 22358012,
@@ -675,8 +695,8 @@
         "XPDisplayMultiplier": 0.04026,
         "Rewards": [
           {
-            "TemplateId": "Schematic:sid_wall_light_r_t01",
-            "Quantity": 1
+            "TemplateId": "Stat:resistance",
+            "Quantity": 10
           }
         ],
         "RestXPCap": 22348974,
@@ -686,11 +706,11 @@
       "49": {
         "XP": 10000000,
         "DifficultyLevel": 10,
-        "XPDisplayMultiplier": 0.0409955,
+        "XPDisplayMultiplier": 0.040996,
         "Rewards": [
           {
-            "TemplateId": "Worker:workerbasic_r_t01",
-            "Quantity": 1
+            "TemplateId": "Stat:technology",
+            "Quantity": 10
           }
         ],
         "RestXPCap": 22339943,
@@ -703,7 +723,7 @@
         "XPDisplayMultiplier": 0.041731,
         "Rewards": [
           {
-            "TemplateId": "Token:homebasepoints",
+            "TemplateId": "HomebaseNode:skilltree_pickaxe",
             "Quantity": 1
           }
         ],
@@ -714,11 +734,11 @@
       "51": {
         "XP": 10000000,
         "DifficultyLevel": 10,
-        "XPDisplayMultiplier": 0.0424665,
+        "XPDisplayMultiplier": 0.042466,
         "Rewards": [
           {
-            "TemplateId": "AccountResource:heroxp",
-            "Quantity": 2500
+            "TemplateId": "Stat:fortitude",
+            "Quantity": 15
           }
         ],
         "RestXPCap": 22322904,
@@ -731,8 +751,8 @@
         "XPDisplayMultiplier": 0.043202,
         "Rewards": [
           {
-            "TemplateId": "AccountResource:schematicxp",
-            "Quantity": 2500
+            "TemplateId": "Stat:offense",
+            "Quantity": 15
           }
         ],
         "RestXPCap": 22314645,
@@ -742,11 +762,11 @@
       "53": {
         "XP": 10000000,
         "DifficultyLevel": 10,
-        "XPDisplayMultiplier": 0.0439385,
+        "XPDisplayMultiplier": 0.043938,
         "Rewards": [
           {
-            "TemplateId": "HomebaseNode:commanderlevel_rpcollection",
-            "Quantity": 1
+            "TemplateId": "Stat:resistance",
+            "Quantity": 15
           }
         ],
         "RestXPCap": 22306392,
@@ -759,8 +779,8 @@
         "XPDisplayMultiplier": 0.044675,
         "Rewards": [
           {
-            "TemplateId": "AccountResource:personnelxp",
-            "Quantity": 10000
+            "TemplateId": "Stat:technology",
+            "Quantity": 15
           }
         ],
         "RestXPCap": 22298394,
@@ -773,7 +793,11 @@
         "XPDisplayMultiplier": 0.045412,
         "Rewards": [
           {
-            "TemplateId": "Token:homebasepoints",
+            "TemplateId": "HomebaseNode:skilltree_buildandrepairspeed",
+            "Quantity": 1
+          },
+          {
+            "TemplateId": "HomebaseNode:skilltree_supplydrop",
             "Quantity": 1
           }
         ],
@@ -784,11 +808,11 @@
       "56": {
         "XP": 10000000,
         "DifficultyLevel": 12,
-        "XPDisplayMultiplier": 0.0472335,
+        "XPDisplayMultiplier": 0.047233,
         "Rewards": [
           {
-            "TemplateId": "Stat:fortitude_team",
-            "Quantity": 4
+            "TemplateId": "Stat:fortitude",
+            "Quantity": 15
           }
         ],
         "RestXPCap": 21770803,
@@ -801,8 +825,8 @@
         "XPDisplayMultiplier": 0.047988,
         "Rewards": [
           {
-            "TemplateId": "Stat:offense_team",
-            "Quantity": 4
+            "TemplateId": "Stat:offense",
+            "Quantity": 15
           }
         ],
         "RestXPCap": 21763423,
@@ -812,11 +836,11 @@
       "58": {
         "XP": 10000000,
         "DifficultyLevel": 12,
-        "XPDisplayMultiplier": 0.0487425,
+        "XPDisplayMultiplier": 0.048742,
         "Rewards": [
           {
-            "TemplateId": "Stat:resistance_team",
-            "Quantity": 4
+            "TemplateId": "Stat:resistance",
+            "Quantity": 15
           }
         ],
         "RestXPCap": 21756048,
@@ -826,11 +850,11 @@
       "59": {
         "XP": 10000000,
         "DifficultyLevel": 12,
-        "XPDisplayMultiplier": 0.0494965,
+        "XPDisplayMultiplier": 0.049497,
         "Rewards": [
           {
-            "TemplateId": "Stat:technology_team",
-            "Quantity": 4
+            "TemplateId": "Stat:technology",
+            "Quantity": 15
           }
         ],
         "RestXPCap": 21749391,
@@ -843,8 +867,8 @@
         "XPDisplayMultiplier": 0.050251,
         "Rewards": [
           {
-            "TemplateId": "Token:homebasepoints",
-            "Quantity": 2
+            "TemplateId": "HomebaseNode:skilltree_teleporter",
+            "Quantity": 1
           }
         ],
         "RestXPCap": 21742501,
@@ -858,7 +882,7 @@
         "Rewards": [
           {
             "TemplateId": "Stat:fortitude",
-            "Quantity": 5
+            "Quantity": 15
           }
         ],
         "RestXPCap": 21735615,
@@ -872,7 +896,7 @@
         "Rewards": [
           {
             "TemplateId": "Stat:offense",
-            "Quantity": 5
+            "Quantity": 15
           }
         ],
         "RestXPCap": 21198995,
@@ -886,7 +910,7 @@
         "Rewards": [
           {
             "TemplateId": "Stat:resistance",
-            "Quantity": 5
+            "Quantity": 15
           }
         ],
         "RestXPCap": 20688385,
@@ -900,7 +924,7 @@
         "Rewards": [
           {
             "TemplateId": "Stat:technology",
-            "Quantity": 5
+            "Quantity": 15
           }
         ],
         "RestXPCap": 20202409,
@@ -910,11 +934,15 @@
       "65": {
         "XP": 10000000,
         "DifficultyLevel": 12,
-        "XPDisplayMultiplier": 0.0594235,
+        "XPDisplayMultiplier": 0.059423,
         "Rewards": [
           {
-            "TemplateId": "Token:homebasepoints",
-            "Quantity": 2
+            "TemplateId": "HomebaseNode:skilltree_backpacksize",
+            "Quantity": 1
+          },
+          {
+            "TemplateId": "HomebaseNode:skilltree_stormshieldstorage",
+            "Quantity": 1
           }
         ],
         "RestXPCap": 19738309,
@@ -927,8 +955,8 @@
         "XPDisplayMultiplier": 0.061621,
         "Rewards": [
           {
-            "TemplateId": "Worker:managerdoctor_uc_t01",
-            "Quantity": 1
+            "TemplateId": "Stat:fortitude",
+            "Quantity": 20
           }
         ],
         "RestXPCap": 19295049,
@@ -938,11 +966,11 @@
       "67": {
         "XP": 10000000,
         "DifficultyLevel": 12,
-        "XPDisplayMultiplier": 0.0638565,
+        "XPDisplayMultiplier": 0.063856,
         "Rewards": [
           {
-            "TemplateId": "AccountResource:reagent_people",
-            "Quantity": 75
+            "TemplateId": "Stat:offense",
+            "Quantity": 20
           }
         ],
         "RestXPCap": 18871269,
@@ -952,11 +980,11 @@
       "68": {
         "XP": 10000000,
         "DifficultyLevel": 12,
-        "XPDisplayMultiplier": 0.0661305,
+        "XPDisplayMultiplier": 0.06613,
         "Rewards": [
           {
-            "TemplateId": "AccountResource:reagent_traps",
-            "Quantity": 75
+            "TemplateId": "Stat:resistance",
+            "Quantity": 20
           }
         ],
         "RestXPCap": 18465323,
@@ -969,8 +997,8 @@
         "XPDisplayMultiplier": 0.068441,
         "Rewards": [
           {
-            "TemplateId": "AccountResource:reagent_weapons",
-            "Quantity": 75
+            "TemplateId": "Stat:technology",
+            "Quantity": 20
           }
         ],
         "RestXPCap": 18076688,
@@ -980,11 +1008,15 @@
       "70": {
         "XP": 10000000,
         "DifficultyLevel": 12,
-        "XPDisplayMultiplier": 0.0707905,
+        "XPDisplayMultiplier": 0.07079,
         "Rewards": [
           {
-            "TemplateId": "Token:homebasepoints",
-            "Quantity": 2
+            "TemplateId": "HomebaseNode:skilltree_proximitymine",
+            "Quantity": 1
+          },
+          {
+            "TemplateId": "HomebaseNode:skilltree_slowfield",
+            "Quantity": 1
           }
         ],
         "RestXPCap": 17703724,
@@ -998,7 +1030,7 @@
         "Rewards": [
           {
             "TemplateId": "Stat:fortitude",
-            "Quantity": 5
+            "Quantity": 20
           }
         ],
         "RestXPCap": 17345869,
@@ -1012,7 +1044,7 @@
         "Rewards": [
           {
             "TemplateId": "Stat:offense",
-            "Quantity": 5
+            "Quantity": 20
           }
         ],
         "RestXPCap": 17002049,
@@ -1026,7 +1058,7 @@
         "Rewards": [
           {
             "TemplateId": "Stat:resistance",
-            "Quantity": 5
+            "Quantity": 20
           }
         ],
         "RestXPCap": 16671455,
@@ -1040,7 +1072,7 @@
         "Rewards": [
           {
             "TemplateId": "Stat:technology",
-            "Quantity": 5
+            "Quantity": 20
           }
         ],
         "RestXPCap": 16353338,
@@ -1050,11 +1082,15 @@
       "75": {
         "XP": 10000000,
         "DifficultyLevel": 14,
-        "XPDisplayMultiplier": 0.0831045,
+        "XPDisplayMultiplier": 0.083104,
         "Rewards": [
           {
-            "TemplateId": "Token:homebasepoints",
-            "Quantity": 2
+            "TemplateId": "HomebaseNode:skilltree_buildinghealth",
+            "Quantity": 1
+          },
+          {
+            "TemplateId": "HomebaseNode:skilltree_hoverturret",
+            "Quantity": 1
           }
         ],
         "RestXPCap": 16047179,
@@ -1067,8 +1103,8 @@
         "XPDisplayMultiplier": 0.085681,
         "Rewards": [
           {
-            "TemplateId": "Hero:hid_constructor_008_r_t01",
-            "Quantity": 1
+            "TemplateId": "Stat:fortitude",
+            "Quantity": 20
           }
         ],
         "RestXPCap": 15752154,
@@ -1078,10 +1114,10 @@
       "77": {
         "XP": 10000000,
         "DifficultyLevel": 14,
-        "XPDisplayMultiplier": 0.0882955,
+        "XPDisplayMultiplier": 0.088295,
         "Rewards": [
           {
-            "TemplateId": "AccountResource:reagent_c_t01",
+            "TemplateId": "Stat:offense",
             "Quantity": 20
           }
         ],
@@ -1092,11 +1128,11 @@
       "78": {
         "XP": 10000000,
         "DifficultyLevel": 14,
-        "XPDisplayMultiplier": 0.0909485,
+        "XPDisplayMultiplier": 0.090948,
         "Rewards": [
           {
-            "TemplateId": "Schematic:sid_sniper_boltaction_scope_r_ore_t01",
-            "Quantity": 1
+            "TemplateId": "Stat:resistance",
+            "Quantity": 20
           }
         ],
         "RestXPCap": 15193164,
@@ -1106,11 +1142,11 @@
       "79": {
         "XP": 10000000,
         "DifficultyLevel": 14,
-        "XPDisplayMultiplier": 0.0936375,
+        "XPDisplayMultiplier": 0.093638,
         "Rewards": [
           {
-            "TemplateId": "Schematic:sid_floor_flamegrill_r_t01",
-            "Quantity": 1
+            "TemplateId": "Stat:technology",
+            "Quantity": 20
           }
         ],
         "RestXPCap": 14928452,
@@ -1120,11 +1156,11 @@
       "80": {
         "XP": 10000000,
         "DifficultyLevel": 14,
-        "XPDisplayMultiplier": 0.0963665,
+        "XPDisplayMultiplier": 0.096367,
         "Rewards": [
           {
-            "TemplateId": "Token:homebasepoints",
-            "Quantity": 2
+            "TemplateId": "HomebaseNode:skilltree_pickaxe",
+            "Quantity": 1
           }
         ],
         "RestXPCap": 14672396,
@@ -1137,8 +1173,8 @@
         "XPDisplayMultiplier": 0.099133,
         "Rewards": [
           {
-            "TemplateId": "Worker:workerbasic_r_t01",
-            "Quantity": 1
+            "TemplateId": "Stat:fortitude",
+            "Quantity": 25
           }
         ],
         "RestXPCap": 14425032,
@@ -1148,11 +1184,11 @@
       "82": {
         "XP": 10000000,
         "DifficultyLevel": 14,
-        "XPDisplayMultiplier": 0.1019365,
+        "XPDisplayMultiplier": 0.101936,
         "Rewards": [
           {
-            "TemplateId": "Schematic:sid_piercing_spear_r_ore_t01",
-            "Quantity": 1
+            "TemplateId": "Stat:offense",
+            "Quantity": 25
           }
         ],
         "RestXPCap": 14185934,
@@ -1165,8 +1201,8 @@
         "XPDisplayMultiplier": 0.104778,
         "Rewards": [
           {
-            "TemplateId": "Schematic:sid_wall_wood_spikes_r_t01",
-            "Quantity": 1
+            "TemplateId": "Stat:resistance",
+            "Quantity": 25
           }
         ],
         "RestXPCap": 13954550,
@@ -1179,8 +1215,8 @@
         "XPDisplayMultiplier": 0.107658,
         "Rewards": [
           {
-            "TemplateId": "HomebaseNode:commanderlevel_rpcollection",
-            "Quantity": 1
+            "TemplateId": "Stat:technology",
+            "Quantity": 25
           }
         ],
         "RestXPCap": 13730513,
@@ -1193,8 +1229,12 @@
         "XPDisplayMultiplier": 0.110576,
         "Rewards": [
           {
-            "TemplateId": "Token:homebasepoints",
-            "Quantity": 2
+            "TemplateId": "HomebaseNode:skilltree_buildandrepairspeed",
+            "Quantity": 1
+          },
+          {
+            "TemplateId": "HomebaseNode:skilltree_banner",
+            "Quantity": 1
           }
         ],
         "RestXPCap": 13513477,
@@ -1208,7 +1248,7 @@
         "Rewards": [
           {
             "TemplateId": "Stat:fortitude",
-            "Quantity": 6
+            "Quantity": 25
           }
         ],
         "RestXPCap": 13303121,
@@ -1218,11 +1258,11 @@
       "87": {
         "XP": 10000000,
         "DifficultyLevel": 16,
-        "XPDisplayMultiplier": 0.1165265,
+        "XPDisplayMultiplier": 0.116526,
         "Rewards": [
           {
             "TemplateId": "Stat:offense",
-            "Quantity": 6
+            "Quantity": 25
           }
         ],
         "RestXPCap": 13099140,
@@ -1232,11 +1272,11 @@
       "88": {
         "XP": 10000000,
         "DifficultyLevel": 16,
-        "XPDisplayMultiplier": 0.1195595,
+        "XPDisplayMultiplier": 0.119559,
         "Rewards": [
           {
             "TemplateId": "Stat:resistance",
-            "Quantity": 6
+            "Quantity": 25
           }
         ],
         "RestXPCap": 12901248,
@@ -1250,7 +1290,7 @@
         "Rewards": [
           {
             "TemplateId": "Stat:technology",
-            "Quantity": 6
+            "Quantity": 25
           }
         ],
         "RestXPCap": 12709454,
@@ -1260,11 +1300,15 @@
       "90": {
         "XP": 10000000,
         "DifficultyLevel": 16,
-        "XPDisplayMultiplier": 0.1257375,
+        "XPDisplayMultiplier": 0.125738,
         "Rewards": [
           {
-            "TemplateId": "Token:homebasepoints",
-            "Quantity": 2
+            "TemplateId": "HomebaseNode:skilltree_airstrike",
+            "Quantity": 1
+          },
+          {
+            "TemplateId": "HomebaseNode:skilltree_adrenalinerush",
+            "Quantity": 1
           }
         ],
         "RestXPCap": 12522948,
@@ -1274,11 +1318,11 @@
       "91": {
         "XP": 10000000,
         "DifficultyLevel": 16,
-        "XPDisplayMultiplier": 0.1288835,
+        "XPDisplayMultiplier": 0.128883,
         "Rewards": [
           {
-            "TemplateId": "AccountResource:heroxp",
-            "Quantity": 3500
+            "TemplateId": "Stat:fortitude",
+            "Quantity": 25
           }
         ],
         "RestXPCap": 12341905,
@@ -1288,11 +1332,11 @@
       "92": {
         "XP": 10000000,
         "DifficultyLevel": 16,
-        "XPDisplayMultiplier": 0.1320665,
+        "XPDisplayMultiplier": 0.132067,
         "Rewards": [
           {
-            "TemplateId": "AccountResource:schematicxp",
-            "Quantity": 3500
+            "TemplateId": "Stat:offense",
+            "Quantity": 25
           }
         ],
         "RestXPCap": 12166095,
@@ -1305,8 +1349,8 @@
         "XPDisplayMultiplier": 0.135288,
         "Rewards": [
           {
-            "TemplateId": "Hero:hid_outlander_009_r_t01",
-            "Quantity": 1
+            "TemplateId": "Stat:resistance",
+            "Quantity": 25
           }
         ],
         "RestXPCap": 11995170,
@@ -1319,8 +1363,8 @@
         "XPDisplayMultiplier": 0.138549,
         "Rewards": [
           {
-            "TemplateId": "AccountResource:personnelxp",
-            "Quantity": 25000
+            "TemplateId": "Stat:technology",
+            "Quantity": 25
           }
         ],
         "RestXPCap": 11828799,
@@ -1333,8 +1377,8 @@
         "XPDisplayMultiplier": 0.141847,
         "Rewards": [
           {
-            "TemplateId": "Token:homebasepoints",
-            "Quantity": 2
+            "TemplateId": "HomebaseNode:skilltree_teleporter",
+            "Quantity": 1
           }
         ],
         "RestXPCap": 11667052,
@@ -1344,11 +1388,11 @@
       "96": {
         "XP": 10000000,
         "DifficultyLevel": 16,
-        "XPDisplayMultiplier": 0.1451835,
+        "XPDisplayMultiplier": 0.145184,
         "Rewards": [
           {
             "TemplateId": "Stat:fortitude",
-            "Quantity": 6
+            "Quantity": 25
           }
         ],
         "RestXPCap": 11509619,
@@ -1362,7 +1406,7 @@
         "Rewards": [
           {
             "TemplateId": "Stat:offense",
-            "Quantity": 6
+            "Quantity": 25
           }
         ],
         "RestXPCap": 11356330,
@@ -1376,7 +1420,7 @@
         "Rewards": [
           {
             "TemplateId": "Stat:resistance",
-            "Quantity": 6
+            "Quantity": 25
           }
         ],
         "RestXPCap": 11207022,
@@ -1386,11 +1430,11 @@
       "99": {
         "XP": 10000000,
         "DifficultyLevel": 16,
-        "XPDisplayMultiplier": 0.1554205,
+        "XPDisplayMultiplier": 0.15542,
         "Rewards": [
           {
             "TemplateId": "Stat:technology",
-            "Quantity": 6
+            "Quantity": 25
           }
         ],
         "RestXPCap": 11061664,
@@ -1403,8 +1447,12 @@
         "XPDisplayMultiplier": 0.15891,
         "Rewards": [
           {
-            "TemplateId": "Token:homebasepoints",
-            "Quantity": 2
+            "TemplateId": "HomebaseNode:skilltree_backpacksize",
+            "Quantity": 1
+          },
+          {
+            "TemplateId": "HomebaseNode:skilltree_stormshieldstorage",
+            "Quantity": 1
           }
         ],
         "RestXPCap": 10919868,
@@ -1417,8 +1465,8 @@
         "XPDisplayMultiplier": 0.162436,
         "Rewards": [
           {
-            "TemplateId": "Worker:managerengineer_uc_t01",
-            "Quantity": 1
+            "TemplateId": "Stat:fortitude",
+            "Quantity": 30
           }
         ],
         "RestXPCap": 10781734,
@@ -1428,11 +1476,11 @@
       "102": {
         "XP": 10000000,
         "DifficultyLevel": 18,
-        "XPDisplayMultiplier": 0.1660005,
+        "XPDisplayMultiplier": 0.166001,
         "Rewards": [
           {
-            "TemplateId": "Schematic:sid_assault_lmg_r_ore_t01",
-            "Quantity": 1
+            "TemplateId": "Stat:offense",
+            "Quantity": 30
           }
         ],
         "RestXPCap": 10647011,
@@ -1442,11 +1490,11 @@
       "103": {
         "XP": 10000000,
         "DifficultyLevel": 18,
-        "XPDisplayMultiplier": 0.1696035,
+        "XPDisplayMultiplier": 0.169603,
         "Rewards": [
           {
-            "TemplateId": "Schematic:sid_floor_freeze_r_t01",
-            "Quantity": 1
+            "TemplateId": "Stat:resistance",
+            "Quantity": 30
           }
         ],
         "RestXPCap": 10515574,
@@ -1456,11 +1504,11 @@
       "104": {
         "XP": 10000000,
         "DifficultyLevel": 18,
-        "XPDisplayMultiplier": 0.1732445,
+        "XPDisplayMultiplier": 0.173245,
         "Rewards": [
           {
-            "TemplateId": "Worker:workerbasic_r_t01",
-            "Quantity": 1
+            "TemplateId": "Stat:technology",
+            "Quantity": 30
           }
         ],
         "RestXPCap": 10387306,
@@ -1473,8 +1521,8 @@
         "XPDisplayMultiplier": 0.176924,
         "Rewards": [
           {
-            "TemplateId": "Token:homebasepoints",
-            "Quantity": 2
+            "TemplateId": "HomebaseNode:skilltree_supplydrop",
+            "Quantity": 1
           }
         ],
         "RestXPCap": 10262091,
@@ -1488,7 +1536,7 @@
         "Rewards": [
           {
             "TemplateId": "Stat:fortitude",
-            "Quantity": 7
+            "Quantity": 30
           }
         ],
         "RestXPCap": 10139934,
@@ -1498,11 +1546,11 @@
       "107": {
         "XP": 10000000,
         "DifficultyLevel": 18,
-        "XPDisplayMultiplier": 0.1843965,
+        "XPDisplayMultiplier": 0.184397,
         "Rewards": [
           {
             "TemplateId": "Stat:offense",
-            "Quantity": 7
+            "Quantity": 30
           }
         ],
         "RestXPCap": 10020509,
@@ -1516,7 +1564,7 @@
         "Rewards": [
           {
             "TemplateId": "Stat:resistance",
-            "Quantity": 7
+            "Quantity": 30
           }
         ],
         "RestXPCap": 9903937,
@@ -1526,11 +1574,11 @@
       "109": {
         "XP": 10000000,
         "DifficultyLevel": 18,
-        "XPDisplayMultiplier": 0.1920225,
+        "XPDisplayMultiplier": 0.192023,
         "Rewards": [
           {
             "TemplateId": "Stat:technology",
-            "Quantity": 7
+            "Quantity": 30
           }
         ],
         "RestXPCap": 9789908,
@@ -1543,8 +1591,8 @@
         "XPDisplayMultiplier": 0.19589,
         "Rewards": [
           {
-            "TemplateId": "Token:homebasepoints",
-            "Quantity": 2
+            "TemplateId": "HomebaseNode:skilltree_buildinghealth",
+            "Quantity": 1
           }
         ],
         "RestXPCap": 9678653,
@@ -1557,8 +1605,8 @@
         "XPDisplayMultiplier": 0.1998,
         "Rewards": [
           {
-            "TemplateId": "Schematic:sid_pistol_autoheavy_r_ore_t01",
-            "Quantity": 1
+            "TemplateId": "Stat:fortitude",
+            "Quantity": 30
           }
         ],
         "RestXPCap": 9569662,
@@ -1571,8 +1619,8 @@
         "XPDisplayMultiplier": 0.203744,
         "Rewards": [
           {
-            "TemplateId": "Schematic:sid_edged_scythe_r_ore_t01",
-            "Quantity": 1
+            "TemplateId": "Stat:offense",
+            "Quantity": 30
           }
         ],
         "RestXPCap": 9463273,
@@ -1582,11 +1630,11 @@
       "113": {
         "XP": 10000000,
         "DifficultyLevel": 18,
-        "XPDisplayMultiplier": 0.2077285,
+        "XPDisplayMultiplier": 0.207729,
         "Rewards": [
           {
-            "TemplateId": "Worker:managergadgeteer_uc_t01",
-            "Quantity": 1
+            "TemplateId": "Stat:resistance",
+            "Quantity": 30
           }
         ],
         "RestXPCap": 9359095,
@@ -1596,11 +1644,11 @@
       "114": {
         "XP": 10000000,
         "DifficultyLevel": 18,
-        "XPDisplayMultiplier": 0.2117515,
+        "XPDisplayMultiplier": 0.211752,
         "Rewards": [
           {
-            "TemplateId": "Schematic:sid_floor_ward_r_t01",
-            "Quantity": 1
+            "TemplateId": "Stat:technology",
+            "Quantity": 30
           }
         ],
         "RestXPCap": 9257158,
@@ -1613,8 +1661,8 @@
         "XPDisplayMultiplier": 0.215813,
         "Rewards": [
           {
-            "TemplateId": "Token:homebasepoints",
-            "Quantity": 2
+            "TemplateId": "HomebaseNode:skilltree_pickaxe",
+            "Quantity": 1
           }
         ],
         "RestXPCap": 9157390,
@@ -1627,8 +1675,8 @@
         "XPDisplayMultiplier": 0.219911,
         "Rewards": [
           {
-            "TemplateId": "AccountResource:reagent_people",
-            "Quantity": 75
+            "TemplateId": "Stat:fortitude",
+            "Quantity": 30
           }
         ],
         "RestXPCap": 9059821,
@@ -1641,8 +1689,8 @@
         "XPDisplayMultiplier": 0.224047,
         "Rewards": [
           {
-            "TemplateId": "AccountResource:reagent_traps",
-            "Quantity": 75
+            "TemplateId": "Stat:offense",
+            "Quantity": 30
           }
         ],
         "RestXPCap": 8964285,
@@ -1652,11 +1700,11 @@
       "118": {
         "XP": 10000000,
         "DifficultyLevel": 20,
-        "XPDisplayMultiplier": 0.2282215,
+        "XPDisplayMultiplier": 0.228222,
         "Rewards": [
           {
-            "TemplateId": "HomebaseNode:commanderlevel_rpcollection",
-            "Quantity": 1
+            "TemplateId": "Stat:resistance",
+            "Quantity": 30
           }
         ],
         "RestXPCap": 8870719,
@@ -1669,8 +1717,8 @@
         "XPDisplayMultiplier": 0.232437,
         "Rewards": [
           {
-            "TemplateId": "AccountResource:reagent_weapons",
-            "Quantity": 3
+            "TemplateId": "Stat:technology",
+            "Quantity": 30
           }
         ],
         "RestXPCap": 8778968,
@@ -1680,11 +1728,11 @@
       "120": {
         "XP": 10000000,
         "DifficultyLevel": 20,
-        "XPDisplayMultiplier": 0.2366855,
+        "XPDisplayMultiplier": 0.236685,
         "Rewards": [
           {
-            "TemplateId": "Token:homebasepoints",
-            "Quantity": 3
+            "TemplateId": "HomebaseNode:skilltree_buildandrepairspeed",
+            "Quantity": 1
           }
         ],
         "RestXPCap": 8689258,
@@ -1694,11 +1742,11 @@
       "121": {
         "XP": 10000000,
         "DifficultyLevel": 20,
-        "XPDisplayMultiplier": 0.2409755,
+        "XPDisplayMultiplier": 0.240975,
         "Rewards": [
           {
-            "TemplateId": "Stat:fortitude_team",
-            "Quantity": 7
+            "TemplateId": "Stat:fortitude",
+            "Quantity": 35
           }
         ],
         "RestXPCap": 8601251,
@@ -1708,11 +1756,11 @@
       "122": {
         "XP": 10000000,
         "DifficultyLevel": 20,
-        "XPDisplayMultiplier": 0.2453035,
+        "XPDisplayMultiplier": 0.245303,
         "Rewards": [
           {
-            "TemplateId": "Stat:offense_team",
-            "Quantity": 7
+            "TemplateId": "Stat:offense",
+            "Quantity": 35
           }
         ],
         "RestXPCap": 8514986,
@@ -1722,11 +1770,11 @@
       "123": {
         "XP": 10000000,
         "DifficultyLevel": 20,
-        "XPDisplayMultiplier": 0.2496675,
+        "XPDisplayMultiplier": 0.249667,
         "Rewards": [
           {
-            "TemplateId": "Stat:resistance_team",
-            "Quantity": 7
+            "TemplateId": "Stat:resistance",
+            "Quantity": 35
           }
         ],
         "RestXPCap": 8430504,
@@ -1739,8 +1787,8 @@
         "XPDisplayMultiplier": 0.254073,
         "Rewards": [
           {
-            "TemplateId": "Stat:technology_team",
-            "Quantity": 7
+            "TemplateId": "Stat:technology",
+            "Quantity": 35
           }
         ],
         "RestXPCap": 8347572,
@@ -1750,11 +1798,15 @@
       "125": {
         "XP": 10000000,
         "DifficultyLevel": 20,
-        "XPDisplayMultiplier": 0.2585165,
+        "XPDisplayMultiplier": 0.258516,
         "Rewards": [
           {
-            "TemplateId": "Token:homebasepoints",
-            "Quantity": 3
+            "TemplateId": "HomebaseNode:skilltree_proximitymine",
+            "Quantity": 1
+          },
+          {
+            "TemplateId": "HomebaseNode:skilltree_slowfield",
+            "Quantity": 1
           }
         ],
         "RestXPCap": 8266236,
@@ -1767,8 +1819,8 @@
         "XPDisplayMultiplier": 0.262999,
         "Rewards": [
           {
-            "TemplateId": "Worker:workerbasic_r_t01",
-            "Quantity": 1
+            "TemplateId": "Stat:fortitude",
+            "Quantity": 35
           }
         ],
         "RestXPCap": 8186449,
@@ -1781,8 +1833,8 @@
         "XPDisplayMultiplier": 0.267517,
         "Rewards": [
           {
-            "TemplateId": "Schematic:sid_edged_sword_heavy_r_ore_t01",
-            "Quantity": 1
+            "TemplateId": "Stat:offense",
+            "Quantity": 35
           }
         ],
         "RestXPCap": 8108255,
@@ -1795,8 +1847,8 @@
         "XPDisplayMultiplier": 0.27207,
         "Rewards": [
           {
-            "TemplateId": "Worker:managermartialartist_uc_t01",
-            "Quantity": 1
+            "TemplateId": "Stat:resistance",
+            "Quantity": 35
           }
         ],
         "RestXPCap": 8031610,
@@ -1809,8 +1861,8 @@
         "XPDisplayMultiplier": 0.276668,
         "Rewards": [
           {
-            "TemplateId": "Hero:hid_commando_009_vr_t01",
-            "Quantity": 1
+            "TemplateId": "Stat:technology",
+            "Quantity": 35
           }
         ],
         "RestXPCap": 7956212,
@@ -1823,8 +1875,12 @@
         "XPDisplayMultiplier": 0.281301,
         "Rewards": [
           {
-            "TemplateId": "Token:homebasepoints",
-            "Quantity": 3
+            "TemplateId": "HomebaseNode:skilltree_hoverturret",
+            "Quantity": 1
+          },
+          {
+            "TemplateId": "HomebaseNode:skilltree_adrenalinerush",
+            "Quantity": 1
           }
         ],
         "RestXPCap": 7882284,
@@ -1838,7 +1894,7 @@
         "Rewards": [
           {
             "TemplateId": "Stat:fortitude",
-            "Quantity": 7
+            "Quantity": 35
           }
         ],
         "RestXPCap": 7809700,
@@ -1848,11 +1904,11 @@
       "132": {
         "XP": 10000000,
         "DifficultyLevel": 20,
-        "XPDisplayMultiplier": 0.2906835,
+        "XPDisplayMultiplier": 0.290684,
         "Rewards": [
           {
             "TemplateId": "Stat:offense",
-            "Quantity": 7
+            "Quantity": 35
           }
         ],
         "RestXPCap": 7738423,
@@ -1866,7 +1922,7 @@
         "Rewards": [
           {
             "TemplateId": "Stat:resistance",
-            "Quantity": 7
+            "Quantity": 35
           }
         ],
         "RestXPCap": 7668420,
@@ -1876,11 +1932,11 @@
       "134": {
         "XP": 10000000,
         "DifficultyLevel": 22,
-        "XPDisplayMultiplier": 0.3070205,
+        "XPDisplayMultiplier": 0.30702,
         "Rewards": [
           {
             "TemplateId": "Stat:technology",
-            "Quantity": 7
+            "Quantity": 35
           }
         ],
         "RestXPCap": 7431315,
@@ -1890,11 +1946,15 @@
       "135": {
         "XP": 10000000,
         "DifficultyLevel": 22,
-        "XPDisplayMultiplier": 0.3119515,
+        "XPDisplayMultiplier": 0.311951,
         "Rewards": [
           {
-            "TemplateId": "Token:homebasepoints",
-            "Quantity": 3
+            "TemplateId": "HomebaseNode:skilltree_banner",
+            "Quantity": 1
+          },
+          {
+            "TemplateId": "HomebaseNode:skilltree_airstrike",
+            "Quantity": 1
           }
         ],
         "RestXPCap": 7365351,
@@ -1904,11 +1964,11 @@
       "136": {
         "XP": 10000000,
         "DifficultyLevel": 22,
-        "XPDisplayMultiplier": 0.3169255,
+        "XPDisplayMultiplier": 0.316925,
         "Rewards": [
           {
-            "TemplateId": "AccountResource:reagent_c_t01",
-            "Quantity": 20
+            "TemplateId": "Stat:fortitude",
+            "Quantity": 40
           }
         ],
         "RestXPCap": 7300458,
@@ -1918,11 +1978,11 @@
       "137": {
         "XP": 10000000,
         "DifficultyLevel": 22,
-        "XPDisplayMultiplier": 0.3219385,
+        "XPDisplayMultiplier": 0.321939,
         "Rewards": [
           {
-            "TemplateId": "AccountResource:reagent_people",
-            "Quantity": 75
+            "TemplateId": "Stat:offense",
+            "Quantity": 40
           }
         ],
         "RestXPCap": 7236683,
@@ -1932,11 +1992,11 @@
       "138": {
         "XP": 10000000,
         "DifficultyLevel": 22,
-        "XPDisplayMultiplier": 0.3269845,
+        "XPDisplayMultiplier": 0.326984,
         "Rewards": [
           {
-            "TemplateId": "AccountResource:reagent_traps",
-            "Quantity": 75
+            "TemplateId": "Stat:resistance",
+            "Quantity": 40
           }
         ],
         "RestXPCap": 7174150,
@@ -1946,11 +2006,11 @@
       "139": {
         "XP": 10000000,
         "DifficultyLevel": 22,
-        "XPDisplayMultiplier": 0.3320765,
+        "XPDisplayMultiplier": 0.332076,
         "Rewards": [
           {
-            "TemplateId": "AccountResource:reagent_weapons",
-            "Quantity": 75
+            "TemplateId": "Stat:technology",
+            "Quantity": 40
           }
         ],
         "RestXPCap": 7112528,
@@ -1963,8 +2023,12 @@
         "XPDisplayMultiplier": 0.337208,
         "Rewards": [
           {
-            "TemplateId": "Token:homebasepoints",
-            "Quantity": 3
+            "TemplateId": "HomebaseNode:skilltree_backpacksize",
+            "Quantity": 1
+          },
+          {
+            "TemplateId": "HomebaseNode:skilltree_stormshieldstorage",
+            "Quantity": 1
           }
         ],
         "RestXPCap": 7051941,
@@ -1974,11 +2038,11 @@
       "141": {
         "XP": 10000000,
         "DifficultyLevel": 22,
-        "XPDisplayMultiplier": 0.3423715,
+        "XPDisplayMultiplier": 0.342371,
         "Rewards": [
           {
             "TemplateId": "Stat:fortitude",
-            "Quantity": 8
+            "Quantity": 40
           }
         ],
         "RestXPCap": 6992511,
@@ -1992,7 +2056,7 @@
         "Rewards": [
           {
             "TemplateId": "Stat:offense",
-            "Quantity": 8
+            "Quantity": 40
           }
         ],
         "RestXPCap": 6933918,
@@ -2002,11 +2066,11 @@
       "143": {
         "XP": 10000000,
         "DifficultyLevel": 22,
-        "XPDisplayMultiplier": 0.3528245,
+        "XPDisplayMultiplier": 0.352825,
         "Rewards": [
           {
             "TemplateId": "Stat:resistance",
-            "Quantity": 8
+            "Quantity": 40
           }
         ],
         "RestXPCap": 6876430,
@@ -2016,11 +2080,11 @@
       "144": {
         "XP": 10000000,
         "DifficultyLevel": 22,
-        "XPDisplayMultiplier": 0.3581135,
+        "XPDisplayMultiplier": 0.358113,
         "Rewards": [
           {
             "TemplateId": "Stat:technology",
-            "Quantity": 8
+            "Quantity": 40
           }
         ],
         "RestXPCap": 6819734,
@@ -2030,11 +2094,11 @@
       "145": {
         "XP": 10000000,
         "DifficultyLevel": 22,
-        "XPDisplayMultiplier": 0.3634345,
+        "XPDisplayMultiplier": 0.363434,
         "Rewards": [
           {
-            "TemplateId": "Token:homebasepoints",
-            "Quantity": 3
+            "TemplateId": "HomebaseNode:skilltree_teleporter",
+            "Quantity": 1
           }
         ],
         "RestXPCap": 6764094,
@@ -2047,8 +2111,8 @@
         "XPDisplayMultiplier": 0.368803,
         "Rewards": [
           {
-            "TemplateId": "Worker:managertrainer_uc_t01",
-            "Quantity": 1
+            "TemplateId": "Stat:fortitude",
+            "Quantity": 40
           }
         ],
         "RestXPCap": 6709204,
@@ -2061,8 +2125,8 @@
         "XPDisplayMultiplier": 0.374203,
         "Rewards": [
           {
-            "TemplateId": "Schematic:sid_assault_burst_vr_ore_t01",
-            "Quantity": 1
+            "TemplateId": "Stat:offense",
+            "Quantity": 40
           }
         ],
         "RestXPCap": 6655326,
@@ -2075,8 +2139,8 @@
         "XPDisplayMultiplier": 0.379646,
         "Rewards": [
           {
-            "TemplateId": "Worker:workerbasic_r_t01",
-            "Quantity": 1
+            "TemplateId": "Stat:resistance",
+            "Quantity": 40
           }
         ],
         "RestXPCap": 6602226,
@@ -2086,11 +2150,11 @@
       "149": {
         "XP": 10000000,
         "DifficultyLevel": 22,
-        "XPDisplayMultiplier": 0.3851285,
+        "XPDisplayMultiplier": 0.385128,
         "Rewards": [
           {
-            "TemplateId": "AccountResource:reagent_c_t02",
-            "Quantity": 10
+            "TemplateId": "Stat:technology",
+            "Quantity": 40
           }
         ],
         "RestXPCap": 6549956,
@@ -2100,11 +2164,15 @@
       "150": {
         "XP": 10000000,
         "DifficultyLevel": 22,
-        "XPDisplayMultiplier": 0.3906095,
+        "XPDisplayMultiplier": 0.39061,
         "Rewards": [
           {
-            "TemplateId": "Token:homebasepoints",
-            "Quantity": 3
+            "TemplateId": "HomebaseNode:skilltree_buildinghealth",
+            "Quantity": 1
+          },
+          {
+            "TemplateId": "HomebaseNode:skilltree_supplydrop",
+            "Quantity": 1
           }
         ],
         "RestXPCap": 6499181,
@@ -2117,8 +2185,8 @@
         "XPDisplayMultiplier": 0.396129,
         "Rewards": [
           {
-            "TemplateId": "AccountResource:heroxp",
-            "Quantity": 4000
+            "TemplateId": "Stat:fortitude",
+            "Quantity": 40
           }
         ],
         "RestXPCap": 6449188,
@@ -2131,8 +2199,8 @@
         "XPDisplayMultiplier": 0.401687,
         "Rewards": [
           {
-            "TemplateId": "AccountResource:schematicxp",
-            "Quantity": 4000
+            "TemplateId": "Stat:offense",
+            "Quantity": 40
           }
         ],
         "RestXPCap": 6399957,
@@ -2145,8 +2213,8 @@
         "XPDisplayMultiplier": 0.407283,
         "Rewards": [
           {
-            "TemplateId": "HomebaseNode:commanderlevel_rpcollection",
-            "Quantity": 1
+            "TemplateId": "Stat:resistance",
+            "Quantity": 40
           }
         ],
         "RestXPCap": 6351473,
@@ -2159,8 +2227,8 @@
         "XPDisplayMultiplier": 0.412917,
         "Rewards": [
           {
-            "TemplateId": "AccountResource:personnelxp",
-            "Quantity": 40000
+            "TemplateId": "Stat:technology",
+            "Quantity": 40
           }
         ],
         "RestXPCap": 6303717,
@@ -2173,8 +2241,8 @@
         "XPDisplayMultiplier": 0.41859,
         "Rewards": [
           {
-            "TemplateId": "Token:homebasepoints",
-            "Quantity": 3
+            "TemplateId": "HomebaseNode:skilltree_pickaxe",
+            "Quantity": 1
           }
         ],
         "RestXPCap": 6256675,
@@ -2188,7 +2256,7 @@
         "Rewards": [
           {
             "TemplateId": "Stat:fortitude",
-            "Quantity": 8
+            "Quantity": 40
           }
         ],
         "RestXPCap": 6210329,
@@ -2202,7 +2270,7 @@
         "Rewards": [
           {
             "TemplateId": "Stat:offense",
-            "Quantity": 8
+            "Quantity": 40
           }
         ],
         "RestXPCap": 6164665,
@@ -2216,7 +2284,7 @@
         "Rewards": [
           {
             "TemplateId": "Stat:resistance",
-            "Quantity": 8
+            "Quantity": 40
           }
         ],
         "RestXPCap": 6119667,
@@ -2230,7 +2298,7 @@
         "Rewards": [
           {
             "TemplateId": "Stat:technology",
-            "Quantity": 8
+            "Quantity": 40
           }
         ],
         "RestXPCap": 6075322,
@@ -2243,8 +2311,8 @@
         "XPDisplayMultiplier": 0.447528,
         "Rewards": [
           {
-            "TemplateId": "Token:homebasepoints",
-            "Quantity": 3
+            "TemplateId": "HomebaseNode:skilltree_buildandrepairspeed",
+            "Quantity": 1
           }
         ],
         "RestXPCap": 6031614,
@@ -2257,8 +2325,8 @@
         "XPDisplayMultiplier": 0.453431,
         "Rewards": [
           {
-            "TemplateId": "Worker:managerinventor_uc_t01",
-            "Quantity": 1
+            "TemplateId": "Stat:fortitude",
+            "Quantity": 40
           }
         ],
         "RestXPCap": 5988531,
@@ -2271,8 +2339,8 @@
         "XPDisplayMultiplier": 0.459372,
         "Rewards": [
           {
-            "TemplateId": "Schematic:sid_wall_darts_vr_t01",
-            "Quantity": 1
+            "TemplateId": "Stat:offense",
+            "Quantity": 40
           }
         ],
         "RestXPCap": 5946060,
@@ -2285,8 +2353,8 @@
         "XPDisplayMultiplier": 0.465351,
         "Rewards": [
           {
-            "TemplateId": "Worker:workerbasic_vr_t01",
-            "Quantity": 1
+            "TemplateId": "Stat:resistance",
+            "Quantity": 40
           }
         ],
         "RestXPCap": 5904186,
@@ -2296,11 +2364,11 @@
       "164": {
         "XP": 10000000,
         "DifficultyLevel": 24,
-        "XPDisplayMultiplier": 0.4713685,
+        "XPDisplayMultiplier": 0.471368,
         "Rewards": [
           {
-            "TemplateId": "Schematic:sid_floor_spikes_wood_vr_t01",
-            "Quantity": 1
+            "TemplateId": "Stat:technology",
+            "Quantity": 40
           }
         ],
         "RestXPCap": 5862898,
@@ -2310,11 +2378,15 @@
       "165": {
         "XP": 10000000,
         "DifficultyLevel": 24,
-        "XPDisplayMultiplier": 0.4774245,
+        "XPDisplayMultiplier": 0.477425,
         "Rewards": [
           {
-            "TemplateId": "Token:homebasepoints",
-            "Quantity": 3
+            "TemplateId": "HomebaseNode:skilltree_proximitymine",
+            "Quantity": 1
+          },
+          {
+            "TemplateId": "HomebaseNode:skilltree_slowfield",
+            "Quantity": 1
           }
         ],
         "RestXPCap": 5822183,
@@ -2327,8 +2399,8 @@
         "XPDisplayMultiplier": 0.483519,
         "Rewards": [
           {
-            "TemplateId": "AccountResource:reagent_people",
-            "Quantity": 200
+            "TemplateId": "Stat:fortitude",
+            "Quantity": 40
           }
         ],
         "RestXPCap": 5782030,
@@ -2338,11 +2410,11 @@
       "167": {
         "XP": 10000000,
         "DifficultyLevel": 24,
-        "XPDisplayMultiplier": 0.4896515,
+        "XPDisplayMultiplier": 0.489652,
         "Rewards": [
           {
-            "TemplateId": "AccountResource:reagent_traps",
-            "Quantity": 200
+            "TemplateId": "Stat:offense",
+            "Quantity": 40
           }
         ],
         "RestXPCap": 5742427,
@@ -2352,11 +2424,11 @@
       "168": {
         "XP": 10000000,
         "DifficultyLevel": 24,
-        "XPDisplayMultiplier": 0.4958225,
+        "XPDisplayMultiplier": 0.495822,
         "Rewards": [
           {
-            "TemplateId": "AccountResource:reagent_weapons",
-            "Quantity": 200
+            "TemplateId": "Stat:resistance",
+            "Quantity": 40
           }
         ],
         "RestXPCap": 5703363,
@@ -2369,8 +2441,8 @@
         "XPDisplayMultiplier": 0.502032,
         "Rewards": [
           {
-            "TemplateId": "Schematic:sid_ceiling_electric_single_vr_t01",
-            "Quantity": 1
+            "TemplateId": "Stat:technology",
+            "Quantity": 40
           }
         ],
         "RestXPCap": 5664827,
@@ -2380,11 +2452,11 @@
       "170": {
         "XP": 10000000,
         "DifficultyLevel": 26,
-        "XPDisplayMultiplier": 0.5082795,
+        "XPDisplayMultiplier": 0.50828,
         "Rewards": [
           {
-            "TemplateId": "Token:homebasepoints",
-            "Quantity": 3
+            "TemplateId": "HomebaseNode:skilltree_hoverturret",
+            "Quantity": 1
           }
         ],
         "RestXPCap": 5626808,
@@ -2394,11 +2466,11 @@
       "171": {
         "XP": 10000000,
         "DifficultyLevel": 26,
-        "XPDisplayMultiplier": 0.5145655,
+        "XPDisplayMultiplier": 0.514566,
         "Rewards": [
           {
-            "TemplateId": "Hero:hid_ninja_007_vr_t01",
-            "Quantity": 1
+            "TemplateId": "Stat:fortitude",
+            "Quantity": 40
           }
         ],
         "RestXPCap": 5589296,
@@ -2408,11 +2480,11 @@
       "172": {
         "XP": 10000000,
         "DifficultyLevel": 26,
-        "XPDisplayMultiplier": 0.5208895,
+        "XPDisplayMultiplier": 0.52089,
         "Rewards": [
           {
-            "TemplateId": "AccountResource:reagent_c_t01",
-            "Quantity": 20
+            "TemplateId": "Stat:offense",
+            "Quantity": 40
           }
         ],
         "RestXPCap": 5552281,
@@ -2425,8 +2497,8 @@
         "XPDisplayMultiplier": 0.527252,
         "Rewards": [
           {
-            "TemplateId": "Schematic:sid_blunt_club_light_vr_ore_t01",
-            "Quantity": 1
+            "TemplateId": "Stat:resistance",
+            "Quantity": 40
           }
         ],
         "RestXPCap": 5515753,
@@ -2439,8 +2511,8 @@
         "XPDisplayMultiplier": 0.533653,
         "Rewards": [
           {
-            "TemplateId": "AccountResource:reagent_c_t02",
-            "Quantity": 10
+            "TemplateId": "Stat:technology",
+            "Quantity": 40
           }
         ],
         "RestXPCap": 5479702,
@@ -2450,11 +2522,11 @@
       "175": {
         "XP": 10000000,
         "DifficultyLevel": 26,
-        "XPDisplayMultiplier": 0.5400925,
+        "XPDisplayMultiplier": 0.540093,
         "Rewards": [
           {
-            "TemplateId": "Token:homebasepoints",
-            "Quantity": 4
+            "TemplateId": "HomebaseNode:skilltree_banner",
+            "Quantity": 1
           }
         ],
         "RestXPCap": 5444119,
@@ -2468,7 +2540,7 @@
         "Rewards": [
           {
             "TemplateId": "Stat:fortitude",
-            "Quantity": 9
+            "Quantity": 40
           }
         ],
         "RestXPCap": 5408996,
@@ -2482,7 +2554,7 @@
         "Rewards": [
           {
             "TemplateId": "Stat:offense",
-            "Quantity": 9
+            "Quantity": 40
           }
         ],
         "RestXPCap": 5374323,
@@ -2496,7 +2568,7 @@
         "Rewards": [
           {
             "TemplateId": "Stat:resistance",
-            "Quantity": 9
+            "Quantity": 40
           }
         ],
         "RestXPCap": 5340092,
@@ -2506,11 +2578,11 @@
       "179": {
         "XP": 10000000,
         "DifficultyLevel": 26,
-        "XPDisplayMultiplier": 0.5662325,
+        "XPDisplayMultiplier": 0.566233,
         "Rewards": [
           {
             "TemplateId": "Stat:technology",
-            "Quantity": 9
+            "Quantity": 40
           }
         ],
         "RestXPCap": 5306294,
@@ -2520,11 +2592,15 @@
       "180": {
         "XP": 10000000,
         "DifficultyLevel": 26,
-        "XPDisplayMultiplier": 0.5728635,
+        "XPDisplayMultiplier": 0.572864,
         "Rewards": [
           {
-            "TemplateId": "Token:homebasepoints",
-            "Quantity": 4
+            "TemplateId": "HomebaseNode:skilltree_backpacksize",
+            "Quantity": 1
+          },
+          {
+            "TemplateId": "HomebaseNode:skilltree_stormshieldstorage",
+            "Quantity": 1
           }
         ],
         "RestXPCap": 5272921,
@@ -2537,8 +2613,8 @@
         "XPDisplayMultiplier": 0.579533,
         "Rewards": [
           {
-            "TemplateId": "AccountResource:heroxp",
-            "Quantity": 4500
+            "TemplateId": "Stat:fortitude",
+            "Quantity": 40
           }
         ],
         "RestXPCap": 5239965,
@@ -2548,11 +2624,11 @@
       "182": {
         "XP": 10000000,
         "DifficultyLevel": 26,
-        "XPDisplayMultiplier": 0.5862405,
+        "XPDisplayMultiplier": 0.58624,
         "Rewards": [
           {
-            "TemplateId": "AccountResource:schematicxp",
-            "Quantity": 4500
+            "TemplateId": "Stat:offense",
+            "Quantity": 40
           }
         ],
         "RestXPCap": 5207419,
@@ -2562,11 +2638,11 @@
       "183": {
         "XP": 10000000,
         "DifficultyLevel": 26,
-        "XPDisplayMultiplier": 0.5929865,
+        "XPDisplayMultiplier": 0.592987,
         "Rewards": [
           {
-            "TemplateId": "AccountResource:personnelxp",
-            "Quantity": 50000
+            "TemplateId": "Stat:resistance",
+            "Quantity": 40
           }
         ],
         "RestXPCap": 5175274,
@@ -2576,11 +2652,11 @@
       "184": {
         "XP": 10000000,
         "DifficultyLevel": 26,
-        "XPDisplayMultiplier": 0.5997705,
+        "XPDisplayMultiplier": 0.59977,
         "Rewards": [
           {
-            "TemplateId": "HomebaseNode:commanderlevel_rpcollection",
-            "Quantity": 1
+            "TemplateId": "Stat:technology",
+            "Quantity": 40
           }
         ],
         "RestXPCap": 5143524,
@@ -2593,8 +2669,12 @@
         "XPDisplayMultiplier": 0.606593,
         "Rewards": [
           {
-            "TemplateId": "Token:homebasepoints",
-            "Quantity": 4
+            "TemplateId": "HomebaseNode:skilltree_adrenalinerush",
+            "Quantity": 1
+          },
+          {
+            "TemplateId": "HomebaseNode:skilltree_airstrike",
+            "Quantity": 1
           }
         ],
         "RestXPCap": 5112161,
@@ -2607,8 +2687,8 @@
         "XPDisplayMultiplier": 0.613454,
         "Rewards": [
           {
-            "TemplateId": "Schematic:sid_wall_wood_spikes_vr_t01",
-            "Quantity": 1
+            "TemplateId": "Stat:fortitude",
+            "Quantity": 40
           }
         ],
         "RestXPCap": 5081178,
@@ -2621,8 +2701,8 @@
         "XPDisplayMultiplier": 0.620353,
         "Rewards": [
           {
-            "TemplateId": "Worker:workerbasic_vr_t01",
-            "Quantity": 1
+            "TemplateId": "Stat:offense",
+            "Quantity": 40
           }
         ],
         "RestXPCap": 5050569,
@@ -2632,11 +2712,11 @@
       "188": {
         "XP": 10000000,
         "DifficultyLevel": 28,
-        "XPDisplayMultiplier": 0.6272905,
+        "XPDisplayMultiplier": 0.62729,
         "Rewards": [
           {
-            "TemplateId": "Schematic:sid_shotgun_standard_vr_ore_t01",
-            "Quantity": 1
+            "TemplateId": "Stat:resistance",
+            "Quantity": 40
           }
         ],
         "RestXPCap": 5020326,
@@ -2646,11 +2726,11 @@
       "189": {
         "XP": 10000000,
         "DifficultyLevel": 28,
-        "XPDisplayMultiplier": 0.6342665,
+        "XPDisplayMultiplier": 0.634266,
         "Rewards": [
           {
-            "TemplateId": "Schematic:sid_ceiling_gas_vr_t01",
-            "Quantity": 1
+            "TemplateId": "Stat:technology",
+            "Quantity": 40
           }
         ],
         "RestXPCap": 4990443,
@@ -2660,11 +2740,15 @@
       "190": {
         "XP": 10000000,
         "DifficultyLevel": 28,
-        "XPDisplayMultiplier": 0.6412805,
+        "XPDisplayMultiplier": 0.64128,
         "Rewards": [
           {
-            "TemplateId": "Token:homebasepoints",
-            "Quantity": 4
+            "TemplateId": "HomebaseNode:skilltree_buildinghealth",
+            "Quantity": 1
+          },
+          {
+            "TemplateId": "HomebaseNode:skilltree_teleporter",
+            "Quantity": 1
           }
         ],
         "RestXPCap": 4960914,
@@ -2677,8 +2761,8 @@
         "XPDisplayMultiplier": 0.648333,
         "Rewards": [
           {
-            "TemplateId": "Worker:managerexplorer_r_t01",
-            "Quantity": 1
+            "TemplateId": "Stat:fortitude",
+            "Quantity": 50
           }
         ],
         "RestXPCap": 4931732,
@@ -2691,8 +2775,8 @@
         "XPDisplayMultiplier": 0.655424,
         "Rewards": [
           {
-            "TemplateId": "AccountResource:reagent_c_t01",
-            "Quantity": 20
+            "TemplateId": "Stat:offense",
+            "Quantity": 50
           }
         ],
         "RestXPCap": 4902891,
@@ -2705,8 +2789,8 @@
         "XPDisplayMultiplier": 0.662553,
         "Rewards": [
           {
-            "TemplateId": "Hero:hid_constructor_009_vr_t01",
-            "Quantity": 1
+            "TemplateId": "Stat:resistance",
+            "Quantity": 50
           }
         ],
         "RestXPCap": 4874386,
@@ -2716,11 +2800,11 @@
       "194": {
         "XP": 10000000,
         "DifficultyLevel": 28,
-        "XPDisplayMultiplier": 0.6697205,
+        "XPDisplayMultiplier": 0.66972,
         "Rewards": [
           {
-            "TemplateId": "AccountResource:reagent_c_t02",
-            "Quantity": 10
+            "TemplateId": "Stat:technology",
+            "Quantity": 50
           }
         ],
         "RestXPCap": 4846210,
@@ -2730,11 +2814,11 @@
       "195": {
         "XP": 10000000,
         "DifficultyLevel": 28,
-        "XPDisplayMultiplier": 0.6769265,
+        "XPDisplayMultiplier": 0.676926,
         "Rewards": [
           {
-            "TemplateId": "Token:homebasepoints",
-            "Quantity": 4
+            "TemplateId": "HomebaseNode:skilltree_pickaxe",
+            "Quantity": 1
           }
         ],
         "RestXPCap": 4818359,
@@ -2744,11 +2828,11 @@
       "196": {
         "XP": 10000000,
         "DifficultyLevel": 28,
-        "XPDisplayMultiplier": 0.6841705,
+        "XPDisplayMultiplier": 0.68417,
         "Rewards": [
           {
             "TemplateId": "Stat:fortitude",
-            "Quantity": 9
+            "Quantity": 50
           }
         ],
         "RestXPCap": 4790825,
@@ -2762,7 +2846,7 @@
         "Rewards": [
           {
             "TemplateId": "Stat:offense",
-            "Quantity": 9
+            "Quantity": 50
           }
         ],
         "RestXPCap": 4763604,
@@ -2776,7 +2860,7 @@
         "Rewards": [
           {
             "TemplateId": "Stat:resistance",
-            "Quantity": 9
+            "Quantity": 50
           }
         ],
         "RestXPCap": 4736691,
@@ -2790,7 +2874,7 @@
         "Rewards": [
           {
             "TemplateId": "Stat:technology",
-            "Quantity": 9
+            "Quantity": 50
           }
         ],
         "RestXPCap": 4710081,
@@ -2800,11 +2884,15 @@
       "200": {
         "XP": 10000000,
         "DifficultyLevel": 28,
-        "XPDisplayMultiplier": 0.7135305,
+        "XPDisplayMultiplier": 0.71353,
         "Rewards": [
           {
-            "TemplateId": "Token:homebasepoints",
-            "Quantity": 4
+            "TemplateId": "HomebaseNode:skilltree_buildandrepairspeed",
+            "Quantity": 1
+          },
+          {
+            "TemplateId": "HomebaseNode:skilltree_supplydrop",
+            "Quantity": 1
           }
         ],
         "RestXPCap": 4683768,
@@ -2814,11 +2902,11 @@
       "201": {
         "XP": 10000000,
         "DifficultyLevel": 28,
-        "XPDisplayMultiplier": 0.7209665,
+        "XPDisplayMultiplier": 0.720967,
         "Rewards": [
           {
-            "TemplateId": "AccountResource:heroxp",
-            "Quantity": 5000
+            "TemplateId": "Stat:fortitude",
+            "Quantity": 50
           }
         ],
         "RestXPCap": 4657747,
@@ -2828,11 +2916,11 @@
       "202": {
         "XP": 10000000,
         "DifficultyLevel": 28,
-        "XPDisplayMultiplier": 0.7284405,
+        "XPDisplayMultiplier": 0.728441,
         "Rewards": [
           {
-            "TemplateId": "AccountResource:schematicxp",
-            "Quantity": 5000
+            "TemplateId": "Stat:offense",
+            "Quantity": 50
           }
         ],
         "RestXPCap": 4632013,
@@ -2845,8 +2933,8 @@
         "XPDisplayMultiplier": 0.735953,
         "Rewards": [
           {
-            "TemplateId": "AccountResource:personnelxp",
-            "Quantity": 60000
+            "TemplateId": "Stat:resistance",
+            "Quantity": 50
           }
         ],
         "RestXPCap": 4606563,
@@ -2859,8 +2947,8 @@
         "XPDisplayMultiplier": 0.743504,
         "Rewards": [
           {
-            "TemplateId": "Schematic:sid_floor_launcher_vr_t01",
-            "Quantity": 1
+            "TemplateId": "Stat:technology",
+            "Quantity": 50
           }
         ],
         "RestXPCap": 4581390,
@@ -2873,8 +2961,12 @@
         "XPDisplayMultiplier": 0.751093,
         "Rewards": [
           {
-            "TemplateId": "Token:homebasepoints",
-            "Quantity": 4
+            "TemplateId": "HomebaseNode:skilltree_proximitymine",
+            "Quantity": 1
+          },
+          {
+            "TemplateId": "HomebaseNode:skilltree_slowfield",
+            "Quantity": 1
           }
         ],
         "RestXPCap": 4556491,
@@ -2884,11 +2976,11 @@
       "206": {
         "XP": 10000000,
         "DifficultyLevel": 30,
-        "XPDisplayMultiplier": 0.7587205,
+        "XPDisplayMultiplier": 0.758721,
         "Rewards": [
           {
-            "TemplateId": "AccountResource:reagent_c_t01",
-            "Quantity": 20
+            "TemplateId": "Stat:fortitude",
+            "Quantity": 50
           }
         ],
         "RestXPCap": 4531862,
@@ -2901,8 +2993,8 @@
         "XPDisplayMultiplier": 0.766386,
         "Rewards": [
           {
-            "TemplateId": "Schematic:sid_sniper_shredder_vr_ore_t01",
-            "Quantity": 1
+            "TemplateId": "Stat:offense",
+            "Quantity": 50
           }
         ],
         "RestXPCap": 4507497,
@@ -2912,11 +3004,11 @@
       "208": {
         "XP": 10000000,
         "DifficultyLevel": 30,
-        "XPDisplayMultiplier": 0.7740905,
+        "XPDisplayMultiplier": 0.774091,
         "Rewards": [
           {
-            "TemplateId": "AccountResource:reagent_c_t02",
-            "Quantity": 10
+            "TemplateId": "Stat:resistance",
+            "Quantity": 50
           }
         ],
         "RestXPCap": 4483392,
@@ -2926,11 +3018,11 @@
       "209": {
         "XP": 10000000,
         "DifficultyLevel": 30,
-        "XPDisplayMultiplier": 0.7818325,
+        "XPDisplayMultiplier": 0.781833,
         "Rewards": [
           {
-            "TemplateId": "Hero:hid_outlander_007_vr_t01",
-            "Quantity": 1
+            "TemplateId": "Stat:technology",
+            "Quantity": 50
           }
         ],
         "RestXPCap": 4459545,
@@ -2940,11 +3032,11 @@
       "210": {
         "XP": 10000000,
         "DifficultyLevel": 30,
-        "XPDisplayMultiplier": 0.7896135,
+        "XPDisplayMultiplier": 0.789613,
         "Rewards": [
           {
-            "TemplateId": "Token:homebasepoints",
-            "Quantity": 4
+            "TemplateId": "HomebaseNode:skilltree_banner",
+            "Quantity": 1
           }
         ],
         "RestXPCap": 4435949,
@@ -2954,11 +3046,11 @@
       "211": {
         "XP": 10000000,
         "DifficultyLevel": 30,
-        "XPDisplayMultiplier": 0.7974325,
+        "XPDisplayMultiplier": 0.797432,
         "Rewards": [
           {
-            "TemplateId": "AccountResource:reagent_people",
-            "Quantity": 200
+            "TemplateId": "Stat:fortitude",
+            "Quantity": 50
           }
         ],
         "RestXPCap": 4412602,
@@ -2971,8 +3063,8 @@
         "XPDisplayMultiplier": 0.80529,
         "Rewards": [
           {
-            "TemplateId": "AccountResource:reagent_traps",
-            "Quantity": 200
+            "TemplateId": "Stat:offense",
+            "Quantity": 50
           }
         ],
         "RestXPCap": 4389499,
@@ -2985,8 +3077,8 @@
         "XPDisplayMultiplier": 0.813186,
         "Rewards": [
           {
-            "TemplateId": "AccountResource:reagent_weapons",
-            "Quantity": 200
+            "TemplateId": "Stat:resistance",
+            "Quantity": 50
           }
         ],
         "RestXPCap": 4366637,
@@ -2999,8 +3091,8 @@
         "XPDisplayMultiplier": 0.82112,
         "Rewards": [
           {
-            "TemplateId": "Worker:workerbasic_vr_t01",
-            "Quantity": 1
+            "TemplateId": "Stat:technology",
+            "Quantity": 50
           }
         ],
         "RestXPCap": 4344012,
@@ -3010,11 +3102,11 @@
       "215": {
         "XP": 10000000,
         "DifficultyLevel": 30,
-        "XPDisplayMultiplier": 0.8290925,
+        "XPDisplayMultiplier": 0.829093,
         "Rewards": [
           {
-            "TemplateId": "Token:homebasepoints",
-            "Quantity": 4
+            "TemplateId": "HomebaseNode:skilltree_hoverturret",
+            "Quantity": 1
           }
         ],
         "RestXPCap": 4321621,
@@ -3024,11 +3116,11 @@
       "216": {
         "XP": 10000000,
         "DifficultyLevel": 30,
-        "XPDisplayMultiplier": 0.8329385,
+        "XPDisplayMultiplier": 0.832938,
         "Rewards": [
           {
-            "TemplateId": "AccountResource:heroxp",
-            "Quantity": 6000
+            "TemplateId": "Stat:fortitude",
+            "Quantity": 60
           }
         ],
         "RestXPCap": 4320956,
@@ -3041,8 +3133,8 @@
         "XPDisplayMultiplier": 0.836657,
         "Rewards": [
           {
-            "TemplateId": "AccountResource:schematicxp",
-            "Quantity": 6000
+            "TemplateId": "Stat:offense",
+            "Quantity": 60
           }
         ],
         "RestXPCap": 4320956,
@@ -3052,11 +3144,11 @@
       "218": {
         "XP": 10000000,
         "DifficultyLevel": 30,
-        "XPDisplayMultiplier": 0.8403755,
+        "XPDisplayMultiplier": 0.840375,
         "Rewards": [
           {
-            "TemplateId": "HomebaseNode:commanderlevel_rpcollection",
-            "Quantity": 1
+            "TemplateId": "Stat:resistance",
+            "Quantity": 60
           }
         ],
         "RestXPCap": 4320956,
@@ -3066,11 +3158,11 @@
       "219": {
         "XP": 10000000,
         "DifficultyLevel": 30,
-        "XPDisplayMultiplier": 0.8440935,
+        "XPDisplayMultiplier": 0.844094,
         "Rewards": [
           {
-            "TemplateId": "AccountResource:personnelxp",
-            "Quantity": 70000
+            "TemplateId": "Stat:technology",
+            "Quantity": 60
           }
         ],
         "RestXPCap": 4320956,
@@ -3083,8 +3175,12 @@
         "XPDisplayMultiplier": 0.847812,
         "Rewards": [
           {
-            "TemplateId": "Token:homebasepoints",
-            "Quantity": 5
+            "TemplateId": "HomebaseNode:skilltree_adrenalinerush",
+            "Quantity": 1
+          },
+          {
+            "TemplateId": "HomebaseNode:skilltree_airstrike",
+            "Quantity": 1
           }
         ],
         "RestXPCap": 4320956,
@@ -3094,11 +3190,11 @@
       "221": {
         "XP": 10000000,
         "DifficultyLevel": 30,
-        "XPDisplayMultiplier": 0.8515305,
+        "XPDisplayMultiplier": 0.85153,
         "Rewards": [
           {
             "TemplateId": "Stat:fortitude",
-            "Quantity": 10
+            "Quantity": 60
           }
         ],
         "RestXPCap": 4320956,
@@ -3112,7 +3208,7 @@
         "Rewards": [
           {
             "TemplateId": "Stat:offense",
-            "Quantity": 10
+            "Quantity": 60
           }
         ],
         "RestXPCap": 4320956,
@@ -3122,11 +3218,11 @@
       "223": {
         "XP": 10000000,
         "DifficultyLevel": 32,
-        "XPDisplayMultiplier": 0.8589675,
+        "XPDisplayMultiplier": 0.858967,
         "Rewards": [
           {
             "TemplateId": "Stat:resistance",
-            "Quantity": 10
+            "Quantity": 60
           }
         ],
         "RestXPCap": 4320956,
@@ -3140,7 +3236,7 @@
         "Rewards": [
           {
             "TemplateId": "Stat:technology",
-            "Quantity": 10
+            "Quantity": 60
           }
         ],
         "RestXPCap": 4320956,
@@ -3150,11 +3246,11 @@
       "225": {
         "XP": 10000000,
         "DifficultyLevel": 32,
-        "XPDisplayMultiplier": 0.8664045,
+        "XPDisplayMultiplier": 0.866404,
         "Rewards": [
           {
-            "TemplateId": "Token:homebasepoints",
-            "Quantity": 5
+            "TemplateId": "HomebaseNode:skilltree_teleporter",
+            "Quantity": 1
           }
         ],
         "RestXPCap": 4320956,
@@ -3167,8 +3263,8 @@
         "XPDisplayMultiplier": 0.870123,
         "Rewards": [
           {
-            "TemplateId": "Worker:managerdoctor_r_t01",
-            "Quantity": 1
+            "TemplateId": "Stat:fortitude",
+            "Quantity": 60
           }
         ],
         "RestXPCap": 4320956,
@@ -3178,11 +3274,11 @@
       "227": {
         "XP": 10000000,
         "DifficultyLevel": 32,
-        "XPDisplayMultiplier": 0.8738415,
+        "XPDisplayMultiplier": 0.873842,
         "Rewards": [
           {
-            "TemplateId": "AccountResource:reagent_c_t01",
-            "Quantity": 20
+            "TemplateId": "Stat:offense",
+            "Quantity": 60
           }
         ],
         "RestXPCap": 4320956,
@@ -3195,8 +3291,8 @@
         "XPDisplayMultiplier": 0.87756,
         "Rewards": [
           {
-            "TemplateId": "AccountResource:reagent_c_t02",
-            "Quantity": 10
+            "TemplateId": "Stat:resistance",
+            "Quantity": 60
           }
         ],
         "RestXPCap": 4320956,
@@ -3206,11 +3302,11 @@
       "229": {
         "XP": 10000000,
         "DifficultyLevel": 32,
-        "XPDisplayMultiplier": 0.8812785,
+        "XPDisplayMultiplier": 0.881279,
         "Rewards": [
           {
-            "TemplateId": "Worker:workerbasic_vr_t01",
-            "Quantity": 1
+            "TemplateId": "Stat:technology",
+            "Quantity": 60
           }
         ],
         "RestXPCap": 4320956,
@@ -3223,8 +3319,12 @@
         "XPDisplayMultiplier": 0.884997,
         "Rewards": [
           {
-            "TemplateId": "Token:homebasepoints",
-            "Quantity": 5
+            "TemplateId": "HomebaseNode:skilltree_backpacksize",
+            "Quantity": 1
+          },
+          {
+            "TemplateId": "HomebaseNode:skilltree_stormshieldstorage",
+            "Quantity": 1
           }
         ],
         "RestXPCap": 4320956,
@@ -3234,11 +3334,11 @@
       "231": {
         "XP": 10000000,
         "DifficultyLevel": 32,
-        "XPDisplayMultiplier": 0.8887155,
+        "XPDisplayMultiplier": 0.888716,
         "Rewards": [
           {
-            "TemplateId": "Stat:fortitude_team",
-            "Quantity": 10
+            "TemplateId": "Stat:fortitude",
+            "Quantity": 80
           }
         ],
         "RestXPCap": 4320956,
@@ -3251,8 +3351,8 @@
         "XPDisplayMultiplier": 0.892434,
         "Rewards": [
           {
-            "TemplateId": "Stat:offense_team",
-            "Quantity": 10
+            "TemplateId": "Stat:offense",
+            "Quantity": 80
           }
         ],
         "RestXPCap": 4320956,
@@ -3262,11 +3362,11 @@
       "233": {
         "XP": 10000000,
         "DifficultyLevel": 32,
-        "XPDisplayMultiplier": 0.8961525,
+        "XPDisplayMultiplier": 0.896152,
         "Rewards": [
           {
-            "TemplateId": "Stat:resistance_team",
-            "Quantity": 10
+            "TemplateId": "Stat:resistance",
+            "Quantity": 80
           }
         ],
         "RestXPCap": 4320956,
@@ -3279,8 +3379,8 @@
         "XPDisplayMultiplier": 0.899871,
         "Rewards": [
           {
-            "TemplateId": "Stat:technology_team",
-            "Quantity": 10
+            "TemplateId": "Stat:technology",
+            "Quantity": 80
           }
         ],
         "RestXPCap": 4320956,
@@ -3290,11 +3390,15 @@
       "235": {
         "XP": 10000000,
         "DifficultyLevel": 32,
-        "XPDisplayMultiplier": 0.9035895,
+        "XPDisplayMultiplier": 0.903589,
         "Rewards": [
           {
-            "TemplateId": "Token:homebasepoints",
-            "Quantity": 5
+            "TemplateId": "HomebaseNode:skilltree_proximitymine",
+            "Quantity": 1
+          },
+          {
+            "TemplateId": "HomebaseNode:skilltree_slowfield",
+            "Quantity": 1
           }
         ],
         "RestXPCap": 4320956,
@@ -3307,8 +3411,8 @@
         "XPDisplayMultiplier": 0.907308,
         "Rewards": [
           {
-            "TemplateId": "AccountResource:reagent_c_t03",
-            "Quantity": 5
+            "TemplateId": "Stat:fortitude",
+            "Quantity": 80
           }
         ],
         "RestXPCap": 4320956,
@@ -3318,11 +3422,11 @@
       "237": {
         "XP": 10000000,
         "DifficultyLevel": 32,
-        "XPDisplayMultiplier": 0.9110265,
+        "XPDisplayMultiplier": 0.911026,
         "Rewards": [
           {
-            "TemplateId": "Schematic:sid_wall_electric_vr_t01",
-            "Quantity": 1
+            "TemplateId": "Stat:offense",
+            "Quantity": 80
           }
         ],
         "RestXPCap": 4320956,
@@ -3332,11 +3436,11 @@
       "238": {
         "XP": 10000000,
         "DifficultyLevel": 32,
-        "XPDisplayMultiplier": 0.9147445,
+        "XPDisplayMultiplier": 0.914744,
         "Rewards": [
           {
-            "TemplateId": "Worker:workerbasic_sr_t01",
-            "Quantity": 1
+            "TemplateId": "Stat:resistance",
+            "Quantity": 80
           }
         ],
         "RestXPCap": 4320956,
@@ -3349,8 +3453,8 @@
         "XPDisplayMultiplier": 0.918463,
         "Rewards": [
           {
-            "TemplateId": "Worker:managersoldier_r_t01",
-            "Quantity": 1
+            "TemplateId": "Stat:technology",
+            "Quantity": 80
           }
         ],
         "RestXPCap": 4320956,
@@ -3360,11 +3464,11 @@
       "240": {
         "XP": 10000000,
         "DifficultyLevel": 32,
-        "XPDisplayMultiplier": 0.9221815,
+        "XPDisplayMultiplier": 0.922181,
         "Rewards": [
           {
-            "TemplateId": "Token:homebasepoints",
-            "Quantity": 5
+            "TemplateId": "HomebaseNode:skilltree_buildinghealth",
+            "Quantity": 1
           }
         ],
         "RestXPCap": 4320956,
@@ -3378,7 +3482,7 @@
         "Rewards": [
           {
             "TemplateId": "Stat:fortitude",
-            "Quantity": 10
+            "Quantity": 80
           }
         ],
         "RestXPCap": 4320956,
@@ -3388,11 +3492,11 @@
       "242": {
         "XP": 10000000,
         "DifficultyLevel": 34,
-        "XPDisplayMultiplier": 0.9296185,
+        "XPDisplayMultiplier": 0.929618,
         "Rewards": [
           {
             "TemplateId": "Stat:offense",
-            "Quantity": 10
+            "Quantity": 80
           }
         ],
         "RestXPCap": 4320956,
@@ -3406,7 +3510,7 @@
         "Rewards": [
           {
             "TemplateId": "Stat:resistance",
-            "Quantity": 10
+            "Quantity": 80
           }
         ],
         "RestXPCap": 4320956,
@@ -3416,11 +3520,11 @@
       "244": {
         "XP": 10000000,
         "DifficultyLevel": 34,
-        "XPDisplayMultiplier": 0.9370555,
+        "XPDisplayMultiplier": 0.937056,
         "Rewards": [
           {
             "TemplateId": "Stat:technology",
-            "Quantity": 10
+            "Quantity": 80
           }
         ],
         "RestXPCap": 4320956,
@@ -3433,8 +3537,8 @@
         "XPDisplayMultiplier": 0.940774,
         "Rewards": [
           {
-            "TemplateId": "Token:homebasepoints",
-            "Quantity": 5
+            "TemplateId": "HomebaseNode:skilltree_pickaxe",
+            "Quantity": 1
           }
         ],
         "RestXPCap": 4320956,
@@ -3444,11 +3548,11 @@
       "246": {
         "XP": 10000000,
         "DifficultyLevel": 34,
-        "XPDisplayMultiplier": 0.9444925,
+        "XPDisplayMultiplier": 0.944493,
         "Rewards": [
           {
-            "TemplateId": "AccountResource:heroxp",
-            "Quantity": 7500
+            "TemplateId": "Stat:fortitude",
+            "Quantity": 80
           }
         ],
         "RestXPCap": 4320956,
@@ -3461,8 +3565,8 @@
         "XPDisplayMultiplier": 0.948211,
         "Rewards": [
           {
-            "TemplateId": "AccountResource:schematicxp",
-            "Quantity": 7500
+            "TemplateId": "Stat:offense",
+            "Quantity": 80
           }
         ],
         "RestXPCap": 4320956,
@@ -3472,11 +3576,11 @@
       "248": {
         "XP": 10000000,
         "DifficultyLevel": 34,
-        "XPDisplayMultiplier": 0.9519295,
+        "XPDisplayMultiplier": 0.95193,
         "Rewards": [
           {
-            "TemplateId": "HomebaseNode:commanderlevel_rpcollection",
-            "Quantity": 1
+            "TemplateId": "Stat:resistance",
+            "Quantity": 80
           }
         ],
         "RestXPCap": 4320956,
@@ -3489,8 +3593,8 @@
         "XPDisplayMultiplier": 0.955648,
         "Rewards": [
           {
-            "TemplateId": "AccountResource:personnelxp",
-            "Quantity": 100000
+            "TemplateId": "Stat:technology",
+            "Quantity": 80
           }
         ],
         "RestXPCap": 4320956,
@@ -3500,11 +3604,15 @@
       "250": {
         "XP": 10000000,
         "DifficultyLevel": 34,
-        "XPDisplayMultiplier": 0.9593665,
+        "XPDisplayMultiplier": 0.959367,
         "Rewards": [
           {
-            "TemplateId": "Token:homebasepoints",
-            "Quantity": 5
+            "TemplateId": "HomebaseNode:skilltree_buildandrepairspeed",
+            "Quantity": 1
+          },
+          {
+            "TemplateId": "HomebaseNode:skilltree_supplydrop",
+            "Quantity": 1
           }
         ],
         "RestXPCap": 4320956,
@@ -3517,8 +3625,8 @@
         "XPDisplayMultiplier": 0.963085,
         "Rewards": [
           {
-            "TemplateId": "AccountResource:reagent_people",
-            "Quantity": 325
+            "TemplateId": "Stat:fortitude",
+            "Quantity": 100
           }
         ],
         "RestXPCap": 4320956,
@@ -3528,11 +3636,11 @@
       "252": {
         "XP": 10000000,
         "DifficultyLevel": 34,
-        "XPDisplayMultiplier": 0.9668035,
+        "XPDisplayMultiplier": 0.966803,
         "Rewards": [
           {
-            "TemplateId": "AccountResource:reagent_traps",
-            "Quantity": 325
+            "TemplateId": "Stat:offense",
+            "Quantity": 100
           }
         ],
         "RestXPCap": 4320956,
@@ -3545,8 +3653,8 @@
         "XPDisplayMultiplier": 0.970522,
         "Rewards": [
           {
-            "TemplateId": "AccountResource:reagent_weapons",
-            "Quantity": 325
+            "TemplateId": "Stat:resistance",
+            "Quantity": 100
           }
         ],
         "RestXPCap": 4320956,
@@ -3556,11 +3664,11 @@
       "254": {
         "XP": 10000000,
         "DifficultyLevel": 34,
-        "XPDisplayMultiplier": 0.9742405,
+        "XPDisplayMultiplier": 0.97424,
         "Rewards": [
           {
-            "TemplateId": "Worker:managerengineer_r_t01",
-            "Quantity": 1
+            "TemplateId": "Stat:technology",
+            "Quantity": 100
           }
         ],
         "RestXPCap": 4320956,
@@ -3573,8 +3681,12 @@
         "XPDisplayMultiplier": 0.977959,
         "Rewards": [
           {
-            "TemplateId": "Token:homebasepoints",
-            "Quantity": 5
+            "TemplateId": "HomebaseNode:skilltree_banner",
+            "Quantity": 1
+          },
+          {
+            "TemplateId": "HomebaseNode:skilltree_hoverturret",
+            "Quantity": 1
           }
         ],
         "RestXPCap": 4320956,
@@ -3584,11 +3696,11 @@
       "256": {
         "XP": 10000000,
         "DifficultyLevel": 34,
-        "XPDisplayMultiplier": 0.9816775,
+        "XPDisplayMultiplier": 0.981677,
         "Rewards": [
           {
             "TemplateId": "Stat:fortitude",
-            "Quantity": 11
+            "Quantity": 100
           }
         ],
         "RestXPCap": 4320956,
@@ -3602,7 +3714,7 @@
         "Rewards": [
           {
             "TemplateId": "Stat:offense",
-            "Quantity": 11
+            "Quantity": 100
           }
         ],
         "RestXPCap": 4320956,
@@ -3616,7 +3728,7 @@
         "Rewards": [
           {
             "TemplateId": "Stat:resistance",
-            "Quantity": 11
+            "Quantity": 100
           }
         ],
         "RestXPCap": 4320956,
@@ -3626,11 +3738,11 @@
       "259": {
         "XP": 10000000,
         "DifficultyLevel": 36,
-        "XPDisplayMultiplier": 0.9928325,
+        "XPDisplayMultiplier": 0.992832,
         "Rewards": [
           {
             "TemplateId": "Stat:technology",
-            "Quantity": 11
+            "Quantity": 100
           }
         ],
         "RestXPCap": 4320956,
@@ -3643,8 +3755,8 @@
         "XPDisplayMultiplier": 0.996551,
         "Rewards": [
           {
-            "TemplateId": "Token:homebasepoints",
-            "Quantity": 6
+            "TemplateId": "HomebaseNode:skilltree_teleporter",
+            "Quantity": 1
           }
         ],
         "RestXPCap": 4320956,
@@ -3654,11 +3766,11 @@
       "261": {
         "XP": 10000000,
         "DifficultyLevel": 36,
-        "XPDisplayMultiplier": 1.0002695,
+        "XPDisplayMultiplier": 1.00027,
         "Rewards": [
           {
-            "TemplateId": "Worker:workerbasic_sr_t01",
-            "Quantity": 1
+            "TemplateId": "Stat:fortitude",
+            "Quantity": 100
           }
         ],
         "RestXPCap": 4320956,
@@ -3671,8 +3783,8 @@
         "XPDisplayMultiplier": 1.003988,
         "Rewards": [
           {
-            "TemplateId": "AccountResource:reagent_c_t01",
-            "Quantity": 20
+            "TemplateId": "Stat:offense",
+            "Quantity": 100
           }
         ],
         "RestXPCap": 4320956,
@@ -3682,11 +3794,11 @@
       "263": {
         "XP": 10000000,
         "DifficultyLevel": 36,
-        "XPDisplayMultiplier": 1.0077065,
+        "XPDisplayMultiplier": 1.007707,
         "Rewards": [
           {
-            "TemplateId": "AccountResource:reagent_c_t02",
-            "Quantity": 10
+            "TemplateId": "Stat:resistance",
+            "Quantity": 100
           }
         ],
         "RestXPCap": 4320956,
@@ -3699,8 +3811,8 @@
         "XPDisplayMultiplier": 1.011425,
         "Rewards": [
           {
-            "TemplateId": "AccountResource:reagent_c_t03",
-            "Quantity": 5
+            "TemplateId": "Stat:technology",
+            "Quantity": 100
           }
         ],
         "RestXPCap": 4320956,
@@ -3710,11 +3822,15 @@
       "265": {
         "XP": 10000000,
         "DifficultyLevel": 36,
-        "XPDisplayMultiplier": 1.0151435,
+        "XPDisplayMultiplier": 1.015144,
         "Rewards": [
           {
-            "TemplateId": "Token:homebasepoints",
-            "Quantity": 6
+            "TemplateId": "HomebaseNode:skilltree_backpacksize",
+            "Quantity": 1
+          },
+          {
+            "TemplateId": "HomebaseNode:skilltree_stormshieldstorage",
+            "Quantity": 1
           }
         ],
         "RestXPCap": 4320956,
@@ -3727,8 +3843,8 @@
         "XPDisplayMultiplier": 1.018862,
         "Rewards": [
           {
-            "TemplateId": "AccountResource:heroxp",
-            "Quantity": 8000
+            "TemplateId": "Stat:fortitude",
+            "Quantity": 100
           }
         ],
         "RestXPCap": 4320956,
@@ -3738,11 +3854,11 @@
       "267": {
         "XP": 10000000,
         "DifficultyLevel": 36,
-        "XPDisplayMultiplier": 1.0225805,
+        "XPDisplayMultiplier": 1.022581,
         "Rewards": [
           {
-            "TemplateId": "AccountResource:schematicxp",
-            "Quantity": 8000
+            "TemplateId": "Stat:offense",
+            "Quantity": 100
           }
         ],
         "RestXPCap": 4320956,
@@ -3755,8 +3871,8 @@
         "XPDisplayMultiplier": 1.026299,
         "Rewards": [
           {
-            "TemplateId": "AccountResource:personnelxp",
-            "Quantity": 120000
+            "TemplateId": "Stat:resistance",
+            "Quantity": 100
           }
         ],
         "RestXPCap": 4320956,
@@ -3766,11 +3882,11 @@
       "269": {
         "XP": 10000000,
         "DifficultyLevel": 36,
-        "XPDisplayMultiplier": 1.0300175,
+        "XPDisplayMultiplier": 1.030017,
         "Rewards": [
           {
-            "TemplateId": "Worker:managergadgeteer_r_t01",
-            "Quantity": 1
+            "TemplateId": "Stat:technology",
+            "Quantity": 100
           }
         ],
         "RestXPCap": 4320956,
@@ -3783,8 +3899,12 @@
         "XPDisplayMultiplier": 1.033736,
         "Rewards": [
           {
-            "TemplateId": "Token:homebasepoints",
-            "Quantity": 6
+            "TemplateId": "HomebaseNode:skilltree_proximitymine",
+            "Quantity": 1
+          },
+          {
+            "TemplateId": "HomebaseNode:skilltree_slowfield",
+            "Quantity": 1
           }
         ],
         "RestXPCap": 4320956,
@@ -3794,11 +3914,11 @@
       "271": {
         "XP": 10000000,
         "DifficultyLevel": 36,
-        "XPDisplayMultiplier": 1.0374545,
+        "XPDisplayMultiplier": 1.037454,
         "Rewards": [
           {
             "TemplateId": "Stat:fortitude",
-            "Quantity": 12
+            "Quantity": 100
           }
         ],
         "RestXPCap": 4320956,
@@ -3812,7 +3932,7 @@
         "Rewards": [
           {
             "TemplateId": "Stat:offense",
-            "Quantity": 12
+            "Quantity": 100
           }
         ],
         "RestXPCap": 4320956,
@@ -3822,11 +3942,11 @@
       "273": {
         "XP": 10000000,
         "DifficultyLevel": 36,
-        "XPDisplayMultiplier": 1.0448915,
+        "XPDisplayMultiplier": 1.044891,
         "Rewards": [
           {
             "TemplateId": "Stat:resistance",
-            "Quantity": 12
+            "Quantity": 100
           }
         ],
         "RestXPCap": 4320956,
@@ -3840,7 +3960,7 @@
         "Rewards": [
           {
             "TemplateId": "Stat:technology",
-            "Quantity": 12
+            "Quantity": 100
           }
         ],
         "RestXPCap": 4320956,
@@ -3850,11 +3970,15 @@
       "275": {
         "XP": 10000000,
         "DifficultyLevel": 38,
-        "XPDisplayMultiplier": 1.0523285,
+        "XPDisplayMultiplier": 1.052328,
         "Rewards": [
           {
-            "TemplateId": "Token:homebasepoints",
-            "Quantity": 6
+            "TemplateId": "HomebaseNode:skilltree_pickaxe",
+            "Quantity": 1
+          },
+          {
+            "TemplateId": "HomebaseNode:skilltree_buildinghealth",
+            "Quantity": 1
           }
         ],
         "RestXPCap": 4320956,
@@ -3867,8 +3991,8 @@
         "XPDisplayMultiplier": 1.056047,
         "Rewards": [
           {
-            "TemplateId": "AccountResource:reagent_people",
-            "Quantity": 325
+            "TemplateId": "Stat:fortitude",
+            "Quantity": 100
           }
         ],
         "RestXPCap": 4320956,
@@ -3878,11 +4002,11 @@
       "277": {
         "XP": 10000000,
         "DifficultyLevel": 38,
-        "XPDisplayMultiplier": 1.0597655,
+        "XPDisplayMultiplier": 1.059765,
         "Rewards": [
           {
-            "TemplateId": "AccountResource:reagent_traps",
-            "Quantity": 325
+            "TemplateId": "Stat:offense",
+            "Quantity": 100
           }
         ],
         "RestXPCap": 4320956,
@@ -3892,11 +4016,11 @@
       "278": {
         "XP": 10000000,
         "DifficultyLevel": 38,
-        "XPDisplayMultiplier": 1.0634835,
+        "XPDisplayMultiplier": 1.063483,
         "Rewards": [
           {
-            "TemplateId": "HomebaseNode:commanderlevel_rpcollection",
-            "Quantity": 1
+            "TemplateId": "Stat:resistance",
+            "Quantity": 100
           }
         ],
         "RestXPCap": 4320956,
@@ -3909,8 +4033,8 @@
         "XPDisplayMultiplier": 1.067202,
         "Rewards": [
           {
-            "TemplateId": "AccountResource:reagent_weapons",
-            "Quantity": 325
+            "TemplateId": "Stat:technology",
+            "Quantity": 100
           }
         ],
         "RestXPCap": 4320956,
@@ -3920,11 +4044,11 @@
       "280": {
         "XP": 10000000,
         "DifficultyLevel": 38,
-        "XPDisplayMultiplier": 1.0709205,
+        "XPDisplayMultiplier": 1.07092,
         "Rewards": [
           {
-            "TemplateId": "Token:homebasepoints",
-            "Quantity": 7
+            "TemplateId": "HomebaseNode:skilltree_buildandrepairspeed",
+            "Quantity": 1
           }
         ],
         "RestXPCap": 4320956,
@@ -3937,8 +4061,8 @@
         "XPDisplayMultiplier": 1.074639,
         "Rewards": [
           {
-            "TemplateId": "AccountResource:reagent_c_t01",
-            "Quantity": 20
+            "TemplateId": "Stat:fortitude",
+            "Quantity": 100
           }
         ],
         "RestXPCap": 4320956,
@@ -3948,11 +4072,11 @@
       "282": {
         "XP": 10000000,
         "DifficultyLevel": 38,
-        "XPDisplayMultiplier": 1.0783575,
+        "XPDisplayMultiplier": 1.078357,
         "Rewards": [
           {
-            "TemplateId": "AccountResource:reagent_c_t02",
-            "Quantity": 10
+            "TemplateId": "Stat:offense",
+            "Quantity": 100
           }
         ],
         "RestXPCap": 4320956,
@@ -3965,8 +4089,8 @@
         "XPDisplayMultiplier": 1.082076,
         "Rewards": [
           {
-            "TemplateId": "AccountResource:reagent_c_t03",
-            "Quantity": 5
+            "TemplateId": "Stat:resistance",
+            "Quantity": 100
           }
         ],
         "RestXPCap": 4320956,
@@ -3976,11 +4100,11 @@
       "284": {
         "XP": 10000000,
         "DifficultyLevel": 38,
-        "XPDisplayMultiplier": 1.0857944,
+        "XPDisplayMultiplier": 1.085794,
         "Rewards": [
           {
-            "TemplateId": "Worker:managermartialartist_r_t01",
-            "Quantity": 1
+            "TemplateId": "Stat:technology",
+            "Quantity": 100
           }
         ],
         "RestXPCap": 4320956,
@@ -3993,8 +4117,8 @@
         "XPDisplayMultiplier": 1.089513,
         "Rewards": [
           {
-            "TemplateId": "Token:homebasepoints",
-            "Quantity": 7
+            "TemplateId": "AccountResource:reagent_c_t01",
+            "Quantity": 200
           }
         ],
         "RestXPCap": 4320956,
@@ -4004,11 +4128,11 @@
       "286": {
         "XP": 10000000,
         "DifficultyLevel": 38,
-        "XPDisplayMultiplier": 1.0932316,
+        "XPDisplayMultiplier": 1.093232,
         "Rewards": [
           {
-            "TemplateId": "AccountResource:heroxp",
-            "Quantity": 8500
+            "TemplateId": "Stat:fortitude",
+            "Quantity": 100
           }
         ],
         "RestXPCap": 4320956,
@@ -4021,8 +4145,8 @@
         "XPDisplayMultiplier": 1.09695,
         "Rewards": [
           {
-            "TemplateId": "AccountResource:schematicxp",
-            "Quantity": 8500
+            "TemplateId": "Stat:offense",
+            "Quantity": 100
           }
         ],
         "RestXPCap": 4320956,
@@ -4032,11 +4156,11 @@
       "288": {
         "XP": 10000000,
         "DifficultyLevel": 38,
-        "XPDisplayMultiplier": 1.1006685,
+        "XPDisplayMultiplier": 1.100669,
         "Rewards": [
           {
-            "TemplateId": "Worker:workerbasic_sr_t01",
-            "Quantity": 1
+            "TemplateId": "Stat:resistance",
+            "Quantity": 100
           }
         ],
         "RestXPCap": 4320956,
@@ -4049,8 +4173,8 @@
         "XPDisplayMultiplier": 1.104387,
         "Rewards": [
           {
-            "TemplateId": "AccountResource:personnelxp",
-            "Quantity": 135000
+            "TemplateId": "Stat:technology",
+            "Quantity": 100
           }
         ],
         "RestXPCap": 4320956,
@@ -4060,11 +4184,11 @@
       "290": {
         "XP": 10000000,
         "DifficultyLevel": 38,
-        "XPDisplayMultiplier": 1.1081055,
+        "XPDisplayMultiplier": 1.108106,
         "Rewards": [
           {
-            "TemplateId": "Token:homebasepoints",
-            "Quantity": 7
+            "TemplateId": "AccountResource:reagent_c_t02",
+            "Quantity": 200
           }
         ],
         "RestXPCap": 4320956,
@@ -4078,7 +4202,7 @@
         "Rewards": [
           {
             "TemplateId": "Stat:fortitude",
-            "Quantity": 13
+            "Quantity": 100
           }
         ],
         "RestXPCap": 4320956,
@@ -4088,11 +4212,11 @@
       "292": {
         "XP": 10000000,
         "DifficultyLevel": 40,
-        "XPDisplayMultiplier": 1.1155425,
+        "XPDisplayMultiplier": 1.115543,
         "Rewards": [
           {
             "TemplateId": "Stat:offense",
-            "Quantity": 13
+            "Quantity": 100
           }
         ],
         "RestXPCap": 4320956,
@@ -4106,7 +4230,7 @@
         "Rewards": [
           {
             "TemplateId": "Stat:resistance",
-            "Quantity": 13
+            "Quantity": 100
           }
         ],
         "RestXPCap": 4320956,
@@ -4116,11 +4240,11 @@
       "294": {
         "XP": 10000000,
         "DifficultyLevel": 40,
-        "XPDisplayMultiplier": 1.1229795,
+        "XPDisplayMultiplier": 1.12298,
         "Rewards": [
           {
             "TemplateId": "Stat:technology",
-            "Quantity": 13
+            "Quantity": 100
           }
         ],
         "RestXPCap": 4320956,
@@ -4133,8 +4257,8 @@
         "XPDisplayMultiplier": 1.126698,
         "Rewards": [
           {
-            "TemplateId": "Token:homebasepoints",
-            "Quantity": 7
+            "TemplateId": "AccountResource:reagent_c_t03",
+            "Quantity": 200
           }
         ],
         "RestXPCap": 4320956,
@@ -4144,11 +4268,11 @@
       "296": {
         "XP": 10000000,
         "DifficultyLevel": 40,
-        "XPDisplayMultiplier": 1.1304165,
+        "XPDisplayMultiplier": 1.130417,
         "Rewards": [
           {
-            "TemplateId": "Worker:managertrainer_r_t01",
-            "Quantity": 1
+            "TemplateId": "Stat:fortitude",
+            "Quantity": 100
           }
         ],
         "RestXPCap": 4320956,
@@ -4158,11 +4282,11 @@
       "297": {
         "XP": 10000000,
         "DifficultyLevel": 40,
-        "XPDisplayMultiplier": 1.1341345,
+        "XPDisplayMultiplier": 1.134135,
         "Rewards": [
           {
-            "TemplateId": "AccountResource:heroxp",
-            "Quantity": 9000
+            "TemplateId": "Stat:offense",
+            "Quantity": 100
           }
         ],
         "RestXPCap": 4320956,
@@ -4175,8 +4299,8 @@
         "XPDisplayMultiplier": 1.137853,
         "Rewards": [
           {
-            "TemplateId": "AccountResource:schematicxp",
-            "Quantity": 9000
+            "TemplateId": "Stat:resistance",
+            "Quantity": 100
           }
         ],
         "RestXPCap": 4320956,
@@ -4186,11 +4310,11 @@
       "299": {
         "XP": 10000000,
         "DifficultyLevel": 40,
-        "XPDisplayMultiplier": 1.1415715,
+        "XPDisplayMultiplier": 1.141572,
         "Rewards": [
           {
-            "TemplateId": "AccountResource:personnelxp",
-            "Quantity": 145000
+            "TemplateId": "Stat:technology",
+            "Quantity": 100
           }
         ],
         "RestXPCap": 4320956,
@@ -4203,8 +4327,8 @@
         "XPDisplayMultiplier": 1.14529,
         "Rewards": [
           {
-            "TemplateId": "Token:homebasepoints",
-            "Quantity": 8
+            "TemplateId": "AccountResource:reagent_c_t04",
+            "Quantity": 200
           }
         ],
         "RestXPCap": 4320956,
@@ -4214,11 +4338,11 @@
       "301": {
         "XP": 10000000,
         "DifficultyLevel": 40,
-        "XPDisplayMultiplier": 1.1490085,
+        "XPDisplayMultiplier": 1.149009,
         "Rewards": [
           {
-            "TemplateId": "AccountResource:reagent_c_t01",
-            "Quantity": 20
+            "TemplateId": "Stat:fortitude",
+            "Quantity": 100
           }
         ],
         "RestXPCap": 4320956,
@@ -4231,8 +4355,8 @@
         "XPDisplayMultiplier": 1.152727,
         "Rewards": [
           {
-            "TemplateId": "AccountResource:reagent_c_t02",
-            "Quantity": 10
+            "TemplateId": "Stat:offense",
+            "Quantity": 100
           }
         ],
         "RestXPCap": 4320956,
@@ -4242,11 +4366,11 @@
       "303": {
         "XP": 10000000,
         "DifficultyLevel": 40,
-        "XPDisplayMultiplier": 1.1564455,
+        "XPDisplayMultiplier": 1.156446,
         "Rewards": [
           {
-            "TemplateId": "AccountResource:reagent_c_t03",
-            "Quantity": 5
+            "TemplateId": "Stat:resistance",
+            "Quantity": 100
           }
         ],
         "RestXPCap": 4320956,
@@ -4259,8 +4383,8 @@
         "XPDisplayMultiplier": 1.160164,
         "Rewards": [
           {
-            "TemplateId": "Worker:workerbasic_sr_t01",
-            "Quantity": 1
+            "TemplateId": "Stat:technology",
+            "Quantity": 100
           }
         ],
         "RestXPCap": 4320956,
@@ -4270,11 +4394,11 @@
       "305": {
         "XP": 10000000,
         "DifficultyLevel": 40,
-        "XPDisplayMultiplier": 1.1638825,
+        "XPDisplayMultiplier": 1.163882,
         "Rewards": [
           {
-            "TemplateId": "Token:homebasepoints",
-            "Quantity": 8
+            "TemplateId": "AccountResource:reagent_alteration_upgrade_sr",
+            "Quantity": 400
           }
         ],
         "RestXPCap": 4320956,
@@ -4287,8 +4411,8 @@
         "XPDisplayMultiplier": 1.167601,
         "Rewards": [
           {
-            "TemplateId": "Worker:managerinventor_r_t01",
-            "Quantity": 1
+            "TemplateId": "Stat:fortitude",
+            "Quantity": 100
           }
         ],
         "RestXPCap": 4320956,
@@ -4298,11 +4422,11 @@
       "307": {
         "XP": 10000000,
         "DifficultyLevel": 40,
-        "XPDisplayMultiplier": 1.1713195,
+        "XPDisplayMultiplier": 1.171319,
         "Rewards": [
           {
-            "TemplateId": "AccountResource:heroxp",
-            "Quantity": 9500
+            "TemplateId": "Stat:offense",
+            "Quantity": 100
           }
         ],
         "RestXPCap": 4320956,
@@ -4315,8 +4439,8 @@
         "XPDisplayMultiplier": 1.175038,
         "Rewards": [
           {
-            "TemplateId": "AccountResource:schematicxp",
-            "Quantity": 9500
+            "TemplateId": "Stat:resistance",
+            "Quantity": 100
           }
         ],
         "RestXPCap": 4320956,
@@ -4326,11 +4450,11 @@
       "309": {
         "XP": 10000000,
         "DifficultyLevel": 41,
-        "XPDisplayMultiplier": 1.1787565,
+        "XPDisplayMultiplier": 1.178756,
         "Rewards": [
           {
-            "TemplateId": "AccountResource:personnelxp",
-            "Quantity": 150000
+            "TemplateId": "Stat:technology",
+            "Quantity": 100
           }
         ],
         "RestXPCap": 4320956,
@@ -4343,8 +4467,8 @@
         "XPDisplayMultiplier": 1.182475,
         "Rewards": [
           {
-            "TemplateId": "Token:homebasepoints",
-            "Quantity": 8
+            "TemplateId": "AccountResource:reagent_evolverarity_sr",
+            "Quantity": 400
           }
         ],
         "RestXPCap": 4320956,

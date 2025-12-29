@@ -31,27 +31,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 115.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Fortitude_Team",
-              "Attribute": {
-                "Path": [
-                  "Fortitude_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 60.0
+            "ClampValue": 80.0
           },
           {
             "Attribute": {
@@ -71,27 +51,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 115.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Offense_Team",
-              "Attribute": {
-                "Path": [
-                  "Offense_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 60.0
+            "ClampValue": 80.0
           },
           {
             "Attribute": {
@@ -111,27 +71,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 115.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Resistance_Team",
-              "Attribute": {
-                "Path": [
-                  "Resistance_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 60.0
+            "ClampValue": 80.0
           },
           {
             "Attribute": {
@@ -151,27 +91,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 115.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Tech_Team",
-              "Attribute": {
-                "Path": [
-                  "Tech_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 60.0
+            "ClampValue": 80.0
           },
           {
             "Attribute": {
@@ -495,27 +415,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 115.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Fortitude_Team",
-              "Attribute": {
-                "Path": [
-                  "Fortitude_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 60.0
+            "ClampValue": 80.0
           },
           {
             "Attribute": {
@@ -535,27 +435,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 115.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Offense_Team",
-              "Attribute": {
-                "Path": [
-                  "Offense_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 60.0
+            "ClampValue": 80.0
           },
           {
             "Attribute": {
@@ -575,27 +455,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 115.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Resistance_Team",
-              "Attribute": {
-                "Path": [
-                  "Resistance_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 60.0
+            "ClampValue": 80.0
           },
           {
             "Attribute": {
@@ -615,27 +475,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 115.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Tech_Team",
-              "Attribute": {
-                "Path": [
-                  "Tech_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 60.0
+            "ClampValue": 80.0
           },
           {
             "Attribute": {
@@ -959,27 +799,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 115.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Fortitude_Team",
-              "Attribute": {
-                "Path": [
-                  "Fortitude_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 60.0
+            "ClampValue": 80.0
           },
           {
             "Attribute": {
@@ -999,27 +819,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 115.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Offense_Team",
-              "Attribute": {
-                "Path": [
-                  "Offense_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 60.0
+            "ClampValue": 80.0
           },
           {
             "Attribute": {
@@ -1039,27 +839,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 115.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Resistance_Team",
-              "Attribute": {
-                "Path": [
-                  "Resistance_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 60.0
+            "ClampValue": 80.0
           },
           {
             "Attribute": {
@@ -1079,27 +859,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 115.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Tech_Team",
-              "Attribute": {
-                "Path": [
-                  "Tech_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 60.0
+            "ClampValue": 80.0
           },
           {
             "Attribute": {
@@ -1423,27 +1183,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 130.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Fortitude_Team",
-              "Attribute": {
-                "Path": [
-                  "Fortitude_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 65.0
+            "ClampValue": 80.0
           },
           {
             "Attribute": {
@@ -1463,27 +1203,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 130.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Offense_Team",
-              "Attribute": {
-                "Path": [
-                  "Offense_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 65.0
+            "ClampValue": 80.0
           },
           {
             "Attribute": {
@@ -1503,27 +1223,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 130.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Resistance_Team",
-              "Attribute": {
-                "Path": [
-                  "Resistance_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 65.0
+            "ClampValue": 80.0
           },
           {
             "Attribute": {
@@ -1543,27 +1243,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 130.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Tech_Team",
-              "Attribute": {
-                "Path": [
-                  "Tech_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 65.0
+            "ClampValue": 80.0
           },
           {
             "Attribute": {
@@ -1887,27 +1567,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 265.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Fortitude_Team",
-              "Attribute": {
-                "Path": [
-                  "Fortitude_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 130.0
+            "ClampValue": 135.0
           },
           {
             "Attribute": {
@@ -1927,27 +1587,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 265.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Offense_Team",
-              "Attribute": {
-                "Path": [
-                  "Offense_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 130.0
+            "ClampValue": 135.0
           },
           {
             "Attribute": {
@@ -1967,27 +1607,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 265.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Resistance_Team",
-              "Attribute": {
-                "Path": [
-                  "Resistance_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 130.0
+            "ClampValue": 135.0
           },
           {
             "Attribute": {
@@ -2007,27 +1627,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 265.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Tech_Team",
-              "Attribute": {
-                "Path": [
-                  "Tech_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 130.0
+            "ClampValue": 135.0
           },
           {
             "Attribute": {
@@ -2351,27 +1951,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 715.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Fortitude_Team",
-              "Attribute": {
-                "Path": [
-                  "Fortitude_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 385.0
+            "ClampValue": 365.0
           },
           {
             "Attribute": {
@@ -2391,27 +1971,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 715.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Offense_Team",
-              "Attribute": {
-                "Path": [
-                  "Offense_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 385.0
+            "ClampValue": 365.0
           },
           {
             "Attribute": {
@@ -2431,27 +1991,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 715.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Resistance_Team",
-              "Attribute": {
-                "Path": [
-                  "Resistance_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 385.0
+            "ClampValue": 365.0
           },
           {
             "Attribute": {
@@ -2471,27 +2011,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 715.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Tech_Team",
-              "Attribute": {
-                "Path": [
-                  "Tech_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 385.0
+            "ClampValue": 365.0
           },
           {
             "Attribute": {
@@ -2815,27 +2335,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 840.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Fortitude_Team",
-              "Attribute": {
-                "Path": [
-                  "Fortitude_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 435.0
+            "ClampValue": 515.0
           },
           {
             "Attribute": {
@@ -2855,27 +2355,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 840.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Offense_Team",
-              "Attribute": {
-                "Path": [
-                  "Offense_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 435.0
+            "ClampValue": 515.0
           },
           {
             "Attribute": {
@@ -2895,27 +2375,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 840.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Resistance_Team",
-              "Attribute": {
-                "Path": [
-                  "Resistance_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 435.0
+            "ClampValue": 515.0
           },
           {
             "Attribute": {
@@ -2935,27 +2395,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 840.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Tech_Team",
-              "Attribute": {
-                "Path": [
-                  "Tech_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 435.0
+            "ClampValue": 515.0
           },
           {
             "Attribute": {
@@ -3279,27 +2719,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 1035.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Fortitude_Team",
-              "Attribute": {
-                "Path": [
-                  "Fortitude_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 530.0
+            "ClampValue": 665.0
           },
           {
             "Attribute": {
@@ -3319,27 +2739,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 1035.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Offense_Team",
-              "Attribute": {
-                "Path": [
-                  "Offense_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 530.0
+            "ClampValue": 665.0
           },
           {
             "Attribute": {
@@ -3359,27 +2759,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 1035.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Resistance_Team",
-              "Attribute": {
-                "Path": [
-                  "Resistance_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 530.0
+            "ClampValue": 665.0
           },
           {
             "Attribute": {
@@ -3399,27 +2779,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 1035.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Tech_Team",
-              "Attribute": {
-                "Path": [
-                  "Tech_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 530.0
+            "ClampValue": 665.0
           },
           {
             "Attribute": {
@@ -3743,27 +3103,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 1190.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Fortitude_Team",
-              "Attribute": {
-                "Path": [
-                  "Fortitude_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 615.0
+            "ClampValue": 835.0
           },
           {
             "Attribute": {
@@ -3783,27 +3123,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 1190.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Offense_Team",
-              "Attribute": {
-                "Path": [
-                  "Offense_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 615.0
+            "ClampValue": 835.0
           },
           {
             "Attribute": {
@@ -3823,27 +3143,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 1190.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Resistance_Team",
-              "Attribute": {
-                "Path": [
-                  "Resistance_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 615.0
+            "ClampValue": 835.0
           },
           {
             "Attribute": {
@@ -3863,27 +3163,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 1190.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Tech_Team",
-              "Attribute": {
-                "Path": [
-                  "Tech_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 615.0
+            "ClampValue": 835.0
           },
           {
             "Attribute": {
@@ -4207,27 +3487,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 1295.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Fortitude_Team",
-              "Attribute": {
-                "Path": [
-                  "Fortitude_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 675.0
+            "ClampValue": 1155.0
           },
           {
             "Attribute": {
@@ -4247,27 +3507,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 1295.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Offense_Team",
-              "Attribute": {
-                "Path": [
-                  "Offense_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 675.0
+            "ClampValue": 1155.0
           },
           {
             "Attribute": {
@@ -4287,27 +3527,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 1295.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Resistance_Team",
-              "Attribute": {
-                "Path": [
-                  "Resistance_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 675.0
+            "ClampValue": 1155.0
           },
           {
             "Attribute": {
@@ -4327,27 +3547,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 1295.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Tech_Team",
-              "Attribute": {
-                "Path": [
-                  "Tech_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 675.0
+            "ClampValue": 1155.0
           },
           {
             "Attribute": {
@@ -4671,27 +3871,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 2105.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Fortitude_Team",
-              "Attribute": {
-                "Path": [
-                  "Fortitude_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 1105.0
+            "ClampValue": 1455.0
           },
           {
             "Attribute": {
@@ -4711,27 +3891,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 2105.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Offense_Team",
-              "Attribute": {
-                "Path": [
-                  "Offense_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 1105.0
+            "ClampValue": 1455.0
           },
           {
             "Attribute": {
@@ -4751,27 +3911,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 2105.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Resistance_Team",
-              "Attribute": {
-                "Path": [
-                  "Resistance_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 1105.0
+            "ClampValue": 1455.0
           },
           {
             "Attribute": {
@@ -4791,27 +3931,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 2105.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Tech_Team",
-              "Attribute": {
-                "Path": [
-                  "Tech_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 1105.0
+            "ClampValue": 1455.0
           },
           {
             "Attribute": {
@@ -5135,27 +4255,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 2385.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Fortitude_Team",
-              "Attribute": {
-                "Path": [
-                  "Fortitude_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 1245.0
+            "ClampValue": 1570.0
           },
           {
             "Attribute": {
@@ -5175,27 +4275,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 2385.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Offense_Team",
-              "Attribute": {
-                "Path": [
-                  "Offense_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 1245.0
+            "ClampValue": 1570.0
           },
           {
             "Attribute": {
@@ -5215,27 +4295,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 2385.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Resistance_Team",
-              "Attribute": {
-                "Path": [
-                  "Resistance_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 1245.0
+            "ClampValue": 1570.0
           },
           {
             "Attribute": {
@@ -5255,27 +4315,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 2385.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Tech_Team",
-              "Attribute": {
-                "Path": [
-                  "Tech_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 1245.0
+            "ClampValue": 1570.0
           },
           {
             "Attribute": {
@@ -5599,27 +4639,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 2625.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Fortitude_Team",
-              "Attribute": {
-                "Path": [
-                  "Fortitude_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 1365.0
+            "ClampValue": 2310.0
           },
           {
             "Attribute": {
@@ -5639,27 +4659,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 2625.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Offense_Team",
-              "Attribute": {
-                "Path": [
-                  "Offense_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 1365.0
+            "ClampValue": 2310.0
           },
           {
             "Attribute": {
@@ -5679,27 +4679,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 2625.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Resistance_Team",
-              "Attribute": {
-                "Path": [
-                  "Resistance_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 1365.0
+            "ClampValue": 2310.0
           },
           {
             "Attribute": {
@@ -5719,27 +4699,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 2625.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Tech_Team",
-              "Attribute": {
-                "Path": [
-                  "Tech_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 1365.0
+            "ClampValue": 2310.0
           },
           {
             "Attribute": {
@@ -6063,27 +5023,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 2890.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Fortitude_Team",
-              "Attribute": {
-                "Path": [
-                  "Fortitude_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 1500.0
+            "ClampValue": 2595.0
           },
           {
             "Attribute": {
@@ -6103,27 +5043,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 2890.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Offense_Team",
-              "Attribute": {
-                "Path": [
-                  "Offense_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 1500.0
+            "ClampValue": 2595.0
           },
           {
             "Attribute": {
@@ -6143,27 +5063,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 2890.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Resistance_Team",
-              "Attribute": {
-                "Path": [
-                  "Resistance_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 1500.0
+            "ClampValue": 2595.0
           },
           {
             "Attribute": {
@@ -6183,27 +5083,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 2890.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Tech_Team",
-              "Attribute": {
-                "Path": [
-                  "Tech_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 1500.0
+            "ClampValue": 2595.0
           },
           {
             "Attribute": {
@@ -6531,26 +5411,6 @@
           },
           {
             "Attribute": {
-              "AttributeName": "Fortitude_Team",
-              "Attribute": {
-                "Path": [
-                  "Fortitude_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 1695.0
-          },
-          {
-            "Attribute": {
               "AttributeName": "Offense",
               "Attribute": {
                 "Path": [
@@ -6568,26 +5428,6 @@
             },
             "ClampType": "EClampType::Maximum",
             "ClampValue": 3200.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Offense_Team",
-              "Attribute": {
-                "Path": [
-                  "Offense_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 1695.0
           },
           {
             "Attribute": {
@@ -6611,26 +5451,6 @@
           },
           {
             "Attribute": {
-              "AttributeName": "Resistance_Team",
-              "Attribute": {
-                "Path": [
-                  "Resistance_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 1695.0
-          },
-          {
-            "Attribute": {
               "AttributeName": "Tech",
               "Attribute": {
                 "Path": [
@@ -6648,26 +5468,6 @@
             },
             "ClampType": "EClampType::Maximum",
             "ClampValue": 3200.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Tech_Team",
-              "Attribute": {
-                "Path": [
-                  "Tech_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 1695.0
           },
           {
             "Attribute": {
@@ -6991,27 +5791,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 4305.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Fortitude_Team",
-              "Attribute": {
-                "Path": [
-                  "Fortitude_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 2265.0
+            "ClampValue": 3755.0
           },
           {
             "Attribute": {
@@ -7031,27 +5811,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 4305.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Offense_Team",
-              "Attribute": {
-                "Path": [
-                  "Offense_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 2265.0
+            "ClampValue": 3755.0
           },
           {
             "Attribute": {
@@ -7071,27 +5831,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 4305.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Resistance_Team",
-              "Attribute": {
-                "Path": [
-                  "Resistance_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 2265.0
+            "ClampValue": 3755.0
           },
           {
             "Attribute": {
@@ -7111,27 +5851,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 4305.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Tech_Team",
-              "Attribute": {
-                "Path": [
-                  "Tech_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 2265.0
+            "ClampValue": 3755.0
           },
           {
             "Attribute": {
@@ -7455,27 +6175,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 4595.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Fortitude_Team",
-              "Attribute": {
-                "Path": [
-                  "Fortitude_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 2420.0
+            "ClampValue": 4180.0
           },
           {
             "Attribute": {
@@ -7495,27 +6195,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 4595.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Offense_Team",
-              "Attribute": {
-                "Path": [
-                  "Offense_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 2420.0
+            "ClampValue": 4180.0
           },
           {
             "Attribute": {
@@ -7535,27 +6215,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 4595.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Resistance_Team",
-              "Attribute": {
-                "Path": [
-                  "Resistance_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 2420.0
+            "ClampValue": 4180.0
           },
           {
             "Attribute": {
@@ -7575,27 +6235,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 4595.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Tech_Team",
-              "Attribute": {
-                "Path": [
-                  "Tech_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 2420.0
+            "ClampValue": 4180.0
           },
           {
             "Attribute": {
@@ -7919,27 +6559,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 4910.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Fortitude_Team",
-              "Attribute": {
-                "Path": [
-                  "Fortitude_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 2605.0
+            "ClampValue": 4565.0
           },
           {
             "Attribute": {
@@ -7959,27 +6579,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 4910.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Offense_Team",
-              "Attribute": {
-                "Path": [
-                  "Offense_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 2605.0
+            "ClampValue": 4565.0
           },
           {
             "Attribute": {
@@ -7999,27 +6599,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 4910.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Resistance_Team",
-              "Attribute": {
-                "Path": [
-                  "Resistance_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 2605.0
+            "ClampValue": 4565.0
           },
           {
             "Attribute": {
@@ -8039,27 +6619,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 4910.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Tech_Team",
-              "Attribute": {
-                "Path": [
-                  "Tech_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 2605.0
+            "ClampValue": 4565.0
           },
           {
             "Attribute": {
@@ -8383,27 +6943,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 5245.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Fortitude_Team",
-              "Attribute": {
-                "Path": [
-                  "Fortitude_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 2790.0
+            "ClampValue": 4955.0
           },
           {
             "Attribute": {
@@ -8423,27 +6963,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 5245.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Offense_Team",
-              "Attribute": {
-                "Path": [
-                  "Offense_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 2790.0
+            "ClampValue": 4955.0
           },
           {
             "Attribute": {
@@ -8463,27 +6983,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 5245.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Resistance_Team",
-              "Attribute": {
-                "Path": [
-                  "Resistance_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 2790.0
+            "ClampValue": 4955.0
           },
           {
             "Attribute": {
@@ -8503,27 +7003,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 5245.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Tech_Team",
-              "Attribute": {
-                "Path": [
-                  "Tech_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 2790.0
+            "ClampValue": 4955.0
           },
           {
             "Attribute": {
@@ -8847,27 +7327,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 5510.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Fortitude_Team",
-              "Attribute": {
-                "Path": [
-                  "Fortitude_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 2925.0
+            "ClampValue": 5790.0
           },
           {
             "Attribute": {
@@ -8887,27 +7347,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 5510.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Offense_Team",
-              "Attribute": {
-                "Path": [
-                  "Offense_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 2925.0
+            "ClampValue": 5790.0
           },
           {
             "Attribute": {
@@ -8927,27 +7367,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 5510.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Resistance_Team",
-              "Attribute": {
-                "Path": [
-                  "Resistance_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 2925.0
+            "ClampValue": 5790.0
           },
           {
             "Attribute": {
@@ -8967,27 +7387,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 5510.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Tech_Team",
-              "Attribute": {
-                "Path": [
-                  "Tech_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 2925.0
+            "ClampValue": 5790.0
           },
           {
             "Attribute": {
@@ -9311,27 +7711,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 6205.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Fortitude_Team",
-              "Attribute": {
-                "Path": [
-                  "Fortitude_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 3295.0
+            "ClampValue": 6415.0
           },
           {
             "Attribute": {
@@ -9351,27 +7731,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 6205.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Offense_Team",
-              "Attribute": {
-                "Path": [
-                  "Offense_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 3295.0
+            "ClampValue": 6415.0
           },
           {
             "Attribute": {
@@ -9391,27 +7751,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 6205.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Resistance_Team",
-              "Attribute": {
-                "Path": [
-                  "Resistance_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 3295.0
+            "ClampValue": 6415.0
           },
           {
             "Attribute": {
@@ -9431,27 +7771,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 6205.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Tech_Team",
-              "Attribute": {
-                "Path": [
-                  "Tech_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 3295.0
+            "ClampValue": 6415.0
           },
           {
             "Attribute": {
@@ -9775,27 +8095,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 6495.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Fortitude_Team",
-              "Attribute": {
-                "Path": [
-                  "Fortitude_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 3440.0
+            "ClampValue": 6795.0
           },
           {
             "Attribute": {
@@ -9815,27 +8115,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 6495.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Offense_Team",
-              "Attribute": {
-                "Path": [
-                  "Offense_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 3440.0
+            "ClampValue": 6795.0
           },
           {
             "Attribute": {
@@ -9855,27 +8135,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 6495.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Resistance_Team",
-              "Attribute": {
-                "Path": [
-                  "Resistance_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 3440.0
+            "ClampValue": 6795.0
           },
           {
             "Attribute": {
@@ -9895,27 +8155,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 6495.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Tech_Team",
-              "Attribute": {
-                "Path": [
-                  "Tech_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 3440.0
+            "ClampValue": 6795.0
           },
           {
             "Attribute": {
@@ -10239,27 +8479,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 6790.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Fortitude_Team",
-              "Attribute": {
-                "Path": [
-                  "Fortitude_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 3605.0
+            "ClampValue": 7175.0
           },
           {
             "Attribute": {
@@ -10279,27 +8499,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 6790.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Offense_Team",
-              "Attribute": {
-                "Path": [
-                  "Offense_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 3605.0
+            "ClampValue": 7175.0
           },
           {
             "Attribute": {
@@ -10319,27 +8519,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 6790.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Resistance_Team",
-              "Attribute": {
-                "Path": [
-                  "Resistance_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 3605.0
+            "ClampValue": 7175.0
           },
           {
             "Attribute": {
@@ -10359,27 +8539,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 6790.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Tech_Team",
-              "Attribute": {
-                "Path": [
-                  "Tech_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 3605.0
+            "ClampValue": 7175.0
           },
           {
             "Attribute": {
@@ -10703,27 +8863,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 7070.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Fortitude_Team",
-              "Attribute": {
-                "Path": [
-                  "Fortitude_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 3750.0
+            "ClampValue": 7555.0
           },
           {
             "Attribute": {
@@ -10743,27 +8883,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 7070.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Offense_Team",
-              "Attribute": {
-                "Path": [
-                  "Offense_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 3750.0
+            "ClampValue": 7555.0
           },
           {
             "Attribute": {
@@ -10783,27 +8903,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 7070.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Resistance_Team",
-              "Attribute": {
-                "Path": [
-                  "Resistance_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 3750.0
+            "ClampValue": 7555.0
           },
           {
             "Attribute": {
@@ -10823,27 +8923,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 7070.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Tech_Team",
-              "Attribute": {
-                "Path": [
-                  "Tech_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 3750.0
+            "ClampValue": 7555.0
           },
           {
             "Attribute": {
@@ -11167,27 +9247,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 7595.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Fortitude_Team",
-              "Attribute": {
-                "Path": [
-                  "Fortitude_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 4055.0
+            "ClampValue": 8495.0
           },
           {
             "Attribute": {
@@ -11207,27 +9267,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 7595.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Offense_Team",
-              "Attribute": {
-                "Path": [
-                  "Offense_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 4055.0
+            "ClampValue": 8495.0
           },
           {
             "Attribute": {
@@ -11247,27 +9287,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 7595.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Resistance_Team",
-              "Attribute": {
-                "Path": [
-                  "Resistance_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 4055.0
+            "ClampValue": 8495.0
           },
           {
             "Attribute": {
@@ -11287,27 +9307,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 7595.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Tech_Team",
-              "Attribute": {
-                "Path": [
-                  "Tech_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 4055.0
+            "ClampValue": 8495.0
           },
           {
             "Attribute": {
@@ -11631,27 +9631,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 55.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Fortitude_Team",
-              "Attribute": {
-                "Path": [
-                  "Fortitude_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 6.0
+            "ClampValue": 46.0
           },
           {
             "Attribute": {
@@ -11671,27 +9651,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 55.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Offense_Team",
-              "Attribute": {
-                "Path": [
-                  "Offense_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 6.0
+            "ClampValue": 46.0
           },
           {
             "Attribute": {
@@ -11711,27 +9671,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 55.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Resistance_Team",
-              "Attribute": {
-                "Path": [
-                  "Resistance_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 6.0
+            "ClampValue": 46.0
           },
           {
             "Attribute": {
@@ -11751,27 +9691,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 55.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Tech_Team",
-              "Attribute": {
-                "Path": [
-                  "Tech_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 6.0
+            "ClampValue": 46.0
           },
           {
             "Attribute": {
@@ -12095,27 +10015,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 100.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Fortitude_Team",
-              "Attribute": {
-                "Path": [
-                  "Fortitude_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 13.0
+            "ClampValue": 72.0
           },
           {
             "Attribute": {
@@ -12135,27 +10035,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 100.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Offense_Team",
-              "Attribute": {
-                "Path": [
-                  "Offense_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 13.0
+            "ClampValue": 72.0
           },
           {
             "Attribute": {
@@ -12175,27 +10055,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 100.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Resistance_Team",
-              "Attribute": {
-                "Path": [
-                  "Resistance_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 13.0
+            "ClampValue": 72.0
           },
           {
             "Attribute": {
@@ -12215,27 +10075,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 100.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Tech_Team",
-              "Attribute": {
-                "Path": [
-                  "Tech_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 13.0
+            "ClampValue": 72.0
           },
           {
             "Attribute": {
@@ -12559,27 +10399,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 168.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Fortitude_Team",
-              "Attribute": {
-                "Path": [
-                  "Fortitude_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 23.0
+            "ClampValue": 106.0
           },
           {
             "Attribute": {
@@ -12599,27 +10419,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 168.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Offense_Team",
-              "Attribute": {
-                "Path": [
-                  "Offense_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 23.0
+            "ClampValue": 106.0
           },
           {
             "Attribute": {
@@ -12639,27 +10439,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 168.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Resistance_Team",
-              "Attribute": {
-                "Path": [
-                  "Resistance_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 23.0
+            "ClampValue": 106.0
           },
           {
             "Attribute": {
@@ -12679,27 +10459,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 168.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Tech_Team",
-              "Attribute": {
-                "Path": [
-                  "Tech_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 23.0
+            "ClampValue": 106.0
           },
           {
             "Attribute": {
@@ -13023,27 +10783,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 330.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Fortitude_Team",
-              "Attribute": {
-                "Path": [
-                  "Fortitude_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 41.0
+            "ClampValue": 201.0
           },
           {
             "Attribute": {
@@ -13063,27 +10803,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 330.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Offense_Team",
-              "Attribute": {
-                "Path": [
-                  "Offense_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 41.0
+            "ClampValue": 201.0
           },
           {
             "Attribute": {
@@ -13103,27 +10823,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 330.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Resistance_Team",
-              "Attribute": {
-                "Path": [
-                  "Resistance_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 41.0
+            "ClampValue": 201.0
           },
           {
             "Attribute": {
@@ -13143,27 +10843,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 330.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Tech_Team",
-              "Attribute": {
-                "Path": [
-                  "Tech_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 41.0
+            "ClampValue": 201.0
           },
           {
             "Attribute": {
@@ -13487,27 +11167,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 538.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Fortitude_Team",
-              "Attribute": {
-                "Path": [
-                  "Fortitude_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 67.0
+            "ClampValue": 323.0
           },
           {
             "Attribute": {
@@ -13527,27 +11187,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 538.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Offense_Team",
-              "Attribute": {
-                "Path": [
-                  "Offense_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 67.0
+            "ClampValue": 323.0
           },
           {
             "Attribute": {
@@ -13567,27 +11207,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 538.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Resistance_Team",
-              "Attribute": {
-                "Path": [
-                  "Resistance_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 67.0
+            "ClampValue": 323.0
           },
           {
             "Attribute": {
@@ -13607,27 +11227,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 538.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Tech_Team",
-              "Attribute": {
-                "Path": [
-                  "Tech_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 67.0
+            "ClampValue": 323.0
           },
           {
             "Attribute": {
@@ -13951,27 +11551,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 651.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Fortitude_Team",
-              "Attribute": {
-                "Path": [
-                  "Fortitude_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 84.0
+            "ClampValue": 445.0
           },
           {
             "Attribute": {
@@ -13991,27 +11571,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 651.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Offense_Team",
-              "Attribute": {
-                "Path": [
-                  "Offense_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 84.0
+            "ClampValue": 445.0
           },
           {
             "Attribute": {
@@ -14031,27 +11591,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 651.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Resistance_Team",
-              "Attribute": {
-                "Path": [
-                  "Resistance_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 84.0
+            "ClampValue": 445.0
           },
           {
             "Attribute": {
@@ -14071,27 +11611,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 651.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Tech_Team",
-              "Attribute": {
-                "Path": [
-                  "Tech_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 84.0
+            "ClampValue": 445.0
           },
           {
             "Attribute": {
@@ -14415,27 +11935,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 875.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Fortitude_Team",
-              "Attribute": {
-                "Path": [
-                  "Fortitude_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 114.0
+            "ClampValue": 602.0
           },
           {
             "Attribute": {
@@ -14455,27 +11955,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 875.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Offense_Team",
-              "Attribute": {
-                "Path": [
-                  "Offense_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 114.0
+            "ClampValue": 602.0
           },
           {
             "Attribute": {
@@ -14495,27 +11975,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 875.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Resistance_Team",
-              "Attribute": {
-                "Path": [
-                  "Resistance_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 114.0
+            "ClampValue": 602.0
           },
           {
             "Attribute": {
@@ -14535,27 +11995,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 875.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Tech_Team",
-              "Attribute": {
-                "Path": [
-                  "Tech_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 114.0
+            "ClampValue": 602.0
           },
           {
             "Attribute": {
@@ -14879,27 +12319,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 1050.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Fortitude_Team",
-              "Attribute": {
-                "Path": [
-                  "Fortitude_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 134.0
+            "ClampValue": 786.0
           },
           {
             "Attribute": {
@@ -14919,27 +12339,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 1050.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Offense_Team",
-              "Attribute": {
-                "Path": [
-                  "Offense_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 134.0
+            "ClampValue": 786.0
           },
           {
             "Attribute": {
@@ -14959,27 +12359,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 1050.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Resistance_Team",
-              "Attribute": {
-                "Path": [
-                  "Resistance_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 134.0
+            "ClampValue": 786.0
           },
           {
             "Attribute": {
@@ -14999,27 +12379,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 1050.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Tech_Team",
-              "Attribute": {
-                "Path": [
-                  "Tech_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 134.0
+            "ClampValue": 786.0
           },
           {
             "Attribute": {
@@ -15343,27 +12703,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 1206.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Fortitude_Team",
-              "Attribute": {
-                "Path": [
-                  "Fortitude_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 155.0
+            "ClampValue": 1026.0
           },
           {
             "Attribute": {
@@ -15383,27 +12723,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 1206.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Offense_Team",
-              "Attribute": {
-                "Path": [
-                  "Offense_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 155.0
+            "ClampValue": 1026.0
           },
           {
             "Attribute": {
@@ -15423,27 +12743,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 1206.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Resistance_Team",
-              "Attribute": {
-                "Path": [
-                  "Resistance_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 155.0
+            "ClampValue": 1026.0
           },
           {
             "Attribute": {
@@ -15463,27 +12763,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 1206.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Tech_Team",
-              "Attribute": {
-                "Path": [
-                  "Tech_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 155.0
+            "ClampValue": 1026.0
           },
           {
             "Attribute": {
@@ -15807,27 +13087,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 1521.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Fortitude_Team",
-              "Attribute": {
-                "Path": [
-                  "Fortitude_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 199.0
+            "ClampValue": 1282.0
           },
           {
             "Attribute": {
@@ -15847,27 +13107,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 1521.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Offense_Team",
-              "Attribute": {
-                "Path": [
-                  "Offense_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 199.0
+            "ClampValue": 1282.0
           },
           {
             "Attribute": {
@@ -15887,27 +13127,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 1521.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Resistance_Team",
-              "Attribute": {
-                "Path": [
-                  "Resistance_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 199.0
+            "ClampValue": 1282.0
           },
           {
             "Attribute": {
@@ -15927,27 +13147,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 1521.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Tech_Team",
-              "Attribute": {
-                "Path": [
-                  "Tech_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 199.0
+            "ClampValue": 1282.0
           },
           {
             "Attribute": {
@@ -16271,27 +13471,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 1752.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Fortitude_Team",
-              "Attribute": {
-                "Path": [
-                  "Fortitude_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 227.0
+            "ClampValue": 1498.0
           },
           {
             "Attribute": {
@@ -16311,27 +13491,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 1752.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Offense_Team",
-              "Attribute": {
-                "Path": [
-                  "Offense_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 227.0
+            "ClampValue": 1498.0
           },
           {
             "Attribute": {
@@ -16351,27 +13511,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 1752.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Resistance_Team",
-              "Attribute": {
-                "Path": [
-                  "Resistance_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 227.0
+            "ClampValue": 1498.0
           },
           {
             "Attribute": {
@@ -16391,27 +13531,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 1752.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Tech_Team",
-              "Attribute": {
-                "Path": [
-                  "Tech_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 227.0
+            "ClampValue": 1498.0
           },
           {
             "Attribute": {
@@ -16735,27 +13855,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 2099.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Fortitude_Team",
-              "Attribute": {
-                "Path": [
-                  "Fortitude_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 274.0
+            "ClampValue": 1756.0
           },
           {
             "Attribute": {
@@ -16775,27 +13875,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 2099.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Offense_Team",
-              "Attribute": {
-                "Path": [
-                  "Offense_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 274.0
+            "ClampValue": 1756.0
           },
           {
             "Attribute": {
@@ -16815,27 +13895,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 2099.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Resistance_Team",
-              "Attribute": {
-                "Path": [
-                  "Resistance_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 274.0
+            "ClampValue": 1756.0
           },
           {
             "Attribute": {
@@ -16855,27 +13915,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 2099.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Tech_Team",
-              "Attribute": {
-                "Path": [
-                  "Tech_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 274.0
+            "ClampValue": 1756.0
           },
           {
             "Attribute": {
@@ -17199,27 +14239,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 2348.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Fortitude_Team",
-              "Attribute": {
-                "Path": [
-                  "Fortitude_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 303.0
+            "ClampValue": 2041.0
           },
           {
             "Attribute": {
@@ -17239,27 +14259,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 2348.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Offense_Team",
-              "Attribute": {
-                "Path": [
-                  "Offense_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 303.0
+            "ClampValue": 2041.0
           },
           {
             "Attribute": {
@@ -17279,27 +14279,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 2348.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Resistance_Team",
-              "Attribute": {
-                "Path": [
-                  "Resistance_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 303.0
+            "ClampValue": 2041.0
           },
           {
             "Attribute": {
@@ -17319,27 +14299,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 2348.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Tech_Team",
-              "Attribute": {
-                "Path": [
-                  "Tech_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 303.0
+            "ClampValue": 2041.0
           },
           {
             "Attribute": {
@@ -17663,27 +14623,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 2651.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Fortitude_Team",
-              "Attribute": {
-                "Path": [
-                  "Fortitude_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 346.0
+            "ClampValue": 2363.0
           },
           {
             "Attribute": {
@@ -17703,27 +14643,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 2651.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Offense_Team",
-              "Attribute": {
-                "Path": [
-                  "Offense_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 346.0
+            "ClampValue": 2363.0
           },
           {
             "Attribute": {
@@ -17743,27 +14663,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 2651.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Resistance_Team",
-              "Attribute": {
-                "Path": [
-                  "Resistance_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 346.0
+            "ClampValue": 2363.0
           },
           {
             "Attribute": {
@@ -17783,27 +14683,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 2651.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Tech_Team",
-              "Attribute": {
-                "Path": [
-                  "Tech_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 346.0
+            "ClampValue": 2363.0
           },
           {
             "Attribute": {
@@ -18127,27 +15007,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 3141.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Fortitude_Team",
-              "Attribute": {
-                "Path": [
-                  "Fortitude_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 417.0
+            "ClampValue": 2649.0
           },
           {
             "Attribute": {
@@ -18167,27 +15027,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 3141.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Offense_Team",
-              "Attribute": {
-                "Path": [
-                  "Offense_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 417.0
+            "ClampValue": 2649.0
           },
           {
             "Attribute": {
@@ -18207,27 +15047,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 3141.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Resistance_Team",
-              "Attribute": {
-                "Path": [
-                  "Resistance_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 417.0
+            "ClampValue": 2649.0
           },
           {
             "Attribute": {
@@ -18247,27 +15067,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 3141.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Tech_Team",
-              "Attribute": {
-                "Path": [
-                  "Tech_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 417.0
+            "ClampValue": 2649.0
           },
           {
             "Attribute": {
@@ -18591,27 +15391,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 3407.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Fortitude_Team",
-              "Attribute": {
-                "Path": [
-                  "Fortitude_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 445.0
+            "ClampValue": 2990.0
           },
           {
             "Attribute": {
@@ -18631,27 +15411,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 3407.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Offense_Team",
-              "Attribute": {
-                "Path": [
-                  "Offense_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 445.0
+            "ClampValue": 2990.0
           },
           {
             "Attribute": {
@@ -18671,27 +15431,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 3407.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Resistance_Team",
-              "Attribute": {
-                "Path": [
-                  "Resistance_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 445.0
+            "ClampValue": 2990.0
           },
           {
             "Attribute": {
@@ -18711,27 +15451,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 3407.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Tech_Team",
-              "Attribute": {
-                "Path": [
-                  "Tech_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 445.0
+            "ClampValue": 2990.0
           },
           {
             "Attribute": {
@@ -19055,27 +15775,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 3654.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Fortitude_Team",
-              "Attribute": {
-                "Path": [
-                  "Fortitude_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 482.0
+            "ClampValue": 3334.0
           },
           {
             "Attribute": {
@@ -19095,27 +15795,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 3654.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Offense_Team",
-              "Attribute": {
-                "Path": [
-                  "Offense_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 482.0
+            "ClampValue": 3334.0
           },
           {
             "Attribute": {
@@ -19135,27 +15815,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 3654.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Resistance_Team",
-              "Attribute": {
-                "Path": [
-                  "Resistance_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 482.0
+            "ClampValue": 3334.0
           },
           {
             "Attribute": {
@@ -19175,27 +15835,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 3654.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Tech_Team",
-              "Attribute": {
-                "Path": [
-                  "Tech_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 482.0
+            "ClampValue": 3334.0
           },
           {
             "Attribute": {
@@ -19519,27 +16159,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 3920.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Fortitude_Team",
-              "Attribute": {
-                "Path": [
-                  "Fortitude_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 520.0
+            "ClampValue": 3678.0
           },
           {
             "Attribute": {
@@ -19559,27 +16179,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 3920.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Offense_Team",
-              "Attribute": {
-                "Path": [
-                  "Offense_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 520.0
+            "ClampValue": 3678.0
           },
           {
             "Attribute": {
@@ -19599,27 +16199,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 3920.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Resistance_Team",
-              "Attribute": {
-                "Path": [
-                  "Resistance_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 520.0
+            "ClampValue": 3678.0
           },
           {
             "Attribute": {
@@ -19639,27 +16219,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 3920.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Tech_Team",
-              "Attribute": {
-                "Path": [
-                  "Tech_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 520.0
+            "ClampValue": 3678.0
           },
           {
             "Attribute": {
@@ -19983,27 +16543,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 4196.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Fortitude_Team",
-              "Attribute": {
-                "Path": [
-                  "Fortitude_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 558.0
+            "ClampValue": 4131.0
           },
           {
             "Attribute": {
@@ -20023,27 +16563,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 4196.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Offense_Team",
-              "Attribute": {
-                "Path": [
-                  "Offense_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 558.0
+            "ClampValue": 4131.0
           },
           {
             "Attribute": {
@@ -20063,27 +16583,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 4196.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Resistance_Team",
-              "Attribute": {
-                "Path": [
-                  "Resistance_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 558.0
+            "ClampValue": 4131.0
           },
           {
             "Attribute": {
@@ -20103,27 +16603,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 4196.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Tech_Team",
-              "Attribute": {
-                "Path": [
-                  "Tech_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 558.0
+            "ClampValue": 4131.0
           },
           {
             "Attribute": {
@@ -20447,27 +16927,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 4549.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Fortitude_Team",
-              "Attribute": {
-                "Path": [
-                  "Fortitude_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 603.0
+            "ClampValue": 4500.0
           },
           {
             "Attribute": {
@@ -20487,27 +16947,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 4549.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Offense_Team",
-              "Attribute": {
-                "Path": [
-                  "Offense_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 603.0
+            "ClampValue": 4500.0
           },
           {
             "Attribute": {
@@ -20527,27 +16967,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 4549.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Resistance_Team",
-              "Attribute": {
-                "Path": [
-                  "Resistance_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 603.0
+            "ClampValue": 4500.0
           },
           {
             "Attribute": {
@@ -20567,27 +16987,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 4549.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Tech_Team",
-              "Attribute": {
-                "Path": [
-                  "Tech_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 603.0
+            "ClampValue": 4500.0
           },
           {
             "Attribute": {
@@ -20911,27 +17311,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 4889.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Fortitude_Team",
-              "Attribute": {
-                "Path": [
-                  "Fortitude_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 649.0
+            "ClampValue": 4780.0
           },
           {
             "Attribute": {
@@ -20951,27 +17331,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 4889.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Offense_Team",
-              "Attribute": {
-                "Path": [
-                  "Offense_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 649.0
+            "ClampValue": 4780.0
           },
           {
             "Attribute": {
@@ -20991,27 +17351,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 4889.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Resistance_Team",
-              "Attribute": {
-                "Path": [
-                  "Resistance_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 649.0
+            "ClampValue": 4780.0
           },
           {
             "Attribute": {
@@ -21031,27 +17371,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 4889.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Tech_Team",
-              "Attribute": {
-                "Path": [
-                  "Tech_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 649.0
+            "ClampValue": 4780.0
           },
           {
             "Attribute": {
@@ -21375,27 +17695,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 5185.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Fortitude_Team",
-              "Attribute": {
-                "Path": [
-                  "Fortitude_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 687.0
+            "ClampValue": 5114.0
           },
           {
             "Attribute": {
@@ -21415,27 +17715,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 5185.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Offense_Team",
-              "Attribute": {
-                "Path": [
-                  "Offense_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 687.0
+            "ClampValue": 5114.0
           },
           {
             "Attribute": {
@@ -21455,27 +17735,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 5185.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Resistance_Team",
-              "Attribute": {
-                "Path": [
-                  "Resistance_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 687.0
+            "ClampValue": 5114.0
           },
           {
             "Attribute": {
@@ -21495,27 +17755,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 5185.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Tech_Team",
-              "Attribute": {
-                "Path": [
-                  "Tech_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 687.0
+            "ClampValue": 5114.0
           },
           {
             "Attribute": {
@@ -21839,27 +18079,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 5422.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Fortitude_Team",
-              "Attribute": {
-                "Path": [
-                  "Fortitude_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 719.0
+            "ClampValue": 5398.0
           },
           {
             "Attribute": {
@@ -21879,27 +18099,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 5422.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Offense_Team",
-              "Attribute": {
-                "Path": [
-                  "Offense_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 719.0
+            "ClampValue": 5398.0
           },
           {
             "Attribute": {
@@ -21919,27 +18119,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 5422.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Resistance_Team",
-              "Attribute": {
-                "Path": [
-                  "Resistance_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 719.0
+            "ClampValue": 5398.0
           },
           {
             "Attribute": {
@@ -21959,27 +18139,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 5422.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Tech_Team",
-              "Attribute": {
-                "Path": [
-                  "Tech_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 719.0
+            "ClampValue": 5398.0
           },
           {
             "Attribute": {
@@ -22303,27 +18463,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 5692.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Fortitude_Team",
-              "Attribute": {
-                "Path": [
-                  "Fortitude_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 755.0
+            "ClampValue": 5704.0
           },
           {
             "Attribute": {
@@ -22343,27 +18483,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 5692.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Offense_Team",
-              "Attribute": {
-                "Path": [
-                  "Offense_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 755.0
+            "ClampValue": 5704.0
           },
           {
             "Attribute": {
@@ -22383,27 +18503,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 5692.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Resistance_Team",
-              "Attribute": {
-                "Path": [
-                  "Resistance_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 755.0
+            "ClampValue": 5704.0
           },
           {
             "Attribute": {
@@ -22423,27 +18523,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 5692.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Tech_Team",
-              "Attribute": {
-                "Path": [
-                  "Tech_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 755.0
+            "ClampValue": 5704.0
           },
           {
             "Attribute": {
@@ -22767,27 +18847,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 5977.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Fortitude_Team",
-              "Attribute": {
-                "Path": [
-                  "Fortitude_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 798.0
+            "ClampValue": 5945.0
           },
           {
             "Attribute": {
@@ -22807,27 +18867,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 5977.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Offense_Team",
-              "Attribute": {
-                "Path": [
-                  "Offense_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 798.0
+            "ClampValue": 5945.0
           },
           {
             "Attribute": {
@@ -22847,27 +18887,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 5977.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Resistance_Team",
-              "Attribute": {
-                "Path": [
-                  "Resistance_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 798.0
+            "ClampValue": 5945.0
           },
           {
             "Attribute": {
@@ -22887,27 +18907,7 @@
               }
             },
             "ClampType": "EClampType::Maximum",
-            "ClampValue": 5977.0
-          },
-          {
-            "Attribute": {
-              "AttributeName": "Tech_Team",
-              "Attribute": {
-                "Path": [
-                  "Tech_Team"
-                ],
-                "ResolvedOwner": {
-                  "ObjectName": "Class'FortPlayerAttrSet'",
-                  "ObjectPath": "/Script/FortniteGame"
-                }
-              },
-              "AttributeOwner": {
-                "ObjectName": "Class'FortPlayerAttrSet'",
-                "ObjectPath": "/Script/FortniteGame"
-              }
-            },
-            "ClampType": "EClampType::Maximum",
-            "ClampValue": 798.0
+            "ClampValue": 5945.0
           },
           {
             "Attribute": {

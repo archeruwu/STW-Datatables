@@ -1,0 +1,98 @@
+[
+  {
+    "Type": "FortDailyRewardScheduleDefinitions",
+    "Name": "DailyRewardScheduleDefinitions",
+    "Class": "UScriptClass'FortDailyRewardScheduleDefinitions'",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "Schedules": [
+        {
+          "ScheduleName": "Default",
+          "EnablingToken": {
+            "AssetPathName": "",
+            "SubPathString": ""
+          },
+          "Rewards": {
+            "ObjectName": "DataTable'DailyRewards'",
+            "ObjectPath": "/SaveTheWorld/Balance/DataTables/DailyRewards.0"
+          },
+          "DisplayData": {
+            "Title": {
+              "Namespace": "",
+              "Key": "05F0878942CE492379342EBF1B00DD1D",
+              "SourceString": "DAILY",
+              "LocalizedString": "DAILY"
+            },
+            "Description": {
+              "Namespace": "",
+              "Key": "2ED020414C49E11A6325C1A420B0FEB2",
+              "SourceString": "UPCOMING DAILY REWARDS",
+              "LocalizedString": "UPCOMING DAILY REWARDS"
+            },
+            "ItemDescription": {
+              "Namespace": "",
+              "Key": "734E24BE4A20F4CEC14F72A21186D679",
+              "SourceString": "DAILY REWARD",
+              "LocalizedString": "DAILY REWARD"
+            },
+            "EpicItemDescription": {
+              "Namespace": "",
+              "Key": "DC1A721342EE8FEFA6CA0F81E060B3A6",
+              "SourceString": "DAILY",
+              "LocalizedString": "DAILY"
+            }
+          },
+          "BeginDate": {
+            "Ticks": 0
+          },
+          "EndDate": {
+            "Ticks": 0
+          }
+        },
+        {
+          "ScheduleName": "FoundersPackDailyRewardToken",
+          "EnablingToken": {
+            "AssetPathName": "/SaveTheWorld/Items/Tokens/FoundersPackDailyRewardToken.FoundersPackDailyRewardToken",
+            "SubPathString": ""
+          },
+          "Rewards": {
+            "ObjectName": "DataTable'DailyFoundersRewards'",
+            "ObjectPath": "/SaveTheWorld/Balance/DataTables/DailyFoundersRewards.0"
+          },
+          "DisplayData": {
+            "Title": {
+              "Namespace": "",
+              "Key": "050349C64BB044A604DD5881F1606550",
+              "SourceString": "FOUNDER'S DAILY",
+              "LocalizedString": "FOUNDER'S DAILY"
+            },
+            "Description": {
+              "Namespace": "",
+              "Key": "C64D685F48927519BFABC0B9B4960E2D",
+              "SourceString": "UPCOMING FOUNDER'S DAILY REWARDS",
+              "LocalizedString": "UPCOMING FOUNDER'S DAILY REWARDS"
+            },
+            "ItemDescription": {
+              "Namespace": "",
+              "Key": "DB8DE1C54C13089984C2A39188BF1D08",
+              "SourceString": "FOUNDER'S DAILY REWARD",
+              "LocalizedString": "FOUNDER'S DAILY REWARD"
+            },
+            "EpicItemDescription": {
+              "Namespace": "",
+              "Key": "E32868754F071C86F79201AB9D786F45",
+              "SourceString": "FOUNDER'S DAILY",
+              "LocalizedString": "FOUNDER'S DAILY"
+            }
+          },
+          "BeginDate": {
+            "Ticks": 0
+          },
+          "EndDate": {
+            "Ticks": 0
+          }
+        }
+      ]
+    }
+  }
+]

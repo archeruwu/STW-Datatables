@@ -8098,7 +8098,7 @@
       },
       "WorldPKG.ApolloAmmoBox.Consumables.05": {
         "LootPackageID": "WorldPKG.ApolloAmmoBox.Consumables",
-        "Weight": 1.0,
+        "Weight": 0.0,
         "NamedWeightMult": "None",
         "PotentialNamedWeights": [],
         "CountRange": {
@@ -13826,7 +13826,7 @@
           "UserDescription": "",
           "AutoDescription": ""
         },
-        "LootPackageCall": "WorldList.PlayerBots.Weapons",
+        "LootPackageCall": "WorldList.AthenaLoot.Weapon.Handgun",
         "ItemDefinition": {
           "AssetPathName": "",
           "SubPathString": ""
@@ -13835,7 +13835,7 @@
         "MinWorldLevel": -1,
         "MaxWorldLevel": -1,
         "bAllowBonusDrops": true,
-        "Annotation": ";Def:WorldPKG.PlayerBots.C0;Call:WorldList.PlayerBots.Weapons",
+        "Annotation": ";Def:WorldPKG.PlayerBots.C0;Call:WorldList.AthenaLoot.Weapon.Handgun",
         "DurabilityPercentageOverride": 1.0
       },
       "WorldPKG.IO.Guard.01": {
@@ -40636,12 +40636,12 @@
       },
       "WorldList.AthenaWadStash.Small.01": {
         "LootPackageID": "WorldList.AthenaWadStash.Small",
-        "Weight": 0.99,
+        "Weight": 0.0,
         "NamedWeightMult": "None",
         "PotentialNamedWeights": [],
         "CountRange": {
-          "X": 25,
-          "Y": 25
+          "X": 0,
+          "Y": 0
         },
         "LootPackageCategory": 0,
         "GameplayTags": [],
@@ -40669,12 +40669,12 @@
       },
       "WorldList.AthenaWadStash.Small.02": {
         "LootPackageID": "WorldList.AthenaWadStash.Small",
-        "Weight": 0.01,
+        "Weight": 0.0,
         "NamedWeightMult": "None",
         "PotentialNamedWeights": [],
         "CountRange": {
-          "X": 50,
-          "Y": 50
+          "X": 0,
+          "Y": 0
         },
         "LootPackageCategory": 0,
         "GameplayTags": [],
@@ -40735,12 +40735,12 @@
       },
       "WorldList.AthenaWadStash.Medium.01": {
         "LootPackageID": "WorldList.AthenaWadStash.Medium",
-        "Weight": 0.99,
+        "Weight": 0.0,
         "NamedWeightMult": "None",
         "PotentialNamedWeights": [],
         "CountRange": {
-          "X": 7,
-          "Y": 7
+          "X": 0,
+          "Y": 0
         },
         "LootPackageCategory": 0,
         "GameplayTags": [],
@@ -40768,12 +40768,12 @@
       },
       "WorldList.AthenaWadStash.Medium.02": {
         "LootPackageID": "WorldList.AthenaWadStash.Medium",
-        "Weight": 0.01,
+        "Weight": 0.0,
         "NamedWeightMult": "None",
         "PotentialNamedWeights": [],
         "CountRange": {
-          "X": 44,
-          "Y": 44
+          "X": 0,
+          "Y": 0
         },
         "LootPackageCategory": 0,
         "GameplayTags": [],
@@ -40834,12 +40834,12 @@
       },
       "WorldList.AthenaWadStash.Large.01": {
         "LootPackageID": "WorldList.AthenaWadStash.Large",
-        "Weight": 0.49,
+        "Weight": 0.0,
         "NamedWeightMult": "None",
         "PotentialNamedWeights": [],
         "CountRange": {
-          "X": 18,
-          "Y": 18
+          "X": 0,
+          "Y": 0
         },
         "LootPackageCategory": 0,
         "GameplayTags": [],
@@ -40867,12 +40867,12 @@
       },
       "WorldList.AthenaWadStash.Large.02": {
         "LootPackageID": "WorldList.AthenaWadStash.Large",
-        "Weight": 0.01,
+        "Weight": 0.0,
         "NamedWeightMult": "None",
         "PotentialNamedWeights": [],
         "CountRange": {
-          "X": 123,
-          "Y": 123
+          "X": 0,
+          "Y": 0
         },
         "LootPackageCategory": 0,
         "GameplayTags": [],
@@ -40900,7 +40900,7 @@
       },
       "WorldList.AthenaWadStash.Large.03": {
         "LootPackageID": "WorldList.AthenaWadStash.Large",
-        "Weight": 0.5,
+        "Weight": 0.0,
         "NamedWeightMult": "None",
         "PotentialNamedWeights": [],
         "CountRange": {
@@ -40933,12 +40933,12 @@
       },
       "WorldList.AthenaWadSafe.01": {
         "LootPackageID": "WorldList.AthenaWadSafe",
-        "Weight": 1.0,
+        "Weight": 0.0,
         "NamedWeightMult": "None",
         "PotentialNamedWeights": [],
         "CountRange": {
-          "X": 131,
-          "Y": 131
+          "X": 0,
+          "Y": 0
         },
         "LootPackageCategory": 0,
         "GameplayTags": [],
@@ -40999,12 +40999,12 @@
       },
       "WorldList.AthenaWadGoldBarStack.Small.01": {
         "LootPackageID": "WorldList.AthenaWadGoldBarStack.Small",
-        "Weight": 1.0,
+        "Weight": 0.0,
         "NamedWeightMult": "None",
         "PotentialNamedWeights": [],
         "CountRange": {
-          "X": 6,
-          "Y": 6
+          "X": 0,
+          "Y": 0
         },
         "LootPackageCategory": 0,
         "GameplayTags": [],
@@ -41032,12 +41032,12 @@
       },
       "WorldList.AthenaWadGoldBarStack.Medium.01": {
         "LootPackageID": "WorldList.AthenaWadGoldBarStack.Medium",
-        "Weight": 1.0,
+        "Weight": 0.0,
         "NamedWeightMult": "None",
         "PotentialNamedWeights": [],
         "CountRange": {
-          "X": 48,
-          "Y": 48
+          "X": 0,
+          "Y": 0
         },
         "LootPackageCategory": 0,
         "GameplayTags": [],
@@ -41065,12 +41065,12 @@
       },
       "WorldList.AthenaWadGoldBarStack.Large.01": {
         "LootPackageID": "WorldList.AthenaWadGoldBarStack.Large",
-        "Weight": 1.0,
+        "Weight": 0.0,
         "NamedWeightMult": "None",
         "PotentialNamedWeights": [],
         "CountRange": {
-          "X": 96,
-          "Y": 96
+          "X": 0,
+          "Y": 0
         },
         "LootPackageCategory": 0,
         "GameplayTags": [],
@@ -41098,12 +41098,12 @@
       },
       "WorldList.AthenaWadChests.01": {
         "LootPackageID": "WorldList.AthenaWadChests",
-        "Weight": 0.5,
+        "Weight": 0.0,
         "NamedWeightMult": "None",
         "PotentialNamedWeights": [],
         "CountRange": {
-          "X": 9,
-          "Y": 9
+          "X": 0,
+          "Y": 0
         },
         "LootPackageCategory": 0,
         "GameplayTags": [],
@@ -41131,7 +41131,7 @@
       },
       "WorldList.AthenaWadChests.02": {
         "LootPackageID": "WorldList.AthenaWadChests",
-        "Weight": 0.5,
+        "Weight": 0.0,
         "NamedWeightMult": "None",
         "PotentialNamedWeights": [],
         "CountRange": {
@@ -41164,12 +41164,12 @@
       },
       "WorldList.ApolloWadChests.01": {
         "LootPackageID": "WorldList.ApolloWadChests",
-        "Weight": 1.0,
+        "Weight": 0.0,
         "NamedWeightMult": "None",
         "PotentialNamedWeights": [],
         "CountRange": {
-          "X": 26,
-          "Y": 26
+          "X": 0,
+          "Y": 0
         },
         "LootPackageCategory": 0,
         "GameplayTags": [],

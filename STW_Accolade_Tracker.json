@@ -5,7 +5,7 @@
     "Class": "UScriptClass'FortTrackingTokenType'",
     "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
     "Properties": {
-      "SoftWeeklyXPCap": 4000000,
+      "SoftWeeklyXPCap": 3200000,
       "SoftCapMultiplier": 0.2,
       "WeeklyResetOffsetHours": 14,
       "DataList": [

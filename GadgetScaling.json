@@ -112,7 +112,22 @@
         "MeleeAimAssistRequiredTag": {
           "TagName": "None"
         },
-        "MaxUnderReticleDistance": 8192.0
+        "MaxUnderReticleDistance": 8192.0,
+        "AutofireRange": 0.0,
+        "AutofireMinRange": 0.0,
+        "AutofireZoomTargetMinSizePercent": 100.0,
+        "AutofireAcquisitionDelay": 0.15,
+        "AutofireDBNOAcquisitionDelay": 0.0,
+        "AutofireAcquisitionRechargeTime": 0.0,
+        "AutofireReleaseTime": 0.0,
+        "AutofireCooldown": 0.0,
+        "PerWeaponHotfixes": {
+          "bDisableTargetingDuringReload": false,
+          "bDisableTargetingInAir": false,
+          "bDisableCheckpointReload": false,
+          "bDisableSecondaryRecoilLayers": false,
+          "bDisablePrimaryRecoilOverride": false
+        }
       },
       "Ninja_SmokeBomb": {
         "BaseLevel": 0,
@@ -215,7 +230,22 @@
         "MeleeAimAssistRequiredTag": {
           "TagName": "None"
         },
-        "MaxUnderReticleDistance": 8192.0
+        "MaxUnderReticleDistance": 8192.0,
+        "AutofireRange": 0.0,
+        "AutofireMinRange": 0.0,
+        "AutofireZoomTargetMinSizePercent": 100.0,
+        "AutofireAcquisitionDelay": 0.15,
+        "AutofireDBNOAcquisitionDelay": 0.0,
+        "AutofireAcquisitionRechargeTime": 0.0,
+        "AutofireReleaseTime": 0.0,
+        "AutofireCooldown": 0.0,
+        "PerWeaponHotfixes": {
+          "bDisableTargetingDuringReload": false,
+          "bDisableTargetingInAir": false,
+          "bDisableCheckpointReload": false,
+          "bDisableSecondaryRecoilLayers": false,
+          "bDisablePrimaryRecoilOverride": false
+        }
       },
       "Ninja_DragonSlash": {
         "BaseLevel": 0,
@@ -318,7 +348,22 @@
         "MeleeAimAssistRequiredTag": {
           "TagName": "None"
         },
-        "MaxUnderReticleDistance": 8192.0
+        "MaxUnderReticleDistance": 8192.0,
+        "AutofireRange": 0.0,
+        "AutofireMinRange": 0.0,
+        "AutofireZoomTargetMinSizePercent": 100.0,
+        "AutofireAcquisitionDelay": 0.15,
+        "AutofireDBNOAcquisitionDelay": 0.0,
+        "AutofireAcquisitionRechargeTime": 0.0,
+        "AutofireReleaseTime": 0.0,
+        "AutofireCooldown": 0.0,
+        "PerWeaponHotfixes": {
+          "bDisableTargetingDuringReload": false,
+          "bDisableTargetingInAir": false,
+          "bDisableCheckpointReload": false,
+          "bDisableSecondaryRecoilLayers": false,
+          "bDisablePrimaryRecoilOverride": false
+        }
       },
       "Constructor_PlasmaPulse": {
         "BaseLevel": 0,
@@ -421,7 +466,22 @@
         "MeleeAimAssistRequiredTag": {
           "TagName": "None"
         },
-        "MaxUnderReticleDistance": 8192.0
+        "MaxUnderReticleDistance": 8192.0,
+        "AutofireRange": 0.0,
+        "AutofireMinRange": 0.0,
+        "AutofireZoomTargetMinSizePercent": 100.0,
+        "AutofireAcquisitionDelay": 0.15,
+        "AutofireDBNOAcquisitionDelay": 0.0,
+        "AutofireAcquisitionRechargeTime": 0.0,
+        "AutofireReleaseTime": 0.0,
+        "AutofireCooldown": 0.0,
+        "PerWeaponHotfixes": {
+          "bDisableTargetingDuringReload": false,
+          "bDisableTargetingInAir": false,
+          "bDisableCheckpointReload": false,
+          "bDisableSecondaryRecoilLayers": false,
+          "bDisablePrimaryRecoilOverride": false
+        }
       },
       "Constructor_ContainmentField": {
         "BaseLevel": 0,
@@ -524,7 +584,22 @@
         "MeleeAimAssistRequiredTag": {
           "TagName": "None"
         },
-        "MaxUnderReticleDistance": 8192.0
+        "MaxUnderReticleDistance": 8192.0,
+        "AutofireRange": 0.0,
+        "AutofireMinRange": 0.0,
+        "AutofireZoomTargetMinSizePercent": 100.0,
+        "AutofireAcquisitionDelay": 0.15,
+        "AutofireDBNOAcquisitionDelay": 0.0,
+        "AutofireAcquisitionRechargeTime": 0.0,
+        "AutofireReleaseTime": 0.0,
+        "AutofireCooldown": 0.0,
+        "PerWeaponHotfixes": {
+          "bDisableTargetingDuringReload": false,
+          "bDisableTargetingInAir": false,
+          "bDisableCheckpointReload": false,
+          "bDisableSecondaryRecoilLayers": false,
+          "bDisablePrimaryRecoilOverride": false
+        }
       },
       "Commando_KineticRounds": {
         "BaseLevel": 0,
@@ -627,7 +702,22 @@
         "MeleeAimAssistRequiredTag": {
           "TagName": "None"
         },
-        "MaxUnderReticleDistance": 8192.0
+        "MaxUnderReticleDistance": 8192.0,
+        "AutofireRange": 0.0,
+        "AutofireMinRange": 0.0,
+        "AutofireZoomTargetMinSizePercent": 100.0,
+        "AutofireAcquisitionDelay": 0.15,
+        "AutofireDBNOAcquisitionDelay": 0.0,
+        "AutofireAcquisitionRechargeTime": 0.0,
+        "AutofireReleaseTime": 0.0,
+        "AutofireCooldown": 0.0,
+        "PerWeaponHotfixes": {
+          "bDisableTargetingDuringReload": false,
+          "bDisableTargetingInAir": false,
+          "bDisableCheckpointReload": false,
+          "bDisableSecondaryRecoilLayers": false,
+          "bDisablePrimaryRecoilOverride": false
+        }
       },
       "Commando_FragGrenade": {
         "BaseLevel": 0,
@@ -730,7 +820,22 @@
         "MeleeAimAssistRequiredTag": {
           "TagName": "None"
         },
-        "MaxUnderReticleDistance": 8192.0
+        "MaxUnderReticleDistance": 8192.0,
+        "AutofireRange": 0.0,
+        "AutofireMinRange": 0.0,
+        "AutofireZoomTargetMinSizePercent": 100.0,
+        "AutofireAcquisitionDelay": 0.15,
+        "AutofireDBNOAcquisitionDelay": 0.0,
+        "AutofireAcquisitionRechargeTime": 0.0,
+        "AutofireReleaseTime": 0.0,
+        "AutofireCooldown": 0.0,
+        "PerWeaponHotfixes": {
+          "bDisableTargetingDuringReload": false,
+          "bDisableTargetingInAir": false,
+          "bDisableCheckpointReload": false,
+          "bDisableSecondaryRecoilLayers": false,
+          "bDisablePrimaryRecoilOverride": false
+        }
       },
       "Outlander_AntiMaterialCharge": {
         "BaseLevel": 0,
@@ -833,7 +938,22 @@
         "MeleeAimAssistRequiredTag": {
           "TagName": "None"
         },
-        "MaxUnderReticleDistance": 8192.0
+        "MaxUnderReticleDistance": 8192.0,
+        "AutofireRange": 0.0,
+        "AutofireMinRange": 0.0,
+        "AutofireZoomTargetMinSizePercent": 100.0,
+        "AutofireAcquisitionDelay": 0.15,
+        "AutofireDBNOAcquisitionDelay": 0.0,
+        "AutofireAcquisitionRechargeTime": 0.0,
+        "AutofireReleaseTime": 0.0,
+        "AutofireCooldown": 0.0,
+        "PerWeaponHotfixes": {
+          "bDisableTargetingDuringReload": false,
+          "bDisableTargetingInAir": false,
+          "bDisableCheckpointReload": false,
+          "bDisableSecondaryRecoilLayers": false,
+          "bDisablePrimaryRecoilOverride": false
+        }
       },
       "Outlander_MatterCollector": {
         "BaseLevel": 0,
@@ -936,7 +1056,22 @@
         "MeleeAimAssistRequiredTag": {
           "TagName": "None"
         },
-        "MaxUnderReticleDistance": 8192.0
+        "MaxUnderReticleDistance": 8192.0,
+        "AutofireRange": 0.0,
+        "AutofireMinRange": 0.0,
+        "AutofireZoomTargetMinSizePercent": 100.0,
+        "AutofireAcquisitionDelay": 0.15,
+        "AutofireDBNOAcquisitionDelay": 0.0,
+        "AutofireAcquisitionRechargeTime": 0.0,
+        "AutofireReleaseTime": 0.0,
+        "AutofireCooldown": 0.0,
+        "PerWeaponHotfixes": {
+          "bDisableTargetingDuringReload": false,
+          "bDisableTargetingInAir": false,
+          "bDisableCheckpointReload": false,
+          "bDisableSecondaryRecoilLayers": false,
+          "bDisablePrimaryRecoilOverride": false
+        }
       },
       "Sbuilding_BigBomb": {
         "BaseLevel": 0,
@@ -1039,7 +1174,22 @@
         "MeleeAimAssistRequiredTag": {
           "TagName": "None"
         },
-        "MaxUnderReticleDistance": 8192.0
+        "MaxUnderReticleDistance": 8192.0,
+        "AutofireRange": 0.0,
+        "AutofireMinRange": 0.0,
+        "AutofireZoomTargetMinSizePercent": 100.0,
+        "AutofireAcquisitionDelay": 0.15,
+        "AutofireDBNOAcquisitionDelay": 0.0,
+        "AutofireAcquisitionRechargeTime": 0.0,
+        "AutofireReleaseTime": 0.0,
+        "AutofireCooldown": 0.0,
+        "PerWeaponHotfixes": {
+          "bDisableTargetingDuringReload": false,
+          "bDisableTargetingInAir": false,
+          "bDisableCheckpointReload": false,
+          "bDisableSecondaryRecoilLayers": false,
+          "bDisablePrimaryRecoilOverride": false
+        }
       },
       "Generic_BigBomb": {
         "BaseLevel": 0,
@@ -1142,7 +1292,22 @@
         "MeleeAimAssistRequiredTag": {
           "TagName": "None"
         },
-        "MaxUnderReticleDistance": 8192.0
+        "MaxUnderReticleDistance": 8192.0,
+        "AutofireRange": 0.0,
+        "AutofireMinRange": 0.0,
+        "AutofireZoomTargetMinSizePercent": 100.0,
+        "AutofireAcquisitionDelay": 0.15,
+        "AutofireDBNOAcquisitionDelay": 0.0,
+        "AutofireAcquisitionRechargeTime": 0.0,
+        "AutofireReleaseTime": 0.0,
+        "AutofireCooldown": 0.0,
+        "PerWeaponHotfixes": {
+          "bDisableTargetingDuringReload": false,
+          "bDisableTargetingInAir": false,
+          "bDisableCheckpointReload": false,
+          "bDisableSecondaryRecoilLayers": false,
+          "bDisablePrimaryRecoilOverride": false
+        }
       },
       "Generic_AirStrike": {
         "BaseLevel": 0,
@@ -1245,7 +1410,22 @@
         "MeleeAimAssistRequiredTag": {
           "TagName": "None"
         },
-        "MaxUnderReticleDistance": 8192.0
+        "MaxUnderReticleDistance": 8192.0,
+        "AutofireRange": 0.0,
+        "AutofireMinRange": 0.0,
+        "AutofireZoomTargetMinSizePercent": 100.0,
+        "AutofireAcquisitionDelay": 0.15,
+        "AutofireDBNOAcquisitionDelay": 0.0,
+        "AutofireAcquisitionRechargeTime": 0.0,
+        "AutofireReleaseTime": 0.0,
+        "AutofireCooldown": 0.0,
+        "PerWeaponHotfixes": {
+          "bDisableTargetingDuringReload": false,
+          "bDisableTargetingInAir": false,
+          "bDisableCheckpointReload": false,
+          "bDisableSecondaryRecoilLayers": false,
+          "bDisablePrimaryRecoilOverride": false
+        }
       },
       "Sbuilding_LaserFence": {
         "BaseLevel": 0,
@@ -1348,7 +1528,22 @@
         "MeleeAimAssistRequiredTag": {
           "TagName": "None"
         },
-        "MaxUnderReticleDistance": 8192.0
+        "MaxUnderReticleDistance": 8192.0,
+        "AutofireRange": 0.0,
+        "AutofireMinRange": 0.0,
+        "AutofireZoomTargetMinSizePercent": 100.0,
+        "AutofireAcquisitionDelay": 0.15,
+        "AutofireDBNOAcquisitionDelay": 0.0,
+        "AutofireAcquisitionRechargeTime": 0.0,
+        "AutofireReleaseTime": 0.0,
+        "AutofireCooldown": 0.0,
+        "PerWeaponHotfixes": {
+          "bDisableTargetingDuringReload": false,
+          "bDisableTargetingInAir": false,
+          "bDisableCheckpointReload": false,
+          "bDisableSecondaryRecoilLayers": false,
+          "bDisablePrimaryRecoilOverride": false
+        }
       },
       "Generic_SentryGun": {
         "BaseLevel": 0,
@@ -1451,7 +1646,22 @@
         "MeleeAimAssistRequiredTag": {
           "TagName": "None"
         },
-        "MaxUnderReticleDistance": 8192.0
+        "MaxUnderReticleDistance": 8192.0,
+        "AutofireRange": 0.0,
+        "AutofireMinRange": 0.0,
+        "AutofireZoomTargetMinSizePercent": 100.0,
+        "AutofireAcquisitionDelay": 0.15,
+        "AutofireDBNOAcquisitionDelay": 0.0,
+        "AutofireAcquisitionRechargeTime": 0.0,
+        "AutofireReleaseTime": 0.0,
+        "AutofireCooldown": 0.0,
+        "PerWeaponHotfixes": {
+          "bDisableTargetingDuringReload": false,
+          "bDisableTargetingInAir": false,
+          "bDisableCheckpointReload": false,
+          "bDisableSecondaryRecoilLayers": false,
+          "bDisablePrimaryRecoilOverride": false
+        }
       },
       "Generic_OB_SentryGun": {
         "BaseLevel": 0,
@@ -1554,7 +1764,22 @@
         "MeleeAimAssistRequiredTag": {
           "TagName": "None"
         },
-        "MaxUnderReticleDistance": 8192.0
+        "MaxUnderReticleDistance": 8192.0,
+        "AutofireRange": 0.0,
+        "AutofireMinRange": 0.0,
+        "AutofireZoomTargetMinSizePercent": 100.0,
+        "AutofireAcquisitionDelay": 0.15,
+        "AutofireDBNOAcquisitionDelay": 0.0,
+        "AutofireAcquisitionRechargeTime": 0.0,
+        "AutofireReleaseTime": 0.0,
+        "AutofireCooldown": 0.0,
+        "PerWeaponHotfixes": {
+          "bDisableTargetingDuringReload": false,
+          "bDisableTargetingInAir": false,
+          "bDisableCheckpointReload": false,
+          "bDisableSecondaryRecoilLayers": false,
+          "bDisablePrimaryRecoilOverride": false
+        }
       },
       "Generic_BotTurret": {
         "BaseLevel": 0,
@@ -1657,7 +1882,22 @@
         "MeleeAimAssistRequiredTag": {
           "TagName": "None"
         },
-        "MaxUnderReticleDistance": 8192.0
+        "MaxUnderReticleDistance": 8192.0,
+        "AutofireRange": 0.0,
+        "AutofireMinRange": 0.0,
+        "AutofireZoomTargetMinSizePercent": 100.0,
+        "AutofireAcquisitionDelay": 0.15,
+        "AutofireDBNOAcquisitionDelay": 0.0,
+        "AutofireAcquisitionRechargeTime": 0.0,
+        "AutofireReleaseTime": 0.0,
+        "AutofireCooldown": 0.0,
+        "PerWeaponHotfixes": {
+          "bDisableTargetingDuringReload": false,
+          "bDisableTargetingInAir": false,
+          "bDisableCheckpointReload": false,
+          "bDisableSecondaryRecoilLayers": false,
+          "bDisablePrimaryRecoilOverride": false
+        }
       },
       "Generic_ProximityMine": {
         "BaseLevel": 0,
@@ -1760,7 +2000,22 @@
         "MeleeAimAssistRequiredTag": {
           "TagName": "None"
         },
-        "MaxUnderReticleDistance": 8192.0
+        "MaxUnderReticleDistance": 8192.0,
+        "AutofireRange": 0.0,
+        "AutofireMinRange": 0.0,
+        "AutofireZoomTargetMinSizePercent": 100.0,
+        "AutofireAcquisitionDelay": 0.15,
+        "AutofireDBNOAcquisitionDelay": 0.0,
+        "AutofireAcquisitionRechargeTime": 0.0,
+        "AutofireReleaseTime": 0.0,
+        "AutofireCooldown": 0.0,
+        "PerWeaponHotfixes": {
+          "bDisableTargetingDuringReload": false,
+          "bDisableTargetingInAir": false,
+          "bDisableCheckpointReload": false,
+          "bDisableSecondaryRecoilLayers": false,
+          "bDisablePrimaryRecoilOverride": false
+        }
       },
       "Commando_Shockwave": {
         "BaseLevel": 0,
@@ -1863,7 +2118,22 @@
         "MeleeAimAssistRequiredTag": {
           "TagName": "None"
         },
-        "MaxUnderReticleDistance": 8192.0
+        "MaxUnderReticleDistance": 8192.0,
+        "AutofireRange": 0.0,
+        "AutofireMinRange": 0.0,
+        "AutofireZoomTargetMinSizePercent": 100.0,
+        "AutofireAcquisitionDelay": 0.15,
+        "AutofireDBNOAcquisitionDelay": 0.0,
+        "AutofireAcquisitionRechargeTime": 0.0,
+        "AutofireReleaseTime": 0.0,
+        "AutofireCooldown": 0.0,
+        "PerWeaponHotfixes": {
+          "bDisableTargetingDuringReload": false,
+          "bDisableTargetingInAir": false,
+          "bDisableCheckpointReload": false,
+          "bDisableSecondaryRecoilLayers": false,
+          "bDisablePrimaryRecoilOverride": false
+        }
       },
       "Constructor_BullRush": {
         "BaseLevel": 0,
@@ -1966,7 +2236,22 @@
         "MeleeAimAssistRequiredTag": {
           "TagName": "None"
         },
-        "MaxUnderReticleDistance": 8192.0
+        "MaxUnderReticleDistance": 8192.0,
+        "AutofireRange": 0.0,
+        "AutofireMinRange": 0.0,
+        "AutofireZoomTargetMinSizePercent": 100.0,
+        "AutofireAcquisitionDelay": 0.15,
+        "AutofireDBNOAcquisitionDelay": 0.0,
+        "AutofireAcquisitionRechargeTime": 0.0,
+        "AutofireReleaseTime": 0.0,
+        "AutofireCooldown": 0.0,
+        "PerWeaponHotfixes": {
+          "bDisableTargetingDuringReload": false,
+          "bDisableTargetingInAir": false,
+          "bDisableCheckpointReload": false,
+          "bDisableSecondaryRecoilLayers": false,
+          "bDisablePrimaryRecoilOverride": false
+        }
       },
       "Ninja_MantisStrike": {
         "BaseLevel": 0,
@@ -2069,7 +2354,22 @@
         "MeleeAimAssistRequiredTag": {
           "TagName": "None"
         },
-        "MaxUnderReticleDistance": 8192.0
+        "MaxUnderReticleDistance": 8192.0,
+        "AutofireRange": 0.0,
+        "AutofireMinRange": 0.0,
+        "AutofireZoomTargetMinSizePercent": 100.0,
+        "AutofireAcquisitionDelay": 0.15,
+        "AutofireDBNOAcquisitionDelay": 0.0,
+        "AutofireAcquisitionRechargeTime": 0.0,
+        "AutofireReleaseTime": 0.0,
+        "AutofireCooldown": 0.0,
+        "PerWeaponHotfixes": {
+          "bDisableTargetingDuringReload": false,
+          "bDisableTargetingInAir": false,
+          "bDisableCheckpointReload": false,
+          "bDisableSecondaryRecoilLayers": false,
+          "bDisablePrimaryRecoilOverride": false
+        }
       },
       "Outlander_GravitySphere": {
         "BaseLevel": 0,
@@ -2172,7 +2472,22 @@
         "MeleeAimAssistRequiredTag": {
           "TagName": "None"
         },
-        "MaxUnderReticleDistance": 8192.0
+        "MaxUnderReticleDistance": 8192.0,
+        "AutofireRange": 0.0,
+        "AutofireMinRange": 0.0,
+        "AutofireZoomTargetMinSizePercent": 100.0,
+        "AutofireAcquisitionDelay": 0.15,
+        "AutofireDBNOAcquisitionDelay": 0.0,
+        "AutofireAcquisitionRechargeTime": 0.0,
+        "AutofireReleaseTime": 0.0,
+        "AutofireCooldown": 0.0,
+        "PerWeaponHotfixes": {
+          "bDisableTargetingDuringReload": false,
+          "bDisableTargetingInAir": false,
+          "bDisableCheckpointReload": false,
+          "bDisableSecondaryRecoilLayers": false,
+          "bDisablePrimaryRecoilOverride": false
+        }
       },
       "Commando_IfItBleeds": {
         "BaseLevel": 0,
@@ -2275,7 +2590,22 @@
         "MeleeAimAssistRequiredTag": {
           "TagName": "None"
         },
-        "MaxUnderReticleDistance": 8192.0
+        "MaxUnderReticleDistance": 8192.0,
+        "AutofireRange": 0.0,
+        "AutofireMinRange": 0.0,
+        "AutofireZoomTargetMinSizePercent": 100.0,
+        "AutofireAcquisitionDelay": 0.15,
+        "AutofireDBNOAcquisitionDelay": 0.0,
+        "AutofireAcquisitionRechargeTime": 0.0,
+        "AutofireReleaseTime": 0.0,
+        "AutofireCooldown": 0.0,
+        "PerWeaponHotfixes": {
+          "bDisableTargetingDuringReload": false,
+          "bDisableTargetingInAir": false,
+          "bDisableCheckpointReload": false,
+          "bDisableSecondaryRecoilLayers": false,
+          "bDisablePrimaryRecoilOverride": false
+        }
       },
       "Constructor_TIAB": {
         "BaseLevel": 0,
@@ -2378,7 +2708,22 @@
         "MeleeAimAssistRequiredTag": {
           "TagName": "None"
         },
-        "MaxUnderReticleDistance": 8192.0
+        "MaxUnderReticleDistance": 8192.0,
+        "AutofireRange": 0.0,
+        "AutofireMinRange": 0.0,
+        "AutofireZoomTargetMinSizePercent": 100.0,
+        "AutofireAcquisitionDelay": 0.15,
+        "AutofireDBNOAcquisitionDelay": 0.0,
+        "AutofireAcquisitionRechargeTime": 0.0,
+        "AutofireReleaseTime": 0.0,
+        "AutofireCooldown": 0.0,
+        "PerWeaponHotfixes": {
+          "bDisableTargetingDuringReload": false,
+          "bDisableTargetingInAir": false,
+          "bDisableCheckpointReload": false,
+          "bDisableSecondaryRecoilLayers": false,
+          "bDisablePrimaryRecoilOverride": false
+        }
       },
       "Constructor_KineticOverload": {
         "BaseLevel": 0,
@@ -2481,7 +2826,22 @@
         "MeleeAimAssistRequiredTag": {
           "TagName": "None"
         },
-        "MaxUnderReticleDistance": 8192.0
+        "MaxUnderReticleDistance": 8192.0,
+        "AutofireRange": 0.0,
+        "AutofireMinRange": 0.0,
+        "AutofireZoomTargetMinSizePercent": 100.0,
+        "AutofireAcquisitionDelay": 0.15,
+        "AutofireDBNOAcquisitionDelay": 0.0,
+        "AutofireAcquisitionRechargeTime": 0.0,
+        "AutofireReleaseTime": 0.0,
+        "AutofireCooldown": 0.0,
+        "PerWeaponHotfixes": {
+          "bDisableTargetingDuringReload": false,
+          "bDisableTargetingInAir": false,
+          "bDisableCheckpointReload": false,
+          "bDisableSecondaryRecoilLayers": false,
+          "bDisablePrimaryRecoilOverride": false
+        }
       },
       "Alterations_DefaultMeleeDOT": {
         "BaseLevel": 0,
@@ -2584,7 +2944,22 @@
         "MeleeAimAssistRequiredTag": {
           "TagName": "None"
         },
-        "MaxUnderReticleDistance": 8192.0
+        "MaxUnderReticleDistance": 8192.0,
+        "AutofireRange": 0.0,
+        "AutofireMinRange": 0.0,
+        "AutofireZoomTargetMinSizePercent": 100.0,
+        "AutofireAcquisitionDelay": 0.15,
+        "AutofireDBNOAcquisitionDelay": 0.0,
+        "AutofireAcquisitionRechargeTime": 0.0,
+        "AutofireReleaseTime": 0.0,
+        "AutofireCooldown": 0.0,
+        "PerWeaponHotfixes": {
+          "bDisableTargetingDuringReload": false,
+          "bDisableTargetingInAir": false,
+          "bDisableCheckpointReload": false,
+          "bDisableSecondaryRecoilLayers": false,
+          "bDisablePrimaryRecoilOverride": false
+        }
       },
       "Alterations_DefaultRangedDOT": {
         "BaseLevel": 0,
@@ -2687,7 +3062,22 @@
         "MeleeAimAssistRequiredTag": {
           "TagName": "None"
         },
-        "MaxUnderReticleDistance": 8192.0
+        "MaxUnderReticleDistance": 8192.0,
+        "AutofireRange": 0.0,
+        "AutofireMinRange": 0.0,
+        "AutofireZoomTargetMinSizePercent": 100.0,
+        "AutofireAcquisitionDelay": 0.15,
+        "AutofireDBNOAcquisitionDelay": 0.0,
+        "AutofireAcquisitionRechargeTime": 0.0,
+        "AutofireReleaseTime": 0.0,
+        "AutofireCooldown": 0.0,
+        "PerWeaponHotfixes": {
+          "bDisableTargetingDuringReload": false,
+          "bDisableTargetingInAir": false,
+          "bDisableCheckpointReload": false,
+          "bDisableSecondaryRecoilLayers": false,
+          "bDisablePrimaryRecoilOverride": false
+        }
       },
       "Generic_BotTurretExplode": {
         "BaseLevel": 0,
@@ -2790,7 +3180,22 @@
         "MeleeAimAssistRequiredTag": {
           "TagName": "None"
         },
-        "MaxUnderReticleDistance": 8192.0
+        "MaxUnderReticleDistance": 8192.0,
+        "AutofireRange": 0.0,
+        "AutofireMinRange": 0.0,
+        "AutofireZoomTargetMinSizePercent": 100.0,
+        "AutofireAcquisitionDelay": 0.15,
+        "AutofireDBNOAcquisitionDelay": 0.0,
+        "AutofireAcquisitionRechargeTime": 0.0,
+        "AutofireReleaseTime": 0.0,
+        "AutofireCooldown": 0.0,
+        "PerWeaponHotfixes": {
+          "bDisableTargetingDuringReload": false,
+          "bDisableTargetingInAir": false,
+          "bDisableCheckpointReload": false,
+          "bDisableSecondaryRecoilLayers": false,
+          "bDisablePrimaryRecoilOverride": false
+        }
       },
       "Generic_AdrenalineRush": {
         "BaseLevel": 0,
@@ -2893,7 +3298,22 @@
         "MeleeAimAssistRequiredTag": {
           "TagName": "None"
         },
-        "MaxUnderReticleDistance": 8192.0
+        "MaxUnderReticleDistance": 8192.0,
+        "AutofireRange": 0.0,
+        "AutofireMinRange": 0.0,
+        "AutofireZoomTargetMinSizePercent": 100.0,
+        "AutofireAcquisitionDelay": 0.15,
+        "AutofireDBNOAcquisitionDelay": 0.0,
+        "AutofireAcquisitionRechargeTime": 0.0,
+        "AutofireReleaseTime": 0.0,
+        "AutofireCooldown": 0.0,
+        "PerWeaponHotfixes": {
+          "bDisableTargetingDuringReload": false,
+          "bDisableTargetingInAir": false,
+          "bDisableCheckpointReload": false,
+          "bDisableSecondaryRecoilLayers": false,
+          "bDisablePrimaryRecoilOverride": false
+        }
       },
       "Commando_Survivalist": {
         "BaseLevel": 0,
@@ -2996,7 +3416,22 @@
         "MeleeAimAssistRequiredTag": {
           "TagName": "None"
         },
-        "MaxUnderReticleDistance": 8192.0
+        "MaxUnderReticleDistance": 8192.0,
+        "AutofireRange": 0.0,
+        "AutofireMinRange": 0.0,
+        "AutofireZoomTargetMinSizePercent": 100.0,
+        "AutofireAcquisitionDelay": 0.15,
+        "AutofireDBNOAcquisitionDelay": 0.0,
+        "AutofireAcquisitionRechargeTime": 0.0,
+        "AutofireReleaseTime": 0.0,
+        "AutofireCooldown": 0.0,
+        "PerWeaponHotfixes": {
+          "bDisableTargetingDuringReload": false,
+          "bDisableTargetingInAir": false,
+          "bDisableCheckpointReload": false,
+          "bDisableSecondaryRecoilLayers": false,
+          "bDisablePrimaryRecoilOverride": false
+        }
       },
       "Constructor_FallKnockback": {
         "BaseLevel": 0,
@@ -3099,7 +3534,22 @@
         "MeleeAimAssistRequiredTag": {
           "TagName": "None"
         },
-        "MaxUnderReticleDistance": 8192.0
+        "MaxUnderReticleDistance": 8192.0,
+        "AutofireRange": 0.0,
+        "AutofireMinRange": 0.0,
+        "AutofireZoomTargetMinSizePercent": 100.0,
+        "AutofireAcquisitionDelay": 0.15,
+        "AutofireDBNOAcquisitionDelay": 0.0,
+        "AutofireAcquisitionRechargeTime": 0.0,
+        "AutofireReleaseTime": 0.0,
+        "AutofireCooldown": 0.0,
+        "PerWeaponHotfixes": {
+          "bDisableTargetingDuringReload": false,
+          "bDisableTargetingInAir": false,
+          "bDisableCheckpointReload": false,
+          "bDisableSecondaryRecoilLayers": false,
+          "bDisablePrimaryRecoilOverride": false
+        }
       },
       "Banner_Shockwave": {
         "BaseLevel": 0,
@@ -3202,7 +3652,22 @@
         "MeleeAimAssistRequiredTag": {
           "TagName": "None"
         },
-        "MaxUnderReticleDistance": 8192.0
+        "MaxUnderReticleDistance": 8192.0,
+        "AutofireRange": 0.0,
+        "AutofireMinRange": 0.0,
+        "AutofireZoomTargetMinSizePercent": 100.0,
+        "AutofireAcquisitionDelay": 0.15,
+        "AutofireDBNOAcquisitionDelay": 0.0,
+        "AutofireAcquisitionRechargeTime": 0.0,
+        "AutofireReleaseTime": 0.0,
+        "AutofireCooldown": 0.0,
+        "PerWeaponHotfixes": {
+          "bDisableTargetingDuringReload": false,
+          "bDisableTargetingInAir": false,
+          "bDisableCheckpointReload": false,
+          "bDisableSecondaryRecoilLayers": false,
+          "bDisablePrimaryRecoilOverride": false
+        }
       },
       "Outlander_ShockTower": {
         "BaseLevel": 0,
@@ -3305,7 +3770,22 @@
         "MeleeAimAssistRequiredTag": {
           "TagName": "None"
         },
-        "MaxUnderReticleDistance": 8192.0
+        "MaxUnderReticleDistance": 8192.0,
+        "AutofireRange": 0.0,
+        "AutofireMinRange": 0.0,
+        "AutofireZoomTargetMinSizePercent": 100.0,
+        "AutofireAcquisitionDelay": 0.15,
+        "AutofireDBNOAcquisitionDelay": 0.0,
+        "AutofireAcquisitionRechargeTime": 0.0,
+        "AutofireReleaseTime": 0.0,
+        "AutofireCooldown": 0.0,
+        "PerWeaponHotfixes": {
+          "bDisableTargetingDuringReload": false,
+          "bDisableTargetingInAir": false,
+          "bDisableCheckpointReload": false,
+          "bDisableSecondaryRecoilLayers": false,
+          "bDisablePrimaryRecoilOverride": false
+        }
       },
       "Outlander_BearTower": {
         "BaseLevel": 0,
@@ -3408,7 +3888,22 @@
         "MeleeAimAssistRequiredTag": {
           "TagName": "None"
         },
-        "MaxUnderReticleDistance": 8192.0
+        "MaxUnderReticleDistance": 8192.0,
+        "AutofireRange": 0.0,
+        "AutofireMinRange": 0.0,
+        "AutofireZoomTargetMinSizePercent": 100.0,
+        "AutofireAcquisitionDelay": 0.15,
+        "AutofireDBNOAcquisitionDelay": 0.0,
+        "AutofireAcquisitionRechargeTime": 0.0,
+        "AutofireReleaseTime": 0.0,
+        "AutofireCooldown": 0.0,
+        "PerWeaponHotfixes": {
+          "bDisableTargetingDuringReload": false,
+          "bDisableTargetingInAir": false,
+          "bDisableCheckpointReload": false,
+          "bDisableSecondaryRecoilLayers": false,
+          "bDisablePrimaryRecoilOverride": false
+        }
       },
       "Constructor_Decoy_Explode": {
         "BaseLevel": 0,
@@ -3511,7 +4006,22 @@
         "MeleeAimAssistRequiredTag": {
           "TagName": "None"
         },
-        "MaxUnderReticleDistance": 8192.0
+        "MaxUnderReticleDistance": 8192.0,
+        "AutofireRange": 0.0,
+        "AutofireMinRange": 0.0,
+        "AutofireZoomTargetMinSizePercent": 100.0,
+        "AutofireAcquisitionDelay": 0.15,
+        "AutofireDBNOAcquisitionDelay": 0.0,
+        "AutofireAcquisitionRechargeTime": 0.0,
+        "AutofireReleaseTime": 0.0,
+        "AutofireCooldown": 0.0,
+        "PerWeaponHotfixes": {
+          "bDisableTargetingDuringReload": false,
+          "bDisableTargetingInAir": false,
+          "bDisableCheckpointReload": false,
+          "bDisableSecondaryRecoilLayers": false,
+          "bDisablePrimaryRecoilOverride": false
+        }
       },
       "Constructor_Decoy_DoT": {
         "BaseLevel": 0,
@@ -3614,7 +4124,22 @@
         "MeleeAimAssistRequiredTag": {
           "TagName": "None"
         },
-        "MaxUnderReticleDistance": 8192.0
+        "MaxUnderReticleDistance": 8192.0,
+        "AutofireRange": 0.0,
+        "AutofireMinRange": 0.0,
+        "AutofireZoomTargetMinSizePercent": 100.0,
+        "AutofireAcquisitionDelay": 0.15,
+        "AutofireDBNOAcquisitionDelay": 0.0,
+        "AutofireAcquisitionRechargeTime": 0.0,
+        "AutofireReleaseTime": 0.0,
+        "AutofireCooldown": 0.0,
+        "PerWeaponHotfixes": {
+          "bDisableTargetingDuringReload": false,
+          "bDisableTargetingInAir": false,
+          "bDisableCheckpointReload": false,
+          "bDisableSecondaryRecoilLayers": false,
+          "bDisablePrimaryRecoilOverride": false
+        }
       },
       "Constructor_Decoy_ReflectMeleeDamage": {
         "BaseLevel": 0,
@@ -3717,7 +4242,22 @@
         "MeleeAimAssistRequiredTag": {
           "TagName": "None"
         },
-        "MaxUnderReticleDistance": 8192.0
+        "MaxUnderReticleDistance": 8192.0,
+        "AutofireRange": 0.0,
+        "AutofireMinRange": 0.0,
+        "AutofireZoomTargetMinSizePercent": 100.0,
+        "AutofireAcquisitionDelay": 0.15,
+        "AutofireDBNOAcquisitionDelay": 0.0,
+        "AutofireAcquisitionRechargeTime": 0.0,
+        "AutofireReleaseTime": 0.0,
+        "AutofireCooldown": 0.0,
+        "PerWeaponHotfixes": {
+          "bDisableTargetingDuringReload": false,
+          "bDisableTargetingInAir": false,
+          "bDisableCheckpointReload": false,
+          "bDisableSecondaryRecoilLayers": false,
+          "bDisablePrimaryRecoilOverride": false
+        }
       },
       "Ninja_CrescentKick": {
         "BaseLevel": 0,
@@ -3730,10 +4270,10 @@
         "EnvDmgMid": 0.0,
         "EnvDmgLong": 0.0,
         "EnvDmgMaxRange": 0.0,
-        "ImpactDmgPB": 800.0,
-        "ImpactDmgMid": 800.0,
-        "ImpactDmgLong": 800.0,
-        "ImpactDmgMaxRange": 800.0,
+        "ImpactDmgPB": 1000.0,
+        "ImpactDmgMid": 1000.0,
+        "ImpactDmgLong": 1000.0,
+        "ImpactDmgMaxRange": 1000.0,
         "bForceControl": false,
         "RngPB": 0.0,
         "RngMid": 0.0,
@@ -3820,7 +4360,22 @@
         "MeleeAimAssistRequiredTag": {
           "TagName": "None"
         },
-        "MaxUnderReticleDistance": 8192.0
+        "MaxUnderReticleDistance": 8192.0,
+        "AutofireRange": 0.0,
+        "AutofireMinRange": 0.0,
+        "AutofireZoomTargetMinSizePercent": 100.0,
+        "AutofireAcquisitionDelay": 0.15,
+        "AutofireDBNOAcquisitionDelay": 0.0,
+        "AutofireAcquisitionRechargeTime": 0.0,
+        "AutofireReleaseTime": 0.0,
+        "AutofireCooldown": 0.0,
+        "PerWeaponHotfixes": {
+          "bDisableTargetingDuringReload": false,
+          "bDisableTargetingInAir": false,
+          "bDisableCheckpointReload": false,
+          "bDisableSecondaryRecoilLayers": false,
+          "bDisablePrimaryRecoilOverride": false
+        }
       },
       "Outlander_StunBaton": {
         "BaseLevel": 0,
@@ -3923,7 +4478,22 @@
         "MeleeAimAssistRequiredTag": {
           "TagName": "None"
         },
-        "MaxUnderReticleDistance": 8192.0
+        "MaxUnderReticleDistance": 8192.0,
+        "AutofireRange": 0.0,
+        "AutofireMinRange": 0.0,
+        "AutofireZoomTargetMinSizePercent": 100.0,
+        "AutofireAcquisitionDelay": 0.15,
+        "AutofireDBNOAcquisitionDelay": 0.0,
+        "AutofireAcquisitionRechargeTime": 0.0,
+        "AutofireReleaseTime": 0.0,
+        "AutofireCooldown": 0.0,
+        "PerWeaponHotfixes": {
+          "bDisableTargetingDuringReload": false,
+          "bDisableTargetingInAir": false,
+          "bDisableCheckpointReload": false,
+          "bDisableSecondaryRecoilLayers": false,
+          "bDisablePrimaryRecoilOverride": false
+        }
       },
       "Outlander_PhaseBlast": {
         "BaseLevel": 0,
@@ -4026,7 +4596,22 @@
         "MeleeAimAssistRequiredTag": {
           "TagName": "None"
         },
-        "MaxUnderReticleDistance": 8192.0
+        "MaxUnderReticleDistance": 8192.0,
+        "AutofireRange": 0.0,
+        "AutofireMinRange": 0.0,
+        "AutofireZoomTargetMinSizePercent": 100.0,
+        "AutofireAcquisitionDelay": 0.15,
+        "AutofireDBNOAcquisitionDelay": 0.0,
+        "AutofireAcquisitionRechargeTime": 0.0,
+        "AutofireReleaseTime": 0.0,
+        "AutofireCooldown": 0.0,
+        "PerWeaponHotfixes": {
+          "bDisableTargetingDuringReload": false,
+          "bDisableTargetingInAir": false,
+          "bDisableCheckpointReload": false,
+          "bDisableSecondaryRecoilLayers": false,
+          "bDisablePrimaryRecoilOverride": false
+        }
       },
       "Elemental_NPC_PawnFire": {
         "BaseLevel": 0,
@@ -4129,7 +4714,22 @@
         "MeleeAimAssistRequiredTag": {
           "TagName": "None"
         },
-        "MaxUnderReticleDistance": 8192.0
+        "MaxUnderReticleDistance": 8192.0,
+        "AutofireRange": 0.0,
+        "AutofireMinRange": 0.0,
+        "AutofireZoomTargetMinSizePercent": 100.0,
+        "AutofireAcquisitionDelay": 0.15,
+        "AutofireDBNOAcquisitionDelay": 0.0,
+        "AutofireAcquisitionRechargeTime": 0.0,
+        "AutofireReleaseTime": 0.0,
+        "AutofireCooldown": 0.0,
+        "PerWeaponHotfixes": {
+          "bDisableTargetingDuringReload": false,
+          "bDisableTargetingInAir": false,
+          "bDisableCheckpointReload": false,
+          "bDisableSecondaryRecoilLayers": false,
+          "bDisablePrimaryRecoilOverride": false
+        }
       },
       "Elemental_NPC_PawnLightning": {
         "BaseLevel": 0,
@@ -4232,7 +4832,22 @@
         "MeleeAimAssistRequiredTag": {
           "TagName": "None"
         },
-        "MaxUnderReticleDistance": 8192.0
+        "MaxUnderReticleDistance": 8192.0,
+        "AutofireRange": 0.0,
+        "AutofireMinRange": 0.0,
+        "AutofireZoomTargetMinSizePercent": 100.0,
+        "AutofireAcquisitionDelay": 0.15,
+        "AutofireDBNOAcquisitionDelay": 0.0,
+        "AutofireAcquisitionRechargeTime": 0.0,
+        "AutofireReleaseTime": 0.0,
+        "AutofireCooldown": 0.0,
+        "PerWeaponHotfixes": {
+          "bDisableTargetingDuringReload": false,
+          "bDisableTargetingInAir": false,
+          "bDisableCheckpointReload": false,
+          "bDisableSecondaryRecoilLayers": false,
+          "bDisablePrimaryRecoilOverride": false
+        }
       },
       "Commando_APOBS": {
         "BaseLevel": 0,
@@ -4335,7 +4950,22 @@
         "MeleeAimAssistRequiredTag": {
           "TagName": "None"
         },
-        "MaxUnderReticleDistance": 8192.0
+        "MaxUnderReticleDistance": 8192.0,
+        "AutofireRange": 0.0,
+        "AutofireMinRange": 0.0,
+        "AutofireZoomTargetMinSizePercent": 100.0,
+        "AutofireAcquisitionDelay": 0.15,
+        "AutofireDBNOAcquisitionDelay": 0.0,
+        "AutofireAcquisitionRechargeTime": 0.0,
+        "AutofireReleaseTime": 0.0,
+        "AutofireCooldown": 0.0,
+        "PerWeaponHotfixes": {
+          "bDisableTargetingDuringReload": false,
+          "bDisableTargetingInAir": false,
+          "bDisableCheckpointReload": false,
+          "bDisableSecondaryRecoilLayers": false,
+          "bDisablePrimaryRecoilOverride": false
+        }
       },
       "Alterations_ShieldBreak": {
         "BaseLevel": 0,
@@ -4438,7 +5068,22 @@
         "MeleeAimAssistRequiredTag": {
           "TagName": "None"
         },
-        "MaxUnderReticleDistance": 8192.0
+        "MaxUnderReticleDistance": 8192.0,
+        "AutofireRange": 0.0,
+        "AutofireMinRange": 0.0,
+        "AutofireZoomTargetMinSizePercent": 100.0,
+        "AutofireAcquisitionDelay": 0.15,
+        "AutofireDBNOAcquisitionDelay": 0.0,
+        "AutofireAcquisitionRechargeTime": 0.0,
+        "AutofireReleaseTime": 0.0,
+        "AutofireCooldown": 0.0,
+        "PerWeaponHotfixes": {
+          "bDisableTargetingDuringReload": false,
+          "bDisableTargetingInAir": false,
+          "bDisableCheckpointReload": false,
+          "bDisableSecondaryRecoilLayers": false,
+          "bDisablePrimaryRecoilOverride": false
+        }
       },
       "Outlander_BearStare": {
         "BaseLevel": 0,
@@ -4541,7 +5186,22 @@
         "MeleeAimAssistRequiredTag": {
           "TagName": "None"
         },
-        "MaxUnderReticleDistance": 8192.0
+        "MaxUnderReticleDistance": 8192.0,
+        "AutofireRange": 0.0,
+        "AutofireMinRange": 0.0,
+        "AutofireZoomTargetMinSizePercent": 100.0,
+        "AutofireAcquisitionDelay": 0.15,
+        "AutofireDBNOAcquisitionDelay": 0.0,
+        "AutofireAcquisitionRechargeTime": 0.0,
+        "AutofireReleaseTime": 0.0,
+        "AutofireCooldown": 0.0,
+        "PerWeaponHotfixes": {
+          "bDisableTargetingDuringReload": false,
+          "bDisableTargetingInAir": false,
+          "bDisableCheckpointReload": false,
+          "bDisableSecondaryRecoilLayers": false,
+          "bDisablePrimaryRecoilOverride": false
+        }
       },
       "Commando_ExplosiveTargets": {
         "BaseLevel": 0,
@@ -4644,7 +5304,22 @@
         "MeleeAimAssistRequiredTag": {
           "TagName": "None"
         },
-        "MaxUnderReticleDistance": 8192.0
+        "MaxUnderReticleDistance": 8192.0,
+        "AutofireRange": 0.0,
+        "AutofireMinRange": 0.0,
+        "AutofireZoomTargetMinSizePercent": 100.0,
+        "AutofireAcquisitionDelay": 0.15,
+        "AutofireDBNOAcquisitionDelay": 0.0,
+        "AutofireAcquisitionRechargeTime": 0.0,
+        "AutofireReleaseTime": 0.0,
+        "AutofireCooldown": 0.0,
+        "PerWeaponHotfixes": {
+          "bDisableTargetingDuringReload": false,
+          "bDisableTargetingInAir": false,
+          "bDisableCheckpointReload": false,
+          "bDisableSecondaryRecoilLayers": false,
+          "bDisablePrimaryRecoilOverride": false
+        }
       },
       "Alterations_OnDmg_KnockbackAOE": {
         "BaseLevel": 0,
@@ -4747,7 +5422,22 @@
         "MeleeAimAssistRequiredTag": {
           "TagName": "None"
         },
-        "MaxUnderReticleDistance": 8192.0
+        "MaxUnderReticleDistance": 8192.0,
+        "AutofireRange": 0.0,
+        "AutofireMinRange": 0.0,
+        "AutofireZoomTargetMinSizePercent": 100.0,
+        "AutofireAcquisitionDelay": 0.15,
+        "AutofireDBNOAcquisitionDelay": 0.0,
+        "AutofireAcquisitionRechargeTime": 0.0,
+        "AutofireReleaseTime": 0.0,
+        "AutofireCooldown": 0.0,
+        "PerWeaponHotfixes": {
+          "bDisableTargetingDuringReload": false,
+          "bDisableTargetingInAir": false,
+          "bDisableCheckpointReload": false,
+          "bDisableSecondaryRecoilLayers": false,
+          "bDisablePrimaryRecoilOverride": false
+        }
       },
       "Alterations_HitStreakExplosionDamage": {
         "BaseLevel": 0,
@@ -4850,7 +5540,22 @@
         "MeleeAimAssistRequiredTag": {
           "TagName": "None"
         },
-        "MaxUnderReticleDistance": 8192.0
+        "MaxUnderReticleDistance": 8192.0,
+        "AutofireRange": 0.0,
+        "AutofireMinRange": 0.0,
+        "AutofireZoomTargetMinSizePercent": 100.0,
+        "AutofireAcquisitionDelay": 0.15,
+        "AutofireDBNOAcquisitionDelay": 0.0,
+        "AutofireAcquisitionRechargeTime": 0.0,
+        "AutofireReleaseTime": 0.0,
+        "AutofireCooldown": 0.0,
+        "PerWeaponHotfixes": {
+          "bDisableTargetingDuringReload": false,
+          "bDisableTargetingInAir": false,
+          "bDisableCheckpointReload": false,
+          "bDisableSecondaryRecoilLayers": false,
+          "bDisablePrimaryRecoilOverride": false
+        }
       },
       "Ninja_SwordHitsHeal": {
         "BaseLevel": 0,
@@ -4953,7 +5658,22 @@
         "MeleeAimAssistRequiredTag": {
           "TagName": "None"
         },
-        "MaxUnderReticleDistance": 8192.0
+        "MaxUnderReticleDistance": 8192.0,
+        "AutofireRange": 0.0,
+        "AutofireMinRange": 0.0,
+        "AutofireZoomTargetMinSizePercent": 100.0,
+        "AutofireAcquisitionDelay": 0.15,
+        "AutofireDBNOAcquisitionDelay": 0.0,
+        "AutofireAcquisitionRechargeTime": 0.0,
+        "AutofireReleaseTime": 0.0,
+        "AutofireCooldown": 0.0,
+        "PerWeaponHotfixes": {
+          "bDisableTargetingDuringReload": false,
+          "bDisableTargetingInAir": false,
+          "bDisableCheckpointReload": false,
+          "bDisableSecondaryRecoilLayers": false,
+          "bDisablePrimaryRecoilOverride": false
+        }
       },
       "Constructor_HammerHitsHeal": {
         "BaseLevel": 0,
@@ -5056,7 +5776,22 @@
         "MeleeAimAssistRequiredTag": {
           "TagName": "None"
         },
-        "MaxUnderReticleDistance": 8192.0
+        "MaxUnderReticleDistance": 8192.0,
+        "AutofireRange": 0.0,
+        "AutofireMinRange": 0.0,
+        "AutofireZoomTargetMinSizePercent": 100.0,
+        "AutofireAcquisitionDelay": 0.15,
+        "AutofireDBNOAcquisitionDelay": 0.0,
+        "AutofireAcquisitionRechargeTime": 0.0,
+        "AutofireReleaseTime": 0.0,
+        "AutofireCooldown": 0.0,
+        "PerWeaponHotfixes": {
+          "bDisableTargetingDuringReload": false,
+          "bDisableTargetingInAir": false,
+          "bDisableCheckpointReload": false,
+          "bDisableSecondaryRecoilLayers": false,
+          "bDisablePrimaryRecoilOverride": false
+        }
       },
       "Tactical_MeleeHitsHeal": {
         "BaseLevel": 0,
@@ -5159,7 +5894,22 @@
         "MeleeAimAssistRequiredTag": {
           "TagName": "None"
         },
-        "MaxUnderReticleDistance": 8192.0
+        "MaxUnderReticleDistance": 8192.0,
+        "AutofireRange": 0.0,
+        "AutofireMinRange": 0.0,
+        "AutofireZoomTargetMinSizePercent": 100.0,
+        "AutofireAcquisitionDelay": 0.15,
+        "AutofireDBNOAcquisitionDelay": 0.0,
+        "AutofireAcquisitionRechargeTime": 0.0,
+        "AutofireReleaseTime": 0.0,
+        "AutofireCooldown": 0.0,
+        "PerWeaponHotfixes": {
+          "bDisableTargetingDuringReload": false,
+          "bDisableTargetingInAir": false,
+          "bDisableCheckpointReload": false,
+          "bDisableSecondaryRecoilLayers": false,
+          "bDisablePrimaryRecoilOverride": false
+        }
       },
       "Outlander_PartingGift": {
         "BaseLevel": 0,
@@ -5262,7 +6012,22 @@
         "MeleeAimAssistRequiredTag": {
           "TagName": "None"
         },
-        "MaxUnderReticleDistance": 8192.0
+        "MaxUnderReticleDistance": 8192.0,
+        "AutofireRange": 0.0,
+        "AutofireMinRange": 0.0,
+        "AutofireZoomTargetMinSizePercent": 100.0,
+        "AutofireAcquisitionDelay": 0.15,
+        "AutofireDBNOAcquisitionDelay": 0.0,
+        "AutofireAcquisitionRechargeTime": 0.0,
+        "AutofireReleaseTime": 0.0,
+        "AutofireCooldown": 0.0,
+        "PerWeaponHotfixes": {
+          "bDisableTargetingDuringReload": false,
+          "bDisableTargetingInAir": false,
+          "bDisableCheckpointReload": false,
+          "bDisableSecondaryRecoilLayers": false,
+          "bDisablePrimaryRecoilOverride": false
+        }
       },
       "Constructor_DecoyStun": {
         "BaseLevel": 0,
@@ -5365,7 +6130,22 @@
         "MeleeAimAssistRequiredTag": {
           "TagName": "None"
         },
-        "MaxUnderReticleDistance": 8192.0
+        "MaxUnderReticleDistance": 8192.0,
+        "AutofireRange": 0.0,
+        "AutofireMinRange": 0.0,
+        "AutofireZoomTargetMinSizePercent": 100.0,
+        "AutofireAcquisitionDelay": 0.15,
+        "AutofireDBNOAcquisitionDelay": 0.0,
+        "AutofireAcquisitionRechargeTime": 0.0,
+        "AutofireReleaseTime": 0.0,
+        "AutofireCooldown": 0.0,
+        "PerWeaponHotfixes": {
+          "bDisableTargetingDuringReload": false,
+          "bDisableTargetingInAir": false,
+          "bDisableCheckpointReload": false,
+          "bDisableSecondaryRecoilLayers": false,
+          "bDisablePrimaryRecoilOverride": false
+        }
       },
       "Alterations_FirePoolsDOT": {
         "BaseLevel": 0,
@@ -5468,7 +6248,22 @@
         "MeleeAimAssistRequiredTag": {
           "TagName": "None"
         },
-        "MaxUnderReticleDistance": 8192.0
+        "MaxUnderReticleDistance": 8192.0,
+        "AutofireRange": 0.0,
+        "AutofireMinRange": 0.0,
+        "AutofireZoomTargetMinSizePercent": 100.0,
+        "AutofireAcquisitionDelay": 0.15,
+        "AutofireDBNOAcquisitionDelay": 0.0,
+        "AutofireAcquisitionRechargeTime": 0.0,
+        "AutofireReleaseTime": 0.0,
+        "AutofireCooldown": 0.0,
+        "PerWeaponHotfixes": {
+          "bDisableTargetingDuringReload": false,
+          "bDisableTargetingInAir": false,
+          "bDisableCheckpointReload": false,
+          "bDisableSecondaryRecoilLayers": false,
+          "bDisablePrimaryRecoilOverride": false
+        }
       },
       "Constructor_PlasmaPulseAoEBlast": {
         "BaseLevel": 0,
@@ -5571,7 +6366,22 @@
         "MeleeAimAssistRequiredTag": {
           "TagName": "None"
         },
-        "MaxUnderReticleDistance": 8192.0
+        "MaxUnderReticleDistance": 8192.0,
+        "AutofireRange": 0.0,
+        "AutofireMinRange": 0.0,
+        "AutofireZoomTargetMinSizePercent": 100.0,
+        "AutofireAcquisitionDelay": 0.15,
+        "AutofireDBNOAcquisitionDelay": 0.0,
+        "AutofireAcquisitionRechargeTime": 0.0,
+        "AutofireReleaseTime": 0.0,
+        "AutofireCooldown": 0.0,
+        "PerWeaponHotfixes": {
+          "bDisableTargetingDuringReload": false,
+          "bDisableTargetingInAir": false,
+          "bDisableCheckpointReload": false,
+          "bDisableSecondaryRecoilLayers": false,
+          "bDisablePrimaryRecoilOverride": false
+        }
       },
       "Alterations_OnDmg_Stun": {
         "BaseLevel": 0,
@@ -5674,7 +6484,22 @@
         "MeleeAimAssistRequiredTag": {
           "TagName": "None"
         },
-        "MaxUnderReticleDistance": 8192.0
+        "MaxUnderReticleDistance": 8192.0,
+        "AutofireRange": 0.0,
+        "AutofireMinRange": 0.0,
+        "AutofireZoomTargetMinSizePercent": 100.0,
+        "AutofireAcquisitionDelay": 0.15,
+        "AutofireDBNOAcquisitionDelay": 0.0,
+        "AutofireAcquisitionRechargeTime": 0.0,
+        "AutofireReleaseTime": 0.0,
+        "AutofireCooldown": 0.0,
+        "PerWeaponHotfixes": {
+          "bDisableTargetingDuringReload": false,
+          "bDisableTargetingInAir": false,
+          "bDisableCheckpointReload": false,
+          "bDisableSecondaryRecoilLayers": false,
+          "bDisablePrimaryRecoilOverride": false
+        }
       },
       "Commando_OutWithABang": {
         "BaseLevel": 0,
@@ -5777,7 +6602,22 @@
         "MeleeAimAssistRequiredTag": {
           "TagName": "None"
         },
-        "MaxUnderReticleDistance": 8192.0
+        "MaxUnderReticleDistance": 8192.0,
+        "AutofireRange": 0.0,
+        "AutofireMinRange": 0.0,
+        "AutofireZoomTargetMinSizePercent": 100.0,
+        "AutofireAcquisitionDelay": 0.15,
+        "AutofireDBNOAcquisitionDelay": 0.0,
+        "AutofireAcquisitionRechargeTime": 0.0,
+        "AutofireReleaseTime": 0.0,
+        "AutofireCooldown": 0.0,
+        "PerWeaponHotfixes": {
+          "bDisableTargetingDuringReload": false,
+          "bDisableTargetingInAir": false,
+          "bDisableCheckpointReload": false,
+          "bDisableSecondaryRecoilLayers": false,
+          "bDisablePrimaryRecoilOverride": false
+        }
       },
       "Ninja_ShieldBreakStun": {
         "BaseLevel": 0,
@@ -5880,7 +6720,22 @@
         "MeleeAimAssistRequiredTag": {
           "TagName": "None"
         },
-        "MaxUnderReticleDistance": 8192.0
+        "MaxUnderReticleDistance": 8192.0,
+        "AutofireRange": 0.0,
+        "AutofireMinRange": 0.0,
+        "AutofireZoomTargetMinSizePercent": 100.0,
+        "AutofireAcquisitionDelay": 0.15,
+        "AutofireDBNOAcquisitionDelay": 0.0,
+        "AutofireAcquisitionRechargeTime": 0.0,
+        "AutofireReleaseTime": 0.0,
+        "AutofireCooldown": 0.0,
+        "PerWeaponHotfixes": {
+          "bDisableTargetingDuringReload": false,
+          "bDisableTargetingInAir": false,
+          "bDisableCheckpointReload": false,
+          "bDisableSecondaryRecoilLayers": false,
+          "bDisablePrimaryRecoilOverride": false
+        }
       },
       "Constructor_Firewall": {
         "BaseLevel": 0,
@@ -5983,7 +6838,22 @@
         "MeleeAimAssistRequiredTag": {
           "TagName": "None"
         },
-        "MaxUnderReticleDistance": 8192.0
+        "MaxUnderReticleDistance": 8192.0,
+        "AutofireRange": 0.0,
+        "AutofireMinRange": 0.0,
+        "AutofireZoomTargetMinSizePercent": 100.0,
+        "AutofireAcquisitionDelay": 0.15,
+        "AutofireDBNOAcquisitionDelay": 0.0,
+        "AutofireAcquisitionRechargeTime": 0.0,
+        "AutofireReleaseTime": 0.0,
+        "AutofireCooldown": 0.0,
+        "PerWeaponHotfixes": {
+          "bDisableTargetingDuringReload": false,
+          "bDisableTargetingInAir": false,
+          "bDisableCheckpointReload": false,
+          "bDisableSecondaryRecoilLayers": false,
+          "bDisablePrimaryRecoilOverride": false
+        }
       },
       "Constructor_Tactical_Firewall": {
         "BaseLevel": 0,
@@ -6086,7 +6956,22 @@
         "MeleeAimAssistRequiredTag": {
           "TagName": "None"
         },
-        "MaxUnderReticleDistance": 8192.0
+        "MaxUnderReticleDistance": 8192.0,
+        "AutofireRange": 0.0,
+        "AutofireMinRange": 0.0,
+        "AutofireZoomTargetMinSizePercent": 100.0,
+        "AutofireAcquisitionDelay": 0.15,
+        "AutofireDBNOAcquisitionDelay": 0.0,
+        "AutofireAcquisitionRechargeTime": 0.0,
+        "AutofireReleaseTime": 0.0,
+        "AutofireCooldown": 0.0,
+        "PerWeaponHotfixes": {
+          "bDisableTargetingDuringReload": false,
+          "bDisableTargetingInAir": false,
+          "bDisableCheckpointReload": false,
+          "bDisableSecondaryRecoilLayers": false,
+          "bDisablePrimaryRecoilOverride": false
+        }
       },
       "Alterations_OnMeleeCrit_Explode": {
         "BaseLevel": 0,
@@ -6189,7 +7074,22 @@
         "MeleeAimAssistRequiredTag": {
           "TagName": "None"
         },
-        "MaxUnderReticleDistance": 8192.0
+        "MaxUnderReticleDistance": 8192.0,
+        "AutofireRange": 0.0,
+        "AutofireMinRange": 0.0,
+        "AutofireZoomTargetMinSizePercent": 100.0,
+        "AutofireAcquisitionDelay": 0.15,
+        "AutofireDBNOAcquisitionDelay": 0.0,
+        "AutofireAcquisitionRechargeTime": 0.0,
+        "AutofireReleaseTime": 0.0,
+        "AutofireCooldown": 0.0,
+        "PerWeaponHotfixes": {
+          "bDisableTargetingDuringReload": false,
+          "bDisableTargetingInAir": false,
+          "bDisableCheckpointReload": false,
+          "bDisableSecondaryRecoilLayers": false,
+          "bDisablePrimaryRecoilOverride": false
+        }
       },
       "Alterations_OnKill_SpawnFirework": {
         "BaseLevel": 0,
@@ -6292,7 +7192,22 @@
         "MeleeAimAssistRequiredTag": {
           "TagName": "None"
         },
-        "MaxUnderReticleDistance": 8192.0
+        "MaxUnderReticleDistance": 8192.0,
+        "AutofireRange": 0.0,
+        "AutofireMinRange": 0.0,
+        "AutofireZoomTargetMinSizePercent": 100.0,
+        "AutofireAcquisitionDelay": 0.15,
+        "AutofireDBNOAcquisitionDelay": 0.0,
+        "AutofireAcquisitionRechargeTime": 0.0,
+        "AutofireReleaseTime": 0.0,
+        "AutofireCooldown": 0.0,
+        "PerWeaponHotfixes": {
+          "bDisableTargetingDuringReload": false,
+          "bDisableTargetingInAir": false,
+          "bDisableCheckpointReload": false,
+          "bDisableSecondaryRecoilLayers": false,
+          "bDisablePrimaryRecoilOverride": false
+        }
       },
       "Constructor_FeelTheBase": {
         "BaseLevel": 0,
@@ -6395,7 +7310,22 @@
         "MeleeAimAssistRequiredTag": {
           "TagName": "None"
         },
-        "MaxUnderReticleDistance": 8192.0
+        "MaxUnderReticleDistance": 8192.0,
+        "AutofireRange": 0.0,
+        "AutofireMinRange": 0.0,
+        "AutofireZoomTargetMinSizePercent": 100.0,
+        "AutofireAcquisitionDelay": 0.15,
+        "AutofireDBNOAcquisitionDelay": 0.0,
+        "AutofireAcquisitionRechargeTime": 0.0,
+        "AutofireReleaseTime": 0.0,
+        "AutofireCooldown": 0.0,
+        "PerWeaponHotfixes": {
+          "bDisableTargetingDuringReload": false,
+          "bDisableTargetingInAir": false,
+          "bDisableCheckpointReload": false,
+          "bDisableSecondaryRecoilLayers": false,
+          "bDisablePrimaryRecoilOverride": false
+        }
       },
       "Outlander_PhaseShift": {
         "BaseLevel": 0,
@@ -6498,7 +7428,22 @@
         "MeleeAimAssistRequiredTag": {
           "TagName": "None"
         },
-        "MaxUnderReticleDistance": 8192.0
+        "MaxUnderReticleDistance": 8192.0,
+        "AutofireRange": 0.0,
+        "AutofireMinRange": 0.0,
+        "AutofireZoomTargetMinSizePercent": 100.0,
+        "AutofireAcquisitionDelay": 0.15,
+        "AutofireDBNOAcquisitionDelay": 0.0,
+        "AutofireAcquisitionRechargeTime": 0.0,
+        "AutofireReleaseTime": 0.0,
+        "AutofireCooldown": 0.0,
+        "PerWeaponHotfixes": {
+          "bDisableTargetingDuringReload": false,
+          "bDisableTargetingInAir": false,
+          "bDisableCheckpointReload": false,
+          "bDisableSecondaryRecoilLayers": false,
+          "bDisablePrimaryRecoilOverride": false
+        }
       },
       "Commando_Twinblast": {
         "BaseLevel": 0,
@@ -6601,7 +7546,22 @@
         "MeleeAimAssistRequiredTag": {
           "TagName": "None"
         },
-        "MaxUnderReticleDistance": 8192.0
+        "MaxUnderReticleDistance": 8192.0,
+        "AutofireRange": 0.0,
+        "AutofireMinRange": 0.0,
+        "AutofireZoomTargetMinSizePercent": 100.0,
+        "AutofireAcquisitionDelay": 0.15,
+        "AutofireDBNOAcquisitionDelay": 0.0,
+        "AutofireAcquisitionRechargeTime": 0.0,
+        "AutofireReleaseTime": 0.0,
+        "AutofireCooldown": 0.0,
+        "PerWeaponHotfixes": {
+          "bDisableTargetingDuringReload": false,
+          "bDisableTargetingInAir": false,
+          "bDisableCheckpointReload": false,
+          "bDisableSecondaryRecoilLayers": false,
+          "bDisablePrimaryRecoilOverride": false
+        }
       },
       "Commando_CorrosiveClips": {
         "BaseLevel": 0,
@@ -6704,7 +7664,22 @@
         "MeleeAimAssistRequiredTag": {
           "TagName": "None"
         },
-        "MaxUnderReticleDistance": 8192.0
+        "MaxUnderReticleDistance": 8192.0,
+        "AutofireRange": 0.0,
+        "AutofireMinRange": 0.0,
+        "AutofireZoomTargetMinSizePercent": 100.0,
+        "AutofireAcquisitionDelay": 0.15,
+        "AutofireDBNOAcquisitionDelay": 0.0,
+        "AutofireAcquisitionRechargeTime": 0.0,
+        "AutofireReleaseTime": 0.0,
+        "AutofireCooldown": 0.0,
+        "PerWeaponHotfixes": {
+          "bDisableTargetingDuringReload": false,
+          "bDisableTargetingInAir": false,
+          "bDisableCheckpointReload": false,
+          "bDisableSecondaryRecoilLayers": false,
+          "bDisablePrimaryRecoilOverride": false
+        }
       },
       "Mission_Earthquake_Stun": {
         "BaseLevel": 0,
@@ -6807,7 +7782,22 @@
         "MeleeAimAssistRequiredTag": {
           "TagName": "None"
         },
-        "MaxUnderReticleDistance": 8192.0
+        "MaxUnderReticleDistance": 8192.0,
+        "AutofireRange": 0.0,
+        "AutofireMinRange": 0.0,
+        "AutofireZoomTargetMinSizePercent": 100.0,
+        "AutofireAcquisitionDelay": 0.15,
+        "AutofireDBNOAcquisitionDelay": 0.0,
+        "AutofireAcquisitionRechargeTime": 0.0,
+        "AutofireReleaseTime": 0.0,
+        "AutofireCooldown": 0.0,
+        "PerWeaponHotfixes": {
+          "bDisableTargetingDuringReload": false,
+          "bDisableTargetingInAir": false,
+          "bDisableCheckpointReload": false,
+          "bDisableSecondaryRecoilLayers": false,
+          "bDisablePrimaryRecoilOverride": false
+        }
       },
       "Ninja_Assassination_Discharge": {
         "BaseLevel": 0,
@@ -6910,7 +7900,22 @@
         "MeleeAimAssistRequiredTag": {
           "TagName": "None"
         },
-        "MaxUnderReticleDistance": 8192.0
+        "MaxUnderReticleDistance": 8192.0,
+        "AutofireRange": 0.0,
+        "AutofireMinRange": 0.0,
+        "AutofireZoomTargetMinSizePercent": 100.0,
+        "AutofireAcquisitionDelay": 0.15,
+        "AutofireDBNOAcquisitionDelay": 0.0,
+        "AutofireAcquisitionRechargeTime": 0.0,
+        "AutofireReleaseTime": 0.0,
+        "AutofireCooldown": 0.0,
+        "PerWeaponHotfixes": {
+          "bDisableTargetingDuringReload": false,
+          "bDisableTargetingInAir": false,
+          "bDisableCheckpointReload": false,
+          "bDisableSecondaryRecoilLayers": false,
+          "bDisablePrimaryRecoilOverride": false
+        }
       },
       "Outlander_GroundWave": {
         "BaseLevel": 0,
@@ -7013,7 +8018,22 @@
         "MeleeAimAssistRequiredTag": {
           "TagName": "None"
         },
-        "MaxUnderReticleDistance": 8192.0
+        "MaxUnderReticleDistance": 8192.0,
+        "AutofireRange": 0.0,
+        "AutofireMinRange": 0.0,
+        "AutofireZoomTargetMinSizePercent": 100.0,
+        "AutofireAcquisitionDelay": 0.15,
+        "AutofireDBNOAcquisitionDelay": 0.0,
+        "AutofireAcquisitionRechargeTime": 0.0,
+        "AutofireReleaseTime": 0.0,
+        "AutofireCooldown": 0.0,
+        "PerWeaponHotfixes": {
+          "bDisableTargetingDuringReload": false,
+          "bDisableTargetingInAir": false,
+          "bDisableCheckpointReload": false,
+          "bDisableSecondaryRecoilLayers": false,
+          "bDisablePrimaryRecoilOverride": false
+        }
       },
       "Ninja_KunaiStorm": {
         "BaseLevel": 0,
@@ -7116,7 +8136,22 @@
         "MeleeAimAssistRequiredTag": {
           "TagName": "None"
         },
-        "MaxUnderReticleDistance": 8192.0
+        "MaxUnderReticleDistance": 8192.0,
+        "AutofireRange": 0.0,
+        "AutofireMinRange": 0.0,
+        "AutofireZoomTargetMinSizePercent": 100.0,
+        "AutofireAcquisitionDelay": 0.15,
+        "AutofireDBNOAcquisitionDelay": 0.0,
+        "AutofireAcquisitionRechargeTime": 0.0,
+        "AutofireReleaseTime": 0.0,
+        "AutofireCooldown": 0.0,
+        "PerWeaponHotfixes": {
+          "bDisableTargetingDuringReload": false,
+          "bDisableTargetingInAir": false,
+          "bDisableCheckpointReload": false,
+          "bDisableSecondaryRecoilLayers": false,
+          "bDisablePrimaryRecoilOverride": false
+        }
       },
       "Ninja_KunaiBomb": {
         "BaseLevel": 0,
@@ -7219,7 +8254,22 @@
         "MeleeAimAssistRequiredTag": {
           "TagName": "None"
         },
-        "MaxUnderReticleDistance": 8192.0
+        "MaxUnderReticleDistance": 8192.0,
+        "AutofireRange": 0.0,
+        "AutofireMinRange": 0.0,
+        "AutofireZoomTargetMinSizePercent": 100.0,
+        "AutofireAcquisitionDelay": 0.15,
+        "AutofireDBNOAcquisitionDelay": 0.0,
+        "AutofireAcquisitionRechargeTime": 0.0,
+        "AutofireReleaseTime": 0.0,
+        "AutofireCooldown": 0.0,
+        "PerWeaponHotfixes": {
+          "bDisableTargetingDuringReload": false,
+          "bDisableTargetingInAir": false,
+          "bDisableCheckpointReload": false,
+          "bDisableSecondaryRecoilLayers": false,
+          "bDisablePrimaryRecoilOverride": false
+        }
       },
       "Outlander_PhaseCannon": {
         "BaseLevel": 0,
@@ -7322,7 +8372,22 @@
         "MeleeAimAssistRequiredTag": {
           "TagName": "None"
         },
-        "MaxUnderReticleDistance": 8192.0
+        "MaxUnderReticleDistance": 8192.0,
+        "AutofireRange": 0.0,
+        "AutofireMinRange": 0.0,
+        "AutofireZoomTargetMinSizePercent": 100.0,
+        "AutofireAcquisitionDelay": 0.15,
+        "AutofireDBNOAcquisitionDelay": 0.0,
+        "AutofireAcquisitionRechargeTime": 0.0,
+        "AutofireReleaseTime": 0.0,
+        "AutofireCooldown": 0.0,
+        "PerWeaponHotfixes": {
+          "bDisableTargetingDuringReload": false,
+          "bDisableTargetingInAir": false,
+          "bDisableCheckpointReload": false,
+          "bDisableSecondaryRecoilLayers": false,
+          "bDisablePrimaryRecoilOverride": false
+        }
       },
       "Outlander_AntiMaterialCharge_ClassPerk": {
         "BaseLevel": 0,
@@ -7425,7 +8490,22 @@
         "MeleeAimAssistRequiredTag": {
           "TagName": "None"
         },
-        "MaxUnderReticleDistance": 8192.0
+        "MaxUnderReticleDistance": 8192.0,
+        "AutofireRange": 0.0,
+        "AutofireMinRange": 0.0,
+        "AutofireZoomTargetMinSizePercent": 100.0,
+        "AutofireAcquisitionDelay": 0.15,
+        "AutofireDBNOAcquisitionDelay": 0.0,
+        "AutofireAcquisitionRechargeTime": 0.0,
+        "AutofireReleaseTime": 0.0,
+        "AutofireCooldown": 0.0,
+        "PerWeaponHotfixes": {
+          "bDisableTargetingDuringReload": false,
+          "bDisableTargetingInAir": false,
+          "bDisableCheckpointReload": false,
+          "bDisableSecondaryRecoilLayers": false,
+          "bDisablePrimaryRecoilOverride": false
+        }
       },
       "Default_0_All": {
         "BaseLevel": 0,
@@ -7528,7 +8608,22 @@
         "MeleeAimAssistRequiredTag": {
           "TagName": "None"
         },
-        "MaxUnderReticleDistance": 8192.0
+        "MaxUnderReticleDistance": 8192.0,
+        "AutofireRange": 0.0,
+        "AutofireMinRange": 0.0,
+        "AutofireZoomTargetMinSizePercent": 100.0,
+        "AutofireAcquisitionDelay": 0.15,
+        "AutofireDBNOAcquisitionDelay": 0.0,
+        "AutofireAcquisitionRechargeTime": 0.0,
+        "AutofireReleaseTime": 0.0,
+        "AutofireCooldown": 0.0,
+        "PerWeaponHotfixes": {
+          "bDisableTargetingDuringReload": false,
+          "bDisableTargetingInAir": false,
+          "bDisableCheckpointReload": false,
+          "bDisableSecondaryRecoilLayers": false,
+          "bDisablePrimaryRecoilOverride": false
+        }
       },
       "Default_0_ExplosiveSelective": {
         "BaseLevel": 0,
@@ -7631,7 +8726,22 @@
         "MeleeAimAssistRequiredTag": {
           "TagName": "None"
         },
-        "MaxUnderReticleDistance": 8192.0
+        "MaxUnderReticleDistance": 8192.0,
+        "AutofireRange": 0.0,
+        "AutofireMinRange": 0.0,
+        "AutofireZoomTargetMinSizePercent": 100.0,
+        "AutofireAcquisitionDelay": 0.15,
+        "AutofireDBNOAcquisitionDelay": 0.0,
+        "AutofireAcquisitionRechargeTime": 0.0,
+        "AutofireReleaseTime": 0.0,
+        "AutofireCooldown": 0.0,
+        "PerWeaponHotfixes": {
+          "bDisableTargetingDuringReload": false,
+          "bDisableTargetingInAir": false,
+          "bDisableCheckpointReload": false,
+          "bDisableSecondaryRecoilLayers": false,
+          "bDisablePrimaryRecoilOverride": false
+        }
       },
       "Alterations_OnKill_SpawnSteamcloud": {
         "BaseLevel": 0,
@@ -7734,7 +8844,22 @@
         "MeleeAimAssistRequiredTag": {
           "TagName": "None"
         },
-        "MaxUnderReticleDistance": 8192.0
+        "MaxUnderReticleDistance": 8192.0,
+        "AutofireRange": 0.0,
+        "AutofireMinRange": 0.0,
+        "AutofireZoomTargetMinSizePercent": 100.0,
+        "AutofireAcquisitionDelay": 0.15,
+        "AutofireDBNOAcquisitionDelay": 0.0,
+        "AutofireAcquisitionRechargeTime": 0.0,
+        "AutofireReleaseTime": 0.0,
+        "AutofireCooldown": 0.0,
+        "PerWeaponHotfixes": {
+          "bDisableTargetingDuringReload": false,
+          "bDisableTargetingInAir": false,
+          "bDisableCheckpointReload": false,
+          "bDisableSecondaryRecoilLayers": false,
+          "bDisablePrimaryRecoilOverride": false
+        }
       },
       "Alterations_OnKill_SpawnRetroSciFiRing": {
         "BaseLevel": 0,
@@ -7837,7 +8962,22 @@
         "MeleeAimAssistRequiredTag": {
           "TagName": "None"
         },
-        "MaxUnderReticleDistance": 8192.0
+        "MaxUnderReticleDistance": 8192.0,
+        "AutofireRange": 0.0,
+        "AutofireMinRange": 0.0,
+        "AutofireZoomTargetMinSizePercent": 100.0,
+        "AutofireAcquisitionDelay": 0.15,
+        "AutofireDBNOAcquisitionDelay": 0.0,
+        "AutofireAcquisitionRechargeTime": 0.0,
+        "AutofireReleaseTime": 0.0,
+        "AutofireCooldown": 0.0,
+        "PerWeaponHotfixes": {
+          "bDisableTargetingDuringReload": false,
+          "bDisableTargetingInAir": false,
+          "bDisableCheckpointReload": false,
+          "bDisableSecondaryRecoilLayers": false,
+          "bDisablePrimaryRecoilOverride": false
+        }
       },
       "Alterations_OnCrit_SpawnScatterProjectile": {
         "BaseLevel": 0,
@@ -7940,7 +9080,22 @@
         "MeleeAimAssistRequiredTag": {
           "TagName": "None"
         },
-        "MaxUnderReticleDistance": 8192.0
+        "MaxUnderReticleDistance": 8192.0,
+        "AutofireRange": 0.0,
+        "AutofireMinRange": 0.0,
+        "AutofireZoomTargetMinSizePercent": 100.0,
+        "AutofireAcquisitionDelay": 0.15,
+        "AutofireDBNOAcquisitionDelay": 0.0,
+        "AutofireAcquisitionRechargeTime": 0.0,
+        "AutofireReleaseTime": 0.0,
+        "AutofireCooldown": 0.0,
+        "PerWeaponHotfixes": {
+          "bDisableTargetingDuringReload": false,
+          "bDisableTargetingInAir": false,
+          "bDisableCheckpointReload": false,
+          "bDisableSecondaryRecoilLayers": false,
+          "bDisablePrimaryRecoilOverride": false
+        }
       },
       "Outlander_SpaceTechnology": {
         "BaseLevel": 0,
@@ -8043,7 +9198,22 @@
         "MeleeAimAssistRequiredTag": {
           "TagName": "None"
         },
-        "MaxUnderReticleDistance": 8192.0
+        "MaxUnderReticleDistance": 8192.0,
+        "AutofireRange": 0.0,
+        "AutofireMinRange": 0.0,
+        "AutofireZoomTargetMinSizePercent": 100.0,
+        "AutofireAcquisitionDelay": 0.15,
+        "AutofireDBNOAcquisitionDelay": 0.0,
+        "AutofireAcquisitionRechargeTime": 0.0,
+        "AutofireReleaseTime": 0.0,
+        "AutofireCooldown": 0.0,
+        "PerWeaponHotfixes": {
+          "bDisableTargetingDuringReload": false,
+          "bDisableTargetingInAir": false,
+          "bDisableCheckpointReload": false,
+          "bDisableSecondaryRecoilLayers": false,
+          "bDisablePrimaryRecoilOverride": false
+        }
       },
       "Alterations_OnKill_SpawnSparkBurst": {
         "BaseLevel": 0,
@@ -8146,7 +9316,22 @@
         "MeleeAimAssistRequiredTag": {
           "TagName": "None"
         },
-        "MaxUnderReticleDistance": 8192.0
+        "MaxUnderReticleDistance": 8192.0,
+        "AutofireRange": 0.0,
+        "AutofireMinRange": 0.0,
+        "AutofireZoomTargetMinSizePercent": 100.0,
+        "AutofireAcquisitionDelay": 0.15,
+        "AutofireDBNOAcquisitionDelay": 0.0,
+        "AutofireAcquisitionRechargeTime": 0.0,
+        "AutofireReleaseTime": 0.0,
+        "AutofireCooldown": 0.0,
+        "PerWeaponHotfixes": {
+          "bDisableTargetingDuringReload": false,
+          "bDisableTargetingInAir": false,
+          "bDisableCheckpointReload": false,
+          "bDisableSecondaryRecoilLayers": false,
+          "bDisablePrimaryRecoilOverride": false
+        }
       },
       "Alterations_OnReload_SpawnSparkBurst": {
         "BaseLevel": 0,
@@ -8249,7 +9434,22 @@
         "MeleeAimAssistRequiredTag": {
           "TagName": "None"
         },
-        "MaxUnderReticleDistance": 8192.0
+        "MaxUnderReticleDistance": 8192.0,
+        "AutofireRange": 0.0,
+        "AutofireMinRange": 0.0,
+        "AutofireZoomTargetMinSizePercent": 100.0,
+        "AutofireAcquisitionDelay": 0.15,
+        "AutofireDBNOAcquisitionDelay": 0.0,
+        "AutofireAcquisitionRechargeTime": 0.0,
+        "AutofireReleaseTime": 0.0,
+        "AutofireCooldown": 0.0,
+        "PerWeaponHotfixes": {
+          "bDisableTargetingDuringReload": false,
+          "bDisableTargetingInAir": false,
+          "bDisableCheckpointReload": false,
+          "bDisableSecondaryRecoilLayers": false,
+          "bDisablePrimaryRecoilOverride": false
+        }
       },
       "Generic_1_Damage_NoCrit_NoImpact": {
         "BaseLevel": 0,
@@ -8352,7 +9552,22 @@
         "MeleeAimAssistRequiredTag": {
           "TagName": "None"
         },
-        "MaxUnderReticleDistance": 8192.0
+        "MaxUnderReticleDistance": 8192.0,
+        "AutofireRange": 0.0,
+        "AutofireMinRange": 0.0,
+        "AutofireZoomTargetMinSizePercent": 100.0,
+        "AutofireAcquisitionDelay": 0.15,
+        "AutofireDBNOAcquisitionDelay": 0.0,
+        "AutofireAcquisitionRechargeTime": 0.0,
+        "AutofireReleaseTime": 0.0,
+        "AutofireCooldown": 0.0,
+        "PerWeaponHotfixes": {
+          "bDisableTargetingDuringReload": false,
+          "bDisableTargetingInAir": false,
+          "bDisableCheckpointReload": false,
+          "bDisableSecondaryRecoilLayers": false,
+          "bDisablePrimaryRecoilOverride": false
+        }
       },
       "Generic_0_Damage_NoCrit_NoImpact": {
         "BaseLevel": 0,
@@ -8455,7 +9670,22 @@
         "MeleeAimAssistRequiredTag": {
           "TagName": "None"
         },
-        "MaxUnderReticleDistance": 8192.0
+        "MaxUnderReticleDistance": 8192.0,
+        "AutofireRange": 0.0,
+        "AutofireMinRange": 0.0,
+        "AutofireZoomTargetMinSizePercent": 100.0,
+        "AutofireAcquisitionDelay": 0.15,
+        "AutofireDBNOAcquisitionDelay": 0.0,
+        "AutofireAcquisitionRechargeTime": 0.0,
+        "AutofireReleaseTime": 0.0,
+        "AutofireCooldown": 0.0,
+        "PerWeaponHotfixes": {
+          "bDisableTargetingDuringReload": false,
+          "bDisableTargetingInAir": false,
+          "bDisableCheckpointReload": false,
+          "bDisableSecondaryRecoilLayers": false,
+          "bDisablePrimaryRecoilOverride": false
+        }
       },
       "Escalation_ThresholdReached_AOE_Dmg": {
         "BaseLevel": 0,
@@ -8558,7 +9788,22 @@
         "MeleeAimAssistRequiredTag": {
           "TagName": "None"
         },
-        "MaxUnderReticleDistance": 8192.0
+        "MaxUnderReticleDistance": 8192.0,
+        "AutofireRange": 0.0,
+        "AutofireMinRange": 0.0,
+        "AutofireZoomTargetMinSizePercent": 100.0,
+        "AutofireAcquisitionDelay": 0.15,
+        "AutofireDBNOAcquisitionDelay": 0.0,
+        "AutofireAcquisitionRechargeTime": 0.0,
+        "AutofireReleaseTime": 0.0,
+        "AutofireCooldown": 0.0,
+        "PerWeaponHotfixes": {
+          "bDisableTargetingDuringReload": false,
+          "bDisableTargetingInAir": false,
+          "bDisableCheckpointReload": false,
+          "bDisableSecondaryRecoilLayers": false,
+          "bDisablePrimaryRecoilOverride": false
+        }
       },
       "Generic_BottleRocket": {
         "BaseLevel": 0,
@@ -8661,7 +9906,22 @@
         "MeleeAimAssistRequiredTag": {
           "TagName": "None"
         },
-        "MaxUnderReticleDistance": 8192.0
+        "MaxUnderReticleDistance": 8192.0,
+        "AutofireRange": 0.0,
+        "AutofireMinRange": 0.0,
+        "AutofireZoomTargetMinSizePercent": 100.0,
+        "AutofireAcquisitionDelay": 0.15,
+        "AutofireDBNOAcquisitionDelay": 0.0,
+        "AutofireAcquisitionRechargeTime": 0.0,
+        "AutofireReleaseTime": 0.0,
+        "AutofireCooldown": 0.0,
+        "PerWeaponHotfixes": {
+          "bDisableTargetingDuringReload": false,
+          "bDisableTargetingInAir": false,
+          "bDisableCheckpointReload": false,
+          "bDisableSecondaryRecoilLayers": false,
+          "bDisablePrimaryRecoilOverride": false
+        }
       },
       "Generic_M80": {
         "BaseLevel": 0,
@@ -8764,7 +10024,22 @@
         "MeleeAimAssistRequiredTag": {
           "TagName": "None"
         },
-        "MaxUnderReticleDistance": 8192.0
+        "MaxUnderReticleDistance": 8192.0,
+        "AutofireRange": 0.0,
+        "AutofireMinRange": 0.0,
+        "AutofireZoomTargetMinSizePercent": 100.0,
+        "AutofireAcquisitionDelay": 0.15,
+        "AutofireDBNOAcquisitionDelay": 0.0,
+        "AutofireAcquisitionRechargeTime": 0.0,
+        "AutofireReleaseTime": 0.0,
+        "AutofireCooldown": 0.0,
+        "PerWeaponHotfixes": {
+          "bDisableTargetingDuringReload": false,
+          "bDisableTargetingInAir": false,
+          "bDisableCheckpointReload": false,
+          "bDisableSecondaryRecoilLayers": false,
+          "bDisablePrimaryRecoilOverride": false
+        }
       },
       "Generic_Impulse": {
         "BaseLevel": 0,
@@ -8867,7 +10142,22 @@
         "MeleeAimAssistRequiredTag": {
           "TagName": "None"
         },
-        "MaxUnderReticleDistance": 8192.0
+        "MaxUnderReticleDistance": 8192.0,
+        "AutofireRange": 0.0,
+        "AutofireMinRange": 0.0,
+        "AutofireZoomTargetMinSizePercent": 100.0,
+        "AutofireAcquisitionDelay": 0.15,
+        "AutofireDBNOAcquisitionDelay": 0.0,
+        "AutofireAcquisitionRechargeTime": 0.0,
+        "AutofireReleaseTime": 0.0,
+        "AutofireCooldown": 0.0,
+        "PerWeaponHotfixes": {
+          "bDisableTargetingDuringReload": false,
+          "bDisableTargetingInAir": false,
+          "bDisableCheckpointReload": false,
+          "bDisableSecondaryRecoilLayers": false,
+          "bDisablePrimaryRecoilOverride": false
+        }
       },
       "Generic_C4": {
         "BaseLevel": 0,
@@ -8970,7 +10260,22 @@
         "MeleeAimAssistRequiredTag": {
           "TagName": "None"
         },
-        "MaxUnderReticleDistance": 8192.0
+        "MaxUnderReticleDistance": 8192.0,
+        "AutofireRange": 0.0,
+        "AutofireMinRange": 0.0,
+        "AutofireZoomTargetMinSizePercent": 100.0,
+        "AutofireAcquisitionDelay": 0.15,
+        "AutofireDBNOAcquisitionDelay": 0.0,
+        "AutofireAcquisitionRechargeTime": 0.0,
+        "AutofireReleaseTime": 0.0,
+        "AutofireCooldown": 0.0,
+        "PerWeaponHotfixes": {
+          "bDisableTargetingDuringReload": false,
+          "bDisableTargetingInAir": false,
+          "bDisableCheckpointReload": false,
+          "bDisableSecondaryRecoilLayers": false,
+          "bDisablePrimaryRecoilOverride": false
+        }
       },
       "Generic_KnockKnock": {
         "BaseLevel": 0,
@@ -9073,7 +10378,22 @@
         "MeleeAimAssistRequiredTag": {
           "TagName": "None"
         },
-        "MaxUnderReticleDistance": 8192.0
+        "MaxUnderReticleDistance": 8192.0,
+        "AutofireRange": 0.0,
+        "AutofireMinRange": 0.0,
+        "AutofireZoomTargetMinSizePercent": 100.0,
+        "AutofireAcquisitionDelay": 0.15,
+        "AutofireDBNOAcquisitionDelay": 0.0,
+        "AutofireAcquisitionRechargeTime": 0.0,
+        "AutofireReleaseTime": 0.0,
+        "AutofireCooldown": 0.0,
+        "PerWeaponHotfixes": {
+          "bDisableTargetingDuringReload": false,
+          "bDisableTargetingInAir": false,
+          "bDisableCheckpointReload": false,
+          "bDisableSecondaryRecoilLayers": false,
+          "bDisablePrimaryRecoilOverride": false
+        }
       },
       "Generic_GasGrenade": {
         "BaseLevel": 0,
@@ -9176,7 +10496,22 @@
         "MeleeAimAssistRequiredTag": {
           "TagName": "None"
         },
-        "MaxUnderReticleDistance": 8192.0
+        "MaxUnderReticleDistance": 8192.0,
+        "AutofireRange": 0.0,
+        "AutofireMinRange": 0.0,
+        "AutofireZoomTargetMinSizePercent": 100.0,
+        "AutofireAcquisitionDelay": 0.15,
+        "AutofireDBNOAcquisitionDelay": 0.0,
+        "AutofireAcquisitionRechargeTime": 0.0,
+        "AutofireReleaseTime": 0.0,
+        "AutofireCooldown": 0.0,
+        "PerWeaponHotfixes": {
+          "bDisableTargetingDuringReload": false,
+          "bDisableTargetingInAir": false,
+          "bDisableCheckpointReload": false,
+          "bDisableSecondaryRecoilLayers": false,
+          "bDisablePrimaryRecoilOverride": false
+        }
       },
       "Generic_StickyGrenade": {
         "BaseLevel": 0,
@@ -9279,7 +10614,22 @@
         "MeleeAimAssistRequiredTag": {
           "TagName": "None"
         },
-        "MaxUnderReticleDistance": 8192.0
+        "MaxUnderReticleDistance": 8192.0,
+        "AutofireRange": 0.0,
+        "AutofireMinRange": 0.0,
+        "AutofireZoomTargetMinSizePercent": 100.0,
+        "AutofireAcquisitionDelay": 0.15,
+        "AutofireDBNOAcquisitionDelay": 0.0,
+        "AutofireAcquisitionRechargeTime": 0.0,
+        "AutofireReleaseTime": 0.0,
+        "AutofireCooldown": 0.0,
+        "PerWeaponHotfixes": {
+          "bDisableTargetingDuringReload": false,
+          "bDisableTargetingInAir": false,
+          "bDisableCheckpointReload": false,
+          "bDisableSecondaryRecoilLayers": false,
+          "bDisablePrimaryRecoilOverride": false
+        }
       },
       "Generic_CannonballGrenade": {
         "BaseLevel": 0,
@@ -9382,7 +10732,22 @@
         "MeleeAimAssistRequiredTag": {
           "TagName": "None"
         },
-        "MaxUnderReticleDistance": 8192.0
+        "MaxUnderReticleDistance": 8192.0,
+        "AutofireRange": 0.0,
+        "AutofireMinRange": 0.0,
+        "AutofireZoomTargetMinSizePercent": 100.0,
+        "AutofireAcquisitionDelay": 0.15,
+        "AutofireDBNOAcquisitionDelay": 0.0,
+        "AutofireAcquisitionRechargeTime": 0.0,
+        "AutofireReleaseTime": 0.0,
+        "AutofireCooldown": 0.0,
+        "PerWeaponHotfixes": {
+          "bDisableTargetingDuringReload": false,
+          "bDisableTargetingInAir": false,
+          "bDisableCheckpointReload": false,
+          "bDisableSecondaryRecoilLayers": false,
+          "bDisablePrimaryRecoilOverride": false
+        }
       },
       "Generic_NonDamaging": {
         "BaseLevel": 0,
@@ -9485,7 +10850,22 @@
         "MeleeAimAssistRequiredTag": {
           "TagName": "None"
         },
-        "MaxUnderReticleDistance": 8192.0
+        "MaxUnderReticleDistance": 8192.0,
+        "AutofireRange": 0.0,
+        "AutofireMinRange": 0.0,
+        "AutofireZoomTargetMinSizePercent": 100.0,
+        "AutofireAcquisitionDelay": 0.15,
+        "AutofireDBNOAcquisitionDelay": 0.0,
+        "AutofireAcquisitionRechargeTime": 0.0,
+        "AutofireReleaseTime": 0.0,
+        "AutofireCooldown": 0.0,
+        "PerWeaponHotfixes": {
+          "bDisableTargetingDuringReload": false,
+          "bDisableTargetingInAir": false,
+          "bDisableCheckpointReload": false,
+          "bDisableSecondaryRecoilLayers": false,
+          "bDisablePrimaryRecoilOverride": false
+        }
       },
       "Generic_Placeholder": {
         "BaseLevel": 0,
@@ -9588,7 +10968,22 @@
         "MeleeAimAssistRequiredTag": {
           "TagName": "None"
         },
-        "MaxUnderReticleDistance": 8192.0
+        "MaxUnderReticleDistance": 8192.0,
+        "AutofireRange": 0.0,
+        "AutofireMinRange": 0.0,
+        "AutofireZoomTargetMinSizePercent": 100.0,
+        "AutofireAcquisitionDelay": 0.15,
+        "AutofireDBNOAcquisitionDelay": 0.0,
+        "AutofireAcquisitionRechargeTime": 0.0,
+        "AutofireReleaseTime": 0.0,
+        "AutofireCooldown": 0.0,
+        "PerWeaponHotfixes": {
+          "bDisableTargetingDuringReload": false,
+          "bDisableTargetingInAir": false,
+          "bDisableCheckpointReload": false,
+          "bDisableSecondaryRecoilLayers": false,
+          "bDisablePrimaryRecoilOverride": false
+        }
       }
     }
   }

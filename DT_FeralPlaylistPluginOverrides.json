@@ -193,6 +193,102 @@
       },
       "Volcano_Comp": {
         "bAllowActivation": false
+      },
+      "LinedNotebookGameplay": {
+        "bAllowActivation": false
+      },
+      "SunRoseFlyingGameplay": {
+        "bAllowActivation": false
+      },
+      "SunRoseChainWhipGameplay": {
+        "bAllowActivation": false
+      },
+      "SunRoseZeusGameplay": {
+        "bAllowActivation": false
+      },
+      "SunRoseConsumablesGameplay": {
+        "bAllowActivation": false
+      },
+      "SunRoseWeaponsGameplay": {
+        "bAllowActivation": false
+      },
+      "MistRaven": {
+        "bAllowActivation": false
+      },
+      "ScoutDrone": {
+        "bAllowActivation": false
+      },
+      "MusterCoreWeapons": {
+        "bAllowActivation": false
+      },
+      "MurkyVoleGameplay": {
+        "bAllowActivation": false
+      },
+      "TowHookWeapon": {
+        "bAllowActivation": false
+      },
+      "RocketRamGameplay": {
+        "bAllowActivation": false
+      },
+      "ElectroBatGameplay": {
+        "bAllowActivation": false
+      },
+      "CherrySmokeDualRevolversGameplay": {
+        "bAllowActivation": false
+      },
+      "ShielderGameplay": {
+        "bAllowActivation": false
+      },
+      "Sprites_ZeroPointSprite": {
+        "bAllowActivation": false
+      },
+      "CubeSurfing": {
+        "bAllowActivation": false
+      },
+      "DistortedWeaponsGameplay": {
+        "bAllowActivation": false
+      },
+      "GrindRail": {
+        "bAllowActivation": false
+      },
+      "CherrySmokeWeaponGameplay": {
+        "bAllowActivation": false
+      },
+      "ShockwaveMace": {
+        "bAllowActivation": false
+      },
+      "GravWellGameplay": {
+        "bAllowActivation": false
+      },
+      "Irwin": {
+        "bAllowActivation": false
+      },
+      "EMPGameplay": {
+        "bAllowActivation": false
+      },
+      "VividRazorWeaponGameplay": {
+        "bAllowActivation": false
+      },
+      "Sprites_WhisperRemedySweetSprite": {
+        "bAllowActivation": false
+      },
+      "BlastBerry": {
+        "bAllowActivation": false
+      },
+      "DelMarCore": {
+        "bAllowActivation": false
+      },
+      "DelMarUI": {
+        "bAllowActivation": false
+      },
+      "CreativeCurrentLoot": {
+        "bAllowActivation": false
+      },
+      "SpireBoss": {
+        "bAllowActivation": false
+      },
+      "OrbitalBombardment": {
+        "bAllowActivation": false
       }
     }
   }

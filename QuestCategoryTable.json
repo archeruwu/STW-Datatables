@@ -29,6 +29,24 @@
         },
         "SortPriority": 950
       },
+      "StarterBundleQuests24": {
+        "Name": {
+          "Namespace": "QuestCategoryTable",
+          "Key": "StarterBundleQuests24_Name",
+          "SourceString": "Hexed & Haunted Starter Bundle",
+          "LocalizedString": "Hexed & Haunted Starter Bundle"
+        },
+        "SortPriority": 580
+      },
+      "StarterBundleQuests23": {
+        "Name": {
+          "Namespace": "QuestCategoryTable",
+          "Key": "StarterBundleQuests23_Name",
+          "SourceString": "Ninja Sarah Starter Bundle",
+          "LocalizedString": "Ninja Sarah Starter Bundle"
+        },
+        "SortPriority": 570
+      },
       "StarterBundleQuests22": {
         "Name": {
           "Namespace": "QuestCategoryTable",

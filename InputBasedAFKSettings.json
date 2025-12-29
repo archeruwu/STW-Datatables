@@ -37,7 +37,13 @@
             "Gameplay.Action.Player.Emote",
             "Conversation",
             "Juno.Conversation"
-          ]
+          ],
+          "RoboticLoop": {
+            "DetectionMethod": "ERoboticLoopDetectionMethod::Disabled",
+            "CoefficientOfVariationMinThreshold": 0.15,
+            "SecondToleranceForRepetitiveLoop": 0.05,
+            "RequiredUniqueClusters": 4
+          }
         }
       },
       "Pilgrim": {
@@ -62,7 +68,13 @@
           ],
           "ValidInteractionsGameplayEffectsTags": [
             "Gameplay.Action.Player.Emote"
-          ]
+          ],
+          "RoboticLoop": {
+            "DetectionMethod": "ERoboticLoopDetectionMethod::Disabled",
+            "CoefficientOfVariationMinThreshold": 0.15,
+            "SecondToleranceForRepetitiveLoop": 0.05,
+            "RequiredUniqueClusters": 4
+          }
         }
       },
       "JamIsland": {
@@ -87,7 +99,13 @@
           ],
           "ValidInteractionsGameplayEffectsTags": [
             "Gameplay.Action.Player.Emote"
-          ]
+          ],
+          "RoboticLoop": {
+            "DetectionMethod": "ERoboticLoopDetectionMethod::Disabled",
+            "CoefficientOfVariationMinThreshold": 0.15,
+            "SecondToleranceForRepetitiveLoop": 0.05,
+            "RequiredUniqueClusters": 4
+          }
         }
       },
       "Creative": {
@@ -115,7 +133,13 @@
           "ValidInteractionsGameplayEffectsTags": [
             "Gameplay.Action.Player.Emote",
             "Conversation"
-          ]
+          ],
+          "RoboticLoop": {
+            "DetectionMethod": "ERoboticLoopDetectionMethod::Disabled",
+            "CoefficientOfVariationMinThreshold": 0.15,
+            "SecondToleranceForRepetitiveLoop": 0.05,
+            "RequiredUniqueClusters": 4
+          }
         }
       }
     }

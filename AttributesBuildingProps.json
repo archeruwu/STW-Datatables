@@ -7,14 +7,10 @@
     "CurveTableMode": "SimpleCurves",
     "Rows": {
       "BuildingDeco.1.FortHealthSet.MaxHealth": {
-        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "InterpMode": "ERichCurveInterpMode::RCIM_Constant",
         "Keys": [
           {
             "Time": 0.0,
-            "Value": 200.0
-          },
-          {
-            "Time": 10.0,
             "Value": 200.0
           },
           {
@@ -22,15 +18,7 @@
             "Value": 340.0
           },
           {
-            "Time": 20.0,
-            "Value": 340.0
-          },
-          {
             "Time": 21.0,
-            "Value": 600.0
-          },
-          {
-            "Time": 30.0,
             "Value": 600.0
           },
           {
@@ -47,14 +35,10 @@
         "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
       },
       "BuildingWood.1.FortHealthSet.MaxHealth": {
-        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "InterpMode": "ERichCurveInterpMode::RCIM_Constant",
         "Keys": [
           {
             "Time": 0.0,
-            "Value": 200.0
-          },
-          {
-            "Time": 10.0,
             "Value": 200.0
           },
           {
@@ -62,15 +46,7 @@
             "Value": 340.0
           },
           {
-            "Time": 20.0,
-            "Value": 340.0
-          },
-          {
             "Time": 21.0,
-            "Value": 600.0
-          },
-          {
-            "Time": 30.0,
             "Value": 600.0
           },
           {
@@ -87,14 +63,10 @@
         "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
       },
       "BuildingWood.2.FortHealthSet.MaxHealth": {
-        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "InterpMode": "ERichCurveInterpMode::RCIM_Constant",
         "Keys": [
           {
             "Time": 0.0,
-            "Value": 300.0
-          },
-          {
-            "Time": 10.0,
             "Value": 300.0
           },
           {
@@ -102,15 +74,7 @@
             "Value": 510.0
           },
           {
-            "Time": 20.0,
-            "Value": 510.0
-          },
-          {
             "Time": 21.0,
-            "Value": 900.0
-          },
-          {
-            "Time": 30.0,
             "Value": 900.0
           },
           {
@@ -127,14 +91,10 @@
         "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
       },
       "BuildingWood.3.FortHealthSet.MaxHealth": {
-        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "InterpMode": "ERichCurveInterpMode::RCIM_Constant",
         "Keys": [
           {
             "Time": 0.0,
-            "Value": 400.0
-          },
-          {
-            "Time": 10.0,
             "Value": 400.0
           },
           {
@@ -142,15 +102,7 @@
             "Value": 680.0
           },
           {
-            "Time": 20.0,
-            "Value": 680.0
-          },
-          {
             "Time": 21.0,
-            "Value": 1200.0
-          },
-          {
-            "Time": 30.0,
             "Value": 1200.0
           },
           {
@@ -167,14 +119,10 @@
         "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
       },
       "BuildingStone.1.FortHealthSet.MaxHealth": {
-        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "InterpMode": "ERichCurveInterpMode::RCIM_Constant",
         "Keys": [
           {
             "Time": 0.0,
-            "Value": 300.0
-          },
-          {
-            "Time": 10.0,
             "Value": 300.0
           },
           {
@@ -182,15 +130,7 @@
             "Value": 510.0
           },
           {
-            "Time": 20.0,
-            "Value": 510.0
-          },
-          {
             "Time": 21.0,
-            "Value": 900.0
-          },
-          {
-            "Time": 30.0,
             "Value": 900.0
           },
           {
@@ -207,14 +147,10 @@
         "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
       },
       "BuildingStone.2.FortHealthSet.MaxHealth": {
-        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "InterpMode": "ERichCurveInterpMode::RCIM_Constant",
         "Keys": [
           {
             "Time": 0.0,
-            "Value": 450.0
-          },
-          {
-            "Time": 10.0,
             "Value": 450.0
           },
           {
@@ -222,15 +158,7 @@
             "Value": 765.0
           },
           {
-            "Time": 20.0,
-            "Value": 765.0
-          },
-          {
             "Time": 21.0,
-            "Value": 1350.0
-          },
-          {
-            "Time": 30.0,
             "Value": 1350.0
           },
           {
@@ -247,14 +175,10 @@
         "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
       },
       "BuildingStone.3.FortHealthSet.MaxHealth": {
-        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "InterpMode": "ERichCurveInterpMode::RCIM_Constant",
         "Keys": [
           {
             "Time": 0.0,
-            "Value": 600.0
-          },
-          {
-            "Time": 10.0,
             "Value": 600.0
           },
           {
@@ -262,15 +186,7 @@
             "Value": 1020.0
           },
           {
-            "Time": 20.0,
-            "Value": 1020.0
-          },
-          {
             "Time": 21.0,
-            "Value": 1800.0
-          },
-          {
-            "Time": 30.0,
             "Value": 1800.0
           },
           {
@@ -287,14 +203,10 @@
         "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
       },
       "BuildingMetal.1.FortHealthSet.MaxHealth": {
-        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "InterpMode": "ERichCurveInterpMode::RCIM_Constant",
         "Keys": [
           {
             "Time": 0.0,
-            "Value": 400.0
-          },
-          {
-            "Time": 10.0,
             "Value": 400.0
           },
           {
@@ -302,15 +214,7 @@
             "Value": 680.0
           },
           {
-            "Time": 20.0,
-            "Value": 680.0
-          },
-          {
             "Time": 21.0,
-            "Value": 1200.0
-          },
-          {
-            "Time": 30.0,
             "Value": 1200.0
           },
           {
@@ -327,14 +231,10 @@
         "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
       },
       "BuildingMetal.2.FortHealthSet.MaxHealth": {
-        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "InterpMode": "ERichCurveInterpMode::RCIM_Constant",
         "Keys": [
           {
             "Time": 0.0,
-            "Value": 600.0
-          },
-          {
-            "Time": 10.0,
             "Value": 600.0
           },
           {
@@ -342,15 +242,7 @@
             "Value": 1020.0
           },
           {
-            "Time": 20.0,
-            "Value": 1020.0
-          },
-          {
             "Time": 21.0,
-            "Value": 1800.0
-          },
-          {
-            "Time": 30.0,
             "Value": 1800.0
           },
           {
@@ -367,14 +259,10 @@
         "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
       },
       "BuildingMetal.3.FortHealthSet.MaxHealth": {
-        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "InterpMode": "ERichCurveInterpMode::RCIM_Constant",
         "Keys": [
           {
             "Time": 0.0,
-            "Value": 800.0
-          },
-          {
-            "Time": 10.0,
             "Value": 800.0
           },
           {
@@ -382,15 +270,7 @@
             "Value": 1360.0
           },
           {
-            "Time": 20.0,
-            "Value": 1360.0
-          },
-          {
             "Time": 21.0,
-            "Value": 2400.0
-          },
-          {
-            "Time": 30.0,
             "Value": 2400.0
           },
           {
@@ -407,14 +287,10 @@
         "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
       },
       "PropWood.1.FortHealthSet.MaxHealth": {
-        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "InterpMode": "ERichCurveInterpMode::RCIM_Constant",
         "Keys": [
           {
             "Time": 0.0,
-            "Value": 15.0
-          },
-          {
-            "Time": 10.0,
             "Value": 15.0
           },
           {
@@ -422,15 +298,7 @@
             "Value": 25.0
           },
           {
-            "Time": 20.0,
-            "Value": 25.0
-          },
-          {
             "Time": 21.0,
-            "Value": 45.0
-          },
-          {
-            "Time": 30.0,
             "Value": 45.0
           },
           {
@@ -447,14 +315,10 @@
         "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
       },
       "PropWood.2.FortHealthSet.MaxHealth": {
-        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "InterpMode": "ERichCurveInterpMode::RCIM_Constant",
         "Keys": [
           {
             "Time": 0.0,
-            "Value": 30.0
-          },
-          {
-            "Time": 10.0,
             "Value": 30.0
           },
           {
@@ -462,15 +326,7 @@
             "Value": 50.0
           },
           {
-            "Time": 20.0,
-            "Value": 50.0
-          },
-          {
             "Time": 21.0,
-            "Value": 90.0
-          },
-          {
-            "Time": 30.0,
             "Value": 90.0
           },
           {
@@ -487,14 +343,10 @@
         "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
       },
       "PropWood.3.FortHealthSet.MaxHealth": {
-        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "InterpMode": "ERichCurveInterpMode::RCIM_Constant",
         "Keys": [
           {
             "Time": 0.0,
-            "Value": 45.0
-          },
-          {
-            "Time": 10.0,
             "Value": 45.0
           },
           {
@@ -502,15 +354,7 @@
             "Value": 75.0
           },
           {
-            "Time": 20.0,
-            "Value": 75.0
-          },
-          {
             "Time": 21.0,
-            "Value": 135.0
-          },
-          {
-            "Time": 30.0,
             "Value": 135.0
           },
           {
@@ -527,14 +371,10 @@
         "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
       },
       "PropWood.4.FortHealthSet.MaxHealth": {
-        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "InterpMode": "ERichCurveInterpMode::RCIM_Constant",
         "Keys": [
           {
             "Time": 0.0,
-            "Value": 90.0
-          },
-          {
-            "Time": 10.0,
             "Value": 90.0
           },
           {
@@ -542,15 +382,7 @@
             "Value": 155.0
           },
           {
-            "Time": 20.0,
-            "Value": 155.0
-          },
-          {
             "Time": 21.0,
-            "Value": 270.0
-          },
-          {
-            "Time": 30.0,
             "Value": 270.0
           },
           {
@@ -567,14 +399,10 @@
         "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
       },
       "PropStone.1.FortHealthSet.MaxHealth": {
-        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "InterpMode": "ERichCurveInterpMode::RCIM_Constant",
         "Keys": [
           {
             "Time": 0.0,
-            "Value": 25.0
-          },
-          {
-            "Time": 10.0,
             "Value": 25.0
           },
           {
@@ -582,15 +410,7 @@
             "Value": 45.0
           },
           {
-            "Time": 20.0,
-            "Value": 45.0
-          },
-          {
             "Time": 21.0,
-            "Value": 75.0
-          },
-          {
-            "Time": 30.0,
             "Value": 75.0
           },
           {
@@ -607,14 +427,10 @@
         "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
       },
       "PropStone.2.FortHealthSet.MaxHealth": {
-        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "InterpMode": "ERichCurveInterpMode::RCIM_Constant",
         "Keys": [
           {
             "Time": 0.0,
-            "Value": 50.0
-          },
-          {
-            "Time": 10.0,
             "Value": 50.0
           },
           {
@@ -622,15 +438,7 @@
             "Value": 85.0
           },
           {
-            "Time": 20.0,
-            "Value": 85.0
-          },
-          {
             "Time": 21.0,
-            "Value": 150.0
-          },
-          {
-            "Time": 30.0,
             "Value": 150.0
           },
           {
@@ -647,14 +455,10 @@
         "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
       },
       "PropStone.3.FortHealthSet.MaxHealth": {
-        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "InterpMode": "ERichCurveInterpMode::RCIM_Constant",
         "Keys": [
           {
             "Time": 0.0,
-            "Value": 75.0
-          },
-          {
-            "Time": 10.0,
             "Value": 75.0
           },
           {
@@ -662,15 +466,7 @@
             "Value": 130.0
           },
           {
-            "Time": 20.0,
-            "Value": 130.0
-          },
-          {
             "Time": 21.0,
-            "Value": 225.0
-          },
-          {
-            "Time": 30.0,
             "Value": 225.0
           },
           {
@@ -687,14 +483,10 @@
         "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
       },
       "PropStone.4.FortHealthSet.MaxHealth": {
-        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "InterpMode": "ERichCurveInterpMode::RCIM_Constant",
         "Keys": [
           {
             "Time": 0.0,
-            "Value": 150.0
-          },
-          {
-            "Time": 10.0,
             "Value": 150.0
           },
           {
@@ -702,15 +494,7 @@
             "Value": 255.0
           },
           {
-            "Time": 20.0,
-            "Value": 255.0
-          },
-          {
             "Time": 21.0,
-            "Value": 450.0
-          },
-          {
-            "Time": 30.0,
             "Value": 450.0
           },
           {
@@ -727,14 +511,10 @@
         "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
       },
       "PropMetal.1.FortHealthSet.MaxHealth": {
-        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "InterpMode": "ERichCurveInterpMode::RCIM_Constant",
         "Keys": [
           {
             "Time": 0.0,
-            "Value": 40.0
-          },
-          {
-            "Time": 10.0,
             "Value": 40.0
           },
           {
@@ -742,15 +522,7 @@
             "Value": 70.0
           },
           {
-            "Time": 20.0,
-            "Value": 70.0
-          },
-          {
             "Time": 21.0,
-            "Value": 120.0
-          },
-          {
-            "Time": 30.0,
             "Value": 120.0
           },
           {
@@ -767,14 +539,10 @@
         "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
       },
       "PropMetal.2.FortHealthSet.MaxHealth": {
-        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "InterpMode": "ERichCurveInterpMode::RCIM_Constant",
         "Keys": [
           {
             "Time": 0.0,
-            "Value": 80.0
-          },
-          {
-            "Time": 10.0,
             "Value": 80.0
           },
           {
@@ -782,15 +550,7 @@
             "Value": 135.0
           },
           {
-            "Time": 20.0,
-            "Value": 135.0
-          },
-          {
             "Time": 21.0,
-            "Value": 240.0
-          },
-          {
-            "Time": 30.0,
             "Value": 240.0
           },
           {
@@ -807,14 +567,10 @@
         "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
       },
       "PropMetal.3.FortHealthSet.MaxHealth": {
-        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "InterpMode": "ERichCurveInterpMode::RCIM_Constant",
         "Keys": [
           {
             "Time": 0.0,
-            "Value": 120.0
-          },
-          {
-            "Time": 10.0,
             "Value": 120.0
           },
           {
@@ -822,15 +578,7 @@
             "Value": 205.0
           },
           {
-            "Time": 20.0,
-            "Value": 205.0
-          },
-          {
             "Time": 21.0,
-            "Value": 360.0
-          },
-          {
-            "Time": 30.0,
             "Value": 360.0
           },
           {
@@ -847,14 +595,10 @@
         "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
       },
       "PropMetal.4.FortHealthSet.MaxHealth": {
-        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "InterpMode": "ERichCurveInterpMode::RCIM_Constant",
         "Keys": [
           {
             "Time": 0.0,
-            "Value": 250.0
-          },
-          {
-            "Time": 10.0,
             "Value": 250.0
           },
           {
@@ -862,15 +606,7 @@
             "Value": 425.0
           },
           {
-            "Time": 20.0,
-            "Value": 425.0
-          },
-          {
             "Time": 21.0,
-            "Value": 750.0
-          },
-          {
-            "Time": 30.0,
             "Value": 750.0
           },
           {
@@ -887,14 +623,10 @@
         "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
       },
       "PropFence.1.FortHealthSet.MaxHealth": {
-        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "InterpMode": "ERichCurveInterpMode::RCIM_Constant",
         "Keys": [
           {
             "Time": 0.0,
-            "Value": 100.0
-          },
-          {
-            "Time": 10.0,
             "Value": 100.0
           },
           {
@@ -902,15 +634,7 @@
             "Value": 170.0
           },
           {
-            "Time": 20.0,
-            "Value": 170.0
-          },
-          {
             "Time": 21.0,
-            "Value": 300.0
-          },
-          {
-            "Time": 30.0,
             "Value": 300.0
           },
           {
@@ -927,14 +651,10 @@
         "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
       },
       "PropFence.2.FortHealthSet.MaxHealth": {
-        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "InterpMode": "ERichCurveInterpMode::RCIM_Constant",
         "Keys": [
           {
             "Time": 0.0,
-            "Value": 150.0
-          },
-          {
-            "Time": 10.0,
             "Value": 150.0
           },
           {
@@ -942,15 +662,7 @@
             "Value": 255.0
           },
           {
-            "Time": 20.0,
-            "Value": 255.0
-          },
-          {
             "Time": 21.0,
-            "Value": 450.0
-          },
-          {
-            "Time": 30.0,
             "Value": 450.0
           },
           {
@@ -967,14 +679,10 @@
         "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
       },
       "PropFence.3.FortHealthSet.MaxHealth": {
-        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "InterpMode": "ERichCurveInterpMode::RCIM_Constant",
         "Keys": [
           {
             "Time": 0.0,
-            "Value": 200.0
-          },
-          {
-            "Time": 10.0,
             "Value": 200.0
           },
           {
@@ -982,15 +690,7 @@
             "Value": 340.0
           },
           {
-            "Time": 20.0,
-            "Value": 340.0
-          },
-          {
             "Time": 21.0,
-            "Value": 600.0
-          },
-          {
-            "Time": 30.0,
             "Value": 600.0
           },
           {
@@ -1007,23 +707,43 @@
         "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
       },
       "PvPObjective.1.FortHealthSet.MaxHealth": {
-        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "InterpMode": "ERichCurveInterpMode::RCIM_Constant",
         "Keys": [
           {
             "Time": 0.0,
             "Value": 2000.0
           },
           {
-            "Time": 3.0,
-            "Value": 2000.0
+            "Time": 4.0,
+            "Value": 2050.0
           },
           {
             "Time": 5.0,
             "Value": 2100.0
           },
           {
+            "Time": 6.0,
+            "Value": 2200.0
+          },
+          {
+            "Time": 7.0,
+            "Value": 2300.0
+          },
+          {
+            "Time": 8.0,
+            "Value": 2400.0
+          },
+          {
             "Time": 9.0,
             "Value": 2500.0
+          },
+          {
+            "Time": 10.0,
+            "Value": 2650.0
+          },
+          {
+            "Time": 11.0,
+            "Value": 2800.0
           },
           {
             "Time": 12.0,
@@ -1038,8 +758,16 @@
             "Value": 3300.0
           },
           {
+            "Time": 15.0,
+            "Value": 3500.0
+          },
+          {
             "Time": 16.0,
             "Value": 3700.0
+          },
+          {
+            "Time": 17.0,
+            "Value": 3950.0
           },
           {
             "Time": 18.0,
@@ -1070,40 +798,100 @@
             "Value": 5900.0
           },
           {
+            "Time": 25.0,
+            "Value": 6300.0
+          },
+          {
+            "Time": 26.0,
+            "Value": 6700.0
+          },
+          {
             "Time": 27.0,
             "Value": 7100.0
+          },
+          {
+            "Time": 28.0,
+            "Value": 7600.0
           },
           {
             "Time": 29.0,
             "Value": 8100.0
           },
           {
+            "Time": 30.0,
+            "Value": 8700.0
+          },
+          {
+            "Time": 31.0,
+            "Value": 9300.0
+          },
+          {
             "Time": 32.0,
             "Value": 9900.0
+          },
+          {
+            "Time": 33.0,
+            "Value": 10600.0
           },
           {
             "Time": 34.0,
             "Value": 11300.0
           },
           {
+            "Time": 35.0,
+            "Value": 12100.0
+          },
+          {
+            "Time": 36.0,
+            "Value": 12900.0
+          },
+          {
             "Time": 37.0,
             "Value": 13700.0
+          },
+          {
+            "Time": 38.0,
+            "Value": 14550.0
           },
           {
             "Time": 39.0,
             "Value": 15400.0
           },
           {
+            "Time": 40.0,
+            "Value": 16300.0
+          },
+          {
+            "Time": 41.0,
+            "Value": 17200.0
+          },
+          {
             "Time": 42.0,
             "Value": 18100.0
+          },
+          {
+            "Time": 43.0,
+            "Value": 19050.0
           },
           {
             "Time": 44.0,
             "Value": 20000.0
           },
           {
+            "Time": 45.0,
+            "Value": 21000.0
+          },
+          {
+            "Time": 46.0,
+            "Value": 22000.0
+          },
+          {
             "Time": 47.0,
             "Value": 23000.0
+          },
+          {
+            "Time": 48.0,
+            "Value": 24050.0
           },
           {
             "Time": 49.0,
@@ -1119,31 +907,47 @@
         "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
       },
       "PvPObjective.2.FortHealthSet.MaxHealth": {
-        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "InterpMode": "ERichCurveInterpMode::RCIM_Constant",
         "Keys": [
           {
             "Time": 0.0,
             "Value": 4000.0
           },
           {
-            "Time": 2.0,
-            "Value": 4000.0
+            "Time": 3.0,
+            "Value": 4050.0
           },
           {
             "Time": 4.0,
             "Value": 4100.0
           },
           {
+            "Time": 5.0,
+            "Value": 4250.0
+          },
+          {
             "Time": 6.0,
             "Value": 4400.0
+          },
+          {
+            "Time": 7.0,
+            "Value": 4600.0
           },
           {
             "Time": 8.0,
             "Value": 4800.0
           },
           {
+            "Time": 9.0,
+            "Value": 5050.0
+          },
+          {
             "Time": 10.0,
             "Value": 5300.0
+          },
+          {
+            "Time": 11.0,
+            "Value": 5600.0
           },
           {
             "Time": 12.0,
@@ -1158,12 +962,24 @@
             "Value": 6650.0
           },
           {
+            "Time": 15.0,
+            "Value": 7050.0
+          },
+          {
             "Time": 16.0,
             "Value": 7450.0
           },
           {
+            "Time": 17.0,
+            "Value": 7900.0
+          },
+          {
             "Time": 18.0,
             "Value": 8350.0
+          },
+          {
+            "Time": 19.0,
+            "Value": 8850.0
           },
           {
             "Time": 20.0,
@@ -1180,6 +996,10 @@
           {
             "Time": 23.0,
             "Value": 11150.0
+          },
+          {
+            "Time": 24.0,
+            "Value": 11850.0
           },
           {
             "Time": 25.0,
@@ -1234,6 +1054,10 @@
             "Value": 27400.0
           },
           {
+            "Time": 38.0,
+            "Value": 29100.0
+          },
+          {
             "Time": 39.0,
             "Value": 30800.0
           },
@@ -1248,6 +1072,10 @@
           {
             "Time": 42.0,
             "Value": 36200.0
+          },
+          {
+            "Time": 43.0,
+            "Value": 38100.0
           },
           {
             "Time": 44.0,
@@ -1266,6 +1094,10 @@
             "Value": 46000.0
           },
           {
+            "Time": 48.0,
+            "Value": 48100.0
+          },
+          {
             "Time": 49.0,
             "Value": 50200.0
           },
@@ -1279,14 +1111,10 @@
         "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
       },
       "PvPObjective.3.FortHealthSet.MaxHealth": {
-        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "InterpMode": "ERichCurveInterpMode::RCIM_Constant",
         "Keys": [
           {
             "Time": 0.0,
-            "Value": 5000.0
-          },
-          {
-            "Time": 2.0,
             "Value": 5000.0
           },
           {
@@ -1306,12 +1134,20 @@
             "Value": 5500.0
           },
           {
+            "Time": 7.0,
+            "Value": 5750.0
+          },
+          {
             "Time": 8.0,
             "Value": 6000.0
           },
           {
             "Time": 9.0,
             "Value": 6300.0
+          },
+          {
+            "Time": 10.0,
+            "Value": 6650.0
           },
           {
             "Time": 11.0,
@@ -1322,8 +1158,16 @@
             "Value": 7400.0
           },
           {
+            "Time": 13.0,
+            "Value": 7850.0
+          },
+          {
             "Time": 14.0,
             "Value": 8300.0
+          },
+          {
+            "Time": 15.0,
+            "Value": 8800.0
           },
           {
             "Time": 16.0,
@@ -1332,6 +1176,10 @@
           {
             "Time": 17.0,
             "Value": 9850.0
+          },
+          {
+            "Time": 18.0,
+            "Value": 10450.0
           },
           {
             "Time": 19.0,
@@ -1467,14 +1315,10 @@
         "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
       },
       "ResourceWood.1.FortHealthSet.MaxHealth": {
-        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "InterpMode": "ERichCurveInterpMode::RCIM_Constant",
         "Keys": [
           {
             "Time": 0.0,
-            "Value": 120.0
-          },
-          {
-            "Time": 10.0,
             "Value": 120.0
           },
           {
@@ -1482,15 +1326,7 @@
             "Value": 205.0
           },
           {
-            "Time": 20.0,
-            "Value": 205.0
-          },
-          {
             "Time": 21.0,
-            "Value": 360.0
-          },
-          {
-            "Time": 30.0,
             "Value": 360.0
           },
           {
@@ -1507,14 +1343,10 @@
         "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
       },
       "ResourceWood.2.FortHealthSet.MaxHealth": {
-        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "InterpMode": "ERichCurveInterpMode::RCIM_Constant",
         "Keys": [
           {
             "Time": 0.0,
-            "Value": 200.0
-          },
-          {
-            "Time": 10.0,
             "Value": 200.0
           },
           {
@@ -1522,15 +1354,7 @@
             "Value": 340.0
           },
           {
-            "Time": 20.0,
-            "Value": 340.0
-          },
-          {
             "Time": 21.0,
-            "Value": 600.0
-          },
-          {
-            "Time": 30.0,
             "Value": 600.0
           },
           {
@@ -1547,14 +1371,10 @@
         "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
       },
       "ResourceWood.3.FortHealthSet.MaxHealth": {
-        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "InterpMode": "ERichCurveInterpMode::RCIM_Constant",
         "Keys": [
           {
             "Time": 0.0,
-            "Value": 300.0
-          },
-          {
-            "Time": 10.0,
             "Value": 300.0
           },
           {
@@ -1562,15 +1382,7 @@
             "Value": 510.0
           },
           {
-            "Time": 20.0,
-            "Value": 510.0
-          },
-          {
             "Time": 21.0,
-            "Value": 900.0
-          },
-          {
-            "Time": 30.0,
             "Value": 900.0
           },
           {
@@ -1587,14 +1399,10 @@
         "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
       },
       "ResourceWood.4.FortHealthSet.MaxHealth": {
-        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "InterpMode": "ERichCurveInterpMode::RCIM_Constant",
         "Keys": [
           {
             "Time": 0.0,
-            "Value": 600.0
-          },
-          {
-            "Time": 10.0,
             "Value": 600.0
           },
           {
@@ -1602,15 +1410,7 @@
             "Value": 1020.0
           },
           {
-            "Time": 20.0,
-            "Value": 1020.0
-          },
-          {
             "Time": 21.0,
-            "Value": 1800.0
-          },
-          {
-            "Time": 30.0,
             "Value": 1800.0
           },
           {
@@ -1627,14 +1427,10 @@
         "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
       },
       "ResourceStone.1.FortHealthSet.MaxHealth": {
-        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "InterpMode": "ERichCurveInterpMode::RCIM_Constant",
         "Keys": [
           {
             "Time": 0.0,
-            "Value": 180.0
-          },
-          {
-            "Time": 10.0,
             "Value": 180.0
           },
           {
@@ -1642,15 +1438,7 @@
             "Value": 305.0
           },
           {
-            "Time": 20.0,
-            "Value": 305.0
-          },
-          {
             "Time": 21.0,
-            "Value": 540.0
-          },
-          {
-            "Time": 30.0,
             "Value": 540.0
           },
           {
@@ -1667,14 +1455,10 @@
         "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
       },
       "ResourceStone.2.FortHealthSet.MaxHealth": {
-        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "InterpMode": "ERichCurveInterpMode::RCIM_Constant",
         "Keys": [
           {
             "Time": 0.0,
-            "Value": 300.0
-          },
-          {
-            "Time": 10.0,
             "Value": 300.0
           },
           {
@@ -1682,15 +1466,7 @@
             "Value": 510.0
           },
           {
-            "Time": 20.0,
-            "Value": 510.0
-          },
-          {
             "Time": 21.0,
-            "Value": 900.0
-          },
-          {
-            "Time": 30.0,
             "Value": 900.0
           },
           {
@@ -1707,14 +1483,10 @@
         "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
       },
       "ResourceStone.3.FortHealthSet.MaxHealth": {
-        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "InterpMode": "ERichCurveInterpMode::RCIM_Constant",
         "Keys": [
           {
             "Time": 0.0,
-            "Value": 450.0
-          },
-          {
-            "Time": 10.0,
             "Value": 450.0
           },
           {
@@ -1722,15 +1494,7 @@
             "Value": 765.0
           },
           {
-            "Time": 20.0,
-            "Value": 765.0
-          },
-          {
             "Time": 21.0,
-            "Value": 1350.0
-          },
-          {
-            "Time": 30.0,
             "Value": 1350.0
           },
           {
@@ -1747,14 +1511,10 @@
         "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
       },
       "ResourceStone.4.FortHealthSet.MaxHealth": {
-        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "InterpMode": "ERichCurveInterpMode::RCIM_Constant",
         "Keys": [
           {
             "Time": 0.0,
-            "Value": 900.0
-          },
-          {
-            "Time": 10.0,
             "Value": 900.0
           },
           {
@@ -1762,15 +1522,7 @@
             "Value": 1530.0
           },
           {
-            "Time": 20.0,
-            "Value": 1530.0
-          },
-          {
             "Time": 21.0,
-            "Value": 2700.0
-          },
-          {
-            "Time": 30.0,
             "Value": 2700.0
           },
           {
@@ -1787,14 +1539,10 @@
         "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
       },
       "ResourceMetal.1.FortHealthSet.MaxHealth": {
-        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "InterpMode": "ERichCurveInterpMode::RCIM_Constant",
         "Keys": [
           {
             "Time": 0.0,
-            "Value": 240.0
-          },
-          {
-            "Time": 10.0,
             "Value": 240.0
           },
           {
@@ -1802,15 +1550,7 @@
             "Value": 410.0
           },
           {
-            "Time": 20.0,
-            "Value": 410.0
-          },
-          {
             "Time": 21.0,
-            "Value": 720.0
-          },
-          {
-            "Time": 30.0,
             "Value": 720.0
           },
           {
@@ -1827,14 +1567,10 @@
         "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
       },
       "ResourceMetal.2.FortHealthSet.MaxHealth": {
-        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "InterpMode": "ERichCurveInterpMode::RCIM_Constant",
         "Keys": [
           {
             "Time": 0.0,
-            "Value": 400.0
-          },
-          {
-            "Time": 10.0,
             "Value": 400.0
           },
           {
@@ -1842,15 +1578,7 @@
             "Value": 680.0
           },
           {
-            "Time": 20.0,
-            "Value": 680.0
-          },
-          {
             "Time": 21.0,
-            "Value": 1200.0
-          },
-          {
-            "Time": 30.0,
             "Value": 1200.0
           },
           {
@@ -1867,14 +1595,10 @@
         "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
       },
       "ResourceMetal.3.FortHealthSet.MaxHealth": {
-        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "InterpMode": "ERichCurveInterpMode::RCIM_Constant",
         "Keys": [
           {
             "Time": 0.0,
-            "Value": 600.0
-          },
-          {
-            "Time": 10.0,
             "Value": 600.0
           },
           {
@@ -1882,15 +1606,7 @@
             "Value": 1020.0
           },
           {
-            "Time": 20.0,
-            "Value": 1020.0
-          },
-          {
             "Time": 21.0,
-            "Value": 1800.0
-          },
-          {
-            "Time": 30.0,
             "Value": 1800.0
           },
           {
@@ -1907,14 +1623,10 @@
         "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
       },
       "ResourceMetal.4.FortHealthSet.MaxHealth": {
-        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "InterpMode": "ERichCurveInterpMode::RCIM_Constant",
         "Keys": [
           {
             "Time": 0.0,
-            "Value": 1200.0
-          },
-          {
-            "Time": 10.0,
             "Value": 1200.0
           },
           {
@@ -1922,15 +1634,7 @@
             "Value": 2040.0
           },
           {
-            "Time": 20.0,
-            "Value": 2040.0
-          },
-          {
             "Time": 21.0,
-            "Value": 3600.0
-          },
-          {
-            "Time": 30.0,
             "Value": 3600.0
           },
           {
@@ -1947,7 +1651,7 @@
         "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
       },
       "TestNearInfinite.FortHealthSet.MaxHealth": {
-        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "InterpMode": "ERichCurveInterpMode::RCIM_Constant",
         "Keys": [
           {
             "Time": 0.0,
@@ -1963,14 +1667,10 @@
         "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
       },
       "TieredChest.FortHealthSet.MaxHealth": {
-        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "InterpMode": "ERichCurveInterpMode::RCIM_Constant",
         "Keys": [
           {
             "Time": 0.0,
-            "Value": 500.0
-          },
-          {
-            "Time": 10.0,
             "Value": 500.0
           },
           {
@@ -1978,15 +1678,7 @@
             "Value": 850.0
           },
           {
-            "Time": 20.0,
-            "Value": 850.0
-          },
-          {
             "Time": 21.0,
-            "Value": 1500.0
-          },
-          {
-            "Time": 30.0,
             "Value": 1500.0
           },
           {
@@ -2003,14 +1695,10 @@
         "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
       },
       "LootLlama.FortHealthSet.MaxHealth": {
-        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "InterpMode": "ERichCurveInterpMode::RCIM_Constant",
         "Keys": [
           {
             "Time": 0.0,
-            "Value": 3500.0
-          },
-          {
-            "Time": 10.0,
             "Value": 3500.0
           },
           {
@@ -2018,15 +1706,7 @@
             "Value": 5950.0
           },
           {
-            "Time": 20.0,
-            "Value": 5950.0
-          },
-          {
             "Time": 21.0,
-            "Value": 10500.0
-          },
-          {
-            "Time": 30.0,
             "Value": 10500.0
           },
           {
@@ -2043,14 +1723,10 @@
         "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
       },
       "Teleporter.FortHealthSet.MaxHealth": {
-        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "InterpMode": "ERichCurveInterpMode::RCIM_Constant",
         "Keys": [
           {
             "Time": 0.0,
-            "Value": 800.0
-          },
-          {
-            "Time": 2.0,
             "Value": 800.0
           },
           {
@@ -2070,12 +1746,20 @@
             "Value": 880.0
           },
           {
+            "Time": 7.0,
+            "Value": 920.0
+          },
+          {
             "Time": 8.0,
             "Value": 960.0
           },
           {
             "Time": 9.0,
             "Value": 1010.0
+          },
+          {
+            "Time": 10.0,
+            "Value": 1065.0
           },
           {
             "Time": 11.0,
@@ -2094,6 +1778,10 @@
             "Value": 1330.0
           },
           {
+            "Time": 15.0,
+            "Value": 1410.0
+          },
+          {
             "Time": 16.0,
             "Value": 1490.0
           },
@@ -2104,6 +1792,10 @@
           {
             "Time": 18.0,
             "Value": 1670.0
+          },
+          {
+            "Time": 19.0,
+            "Value": 1770.0
           },
           {
             "Time": 20.0,
@@ -2120,6 +1812,10 @@
           {
             "Time": 23.0,
             "Value": 2230.0
+          },
+          {
+            "Time": 24.0,
+            "Value": 2370.0
           },
           {
             "Time": 25.0,
@@ -2231,14 +1927,10 @@
         "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
       },
       "Relic.FortHealthSet.MaxHealth": {
-        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "InterpMode": "ERichCurveInterpMode::RCIM_Constant",
         "Keys": [
           {
             "Time": 0.0,
-            "Value": 5000.0
-          },
-          {
-            "Time": 2.0,
             "Value": 5000.0
           },
           {
@@ -2258,12 +1950,20 @@
             "Value": 5500.0
           },
           {
+            "Time": 7.0,
+            "Value": 5750.0
+          },
+          {
             "Time": 8.0,
             "Value": 6000.0
           },
           {
             "Time": 9.0,
             "Value": 6300.0
+          },
+          {
+            "Time": 10.0,
+            "Value": 6650.0
           },
           {
             "Time": 11.0,
@@ -2274,8 +1974,16 @@
             "Value": 7400.0
           },
           {
+            "Time": 13.0,
+            "Value": 7850.0
+          },
+          {
             "Time": 14.0,
             "Value": 8300.0
+          },
+          {
+            "Time": 15.0,
+            "Value": 8800.0
           },
           {
             "Time": 16.0,
@@ -2284,6 +1992,10 @@
           {
             "Time": 17.0,
             "Value": 9850.0
+          },
+          {
+            "Time": 18.0,
+            "Value": 10450.0
           },
           {
             "Time": 19.0,
@@ -2419,7 +2131,7 @@
         "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
       },
       "LegacyBGA.FortHealthSet.MaxHealth": {
-        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "InterpMode": "ERichCurveInterpMode::RCIM_Constant",
         "Keys": [
           {
             "Time": 0.0,
@@ -2435,7 +2147,7 @@
         "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
       },
       "CrateReturn.FortHealthSet.MaxHealth": {
-        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "InterpMode": "ERichCurveInterpMode::RCIM_Constant",
         "Keys": [
           {
             "Time": 0.0,
@@ -2451,7 +2163,7 @@
         "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
       },
       "HyperCube.FortHealthSet.MaxHealth": {
-        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "InterpMode": "ERichCurveInterpMode::RCIM_Constant",
         "Keys": [
           {
             "Time": 0.0,
@@ -2467,7 +2179,7 @@
         "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
       },
       "SpawnerStatic.FortHealthSet.MaxHealth": {
-        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "InterpMode": "ERichCurveInterpMode::RCIM_Constant",
         "Keys": [
           {
             "Time": 0.0,
@@ -2483,7 +2195,7 @@
         "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
       },
       "SpawnerDynamic.FortHealthSet.MaxHealth": {
-        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "InterpMode": "ERichCurveInterpMode::RCIM_Constant",
         "Keys": [
           {
             "Time": 0.0,
@@ -2499,15 +2211,15 @@
         "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
       },
       "AthenaSupplyDrop.FortHealthSet.MaxHealth": {
-        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "InterpMode": "ERichCurveInterpMode::RCIM_Constant",
         "Keys": [
           {
             "Time": 0.0,
             "Value": 250.0
           },
           {
-            "Time": 1.0,
-            "Value": 250.0
+            "Time": 2.0,
+            "Value": 500.0
           },
           {
             "Time": 3.0,
@@ -2527,7 +2239,7 @@
         "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
       },
       "AthenaRespawnGenerator.FortHealthSet.MaxHealth": {
-        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "InterpMode": "ERichCurveInterpMode::RCIM_Constant",
         "Keys": [
           {
             "Time": 0.0,
@@ -2543,14 +2255,10 @@
         "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
       },
       "PvPFOBCore.Standard.FortHealthSet.MaxHealth": {
-        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "InterpMode": "ERichCurveInterpMode::RCIM_Constant",
         "Keys": [
           {
             "Time": 0.0,
-            "Value": 2500.0
-          },
-          {
-            "Time": 2.0,
             "Value": 2500.0
           },
           {
@@ -2558,15 +2266,7 @@
             "Value": 2875.0
           },
           {
-            "Time": 6.0,
-            "Value": 2875.0
-          },
-          {
             "Time": 7.0,
-            "Value": 3250.0
-          },
-          {
-            "Time": 12.0,
             "Value": 3250.0
           },
           {
@@ -2574,15 +2274,7 @@
             "Value": 4375.0
           },
           {
-            "Time": 17.0,
-            "Value": 4375.0
-          },
-          {
             "Time": 18.0,
-            "Value": 5500.0
-          },
-          {
-            "Time": 22.0,
             "Value": 5500.0
           },
           {
@@ -2590,23 +2282,11 @@
             "Value": 7750.0
           },
           {
-            "Time": 27.0,
-            "Value": 7750.0
-          },
-          {
             "Time": 28.0,
             "Value": 10000.0
           },
           {
-            "Time": 32.0,
-            "Value": 10000.0
-          },
-          {
             "Time": 33.0,
-            "Value": 13750.0
-          },
-          {
-            "Time": 37.0,
             "Value": 13750.0
           },
           {
@@ -2623,14 +2303,10 @@
         "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
       },
       "PvPFOBCore.Knockback.FortHealthSet.MaxHealth": {
-        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "InterpMode": "ERichCurveInterpMode::RCIM_Constant",
         "Keys": [
           {
             "Time": 0.0,
-            "Value": 2200.0
-          },
-          {
-            "Time": 2.0,
             "Value": 2200.0
           },
           {
@@ -2638,15 +2314,7 @@
             "Value": 2530.0
           },
           {
-            "Time": 6.0,
-            "Value": 2530.0
-          },
-          {
             "Time": 7.0,
-            "Value": 2860.0
-          },
-          {
-            "Time": 12.0,
             "Value": 2860.0
           },
           {
@@ -2654,15 +2322,7 @@
             "Value": 3850.0
           },
           {
-            "Time": 17.0,
-            "Value": 3850.0
-          },
-          {
             "Time": 18.0,
-            "Value": 4840.0
-          },
-          {
-            "Time": 22.0,
             "Value": 4840.0
           },
           {
@@ -2670,23 +2330,11 @@
             "Value": 6820.0
           },
           {
-            "Time": 27.0,
-            "Value": 6820.0
-          },
-          {
             "Time": 28.0,
             "Value": 8800.0
           },
           {
-            "Time": 32.0,
-            "Value": 8800.0
-          },
-          {
             "Time": 33.0,
-            "Value": 12100.0
-          },
-          {
-            "Time": 37.0,
             "Value": 12100.0
           },
           {
@@ -2703,14 +2351,10 @@
         "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
       },
       "PvPFOBCore.Juggernaut.FortHealthSet.MaxHealth": {
-        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "InterpMode": "ERichCurveInterpMode::RCIM_Constant",
         "Keys": [
           {
             "Time": 0.0,
-            "Value": 3750.0
-          },
-          {
-            "Time": 2.0,
             "Value": 3750.0
           },
           {
@@ -2718,15 +2362,7 @@
             "Value": 4315.0
           },
           {
-            "Time": 6.0,
-            "Value": 4315.0
-          },
-          {
             "Time": 7.0,
-            "Value": 4875.0
-          },
-          {
-            "Time": 12.0,
             "Value": 4875.0
           },
           {
@@ -2734,15 +2370,7 @@
             "Value": 6565.0
           },
           {
-            "Time": 17.0,
-            "Value": 6565.0
-          },
-          {
             "Time": 18.0,
-            "Value": 8250.0
-          },
-          {
-            "Time": 22.0,
             "Value": 8250.0
           },
           {
@@ -2750,23 +2378,11 @@
             "Value": 11625.0
           },
           {
-            "Time": 27.0,
-            "Value": 11625.0
-          },
-          {
             "Time": 28.0,
             "Value": 15000.0
           },
           {
-            "Time": 32.0,
-            "Value": 15000.0
-          },
-          {
             "Time": 33.0,
-            "Value": 20625.0
-          },
-          {
-            "Time": 37.0,
             "Value": 20625.0
           },
           {
@@ -2783,14 +2399,10 @@
         "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
       },
       "PvEObjective.Primary.FortHealthSet.MaxHealth": {
-        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "InterpMode": "ERichCurveInterpMode::RCIM_Constant",
         "Keys": [
           {
             "Time": 0.0,
-            "Value": 5000.0
-          },
-          {
-            "Time": 2.0,
             "Value": 5000.0
           },
           {
@@ -2810,12 +2422,20 @@
             "Value": 5500.0
           },
           {
+            "Time": 7.0,
+            "Value": 5750.0
+          },
+          {
             "Time": 8.0,
             "Value": 6000.0
           },
           {
             "Time": 9.0,
             "Value": 6300.0
+          },
+          {
+            "Time": 10.0,
+            "Value": 6650.0
           },
           {
             "Time": 11.0,
@@ -2826,8 +2446,16 @@
             "Value": 7400.0
           },
           {
+            "Time": 13.0,
+            "Value": 7850.0
+          },
+          {
             "Time": 14.0,
             "Value": 8300.0
+          },
+          {
+            "Time": 15.0,
+            "Value": 8800.0
           },
           {
             "Time": 16.0,
@@ -2836,6 +2464,10 @@
           {
             "Time": 17.0,
             "Value": 9850.0
+          },
+          {
+            "Time": 18.0,
+            "Value": 10450.0
           },
           {
             "Time": 19.0,
@@ -2971,14 +2603,10 @@
         "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
       },
       "PvEObjective.SurvivorCar.FortHealthSet.MaxHealth": {
-        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "InterpMode": "ERichCurveInterpMode::RCIM_Constant",
         "Keys": [
           {
             "Time": 0.0,
-            "Value": 1000.0
-          },
-          {
-            "Time": 2.0,
             "Value": 1000.0
           },
           {
@@ -2998,12 +2626,20 @@
             "Value": 1100.0
           },
           {
+            "Time": 7.0,
+            "Value": 1150.0
+          },
+          {
             "Time": 8.0,
             "Value": 1200.0
           },
           {
             "Time": 9.0,
             "Value": 1260.0
+          },
+          {
+            "Time": 10.0,
+            "Value": 1330.0
           },
           {
             "Time": 11.0,
@@ -3014,8 +2650,16 @@
             "Value": 1480.0
           },
           {
+            "Time": 13.0,
+            "Value": 1570.0
+          },
+          {
             "Time": 14.0,
             "Value": 1660.0
+          },
+          {
+            "Time": 15.0,
+            "Value": 1760.0
           },
           {
             "Time": 16.0,
@@ -3024,6 +2668,10 @@
           {
             "Time": 17.0,
             "Value": 1970.0
+          },
+          {
+            "Time": 18.0,
+            "Value": 2090.0
           },
           {
             "Time": 19.0,
@@ -3159,14 +2807,10 @@
         "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
       },
       "PvEObjective.ShelterShield.FortHealthSet.MaxHealth": {
-        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "InterpMode": "ERichCurveInterpMode::RCIM_Constant",
         "Keys": [
           {
             "Time": 0.0,
-            "Value": 15000.0
-          },
-          {
-            "Time": 2.0,
             "Value": 15000.0
           },
           {
@@ -3186,12 +2830,20 @@
             "Value": 16500.0
           },
           {
+            "Time": 7.0,
+            "Value": 17250.0
+          },
+          {
             "Time": 8.0,
             "Value": 18000.0
           },
           {
             "Time": 9.0,
             "Value": 18900.0
+          },
+          {
+            "Time": 10.0,
+            "Value": 19950.0
           },
           {
             "Time": 11.0,
@@ -3202,8 +2854,16 @@
             "Value": 22200.0
           },
           {
+            "Time": 13.0,
+            "Value": 23550.0
+          },
+          {
             "Time": 14.0,
             "Value": 24900.0
+          },
+          {
+            "Time": 15.0,
+            "Value": 26400.0
           },
           {
             "Time": 16.0,
@@ -3212,6 +2872,10 @@
           {
             "Time": 17.0,
             "Value": 29550.0
+          },
+          {
+            "Time": 18.0,
+            "Value": 31350.0
           },
           {
             "Time": 19.0,
@@ -3347,35 +3011,67 @@
         "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
       },
       "PvEObjective.DamagedShelter.FortHealthSet.MaxHealth": {
-        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "InterpMode": "ERichCurveInterpMode::RCIM_Constant",
         "Keys": [
           {
             "Time": 0.0,
             "Value": 3000.0
           },
           {
-            "Time": 2.0,
-            "Value": 3000.0
+            "Time": 3.0,
+            "Value": 3050.0
           },
           {
             "Time": 4.0,
             "Value": 3100.0
           },
           {
+            "Time": 5.0,
+            "Value": 3200.0
+          },
+          {
             "Time": 6.0,
             "Value": 3300.0
+          },
+          {
+            "Time": 7.0,
+            "Value": 3450.0
           },
           {
             "Time": 8.0,
             "Value": 3600.0
           },
           {
+            "Time": 9.0,
+            "Value": 3800.0
+          },
+          {
+            "Time": 10.0,
+            "Value": 4000.0
+          },
+          {
             "Time": 11.0,
             "Value": 4200.0
           },
           {
+            "Time": 12.0,
+            "Value": 4450.0
+          },
+          {
             "Time": 13.0,
             "Value": 4700.0
+          },
+          {
+            "Time": 14.0,
+            "Value": 5000.0
+          },
+          {
+            "Time": 15.0,
+            "Value": 5300.0
+          },
+          {
+            "Time": 16.0,
+            "Value": 5600.0
           },
           {
             "Time": 17.0,
@@ -3394,6 +3090,14 @@
             "Value": 7000.0
           },
           {
+            "Time": 21.0,
+            "Value": 7450.0
+          },
+          {
+            "Time": 22.0,
+            "Value": 7900.0
+          },
+          {
             "Time": 23.0,
             "Value": 8350.0
           },
@@ -3410,8 +3114,16 @@
             "Value": 10000.0
           },
           {
+            "Time": 27.0,
+            "Value": 10700.0
+          },
+          {
             "Time": 28.0,
             "Value": 11400.0
+          },
+          {
+            "Time": 29.0,
+            "Value": 12200.0
           },
           {
             "Time": 30.0,
@@ -3422,8 +3134,16 @@
             "Value": 13900.0
           },
           {
+            "Time": 32.0,
+            "Value": 14900.0
+          },
+          {
             "Time": 33.0,
             "Value": 15900.0
+          },
+          {
+            "Time": 34.0,
+            "Value": 17000.0
           },
           {
             "Time": 35.0,
@@ -3434,8 +3154,16 @@
             "Value": 19300.0
           },
           {
+            "Time": 37.0,
+            "Value": 20550.0
+          },
+          {
             "Time": 38.0,
             "Value": 21800.0
+          },
+          {
+            "Time": 39.0,
+            "Value": 23100.0
           },
           {
             "Time": 40.0,
@@ -3446,8 +3174,16 @@
             "Value": 25750.0
           },
           {
+            "Time": 42.0,
+            "Value": 27150.0
+          },
+          {
             "Time": 43.0,
             "Value": 28550.0
+          },
+          {
+            "Time": 44.0,
+            "Value": 30000.0
           },
           {
             "Time": 45.0,
@@ -3458,8 +3194,16 @@
             "Value": 32950.0
           },
           {
+            "Time": 47.0,
+            "Value": 34500.0
+          },
+          {
             "Time": 48.0,
             "Value": 36050.0
+          },
+          {
+            "Time": 49.0,
+            "Value": 37650.0
           },
           {
             "Time": 50.0,
@@ -3471,14 +3215,10 @@
         "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
       },
       "PvEObjective.Shelter.FortHealthSet.MaxHealth": {
-        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "InterpMode": "ERichCurveInterpMode::RCIM_Constant",
         "Keys": [
           {
             "Time": 0.0,
-            "Value": 7500.0
-          },
-          {
-            "Time": 2.0,
             "Value": 7500.0
           },
           {
@@ -3530,12 +3270,20 @@
             "Value": 12450.0
           },
           {
+            "Time": 15.0,
+            "Value": 13200.0
+          },
+          {
             "Time": 16.0,
             "Value": 13950.0
           },
           {
             "Time": 17.0,
             "Value": 14800.0
+          },
+          {
+            "Time": 18.0,
+            "Value": 15700.0
           },
           {
             "Time": 19.0,
@@ -3671,14 +3419,10 @@
         "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
       },
       "PvEObjective.SEEbot.FortHealthSet.MaxHealth": {
-        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "InterpMode": "ERichCurveInterpMode::RCIM_Constant",
         "Keys": [
           {
             "Time": 0.0,
-            "Value": 1000.0
-          },
-          {
-            "Time": 2.0,
             "Value": 1000.0
           },
           {
@@ -3698,12 +3442,20 @@
             "Value": 1100.0
           },
           {
+            "Time": 7.0,
+            "Value": 1150.0
+          },
+          {
             "Time": 8.0,
             "Value": 1200.0
           },
           {
             "Time": 9.0,
             "Value": 1260.0
+          },
+          {
+            "Time": 10.0,
+            "Value": 1330.0
           },
           {
             "Time": 11.0,
@@ -3714,8 +3466,16 @@
             "Value": 1480.0
           },
           {
+            "Time": 13.0,
+            "Value": 1570.0
+          },
+          {
             "Time": 14.0,
             "Value": 1660.0
+          },
+          {
+            "Time": 15.0,
+            "Value": 1760.0
           },
           {
             "Time": 16.0,
@@ -3724,6 +3484,10 @@
           {
             "Time": 17.0,
             "Value": 1970.0
+          },
+          {
+            "Time": 18.0,
+            "Value": 2090.0
           },
           {
             "Time": 19.0,
@@ -3859,14 +3623,10 @@
         "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
       },
       "PropHuskStructure.1.FortHealthSet.MaxHealth": {
-        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "InterpMode": "ERichCurveInterpMode::RCIM_Constant",
         "Keys": [
           {
             "Time": 0.0,
-            "Value": 1200.0
-          },
-          {
-            "Time": 2.0,
             "Value": 1200.0
           },
           {
@@ -3886,12 +3646,20 @@
             "Value": 1320.0
           },
           {
+            "Time": 7.0,
+            "Value": 1380.0
+          },
+          {
             "Time": 8.0,
             "Value": 1440.0
           },
           {
             "Time": 9.0,
             "Value": 1510.0
+          },
+          {
+            "Time": 10.0,
+            "Value": 1595.0
           },
           {
             "Time": 11.0,
@@ -3908,6 +3676,10 @@
           {
             "Time": 14.0,
             "Value": 1990.0
+          },
+          {
+            "Time": 15.0,
+            "Value": 2110.0
           },
           {
             "Time": 16.0,
@@ -4055,14 +3827,10 @@
         "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
       },
       "PropHuskStructure.2.FortHealthSet.MaxHealth": {
-        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "InterpMode": "ERichCurveInterpMode::RCIM_Constant",
         "Keys": [
           {
             "Time": 0.0,
-            "Value": 20000.0
-          },
-          {
-            "Time": 2.0,
             "Value": 20000.0
           },
           {
@@ -4082,12 +3850,20 @@
             "Value": 22000.0
           },
           {
+            "Time": 7.0,
+            "Value": 23000.0
+          },
+          {
             "Time": 8.0,
             "Value": 24000.0
           },
           {
             "Time": 9.0,
             "Value": 25200.0
+          },
+          {
+            "Time": 10.0,
+            "Value": 26600.0
           },
           {
             "Time": 11.0,
@@ -4098,8 +3874,16 @@
             "Value": 29600.0
           },
           {
+            "Time": 13.0,
+            "Value": 31400.0
+          },
+          {
             "Time": 14.0,
             "Value": 33200.0
+          },
+          {
+            "Time": 15.0,
+            "Value": 35200.0
           },
           {
             "Time": 16.0,
@@ -4108,6 +3892,10 @@
           {
             "Time": 17.0,
             "Value": 39400.0
+          },
+          {
+            "Time": 18.0,
+            "Value": 41800.0
           },
           {
             "Time": 19.0,
@@ -4243,14 +4031,10 @@
         "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
       },
       "PlayerItemBalloon.FortHealthSet.MaxHealth": {
-        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "InterpMode": "ERichCurveInterpMode::RCIM_Constant",
         "Keys": [
           {
             "Time": 0.0,
-            "Value": 1.0
-          },
-          {
-            "Time": 12.0,
             "Value": 1.0
           },
           {
@@ -4258,15 +4042,7 @@
             "Value": 2.0
           },
           {
-            "Time": 21.0,
-            "Value": 2.0
-          },
-          {
             "Time": 22.0,
-            "Value": 3.0
-          },
-          {
-            "Time": 26.0,
             "Value": 3.0
           },
           {
@@ -4274,15 +4050,7 @@
             "Value": 4.0
           },
           {
-            "Time": 30.0,
-            "Value": 4.0
-          },
-          {
             "Time": 31.0,
-            "Value": 5.0
-          },
-          {
-            "Time": 33.0,
             "Value": 5.0
           },
           {
@@ -4290,15 +4058,7 @@
             "Value": 6.0
           },
           {
-            "Time": 36.0,
-            "Value": 6.0
-          },
-          {
             "Time": 37.0,
-            "Value": 7.0
-          },
-          {
-            "Time": 38.0,
             "Value": 7.0
           },
           {
@@ -4306,15 +4066,7 @@
             "Value": 8.0
           },
           {
-            "Time": 40.0,
-            "Value": 8.0
-          },
-          {
             "Time": 41.0,
-            "Value": 9.0
-          },
-          {
-            "Time": 42.0,
             "Value": 9.0
           },
           {
@@ -4322,15 +4074,11 @@
             "Value": 10.0
           },
           {
-            "Time": 45.0,
-            "Value": 10.0
+            "Time": 46.0,
+            "Value": 11.0
           },
           {
             "Time": 47.0,
-            "Value": 12.0
-          },
-          {
-            "Time": 48.0,
             "Value": 12.0
           },
           {
@@ -4347,14 +4095,10 @@
         "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
       },
       "MountedTurretFloor.1.FortHealthSet.MaxHealth": {
-        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "InterpMode": "ERichCurveInterpMode::RCIM_Constant",
         "Keys": [
           {
             "Time": 0.0,
-            "Value": 1000.0
-          },
-          {
-            "Time": 3.0,
             "Value": 1000.0
           },
           {
@@ -4362,8 +4106,16 @@
             "Value": 1050.0
           },
           {
-            "Time": 5.0,
-            "Value": 1050.0
+            "Time": 6.0,
+            "Value": 1100.0
+          },
+          {
+            "Time": 7.0,
+            "Value": 1150.0
+          },
+          {
+            "Time": 8.0,
+            "Value": 1200.0
           },
           {
             "Time": 9.0,
@@ -4386,6 +4138,18 @@
             "Value": 1550.0
           },
           {
+            "Time": 14.0,
+            "Value": 1650.0
+          },
+          {
+            "Time": 15.0,
+            "Value": 1750.0
+          },
+          {
+            "Time": 16.0,
+            "Value": 1850.0
+          },
+          {
             "Time": 17.0,
             "Value": 1950.0
           },
@@ -4398,36 +4162,124 @@
             "Value": 2200.0
           },
           {
+            "Time": 20.0,
+            "Value": 2350.0
+          },
+          {
+            "Time": 21.0,
+            "Value": 2500.0
+          },
+          {
+            "Time": 22.0,
+            "Value": 2650.0
+          },
+          {
+            "Time": 23.0,
+            "Value": 2800.0
+          },
+          {
             "Time": 24.0,
             "Value": 2950.0
+          },
+          {
+            "Time": 25.0,
+            "Value": 3150.0
+          },
+          {
+            "Time": 26.0,
+            "Value": 3350.0
           },
           {
             "Time": 27.0,
             "Value": 3550.0
           },
           {
+            "Time": 28.0,
+            "Value": 3800.0
+          },
+          {
             "Time": 29.0,
             "Value": 4050.0
+          },
+          {
+            "Time": 30.0,
+            "Value": 4350.0
+          },
+          {
+            "Time": 31.0,
+            "Value": 4650.0
           },
           {
             "Time": 32.0,
             "Value": 4950.0
           },
           {
+            "Time": 33.0,
+            "Value": 5300.0
+          },
+          {
             "Time": 34.0,
             "Value": 5650.0
+          },
+          {
+            "Time": 35.0,
+            "Value": 6050.0
+          },
+          {
+            "Time": 36.0,
+            "Value": 6450.0
+          },
+          {
+            "Time": 37.0,
+            "Value": 6850.0
           },
           {
             "Time": 38.0,
             "Value": 7250.0
           },
           {
+            "Time": 39.0,
+            "Value": 7700.0
+          },
+          {
+            "Time": 40.0,
+            "Value": 8150.0
+          },
+          {
+            "Time": 41.0,
+            "Value": 8600.0
+          },
+          {
+            "Time": 42.0,
+            "Value": 9050.0
+          },
+          {
             "Time": 43.0,
             "Value": 9500.0
           },
           {
+            "Time": 44.0,
+            "Value": 10000.0
+          },
+          {
+            "Time": 45.0,
+            "Value": 10500.0
+          },
+          {
+            "Time": 46.0,
+            "Value": 11000.0
+          },
+          {
+            "Time": 47.0,
+            "Value": 11500.0
+          },
+          {
             "Time": 48.0,
             "Value": 12000.0
+          },
+          {
+            "Time": 49.0,
+            "Value": 12550.0
           },
           {
             "Time": 50.0,
@@ -4439,19 +4291,23 @@
         "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
       },
       "DUDEBRO.WeakPoint.FortHealthSet.MaxHealth": {
-        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "InterpMode": "ERichCurveInterpMode::RCIM_Constant",
         "Keys": [
           {
             "Time": 0.0,
             "Value": 1500.0
           },
           {
-            "Time": 1.0,
-            "Value": 1500.0
+            "Time": 2.0,
+            "Value": 1700.0
           },
           {
             "Time": 3.0,
             "Value": 1900.0
+          },
+          {
+            "Time": 4.0,
+            "Value": 2150.0
           },
           {
             "Time": 5.0,
@@ -4643,15 +4499,19 @@
         "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
       },
       "DUDEBRO.Horn.FortHealthSet.MaxHealth": {
-        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "InterpMode": "ERichCurveInterpMode::RCIM_Constant",
         "Keys": [
           {
             "Time": 0.0,
             "Value": 2750.0
           },
           {
-            "Time": 2.0,
-            "Value": 2750.0
+            "Time": 3.0,
+            "Value": 2800.0
+          },
+          {
+            "Time": 4.0,
+            "Value": 2850.0
           },
           {
             "Time": 5.0,
@@ -4666,12 +4526,28 @@
             "Value": 3150.0
           },
           {
+            "Time": 8.0,
+            "Value": 3300.0
+          },
+          {
             "Time": 9.0,
             "Value": 3450.0
           },
           {
+            "Time": 10.0,
+            "Value": 3650.0
+          },
+          {
+            "Time": 11.0,
+            "Value": 3850.0
+          },
+          {
             "Time": 12.0,
             "Value": 4050.0
+          },
+          {
+            "Time": 13.0,
+            "Value": 4300.0
           },
           {
             "Time": 14.0,
@@ -4690,8 +4566,24 @@
             "Value": 5400.0
           },
           {
+            "Time": 18.0,
+            "Value": 5750.0
+          },
+          {
+            "Time": 19.0,
+            "Value": 6100.0
+          },
+          {
+            "Time": 20.0,
+            "Value": 6450.0
+          },
+          {
             "Time": 21.0,
             "Value": 6800.0
+          },
+          {
+            "Time": 22.0,
+            "Value": 7200.0
           },
           {
             "Time": 23.0,
@@ -4710,8 +4602,20 @@
             "Value": 9000.0
           },
           {
+            "Time": 27.0,
+            "Value": 9550.0
+          },
+          {
             "Time": 28.0,
             "Value": 10100.0
+          },
+          {
+            "Time": 29.0,
+            "Value": 10750.0
+          },
+          {
+            "Time": 30.0,
+            "Value": 11400.0
           },
           {
             "Time": 31.0,
@@ -4722,6 +4626,10 @@
             "Value": 12800.0
           },
           {
+            "Time": 33.0,
+            "Value": 13600.0
+          },
+          {
             "Time": 34.0,
             "Value": 14400.0
           },
@@ -4730,12 +4638,24 @@
             "Value": 15250.0
           },
           {
+            "Time": 36.0,
+            "Value": 16150.0
+          },
+          {
             "Time": 37.0,
             "Value": 17050.0
           },
           {
+            "Time": 38.0,
+            "Value": 18000.0
+          },
+          {
             "Time": 39.0,
             "Value": 18950.0
+          },
+          {
+            "Time": 40.0,
+            "Value": 19950.0
           },
           {
             "Time": 41.0,
@@ -4748,6 +4668,14 @@
           {
             "Time": 43.0,
             "Value": 23100.0
+          },
+          {
+            "Time": 44.0,
+            "Value": 24250.0
+          },
+          {
+            "Time": 45.0,
+            "Value": 25400.0
           },
           {
             "Time": 46.0,
@@ -4775,14 +4703,10 @@
         "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
       },
       "DUDEBRO.BluGloPylon.FortHealthSet.MaxHealth": {
-        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "InterpMode": "ERichCurveInterpMode::RCIM_Constant",
         "Keys": [
           {
             "Time": 0.0,
-            "Value": 5000.0
-          },
-          {
-            "Time": 2.0,
             "Value": 5000.0
           },
           {
@@ -4802,12 +4726,20 @@
             "Value": 5500.0
           },
           {
+            "Time": 7.0,
+            "Value": 5750.0
+          },
+          {
             "Time": 8.0,
             "Value": 6000.0
           },
           {
             "Time": 9.0,
             "Value": 6300.0
+          },
+          {
+            "Time": 10.0,
+            "Value": 6650.0
           },
           {
             "Time": 11.0,
@@ -4818,8 +4750,16 @@
             "Value": 7400.0
           },
           {
+            "Time": 13.0,
+            "Value": 7850.0
+          },
+          {
             "Time": 14.0,
             "Value": 8300.0
+          },
+          {
+            "Time": 15.0,
+            "Value": 8800.0
           },
           {
             "Time": 16.0,
@@ -4830,12 +4770,20 @@
             "Value": 9850.0
           },
           {
+            "Time": 18.0,
+            "Value": 10450.0
+          },
+          {
             "Time": 19.0,
             "Value": 11050.0
           },
           {
             "Time": 20.0,
             "Value": 11700.0
+          },
+          {
+            "Time": 21.0,
+            "Value": 12400.0
           },
           {
             "Time": 22.0,
@@ -4959,31 +4907,47 @@
         "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
       },
       "Boombox.FortHealthSet.MaxHealth": {
-        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "InterpMode": "ERichCurveInterpMode::RCIM_Constant",
         "Keys": [
           {
             "Time": 0.0,
             "Value": 400.0
           },
           {
-            "Time": 2.0,
-            "Value": 400.0
+            "Time": 3.0,
+            "Value": 405.0
           },
           {
             "Time": 4.0,
             "Value": 410.0
           },
           {
+            "Time": 5.0,
+            "Value": 425.0
+          },
+          {
             "Time": 6.0,
             "Value": 440.0
+          },
+          {
+            "Time": 7.0,
+            "Value": 460.0
           },
           {
             "Time": 8.0,
             "Value": 480.0
           },
           {
+            "Time": 9.0,
+            "Value": 505.0
+          },
+          {
             "Time": 10.0,
             "Value": 530.0
+          },
+          {
+            "Time": 11.0,
+            "Value": 560.0
           },
           {
             "Time": 12.0,
@@ -4998,12 +4962,24 @@
             "Value": 665.0
           },
           {
+            "Time": 15.0,
+            "Value": 705.0
+          },
+          {
             "Time": 16.0,
             "Value": 745.0
           },
           {
+            "Time": 17.0,
+            "Value": 790.0
+          },
+          {
             "Time": 18.0,
             "Value": 835.0
+          },
+          {
+            "Time": 19.0,
+            "Value": 885.0
           },
           {
             "Time": 20.0,
@@ -5020,6 +4996,10 @@
           {
             "Time": 23.0,
             "Value": 1115.0
+          },
+          {
+            "Time": 24.0,
+            "Value": 1185.0
           },
           {
             "Time": 25.0,
@@ -5074,6 +5054,10 @@
             "Value": 2740.0
           },
           {
+            "Time": 38.0,
+            "Value": 2910.0
+          },
+          {
             "Time": 39.0,
             "Value": 3080.0
           },
@@ -5088,6 +5072,10 @@
           {
             "Time": 42.0,
             "Value": 3620.0
+          },
+          {
+            "Time": 43.0,
+            "Value": 3810.0
           },
           {
             "Time": 44.0,
@@ -5106,6 +5094,10 @@
             "Value": 4600.0
           },
           {
+            "Time": 48.0,
+            "Value": 4810.0
+          },
+          {
             "Time": 49.0,
             "Value": 5020.0
           },
@@ -5119,15 +5111,19 @@
         "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
       },
       "UFO.1.FortHealthSet.MaxHealth": {
-        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "InterpMode": "ERichCurveInterpMode::RCIM_Constant",
         "Keys": [
           {
             "Time": 0.0,
             "Value": 750.0
           },
           {
-            "Time": 1.0,
-            "Value": 750.0
+            "Time": 2.0,
+            "Value": 850.0
+          },
+          {
+            "Time": 3.0,
+            "Value": 950.0
           },
           {
             "Time": 4.0,
@@ -5323,14 +5319,10 @@
         "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
       },
       "UFO.2.FortHealthSet.MaxHealth": {
-        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "InterpMode": "ERichCurveInterpMode::RCIM_Constant",
         "Keys": [
           {
             "Time": 0.0,
-            "Value": 1050.0
-          },
-          {
-            "Time": 1.0,
             "Value": 1050.0
           },
           {
@@ -5535,19 +5527,23 @@
         "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
       },
       "UFO.3.FortHealthSet.MaxHealth": {
-        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "InterpMode": "ERichCurveInterpMode::RCIM_Constant",
         "Keys": [
           {
             "Time": 0.0,
             "Value": 1550.0
           },
           {
-            "Time": 1.0,
-            "Value": 1550.0
+            "Time": 2.0,
+            "Value": 1750.0
           },
           {
             "Time": 3.0,
             "Value": 1950.0
+          },
+          {
+            "Time": 4.0,
+            "Value": 2200.0
           },
           {
             "Time": 5.0,
@@ -5739,14 +5735,10 @@
         "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
       },
       "UFO.4.FortHealthSet.MaxHealth": {
-        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "InterpMode": "ERichCurveInterpMode::RCIM_Constant",
         "Keys": [
           {
             "Time": 0.0,
-            "Value": 1850.0
-          },
-          {
-            "Time": 1.0,
             "Value": 1850.0
           },
           {
@@ -5951,14 +5943,10 @@
         "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
       },
       "MaydayVehicle.FortHealthSet.MaxHealth": {
-        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "InterpMode": "ERichCurveInterpMode::RCIM_Constant",
         "Keys": [
           {
             "Time": 0.0,
-            "Value": 10500.0
-          },
-          {
-            "Time": 2.0,
             "Value": 10500.0
           },
           {
@@ -6002,8 +5990,16 @@
             "Value": 15550.0
           },
           {
+            "Time": 13.0,
+            "Value": 16500.0
+          },
+          {
             "Time": 14.0,
             "Value": 17450.0
+          },
+          {
+            "Time": 15.0,
+            "Value": 18500.0
           },
           {
             "Time": 16.0,
@@ -6012,6 +6008,10 @@
           {
             "Time": 17.0,
             "Value": 20700.0
+          },
+          {
+            "Time": 18.0,
+            "Value": 21950.0
           },
           {
             "Time": 19.0,
@@ -6147,14 +6147,10 @@
         "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
       },
       "StarlightCamp.1.FortHealthSet.MaxHealth": {
-        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "InterpMode": "ERichCurveInterpMode::RCIM_Constant",
         "Keys": [
           {
             "Time": 0.0,
-            "Value": 1400.0
-          },
-          {
-            "Time": 1.0,
             "Value": 1400.0
           },
           {
@@ -6359,14 +6355,10 @@
         "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
       },
       "StarlightCamp.2.FortHealthSet.MaxHealth": {
-        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "InterpMode": "ERichCurveInterpMode::RCIM_Constant",
         "Keys": [
           {
             "Time": 0.0,
-            "Value": 1800.0
-          },
-          {
-            "Time": 1.0,
             "Value": 1800.0
           },
           {
@@ -6376,6 +6368,10 @@
           {
             "Time": 3.0,
             "Value": 2250.0
+          },
+          {
+            "Time": 4.0,
+            "Value": 2550.0
           },
           {
             "Time": 5.0,
@@ -6567,14 +6563,10 @@
         "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
       },
       "StarlightCamp.3.FortHealthSet.MaxHealth": {
-        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "InterpMode": "ERichCurveInterpMode::RCIM_Constant",
         "Keys": [
           {
             "Time": 0.0,
-            "Value": 2200.0
-          },
-          {
-            "Time": 1.0,
             "Value": 2200.0
           },
           {
@@ -6779,19 +6771,23 @@
         "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
       },
       "StarlightCamp.4.FortHealthSet.MaxHealth": {
-        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "InterpMode": "ERichCurveInterpMode::RCIM_Constant",
         "Keys": [
           {
             "Time": 0.0,
             "Value": 2700.0
           },
           {
-            "Time": 1.0,
-            "Value": 2700.0
+            "Time": 2.0,
+            "Value": 3050.0
           },
           {
             "Time": 3.0,
             "Value": 3400.0
+          },
+          {
+            "Time": 4.0,
+            "Value": 3850.0
           },
           {
             "Time": 5.0,
@@ -6983,15 +6979,15 @@
         "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
       },
       "DADBRO.WeakPoint.FortHealthSet.MaxHealth": {
-        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "InterpMode": "ERichCurveInterpMode::RCIM_Constant",
         "Keys": [
           {
             "Time": 0.0,
             "Value": 4000.0
           },
           {
-            "Time": 1.0,
-            "Value": 4000.0
+            "Time": 2.0,
+            "Value": 4500.0
           },
           {
             "Time": 3.0,
@@ -7191,14 +7187,10 @@
         "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
       },
       "DADBRO.Horn.FortHealthSet.MaxHealth": {
-        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "InterpMode": "ERichCurveInterpMode::RCIM_Constant",
         "Keys": [
           {
             "Time": 0.0,
-            "Value": 12000.0
-          },
-          {
-            "Time": 2.0,
             "Value": 12000.0
           },
           {
@@ -7218,12 +7210,20 @@
             "Value": 13200.0
           },
           {
+            "Time": 7.0,
+            "Value": 13800.0
+          },
+          {
             "Time": 8.0,
             "Value": 14400.0
           },
           {
             "Time": 9.0,
             "Value": 15100.0
+          },
+          {
+            "Time": 10.0,
+            "Value": 15950.0
           },
           {
             "Time": 11.0,
@@ -7240,6 +7240,10 @@
           {
             "Time": 14.0,
             "Value": 19900.0
+          },
+          {
+            "Time": 15.0,
+            "Value": 21100.0
           },
           {
             "Time": 16.0,
@@ -7387,15 +7391,19 @@
         "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
       },
       "StarlightDrainTrap.1.FortHealthSet.MaxHealth": {
-        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "InterpMode": "ERichCurveInterpMode::RCIM_Constant",
         "Keys": [
           {
             "Time": 0.0,
             "Value": 400.0
           },
           {
-            "Time": 1.0,
-            "Value": 400.0
+            "Time": 2.0,
+            "Value": 450.0
+          },
+          {
+            "Time": 3.0,
+            "Value": 500.0
           },
           {
             "Time": 4.0,
@@ -7404,6 +7412,10 @@
           {
             "Time": 5.0,
             "Value": 650.0
+          },
+          {
+            "Time": 6.0,
+            "Value": 800.0
           },
           {
             "Time": 7.0,
@@ -7587,15 +7599,23 @@
         "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
       },
       "EndlessBluGloDispensers.1.FortHealthSet.MaxHealth": {
-        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "InterpMode": "ERichCurveInterpMode::RCIM_Constant",
         "Keys": [
           {
             "Time": 0.0,
             "Value": 700.0
           },
           {
-            "Time": 1.0,
-            "Value": 700.0
+            "Time": 2.0,
+            "Value": 800.0
+          },
+          {
+            "Time": 3.0,
+            "Value": 900.0
+          },
+          {
+            "Time": 4.0,
+            "Value": 1000.0
           },
           {
             "Time": 5.0,
@@ -7787,23 +7807,43 @@
         "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
       },
       "PTP_PresentDrop.1.FortHealthSet.MaxHealth": {
-        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "InterpMode": "ERichCurveInterpMode::RCIM_Constant",
         "Keys": [
           {
             "Time": 0.0,
             "Value": 2000.0
           },
           {
-            "Time": 3.0,
-            "Value": 2000.0
+            "Time": 4.0,
+            "Value": 2050.0
           },
           {
             "Time": 5.0,
             "Value": 2100.0
           },
           {
+            "Time": 6.0,
+            "Value": 2200.0
+          },
+          {
+            "Time": 7.0,
+            "Value": 2300.0
+          },
+          {
+            "Time": 8.0,
+            "Value": 2400.0
+          },
+          {
             "Time": 9.0,
             "Value": 2500.0
+          },
+          {
+            "Time": 10.0,
+            "Value": 2650.0
+          },
+          {
+            "Time": 11.0,
+            "Value": 2800.0
           },
           {
             "Time": 12.0,
@@ -7818,8 +7858,16 @@
             "Value": 3300.0
           },
           {
+            "Time": 15.0,
+            "Value": 3500.0
+          },
+          {
             "Time": 16.0,
             "Value": 3700.0
+          },
+          {
+            "Time": 17.0,
+            "Value": 3950.0
           },
           {
             "Time": 18.0,
@@ -7850,40 +7898,100 @@
             "Value": 5900.0
           },
           {
+            "Time": 25.0,
+            "Value": 6300.0
+          },
+          {
+            "Time": 26.0,
+            "Value": 6700.0
+          },
+          {
             "Time": 27.0,
             "Value": 7100.0
+          },
+          {
+            "Time": 28.0,
+            "Value": 7600.0
           },
           {
             "Time": 29.0,
             "Value": 8100.0
           },
           {
+            "Time": 30.0,
+            "Value": 8700.0
+          },
+          {
+            "Time": 31.0,
+            "Value": 9300.0
+          },
+          {
             "Time": 32.0,
             "Value": 9900.0
+          },
+          {
+            "Time": 33.0,
+            "Value": 10600.0
           },
           {
             "Time": 34.0,
             "Value": 11300.0
           },
           {
+            "Time": 35.0,
+            "Value": 12100.0
+          },
+          {
+            "Time": 36.0,
+            "Value": 12900.0
+          },
+          {
             "Time": 37.0,
             "Value": 13700.0
+          },
+          {
+            "Time": 38.0,
+            "Value": 14550.0
           },
           {
             "Time": 39.0,
             "Value": 15400.0
           },
           {
+            "Time": 40.0,
+            "Value": 16300.0
+          },
+          {
+            "Time": 41.0,
+            "Value": 17200.0
+          },
+          {
             "Time": 42.0,
             "Value": 18100.0
+          },
+          {
+            "Time": 43.0,
+            "Value": 19050.0
           },
           {
             "Time": 44.0,
             "Value": 20000.0
           },
           {
+            "Time": 45.0,
+            "Value": 21000.0
+          },
+          {
+            "Time": 46.0,
+            "Value": 22000.0
+          },
+          {
             "Time": 47.0,
             "Value": 23000.0
+          },
+          {
+            "Time": 48.0,
+            "Value": 24050.0
           },
           {
             "Time": 49.0,
@@ -7899,14 +8007,10 @@
         "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
       },
       "SurviveTheHorde.Pillar.FortHealthSet.MaxHealth": {
-        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "InterpMode": "ERichCurveInterpMode::RCIM_Constant",
         "Keys": [
           {
             "Time": 0.0,
-            "Value": 1000.0
-          },
-          {
-            "Time": 1.0,
             "Value": 1000.0
           },
           {
@@ -8111,15 +8215,15 @@
         "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
       },
       "MistTitanWeakpoint.MistTitanSmasher.FortHealthSet.MaxHealth": {
-        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "InterpMode": "ERichCurveInterpMode::RCIM_Constant",
         "Keys": [
           {
             "Time": 0.0,
             "Value": 8000.0
           },
           {
-            "Time": 1.0,
-            "Value": 8000.0
+            "Time": 2.0,
+            "Value": 9000.0
           },
           {
             "Time": 3.0,
@@ -8312,6 +8416,118 @@
           {
             "Time": 50.0,
             "Value": 11748650.0
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant",
+        "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
+      },
+      "LootSack.FortHealthSet.MaxHealth": {
+        "InterpMode": "ERichCurveInterpMode::RCIM_Constant",
+        "Keys": [
+          {
+            "Time": 0.0,
+            "Value": 250.0
+          },
+          {
+            "Time": 11.0,
+            "Value": 425.0
+          },
+          {
+            "Time": 21.0,
+            "Value": 750.0
+          },
+          {
+            "Time": 31.0,
+            "Value": 1315.0
+          },
+          {
+            "Time": 50.0,
+            "Value": 1315.0
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant",
+        "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
+      },
+      "DialADropPod.FortHealthSet.MaxHealth": {
+        "InterpMode": "ERichCurveInterpMode::RCIM_Constant",
+        "Keys": [
+          {
+            "Time": 0.0,
+            "Value": 400.0
+          },
+          {
+            "Time": 11.0,
+            "Value": 680.0
+          },
+          {
+            "Time": 21.0,
+            "Value": 1200.0
+          },
+          {
+            "Time": 31.0,
+            "Value": 2100.0
+          },
+          {
+            "Time": 50.0,
+            "Value": 2100.0
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant",
+        "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
+      },
+      "BugSpawnerSmall.FortHealthSet.MaxHealth": {
+        "InterpMode": "ERichCurveInterpMode::RCIM_Constant",
+        "Keys": [
+          {
+            "Time": 0.0,
+            "Value": 150.0
+          },
+          {
+            "Time": 11.0,
+            "Value": 255.0
+          },
+          {
+            "Time": 21.0,
+            "Value": 450.0
+          },
+          {
+            "Time": 31.0,
+            "Value": 790.0
+          },
+          {
+            "Time": 50.0,
+            "Value": 790.0
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant",
+        "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
+      },
+      "BugSpawnerLarge.FortHealthSet.MaxHealth": {
+        "InterpMode": "ERichCurveInterpMode::RCIM_Constant",
+        "Keys": [
+          {
+            "Time": 0.0,
+            "Value": 600.0
+          },
+          {
+            "Time": 11.0,
+            "Value": 1020.0
+          },
+          {
+            "Time": 21.0,
+            "Value": 1800.0
+          },
+          {
+            "Time": 31.0,
+            "Value": 3150.0
+          },
+          {
+            "Time": 50.0,
+            "Value": 3150.0
           }
         ],
         "DefaultValue": 3.4028235E+38,

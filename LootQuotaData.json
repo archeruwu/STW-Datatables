@@ -1,0 +1,863 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "LootQuotaData",
+    "Class": "UScriptClass'DataTable'",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'FortLootQuotaData'",
+        "ObjectPath": "/Script/FortniteGame"
+      },
+      "bStripFromClientBuilds": true
+    },
+    "Rows": {
+      "Standard0": {
+        "QuotaCategory": "Standard",
+        "QuotaLevel": "ELootQuotaLevel::Unlimited",
+        "Min": 0,
+        "Max": -1,
+        "Quota": 2.0,
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": -1
+      },
+      "Standard1": {
+        "QuotaCategory": "Standard",
+        "QuotaLevel": "ELootQuotaLevel::Level1",
+        "Min": 0,
+        "Max": -1,
+        "Quota": 1.2,
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": -1
+      },
+      "Standard2": {
+        "QuotaCategory": "Standard",
+        "QuotaLevel": "ELootQuotaLevel::Level2",
+        "Min": 1,
+        "Max": 3,
+        "Quota": 1.1,
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": -1
+      },
+      "Standard3": {
+        "QuotaCategory": "Standard",
+        "QuotaLevel": "ELootQuotaLevel::Level3",
+        "Min": 0,
+        "Max": 1,
+        "Quota": 0.7,
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": -1
+      },
+      "Standard4": {
+        "QuotaCategory": "Standard",
+        "QuotaLevel": "ELootQuotaLevel::Level4",
+        "Min": 0,
+        "Max": 1,
+        "Quota": 0.25,
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": -1
+      },
+      "Standard5": {
+        "QuotaCategory": "Standard",
+        "QuotaLevel": "ELootQuotaLevel::Level5",
+        "Min": 0,
+        "Max": 1,
+        "Quota": 0.15,
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": -1
+      },
+      "Standard6": {
+        "QuotaCategory": "Standard",
+        "QuotaLevel": "ELootQuotaLevel::Level6",
+        "Min": 0,
+        "Max": 1,
+        "Quota": 0.075,
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": -1
+      },
+      "Standard7": {
+        "QuotaCategory": "Standard",
+        "QuotaLevel": "ELootQuotaLevel::Level7",
+        "Min": 1,
+        "Max": 3,
+        "Quota": 1.9,
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": -1
+      },
+      "Standard8": {
+        "QuotaCategory": "Standard",
+        "QuotaLevel": "ELootQuotaLevel::Level8",
+        "Min": 1,
+        "Max": 2,
+        "Quota": 1.35,
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": -1
+      },
+      "Standard9": {
+        "QuotaCategory": "Standard",
+        "QuotaLevel": "ELootQuotaLevel::Level9",
+        "Min": 1,
+        "Max": 3,
+        "Quota": 1.9,
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": -1
+      },
+      "Standard10SR": {
+        "QuotaCategory": "Standard",
+        "QuotaLevel": "ELootQuotaLevel::Level10",
+        "Min": 0,
+        "Max": 0,
+        "Quota": 0.0,
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": 2
+      },
+      "Standard10": {
+        "QuotaCategory": "Standard",
+        "QuotaLevel": "ELootQuotaLevel::Level10",
+        "Min": 0,
+        "Max": 1,
+        "Quota": 0.275,
+        "MinWorldLevel": 3,
+        "MaxWorldLevel": 5
+      },
+      "Standard10C": {
+        "QuotaCategory": "Standard",
+        "QuotaLevel": "ELootQuotaLevel::Level10",
+        "Min": 1,
+        "Max": 3,
+        "Quota": 1.35,
+        "MinWorldLevel": 6,
+        "MaxWorldLevel": -1
+      },
+      "Standard11": {
+        "QuotaCategory": "Standard",
+        "QuotaLevel": "ELootQuotaLevel::Level11",
+        "Min": 0,
+        "Max": 1,
+        "Quota": 0.275,
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": 10
+      },
+      "Standard11C": {
+        "QuotaCategory": "Standard",
+        "QuotaLevel": "ELootQuotaLevel::Level11",
+        "Min": 1,
+        "Max": 3,
+        "Quota": 1.35,
+        "MinWorldLevel": 11,
+        "MaxWorldLevel": -1
+      },
+      "Standard12": {
+        "QuotaCategory": "Standard",
+        "QuotaLevel": "ELootQuotaLevel::Level12",
+        "Min": 0,
+        "Max": 1,
+        "Quota": 0.275,
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": 15
+      },
+      "Standard12C": {
+        "QuotaCategory": "Standard",
+        "QuotaLevel": "ELootQuotaLevel::Level12",
+        "Min": 1,
+        "Max": 3,
+        "Quota": 1.35,
+        "MinWorldLevel": 16,
+        "MaxWorldLevel": 20
+      },
+      "Standard12E": {
+        "QuotaCategory": "Standard",
+        "QuotaLevel": "ELootQuotaLevel::Level12",
+        "Min": 1,
+        "Max": 2,
+        "Quota": 1.35,
+        "MinWorldLevel": 21,
+        "MaxWorldLevel": -1
+      },
+      "Standard13": {
+        "QuotaCategory": "Standard",
+        "QuotaLevel": "ELootQuotaLevel::Level13",
+        "Min": 0,
+        "Max": 1,
+        "Quota": 0.275,
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": 15
+      },
+      "Standard13C": {
+        "QuotaCategory": "Standard",
+        "QuotaLevel": "ELootQuotaLevel::Level13",
+        "Min": 0,
+        "Max": 2,
+        "Quota": 0.75,
+        "MinWorldLevel": 16,
+        "MaxWorldLevel": 20
+      },
+      "Standard13E": {
+        "QuotaCategory": "Standard",
+        "QuotaLevel": "ELootQuotaLevel::Level13",
+        "Min": 0,
+        "Max": 2,
+        "Quota": 0.75,
+        "MinWorldLevel": 21,
+        "MaxWorldLevel": -1
+      },
+      "Standard14": {
+        "QuotaCategory": "Standard",
+        "QuotaLevel": "ELootQuotaLevel::Level14",
+        "Min": 0,
+        "Max": 1,
+        "Quota": 0.275,
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": 20
+      },
+      "Standard14C": {
+        "QuotaCategory": "Standard",
+        "QuotaLevel": "ELootQuotaLevel::Level14",
+        "Min": 1,
+        "Max": 2,
+        "Quota": 1.35,
+        "MinWorldLevel": 21,
+        "MaxWorldLevel": -1
+      },
+      "Standard15": {
+        "QuotaCategory": "Standard",
+        "QuotaLevel": "ELootQuotaLevel::Level15",
+        "Min": 0,
+        "Max": 1,
+        "Quota": 0.275,
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": 20
+      },
+      "Standard15C": {
+        "QuotaCategory": "Standard",
+        "QuotaLevel": "ELootQuotaLevel::Level15",
+        "Min": 0,
+        "Max": 2,
+        "Quota": 0.75,
+        "MinWorldLevel": 21,
+        "MaxWorldLevel": -1
+      },
+      "Endless0": {
+        "QuotaCategory": "Endless",
+        "QuotaLevel": "ELootQuotaLevel::Unlimited",
+        "Min": 0,
+        "Max": -1,
+        "Quota": 0.7,
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": -1
+      },
+      "Endless1": {
+        "QuotaCategory": "Endless",
+        "QuotaLevel": "ELootQuotaLevel::Level1",
+        "Min": 0,
+        "Max": -1,
+        "Quota": 0.7,
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": -1
+      },
+      "Endless2": {
+        "QuotaCategory": "Endless",
+        "QuotaLevel": "ELootQuotaLevel::Level2",
+        "Min": 0,
+        "Max": 1,
+        "Quota": 0.6,
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": -1
+      },
+      "Endless3": {
+        "QuotaCategory": "Endless",
+        "QuotaLevel": "ELootQuotaLevel::Level3",
+        "Min": 0,
+        "Max": 1,
+        "Quota": 0.5,
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": -1
+      },
+      "Endless4": {
+        "QuotaCategory": "Endless",
+        "QuotaLevel": "ELootQuotaLevel::Level4",
+        "Min": 0,
+        "Max": 1,
+        "Quota": 0.4,
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": -1
+      },
+      "Endless5": {
+        "QuotaCategory": "Endless",
+        "QuotaLevel": "ELootQuotaLevel::Level5",
+        "Min": 0,
+        "Max": 1,
+        "Quota": 0.3,
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": -1
+      },
+      "Endless6": {
+        "QuotaCategory": "Endless",
+        "QuotaLevel": "ELootQuotaLevel::Level6",
+        "Min": 0,
+        "Max": 1,
+        "Quota": 0.2,
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": -1
+      },
+      "Endless7": {
+        "QuotaCategory": "Endless",
+        "QuotaLevel": "ELootQuotaLevel::Level7",
+        "Min": 2,
+        "Max": 6,
+        "Quota": 3.8,
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": -1
+      },
+      "Endless8": {
+        "QuotaCategory": "Endless",
+        "QuotaLevel": "ELootQuotaLevel::Level8",
+        "Min": 4,
+        "Max": 6,
+        "Quota": 5.0,
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": -1
+      },
+      "Endless9": {
+        "QuotaCategory": "Endless",
+        "QuotaLevel": "ELootQuotaLevel::Level9",
+        "Min": 6,
+        "Max": 8,
+        "Quota": 7.0,
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": -1
+      },
+      "Endless10SR": {
+        "QuotaCategory": "Endless",
+        "QuotaLevel": "ELootQuotaLevel::Level10",
+        "Min": 0,
+        "Max": 0,
+        "Quota": 0.0,
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": 2
+      },
+      "Endless10": {
+        "QuotaCategory": "Endless",
+        "QuotaLevel": "ELootQuotaLevel::Level10",
+        "Min": 4,
+        "Max": 6,
+        "Quota": 5.0,
+        "MinWorldLevel": 3,
+        "MaxWorldLevel": 5
+      },
+      "Endless10C": {
+        "QuotaCategory": "Endless",
+        "QuotaLevel": "ELootQuotaLevel::Level10",
+        "Min": 6,
+        "Max": 8,
+        "Quota": 7.0,
+        "MinWorldLevel": 6,
+        "MaxWorldLevel": -1
+      },
+      "Endless11": {
+        "QuotaCategory": "Endless",
+        "QuotaLevel": "ELootQuotaLevel::Level11",
+        "Min": 4,
+        "Max": 6,
+        "Quota": 5.0,
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": 10
+      },
+      "Endless11C": {
+        "QuotaCategory": "Endless",
+        "QuotaLevel": "ELootQuotaLevel::Level11",
+        "Min": 6,
+        "Max": 8,
+        "Quota": 7.0,
+        "MinWorldLevel": 11,
+        "MaxWorldLevel": -1
+      },
+      "Endless12": {
+        "QuotaCategory": "Endless",
+        "QuotaLevel": "ELootQuotaLevel::Level12",
+        "Min": 4,
+        "Max": 6,
+        "Quota": 5.0,
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": 15
+      },
+      "Endless12C": {
+        "QuotaCategory": "Endless",
+        "QuotaLevel": "ELootQuotaLevel::Level12",
+        "Min": 6,
+        "Max": 8,
+        "Quota": 7.0,
+        "MinWorldLevel": 16,
+        "MaxWorldLevel": -1
+      },
+      "Endless13": {
+        "QuotaCategory": "Endless",
+        "QuotaLevel": "ELootQuotaLevel::Level13",
+        "Min": 4,
+        "Max": 6,
+        "Quota": 5.0,
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": 15
+      },
+      "Endless13C": {
+        "QuotaCategory": "Endless",
+        "QuotaLevel": "ELootQuotaLevel::Level13",
+        "Min": 6,
+        "Max": 8,
+        "Quota": 7.0,
+        "MinWorldLevel": 16,
+        "MaxWorldLevel": -1
+      },
+      "Endless14": {
+        "QuotaCategory": "Endless",
+        "QuotaLevel": "ELootQuotaLevel::Level14",
+        "Min": 4,
+        "Max": 6,
+        "Quota": 5.0,
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": 20
+      },
+      "Endless14C": {
+        "QuotaCategory": "Endless",
+        "QuotaLevel": "ELootQuotaLevel::Level14",
+        "Min": 6,
+        "Max": 8,
+        "Quota": 7.0,
+        "MinWorldLevel": 21,
+        "MaxWorldLevel": -1
+      },
+      "Endless15": {
+        "QuotaCategory": "Endless",
+        "QuotaLevel": "ELootQuotaLevel::Level15",
+        "Min": 4,
+        "Max": 6,
+        "Quota": 5.0,
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": 20
+      },
+      "Endless15C": {
+        "QuotaCategory": "Endless",
+        "QuotaLevel": "ELootQuotaLevel::Level15",
+        "Min": 6,
+        "Max": 8,
+        "Quota": 7.0,
+        "MinWorldLevel": 21,
+        "MaxWorldLevel": -1
+      },
+      "Mayday0": {
+        "QuotaCategory": "Mayday",
+        "QuotaLevel": "ELootQuotaLevel::Unlimited",
+        "Min": 15,
+        "Max": -1,
+        "Quota": 12.0,
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": -1
+      },
+      "Mayday1": {
+        "QuotaCategory": "Mayday",
+        "QuotaLevel": "ELootQuotaLevel::Level1",
+        "Min": 12,
+        "Max": -1,
+        "Quota": 10.0,
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": -1
+      },
+      "Mayday2": {
+        "QuotaCategory": "Mayday",
+        "QuotaLevel": "ELootQuotaLevel::Level2",
+        "Min": 10,
+        "Max": 12,
+        "Quota": 11.0,
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": -1
+      },
+      "Mayday3": {
+        "QuotaCategory": "Mayday",
+        "QuotaLevel": "ELootQuotaLevel::Level3",
+        "Min": 8,
+        "Max": 10,
+        "Quota": 9.0,
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": -1
+      },
+      "Mayday4": {
+        "QuotaCategory": "Mayday",
+        "QuotaLevel": "ELootQuotaLevel::Level4",
+        "Min": 5,
+        "Max": 8,
+        "Quota": 6.0,
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": -1
+      },
+      "Mayday5": {
+        "QuotaCategory": "Mayday",
+        "QuotaLevel": "ELootQuotaLevel::Level5",
+        "Min": 1,
+        "Max": 4,
+        "Quota": 2.0,
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": -1
+      },
+      "Mayday6": {
+        "QuotaCategory": "Mayday",
+        "QuotaLevel": "ELootQuotaLevel::Level6",
+        "Min": 1,
+        "Max": 2,
+        "Quota": 1.5,
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": -1
+      },
+      "Mayday7": {
+        "QuotaCategory": "Mayday",
+        "QuotaLevel": "ELootQuotaLevel::Level7",
+        "Min": 4,
+        "Max": 12,
+        "Quota": 8.0,
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": -1
+      },
+      "Mayday8": {
+        "QuotaCategory": "Mayday",
+        "QuotaLevel": "ELootQuotaLevel::Level8",
+        "Min": 4,
+        "Max": 6,
+        "Quota": 10.0,
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": -1
+      },
+      "Mayday9": {
+        "QuotaCategory": "Mayday",
+        "QuotaLevel": "ELootQuotaLevel::Level9",
+        "Min": 12,
+        "Max": 16,
+        "Quota": 14.0,
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": -1
+      },
+      "Mayday10SR": {
+        "QuotaCategory": "Mayday",
+        "QuotaLevel": "ELootQuotaLevel::Level10",
+        "Min": 0,
+        "Max": 0,
+        "Quota": 0.0,
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": 2
+      },
+      "Mayday10": {
+        "QuotaCategory": "Mayday",
+        "QuotaLevel": "ELootQuotaLevel::Level10",
+        "Min": 8,
+        "Max": 12,
+        "Quota": 10.0,
+        "MinWorldLevel": 3,
+        "MaxWorldLevel": 5
+      },
+      "Mayday10C": {
+        "QuotaCategory": "Mayday",
+        "QuotaLevel": "ELootQuotaLevel::Level10",
+        "Min": 12,
+        "Max": 16,
+        "Quota": 14.0,
+        "MinWorldLevel": 6,
+        "MaxWorldLevel": -1
+      },
+      "Mayday11": {
+        "QuotaCategory": "Mayday",
+        "QuotaLevel": "ELootQuotaLevel::Level11",
+        "Min": 8,
+        "Max": 12,
+        "Quota": 10.0,
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": 10
+      },
+      "Mayday11C": {
+        "QuotaCategory": "Mayday",
+        "QuotaLevel": "ELootQuotaLevel::Level11",
+        "Min": 12,
+        "Max": 16,
+        "Quota": 14.0,
+        "MinWorldLevel": 11,
+        "MaxWorldLevel": -1
+      },
+      "Mayday12": {
+        "QuotaCategory": "Mayday",
+        "QuotaLevel": "ELootQuotaLevel::Level12",
+        "Min": 8,
+        "Max": 12,
+        "Quota": 10.0,
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": 15
+      },
+      "Mayday12C": {
+        "QuotaCategory": "Mayday",
+        "QuotaLevel": "ELootQuotaLevel::Level12",
+        "Min": 12,
+        "Max": 16,
+        "Quota": 14.0,
+        "MinWorldLevel": 16,
+        "MaxWorldLevel": -1
+      },
+      "Mayday13": {
+        "QuotaCategory": "Mayday",
+        "QuotaLevel": "ELootQuotaLevel::Level13",
+        "Min": 8,
+        "Max": 12,
+        "Quota": 10.0,
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": 15
+      },
+      "Mayday13C": {
+        "QuotaCategory": "Mayday",
+        "QuotaLevel": "ELootQuotaLevel::Level13",
+        "Min": 12,
+        "Max": 16,
+        "Quota": 14.0,
+        "MinWorldLevel": 16,
+        "MaxWorldLevel": -1
+      },
+      "Mayday14": {
+        "QuotaCategory": "Mayday",
+        "QuotaLevel": "ELootQuotaLevel::Level14",
+        "Min": 8,
+        "Max": 12,
+        "Quota": 10.0,
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": 20
+      },
+      "Mayday14C": {
+        "QuotaCategory": "Mayday",
+        "QuotaLevel": "ELootQuotaLevel::Level14",
+        "Min": 12,
+        "Max": 16,
+        "Quota": 14.0,
+        "MinWorldLevel": 21,
+        "MaxWorldLevel": -1
+      },
+      "Mayday15": {
+        "QuotaCategory": "Mayday",
+        "QuotaLevel": "ELootQuotaLevel::Level15",
+        "Min": 8,
+        "Max": 12,
+        "Quota": 10.0,
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": 20
+      },
+      "Mayday15C": {
+        "QuotaCategory": "Mayday",
+        "QuotaLevel": "ELootQuotaLevel::Level15",
+        "Min": 12,
+        "Max": 16,
+        "Quota": 14.0,
+        "MinWorldLevel": 21,
+        "MaxWorldLevel": -1
+      },
+      "Starlight0": {
+        "QuotaCategory": "Starlight",
+        "QuotaLevel": "ELootQuotaLevel::Unlimited",
+        "Min": 23,
+        "Max": -1,
+        "Quota": 18.0,
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": -1
+      },
+      "Starlight1": {
+        "QuotaCategory": "Starlight",
+        "QuotaLevel": "ELootQuotaLevel::Level1",
+        "Min": 20,
+        "Max": 25,
+        "Quota": 23.0,
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": -1
+      },
+      "Starlight2": {
+        "QuotaCategory": "Starlight",
+        "QuotaLevel": "ELootQuotaLevel::Level2",
+        "Min": 22,
+        "Max": 28,
+        "Quota": 25.0,
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": -1
+      },
+      "Starlight3": {
+        "QuotaCategory": "Starlight",
+        "QuotaLevel": "ELootQuotaLevel::Level3",
+        "Min": 24,
+        "Max": 32,
+        "Quota": 28.0,
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": -1
+      },
+      "Starlight4": {
+        "QuotaCategory": "Starlight",
+        "QuotaLevel": "ELootQuotaLevel::Level4",
+        "Min": 35,
+        "Max": 45,
+        "Quota": 40.0,
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": -1
+      },
+      "Starlight5": {
+        "QuotaCategory": "Starlight",
+        "QuotaLevel": "ELootQuotaLevel::Level5",
+        "Min": 10,
+        "Max": 15,
+        "Quota": 13.0,
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": -1
+      },
+      "Starlight6": {
+        "QuotaCategory": "Starlight",
+        "QuotaLevel": "ELootQuotaLevel::Level6",
+        "Min": 8,
+        "Max": 11,
+        "Quota": 9.0,
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": -1
+      },
+      "Starlight7": {
+        "QuotaCategory": "Starlight",
+        "QuotaLevel": "ELootQuotaLevel::Level7",
+        "Min": 4,
+        "Max": 12,
+        "Quota": 8.0,
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": -1
+      },
+      "Starlight8": {
+        "QuotaCategory": "Starlight",
+        "QuotaLevel": "ELootQuotaLevel::Level8",
+        "Min": 4,
+        "Max": 6,
+        "Quota": 10.0,
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": -1
+      },
+      "Starlight9": {
+        "QuotaCategory": "Starlight",
+        "QuotaLevel": "ELootQuotaLevel::Level9",
+        "Min": 12,
+        "Max": 16,
+        "Quota": 14.0,
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": -1
+      },
+      "Starlight10SR": {
+        "QuotaCategory": "Starlight",
+        "QuotaLevel": "ELootQuotaLevel::Level10",
+        "Min": 0,
+        "Max": 0,
+        "Quota": 0.0,
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": 2
+      },
+      "Starlight10": {
+        "QuotaCategory": "Starlight",
+        "QuotaLevel": "ELootQuotaLevel::Level10",
+        "Min": 8,
+        "Max": 12,
+        "Quota": 10.0,
+        "MinWorldLevel": 3,
+        "MaxWorldLevel": 5
+      },
+      "Starlight10C": {
+        "QuotaCategory": "Starlight",
+        "QuotaLevel": "ELootQuotaLevel::Level10",
+        "Min": 12,
+        "Max": 16,
+        "Quota": 14.0,
+        "MinWorldLevel": 6,
+        "MaxWorldLevel": -1
+      },
+      "Starlight11": {
+        "QuotaCategory": "Starlight",
+        "QuotaLevel": "ELootQuotaLevel::Level11",
+        "Min": 8,
+        "Max": 12,
+        "Quota": 10.0,
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": 10
+      },
+      "Starlight11C": {
+        "QuotaCategory": "Starlight",
+        "QuotaLevel": "ELootQuotaLevel::Level11",
+        "Min": 12,
+        "Max": 16,
+        "Quota": 14.0,
+        "MinWorldLevel": 11,
+        "MaxWorldLevel": -1
+      },
+      "Starlight12": {
+        "QuotaCategory": "Starlight",
+        "QuotaLevel": "ELootQuotaLevel::Level12",
+        "Min": 8,
+        "Max": 12,
+        "Quota": 10.0,
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": 15
+      },
+      "Starlight12C": {
+        "QuotaCategory": "Starlight",
+        "QuotaLevel": "ELootQuotaLevel::Level12",
+        "Min": 12,
+        "Max": 16,
+        "Quota": 14.0,
+        "MinWorldLevel": 16,
+        "MaxWorldLevel": -1
+      },
+      "Starlight13": {
+        "QuotaCategory": "Starlight",
+        "QuotaLevel": "ELootQuotaLevel::Level13",
+        "Min": 8,
+        "Max": 12,
+        "Quota": 10.0,
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": 15
+      },
+      "Starlight13C": {
+        "QuotaCategory": "Starlight",
+        "QuotaLevel": "ELootQuotaLevel::Level13",
+        "Min": 12,
+        "Max": 16,
+        "Quota": 14.0,
+        "MinWorldLevel": 16,
+        "MaxWorldLevel": -1
+      },
+      "Starlight14": {
+        "QuotaCategory": "Starlight",
+        "QuotaLevel": "ELootQuotaLevel::Level14",
+        "Min": 8,
+        "Max": 12,
+        "Quota": 10.0,
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": 20
+      },
+      "Starlight14C": {
+        "QuotaCategory": "Starlight",
+        "QuotaLevel": "ELootQuotaLevel::Level14",
+        "Min": 12,
+        "Max": 16,
+        "Quota": 14.0,
+        "MinWorldLevel": 21,
+        "MaxWorldLevel": -1
+      },
+      "Starlight15": {
+        "QuotaCategory": "Starlight",
+        "QuotaLevel": "ELootQuotaLevel::Level15",
+        "Min": 8,
+        "Max": 12,
+        "Quota": 10.0,
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": 20
+      },
+      "Starlight15C": {
+        "QuotaCategory": "Starlight",
+        "QuotaLevel": "ELootQuotaLevel::Level15",
+        "Min": 12,
+        "Max": 16,
+        "Quota": 14.0,
+        "MinWorldLevel": 21,
+        "MaxWorldLevel": -1
+      }
+    }
+  }
+]

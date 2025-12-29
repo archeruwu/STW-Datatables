@@ -117,7 +117,22 @@
         "MeleeAimAssistRequiredTag": {
           "TagName": "None"
         },
-        "MaxUnderReticleDistance": 8192.0
+        "MaxUnderReticleDistance": 8192.0,
+        "AutofireRange": 0.0,
+        "AutofireMinRange": 0.0,
+        "AutofireZoomTargetMinSizePercent": 100.0,
+        "AutofireAcquisitionDelay": 0.15,
+        "AutofireDBNOAcquisitionDelay": 0.0,
+        "AutofireAcquisitionRechargeTime": 0.0,
+        "AutofireReleaseTime": 0.0,
+        "AutofireCooldown": 0.0,
+        "PerWeaponHotfixes": {
+          "bDisableTargetingDuringReload": false,
+          "bDisableTargetingInAir": false,
+          "bDisableCheckpointReload": false,
+          "bDisableSecondaryRecoilLayers": false,
+          "bDisablePrimaryRecoilOverride": false
+        }
       },
       "Trap_Floor_Spikes_Athena_R_T03": {
         "ArmTime": 1.0,
@@ -225,7 +240,22 @@
         "MeleeAimAssistRequiredTag": {
           "TagName": "None"
         },
-        "MaxUnderReticleDistance": 8192.0
+        "MaxUnderReticleDistance": 8192.0,
+        "AutofireRange": 0.0,
+        "AutofireMinRange": 0.0,
+        "AutofireZoomTargetMinSizePercent": 100.0,
+        "AutofireAcquisitionDelay": 0.15,
+        "AutofireDBNOAcquisitionDelay": 0.0,
+        "AutofireAcquisitionRechargeTime": 0.0,
+        "AutofireReleaseTime": 0.0,
+        "AutofireCooldown": 0.0,
+        "PerWeaponHotfixes": {
+          "bDisableTargetingDuringReload": false,
+          "bDisableTargetingInAir": false,
+          "bDisableCheckpointReload": false,
+          "bDisableSecondaryRecoilLayers": false,
+          "bDisablePrimaryRecoilOverride": false
+        }
       },
       "Trap_Context_SurpriseParty_Athena_R_T03": {
         "ArmTime": 1.0,
@@ -333,7 +363,22 @@
         "MeleeAimAssistRequiredTag": {
           "TagName": "None"
         },
-        "MaxUnderReticleDistance": 8192.0
+        "MaxUnderReticleDistance": 8192.0,
+        "AutofireRange": 0.0,
+        "AutofireMinRange": 0.0,
+        "AutofireZoomTargetMinSizePercent": 100.0,
+        "AutofireAcquisitionDelay": 0.15,
+        "AutofireDBNOAcquisitionDelay": 0.0,
+        "AutofireAcquisitionRechargeTime": 0.0,
+        "AutofireReleaseTime": 0.0,
+        "AutofireCooldown": 0.0,
+        "PerWeaponHotfixes": {
+          "bDisableTargetingDuringReload": false,
+          "bDisableTargetingInAir": false,
+          "bDisableCheckpointReload": false,
+          "bDisableSecondaryRecoilLayers": false,
+          "bDisablePrimaryRecoilOverride": false
+        }
       },
       "Trap_Context_SurpriseParty_DanceFloor_Athena_R_T03": {
         "ArmTime": 1.0,
@@ -441,7 +486,22 @@
         "MeleeAimAssistRequiredTag": {
           "TagName": "None"
         },
-        "MaxUnderReticleDistance": 8192.0
+        "MaxUnderReticleDistance": 8192.0,
+        "AutofireRange": 0.0,
+        "AutofireMinRange": 0.0,
+        "AutofireZoomTargetMinSizePercent": 100.0,
+        "AutofireAcquisitionDelay": 0.15,
+        "AutofireDBNOAcquisitionDelay": 0.0,
+        "AutofireAcquisitionRechargeTime": 0.0,
+        "AutofireReleaseTime": 0.0,
+        "AutofireCooldown": 0.0,
+        "PerWeaponHotfixes": {
+          "bDisableTargetingDuringReload": false,
+          "bDisableTargetingInAir": false,
+          "bDisableCheckpointReload": false,
+          "bDisableSecondaryRecoilLayers": false,
+          "bDisablePrimaryRecoilOverride": false
+        }
       },
       "Trap_Context_Freeze_Athena_R_T03": {
         "ArmTime": 1.0,
@@ -549,7 +609,22 @@
         "MeleeAimAssistRequiredTag": {
           "TagName": "None"
         },
-        "MaxUnderReticleDistance": 8192.0
+        "MaxUnderReticleDistance": 8192.0,
+        "AutofireRange": 0.0,
+        "AutofireMinRange": 0.0,
+        "AutofireZoomTargetMinSizePercent": 100.0,
+        "AutofireAcquisitionDelay": 0.15,
+        "AutofireDBNOAcquisitionDelay": 0.0,
+        "AutofireAcquisitionRechargeTime": 0.0,
+        "AutofireReleaseTime": 0.0,
+        "AutofireCooldown": 0.0,
+        "PerWeaponHotfixes": {
+          "bDisableTargetingDuringReload": false,
+          "bDisableTargetingInAir": false,
+          "bDisableCheckpointReload": false,
+          "bDisableSecondaryRecoilLayers": false,
+          "bDisablePrimaryRecoilOverride": false
+        }
       },
       "Trap_Ceiling_Falling_Athena_R_T03": {
         "ArmTime": 1.0,
@@ -657,7 +732,22 @@
         "MeleeAimAssistRequiredTag": {
           "TagName": "None"
         },
-        "MaxUnderReticleDistance": 8192.0
+        "MaxUnderReticleDistance": 8192.0,
+        "AutofireRange": 0.0,
+        "AutofireMinRange": 0.0,
+        "AutofireZoomTargetMinSizePercent": 100.0,
+        "AutofireAcquisitionDelay": 0.15,
+        "AutofireDBNOAcquisitionDelay": 0.0,
+        "AutofireAcquisitionRechargeTime": 0.0,
+        "AutofireReleaseTime": 0.0,
+        "AutofireCooldown": 0.0,
+        "PerWeaponHotfixes": {
+          "bDisableTargetingDuringReload": false,
+          "bDisableTargetingInAir": false,
+          "bDisableCheckpointReload": false,
+          "bDisableSecondaryRecoilLayers": false,
+          "bDisablePrimaryRecoilOverride": false
+        }
       },
       "Trap_Wall_Electric_Athena_R_T03": {
         "ArmTime": 1.0,
@@ -765,7 +855,22 @@
         "MeleeAimAssistRequiredTag": {
           "TagName": "None"
         },
-        "MaxUnderReticleDistance": 8192.0
+        "MaxUnderReticleDistance": 8192.0,
+        "AutofireRange": 0.0,
+        "AutofireMinRange": 0.0,
+        "AutofireZoomTargetMinSizePercent": 100.0,
+        "AutofireAcquisitionDelay": 0.15,
+        "AutofireDBNOAcquisitionDelay": 0.0,
+        "AutofireAcquisitionRechargeTime": 0.0,
+        "AutofireReleaseTime": 0.0,
+        "AutofireCooldown": 0.0,
+        "PerWeaponHotfixes": {
+          "bDisableTargetingDuringReload": false,
+          "bDisableTargetingInAir": false,
+          "bDisableCheckpointReload": false,
+          "bDisableSecondaryRecoilLayers": false,
+          "bDisablePrimaryRecoilOverride": false
+        }
       },
       "Trap_Floor_Prj_Athena_R_T03": {
         "ArmTime": 1.0,
@@ -873,7 +978,22 @@
         "MeleeAimAssistRequiredTag": {
           "TagName": "None"
         },
-        "MaxUnderReticleDistance": 8192.0
+        "MaxUnderReticleDistance": 8192.0,
+        "AutofireRange": 0.0,
+        "AutofireMinRange": 0.0,
+        "AutofireZoomTargetMinSizePercent": 100.0,
+        "AutofireAcquisitionDelay": 0.15,
+        "AutofireDBNOAcquisitionDelay": 0.0,
+        "AutofireAcquisitionRechargeTime": 0.0,
+        "AutofireReleaseTime": 0.0,
+        "AutofireCooldown": 0.0,
+        "PerWeaponHotfixes": {
+          "bDisableTargetingDuringReload": false,
+          "bDisableTargetingInAir": false,
+          "bDisableCheckpointReload": false,
+          "bDisableSecondaryRecoilLayers": false,
+          "bDisablePrimaryRecoilOverride": false
+        }
       },
       "Trap_Context_ZippyTrout_Athena_R_T03": {
         "ArmTime": 1.5,
@@ -981,7 +1101,22 @@
         "MeleeAimAssistRequiredTag": {
           "TagName": "None"
         },
-        "MaxUnderReticleDistance": 8192.0
+        "MaxUnderReticleDistance": 8192.0,
+        "AutofireRange": 0.0,
+        "AutofireMinRange": 0.0,
+        "AutofireZoomTargetMinSizePercent": 100.0,
+        "AutofireAcquisitionDelay": 0.15,
+        "AutofireDBNOAcquisitionDelay": 0.0,
+        "AutofireAcquisitionRechargeTime": 0.0,
+        "AutofireReleaseTime": 0.0,
+        "AutofireCooldown": 0.0,
+        "PerWeaponHotfixes": {
+          "bDisableTargetingDuringReload": false,
+          "bDisableTargetingInAir": false,
+          "bDisableCheckpointReload": false,
+          "bDisableSecondaryRecoilLayers": false,
+          "bDisablePrimaryRecoilOverride": false
+        }
       },
       "Trap_Context_FrostedTips_Athena_R_T03": {
         "ArmTime": 1.5,
@@ -1089,7 +1224,22 @@
         "MeleeAimAssistRequiredTag": {
           "TagName": "None"
         },
-        "MaxUnderReticleDistance": 8192.0
+        "MaxUnderReticleDistance": 8192.0,
+        "AutofireRange": 0.0,
+        "AutofireMinRange": 0.0,
+        "AutofireZoomTargetMinSizePercent": 100.0,
+        "AutofireAcquisitionDelay": 0.15,
+        "AutofireDBNOAcquisitionDelay": 0.0,
+        "AutofireAcquisitionRechargeTime": 0.0,
+        "AutofireReleaseTime": 0.0,
+        "AutofireCooldown": 0.0,
+        "PerWeaponHotfixes": {
+          "bDisableTargetingDuringReload": false,
+          "bDisableTargetingInAir": false,
+          "bDisableCheckpointReload": false,
+          "bDisableSecondaryRecoilLayers": false,
+          "bDisablePrimaryRecoilOverride": false
+        }
       }
     }
   }

@@ -16,7 +16,7 @@
           {
             "EDOIdx": 0,
             "BreatherBetweenWaves": 120.0,
-            "WaveRules": "EWaveRules::KillPoints",
+            "WaveRules": "EWaveRules::Timed",
             "EnemyTypeToKillMod": {
               "TagName": "NPC.CharacterType.Husk.Basic"
             },
@@ -4905,7 +4905,7 @@
               "TagName": "NPC.CharacterType.Husk.Basic"
             },
             "WaveMissions": [],
-            "WaveLengthMod": 180.0,
+            "WaveLengthMod": 120.0,
             "NumKillsMod": 0.0,
             "KillPointsMod": 0.0,
             "DifficultyAddMod": 0.0,
