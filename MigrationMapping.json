@@ -1,0 +1,488 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "MigrationMapping",
+    "Class": "UScriptClass'DataTable'",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'AlterationMapping'",
+        "ObjectPath": "/Script/FortniteGame"
+      }
+    },
+    "Rows": {
+      "Alteration:AID_Att_Melee_CritChance": {
+        "NewAlteration": "Alteration:AID_Att_CritChance_T01",
+        "AdditionalAlteration": ""
+      },
+      "Alteration:AID_Att_Melee_CritChance_Alt1": {
+        "NewAlteration": "Alteration:AID_Att_CritChance_T02",
+        "AdditionalAlteration": ""
+      },
+      "Alteration:AID_Att_Melee_CritChance_Alt2": {
+        "NewAlteration": "Alteration:AID_Att_CritChance_T03",
+        "AdditionalAlteration": ""
+      },
+      "Alteration:AID_Att_Melee_CritDamage": {
+        "NewAlteration": "Alteration:AID_Att_CritDamage_T01",
+        "AdditionalAlteration": ""
+      },
+      "Alteration:AID_Att_Melee_CritDamage_Alt1": {
+        "NewAlteration": "Alteration:AID_Att_CritDamage_T02",
+        "AdditionalAlteration": ""
+      },
+      "Alteration:AID_Att_Melee_CritDamage_Alt2": {
+        "NewAlteration": "Alteration:AID_Att_CritDamage_T03",
+        "AdditionalAlteration": ""
+      },
+      "Alteration:AID_Att_Melee_Damage": {
+        "NewAlteration": "Alteration:AID_Att_Damage_T01",
+        "AdditionalAlteration": ""
+      },
+      "Alteration:AID_Att_Melee_Damage_Alt1": {
+        "NewAlteration": "Alteration:AID_Att_Damage_T02",
+        "AdditionalAlteration": ""
+      },
+      "Alteration:AID_Att_Melee_Damage_Alt2": {
+        "NewAlteration": "Alteration:AID_Att_Damage_T03",
+        "AdditionalAlteration": ""
+      },
+      "Alteration:AID_Att_Melee_DurabilityDecay": {
+        "NewAlteration": "Alteration:AID_Att_MaxDurability_T01",
+        "AdditionalAlteration": ""
+      },
+      "Alteration:AID_Att_Melee_DurabilityDecay_Alt1": {
+        "NewAlteration": "Alteration:AID_Att_MaxDurability_T02",
+        "AdditionalAlteration": ""
+      },
+      "Alteration:AID_Att_Melee_DurabilityDecay_Alt2": {
+        "NewAlteration": "Alteration:AID_Att_MaxDurability_T03",
+        "AdditionalAlteration": ""
+      },
+      "Alteration:AID_Att_Melee_StaminaCostReduction": {
+        "NewAlteration": "Alteration:AID_Att_HeavyAttackStaminaCost_T01",
+        "AdditionalAlteration": ""
+      },
+      "Alteration:AID_Att_Melee_StaminaCostReduction_Alt1": {
+        "NewAlteration": "Alteration:AID_Att_HeavyAttackStaminaCost_T02",
+        "AdditionalAlteration": ""
+      },
+      "Alteration:AID_Att_Melee_StaminaCostReduction_Alt2": {
+        "NewAlteration": "Alteration:AID_Att_HeavyAttackStaminaCost_T03",
+        "AdditionalAlteration": ""
+      },
+      "Alteration:AID_Att_Ranged_ClipSize": {
+        "NewAlteration": "Alteration:AID_Att_MagazineSize_T01",
+        "AdditionalAlteration": ""
+      },
+      "Alteration:AID_Att_Ranged_ClipSize_Alt1": {
+        "NewAlteration": "Alteration:AID_Att_MagazineSize_T02",
+        "AdditionalAlteration": ""
+      },
+      "Alteration:AID_Att_Ranged_ClipSize_Alt2": {
+        "NewAlteration": "Alteration:AID_Att_MagazineSize_T03",
+        "AdditionalAlteration": ""
+      },
+      "Alteration:AID_Att_Ranged_CritChance": {
+        "NewAlteration": "Alteration:AID_Att_CritChance_T01",
+        "AdditionalAlteration": ""
+      },
+      "Alteration:AID_Att_Ranged_CritChance_Alt1": {
+        "NewAlteration": "Alteration:AID_Att_CritChance_T02",
+        "AdditionalAlteration": ""
+      },
+      "Alteration:AID_Att_Ranged_CritChance_Alt2": {
+        "NewAlteration": "Alteration:AID_Att_CritChance_T03",
+        "AdditionalAlteration": ""
+      },
+      "Alteration:AID_Att_Ranged_CritDamage": {
+        "NewAlteration": "Alteration:AID_Att_CritDamage_T01",
+        "AdditionalAlteration": ""
+      },
+      "Alteration:AID_Att_Ranged_CritDamage_Alt1": {
+        "NewAlteration": "Alteration:AID_Att_CritDamage_T02",
+        "AdditionalAlteration": ""
+      },
+      "Alteration:AID_Att_Ranged_CritDamage_Alt2": {
+        "NewAlteration": "Alteration:AID_Att_CritDamage_T03",
+        "AdditionalAlteration": ""
+      },
+      "Alteration:AID_Att_Ranged_Damage": {
+        "NewAlteration": "Alteration:AID_Att_Damage_T01",
+        "AdditionalAlteration": ""
+      },
+      "Alteration:AID_Att_Ranged_Damage_Alt1": {
+        "NewAlteration": "Alteration:AID_Att_Damage_T02",
+        "AdditionalAlteration": ""
+      },
+      "Alteration:AID_Att_Ranged_Damage_Alt2": {
+        "NewAlteration": "Alteration:AID_Att_Damage_T03",
+        "AdditionalAlteration": ""
+      },
+      "Alteration:AID_Att_Ranged_DurabilityDecay": {
+        "NewAlteration": "Alteration:AID_Att_MaxDurability_T01",
+        "AdditionalAlteration": ""
+      },
+      "Alteration:AID_Att_Ranged_DurabilityDecay_Alt1": {
+        "NewAlteration": "Alteration:AID_Att_MaxDurability_T02",
+        "AdditionalAlteration": ""
+      },
+      "Alteration:AID_Att_Ranged_DurabilityDecay_Alt2": {
+        "NewAlteration": "Alteration:AID_Att_MaxDurability_T03",
+        "AdditionalAlteration": ""
+      },
+      "Alteration:AID_Att_Ranged_FireRate": {
+        "NewAlteration": "Alteration:AID_Att_FireRate_Ranged_T01",
+        "AdditionalAlteration": ""
+      },
+      "Alteration:AID_Att_Ranged_FireRate_Alt1": {
+        "NewAlteration": "Alteration:AID_Att_FireRate_Ranged_T02",
+        "AdditionalAlteration": ""
+      },
+      "Alteration:AID_Att_Ranged_FireRate_Alt2": {
+        "NewAlteration": "Alteration:AID_Att_FireRate_Ranged_T03",
+        "AdditionalAlteration": ""
+      },
+      "Alteration:AID_Att_Ranged_HeadshotDamage": {
+        "NewAlteration": "Alteration:AID_Att_HeadshotDamage_T01",
+        "AdditionalAlteration": ""
+      },
+      "Alteration:AID_Att_Ranged_HeadshotDamage_Alt1": {
+        "NewAlteration": "Alteration:AID_Att_HeadshotDamage_T02",
+        "AdditionalAlteration": ""
+      },
+      "Alteration:AID_Att_Ranged_HeadshotDamage_Alt2": {
+        "NewAlteration": "Alteration:AID_Att_HeadshotDamage_T03",
+        "AdditionalAlteration": ""
+      },
+      "Alteration:AID_Att_Ranged_Recoil": {
+        "NewAlteration": "Alteration:AID_Att_Stability_T01",
+        "AdditionalAlteration": ""
+      },
+      "Alteration:AID_Att_Ranged_Recoil_Alt1": {
+        "NewAlteration": "Alteration:AID_Att_Stability_T02",
+        "AdditionalAlteration": ""
+      },
+      "Alteration:AID_Att_Ranged_Recoil_Alt2": {
+        "NewAlteration": "Alteration:AID_Att_Stability_T03",
+        "AdditionalAlteration": ""
+      },
+      "Alteration:AID_Att_Ranged_ReloadSpeed": {
+        "NewAlteration": "Alteration:AID_Att_ReloadSpeed_Ranged_T01",
+        "AdditionalAlteration": ""
+      },
+      "Alteration:AID_Att_Ranged_ReloadSpeed_Alt1": {
+        "NewAlteration": "Alteration:AID_Att_ReloadSpeed_Ranged_T02",
+        "AdditionalAlteration": ""
+      },
+      "Alteration:AID_Att_Ranged_ReloadSpeed_Alt2": {
+        "NewAlteration": "Alteration:AID_Att_ReloadSpeed_Ranged_T03",
+        "AdditionalAlteration": ""
+      },
+      "Alteration:AID_Att_Trap_CoreDamage_T02": {
+        "NewAlteration": "Alteration:AID_Att_Damage_T01",
+        "AdditionalAlteration": ""
+      },
+      "Alteration:AID_Att_Trap_CoreDamage_T03": {
+        "NewAlteration": "Alteration:AID_Att_Damage_T02",
+        "AdditionalAlteration": ""
+      },
+      "Alteration:AID_Att_Trap_CoreDamage_T05": {
+        "NewAlteration": "Alteration:AID_Att_Damage_T03",
+        "AdditionalAlteration": ""
+      },
+      "Alteration:AID_Att_Trap_CritChance": {
+        "NewAlteration": "Alteration:AID_Att_CritChance_T01",
+        "AdditionalAlteration": ""
+      },
+      "Alteration:AID_Att_Trap_CritChance_Alt1": {
+        "NewAlteration": "Alteration:AID_Att_CritChance_T02",
+        "AdditionalAlteration": ""
+      },
+      "Alteration:AID_Att_Trap_CritChance_Alt2": {
+        "NewAlteration": "Alteration:AID_Att_CritChance_T03",
+        "AdditionalAlteration": ""
+      },
+      "Alteration:AID_Att_Trap_CritDamage": {
+        "NewAlteration": "Alteration:AID_Att_CritDamage_T01",
+        "AdditionalAlteration": ""
+      },
+      "Alteration:AID_Att_Trap_CritDamage_Alt1": {
+        "NewAlteration": "Alteration:AID_Att_CritDamage_T02",
+        "AdditionalAlteration": ""
+      },
+      "Alteration:AID_Att_Trap_CritDamage_Alt2": {
+        "NewAlteration": "Alteration:AID_Att_CritDamage_T03",
+        "AdditionalAlteration": ""
+      },
+      "Alteration:AID_Att_Trap_HealAmount": {
+        "NewAlteration": "Alteration:AID_Att_Healing_T01",
+        "AdditionalAlteration": ""
+      },
+      "Alteration:AID_Att_Trap_HealAmount_Alt1": {
+        "NewAlteration": "Alteration:AID_Att_Healing_T02",
+        "AdditionalAlteration": ""
+      },
+      "Alteration:AID_Att_Trap_HealAmount_Alt2": {
+        "NewAlteration": "Alteration:AID_Att_Healing_T03",
+        "AdditionalAlteration": ""
+      },
+      "Alteration:AID_Att_Trap_Knockback_Impact": {
+        "NewAlteration": "Alteration:AID_Att_KnockbackImpact_T01",
+        "AdditionalAlteration": ""
+      },
+      "Alteration:AID_Att_Trap_Knockback_Impact_Alt1": {
+        "NewAlteration": "Alteration:AID_Att_KnockbackImpact_T02",
+        "AdditionalAlteration": ""
+      },
+      "Alteration:AID_Att_Trap_Knockback_Impact_Alt2": {
+        "NewAlteration": "Alteration:AID_Att_KnockbackImpact_T03",
+        "AdditionalAlteration": ""
+      },
+      "Alteration:AID_Att_Trap_MaxDurability": {
+        "NewAlteration": "Alteration:AID_Att_MaxDurability_Trap_T01",
+        "AdditionalAlteration": ""
+      },
+      "Alteration:AID_Att_Trap_MaxDurability_Alt1": {
+        "NewAlteration": "Alteration:AID_Att_MaxDurability_Trap_T02",
+        "AdditionalAlteration": ""
+      },
+      "Alteration:AID_Att_Trap_MaxDurability_Alt2": {
+        "NewAlteration": "Alteration:AID_Att_MaxDurability_Trap_T03",
+        "AdditionalAlteration": ""
+      },
+      "Alteration:AID_Att_Trap_ReloadSpeed": {
+        "NewAlteration": "Alteration:AID_Att_ReloadSpeed_Trap_T01",
+        "AdditionalAlteration": ""
+      },
+      "Alteration:AID_Att_Trap_ReloadSpeed_Alt1": {
+        "NewAlteration": "Alteration:AID_Att_ReloadSpeed_Trap_T02",
+        "AdditionalAlteration": ""
+      },
+      "Alteration:AID_Att_Trap_ReloadSpeed_Alt2": {
+        "NewAlteration": "Alteration:AID_Att_ReloadSpeed_Trap_T03",
+        "AdditionalAlteration": ""
+      },
+      "Alteration:AID_Att_Trap_StunDuration": {
+        "NewAlteration": "Alteration:AID_Att_EffectDuration_T01",
+        "AdditionalAlteration": ""
+      },
+      "Alteration:AID_Att_Trap_StunDuration_Alt1": {
+        "NewAlteration": "Alteration:AID_Att_EffectDuration_T02",
+        "AdditionalAlteration": ""
+      },
+      "Alteration:AID_Att_Trap_StunDuration_Alt2": {
+        "NewAlteration": "Alteration:AID_Att_EffectDuration_T03",
+        "AdditionalAlteration": ""
+      },
+      "Alteration:AID_Att_Weapon_Afflicted_CritDmg": {
+        "NewAlteration": "Alteration:AID_Conditional_Afflicted_DmgBonus_T01",
+        "AdditionalAlteration": ""
+      },
+      "Alteration:AID_Att_Weapon_Afflicted_CritDmg_Alt1": {
+        "NewAlteration": "Alteration:AID_Conditional_Afflicted_DmgBonus_T02",
+        "AdditionalAlteration": ""
+      },
+      "Alteration:AID_Att_Weapon_Afflicted_CritDmg_Alt2": {
+        "NewAlteration": "Alteration:AID_Conditional_Afflicted_DmgBonus_T03",
+        "AdditionalAlteration": ""
+      },
+      "Alteration:AID_Att_Weapon_Afflicted_DmgBonus": {
+        "NewAlteration": "Alteration:AID_Conditional_Afflicted_DmgBonus_T01",
+        "AdditionalAlteration": ""
+      },
+      "Alteration:AID_Att_Weapon_Afflicted_DmgBonus_Alt1": {
+        "NewAlteration": "Alteration:AID_Conditional_Afflicted_DmgBonus_T02",
+        "AdditionalAlteration": ""
+      },
+      "Alteration:AID_Att_Weapon_Afflicted_DmgBonus_Alt2": {
+        "NewAlteration": "Alteration:AID_Conditional_Afflicted_DmgBonus_T03",
+        "AdditionalAlteration": ""
+      },
+      "Alteration:AID_Att_Weapon_Slowed_DmgBonus": {
+        "NewAlteration": "Alteration:AID_Conditional_Slowed_DmgBonus_T01",
+        "AdditionalAlteration": ""
+      },
+      "Alteration:AID_Att_Weapon_Slowed_DmgBonus_Alt1": {
+        "NewAlteration": "Alteration:AID_Conditional_Slowed_DmgBonus_T02",
+        "AdditionalAlteration": ""
+      },
+      "Alteration:AID_Att_Weapon_Slowed_DmgBonus_Alt2": {
+        "NewAlteration": "Alteration:AID_Conditional_Slowed_DmgBonus_T03",
+        "AdditionalAlteration": ""
+      },
+      "Alteration:AID_Att_Weapon_Stunned_DmgBonus": {
+        "NewAlteration": "Alteration:AID_Conditional_Stunned_DmgBonus_T01",
+        "AdditionalAlteration": ""
+      },
+      "Alteration:AID_Att_Weapon_Stunned_DmgBonus_Alt1": {
+        "NewAlteration": "Alteration:AID_Conditional_Stunned_DmgBonus_T02",
+        "AdditionalAlteration": ""
+      },
+      "Alteration:AID_Att_Weapon_Stunned_DmgBonus_Alt2": {
+        "NewAlteration": "Alteration:AID_Conditional_Stunned_DmgBonus_T03",
+        "AdditionalAlteration": ""
+      },
+      "Alteration:AID_G_Melee_Affliction": {
+        "NewAlteration": "Alteration:AID_G_Affliction_V2",
+        "AdditionalAlteration": ""
+      },
+      "Alteration:AID_G_Melee_Cryo": {
+        "NewAlteration": "Alteration:AID_Ele_Water_T03",
+        "AdditionalAlteration": ""
+      },
+      "Alteration:AID_G_Melee_CryoAffliction": {
+        "NewAlteration": "Alteration:AID_Ele_Water_T03",
+        "AdditionalAlteration": "Alteration:AID_G_Affliction_V2"
+      },
+      "Alteration:AID_G_Melee_Electrical": {
+        "NewAlteration": "Alteration:AID_Ele_Nature_T03",
+        "AdditionalAlteration": ""
+      },
+      "Alteration:AID_G_Melee_ElectricalAffliction": {
+        "NewAlteration": "Alteration:AID_Ele_Nature_T03",
+        "AdditionalAlteration": "Alteration:AID_G_Affliction_V2"
+      },
+      "Alteration:AID_G_Melee_Energy": {
+        "NewAlteration": "Alteration:AID_Ele_Energy_T03",
+        "AdditionalAlteration": ""
+      },
+      "Alteration:AID_G_Melee_EnergyAffliction": {
+        "NewAlteration": "Alteration:AID_Ele_Energy_T03",
+        "AdditionalAlteration": "Alteration:AID_G_Affliction_V2"
+      },
+      "Alteration:AID_G_Melee_Incendiary": {
+        "NewAlteration": "Alteration:AID_Ele_Fire_T03",
+        "AdditionalAlteration": ""
+      },
+      "Alteration:AID_G_Melee_IncendiaryAffliction": {
+        "NewAlteration": "Alteration:AID_Ele_Fire_T03",
+        "AdditionalAlteration": "Alteration:AID_G_Affliction_V2"
+      },
+      "Alteration:AID_G_Ranged_Affliction": {
+        "NewAlteration": "Alteration:AID_G_Affliction_V2",
+        "AdditionalAlteration": ""
+      },
+      "Alteration:AID_G_Ranged_Cryo": {
+        "NewAlteration": "Alteration:AID_Ele_Water_T03",
+        "AdditionalAlteration": ""
+      },
+      "Alteration:AID_G_Ranged_CryoAffliction": {
+        "NewAlteration": "Alteration:AID_Ele_Water_T03",
+        "AdditionalAlteration": "Alteration:AID_G_Affliction_V2"
+      },
+      "Alteration:AID_G_Ranged_Electrical": {
+        "NewAlteration": "Alteration:AID_Ele_Nature_T03",
+        "AdditionalAlteration": ""
+      },
+      "Alteration:AID_G_Ranged_ElectricalAffliction": {
+        "NewAlteration": "Alteration:AID_Ele_Nature_T03",
+        "AdditionalAlteration": "Alteration:AID_G_Affliction_V2"
+      },
+      "Alteration:AID_G_Ranged_Energy": {
+        "NewAlteration": "Alteration:AID_Ele_Energy_T03",
+        "AdditionalAlteration": ""
+      },
+      "Alteration:AID_G_Ranged_EnergyAffliction": {
+        "NewAlteration": "Alteration:AID_Ele_Energy_T03",
+        "AdditionalAlteration": "Alteration:AID_G_Affliction_V2"
+      },
+      "Alteration:AID_G_Ranged_Incendiary": {
+        "NewAlteration": "Alteration:AID_Ele_Fire_T03",
+        "AdditionalAlteration": ""
+      },
+      "Alteration:AID_G_Ranged_IncendiaryAffliction": {
+        "NewAlteration": "Alteration:AID_Ele_Fire_T03",
+        "AdditionalAlteration": "Alteration:AID_G_Affliction_V2"
+      },
+      "Alteration:AID_G_Trap_Cryo": {
+        "NewAlteration": "Alteration:AID_Ele_Water_T02",
+        "AdditionalAlteration": ""
+      },
+      "Alteration:AID_G_Trap_Electrical": {
+        "NewAlteration": "Alteration:AID_Ele_Nature_T02",
+        "AdditionalAlteration": ""
+      },
+      "Alteration:AID_G_Trap_Incendiary": {
+        "NewAlteration": "Alteration:AID_Ele_Fire_T02",
+        "AdditionalAlteration": ""
+      },
+      "Alteration:AID_G_Melee_ExplodeOnCrit": {
+        "NewAlteration": "Alteration:AID_G_Melee_ExplodeOnCrit_V2",
+        "AdditionalAlteration": ""
+      },
+      "Alteration:AID_G_Melee_OnDamageDealt_IncreaseDamage": {
+        "NewAlteration": "Alteration:AID_G_Melee_OnDamageDealt_IncreaseDamage_V2",
+        "AdditionalAlteration": ""
+      },
+      "Alteration:AID_G_Ranged_CryoHeadShotStreak_DmgBonus": {
+        "NewAlteration": "Alteration:AID_G_Ranged_HeadShotStreak_DmgBonus_V2",
+        "AdditionalAlteration": ""
+      },
+      "Alteration:AID_G_Ranged_HeadShot_ExplodeOnDeath": {
+        "NewAlteration": "Alteration:AID_G_Ranged_HeadShot_ExplodeOnDeath_V2",
+        "AdditionalAlteration": ""
+      },
+      "Alteration:AID_G_Ranged_HeadShotStreak_DmgBonus": {
+        "NewAlteration": "Alteration:AID_G_Ranged_HeadShotStreak_DmgBonus_V2",
+        "AdditionalAlteration": ""
+      },
+      "Alteration:AID_G_Ranged_IsTargeting_DmgBuff": {
+        "NewAlteration": "Alteration:AID_G_Ranged_IsTargeting_DmgBuff_V2",
+        "AdditionalAlteration": ""
+      },
+      "Alteration:AID_G_Ranged_OnEnemyKilled_FasterReload": {
+        "NewAlteration": "Alteration:AID_G_Ranged_OnEnemyKilled_FasterReload_V2",
+        "AdditionalAlteration": ""
+      },
+      "Alteration:AID_G_TwoKillStreak_FirePool": {
+        "NewAlteration": "Alteration:AID_G_TwoKillStreak_FirePool_V2",
+        "AdditionalAlteration": ""
+      },
+      "Alteration:AID_G_Weapon_CryoSnare_DmgBonus": {
+        "NewAlteration": "Alteration:AID_G_Weapon_OnDmg_ApplySnare_V2",
+        "AdditionalAlteration": ""
+      },
+      "Alteration:AID_G_Weapon_HitStreak_AOE_Dmg": {
+        "NewAlteration": "Alteration:AID_G_Weapon_HitStreak_AOE_Dmg_V2",
+        "AdditionalAlteration": ""
+      },
+      "Alteration:AID_G_Weapon_Knockback_Impact": {
+        "NewAlteration": "Alteration:AID_G_Weapon_Knockback_Impact_V2",
+        "AdditionalAlteration": ""
+      },
+      "Alteration:AID_G_Weapon_Melee_OnDmgReceived_DmgBuff": {
+        "NewAlteration": "Alteration:AID_G_Weapon_Melee_OnDmgReceived_DmgBuff_V2",
+        "AdditionalAlteration": ""
+      },
+      "Alteration:AID_G_Weapon_OnDmg_AfflictedEnemy_KnockbackAOE": {
+        "NewAlteration": "Alteration:AID_G_Weapon_OnDmg_AfflictedEnemy_KnockbackAOE_V2",
+        "AdditionalAlteration": ""
+      },
+      "Alteration:AID_G_Weapon_OnDmg_ApplySnare": {
+        "NewAlteration": "Alteration:AID_G_Weapon_OnDmg_ApplySnare_V2",
+        "AdditionalAlteration": ""
+      },
+      "Alteration:AID_G_Weapon_OnDmgDealt_GiveEnergy": {
+        "NewAlteration": "Alteration:AID_G_Weapon_OnDmgDealt_GiveEnergy_V2",
+        "AdditionalAlteration": ""
+      },
+      "Alteration:AID_G_Weapon_OnDmgDealt_GiveShield": {
+        "NewAlteration": "Alteration:AID_G_Weapon_OnDmgDealt_GiveShield_V2",
+        "AdditionalAlteration": ""
+      },
+      "Alteration:AID_G_Weapon_OnKill_Spawn_Firework": {
+        "NewAlteration": "Alteration:AID_G_Weapon_OnKill_Spawn_Firework_V2",
+        "AdditionalAlteration": ""
+      },
+      "Alteration:AID_G_Weapon_OnShieldBreak_IncendiaryAOE": {
+        "NewAlteration": "Alteration:AID_G_Weapon_OnShieldBreak_IncendiaryAOE_V2",
+        "AdditionalAlteration": ""
+      },
+      "Alteration:AID_G_Weapon_Stun": {
+        "NewAlteration": "Alteration:AID_G_Weapon_Stun_V2",
+        "AdditionalAlteration": ""
+      }
+    }
+  }
+]

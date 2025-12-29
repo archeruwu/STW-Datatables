@@ -1,0 +1,31 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "IntrinsicMapping",
+    "Class": "UScriptClass'DataTable'",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'AlterationIntrinsicMapping'",
+        "ObjectPath": "/Script/FortniteGame"
+      }
+    },
+    "Rows": {
+      "Gameplay.Damage.Elemental.Fire": {
+        "NewAlteration": "Alteration:AID_Ele_Fire_Intrin_T03"
+      },
+      "Gameplay.Damage.Elemental.Lightning": {
+        "NewAlteration": "Alteration:AID_Ele_Nature_Intrin_T03"
+      },
+      "Gameplay.Damage.Elemental.Ice": {
+        "NewAlteration": "Alteration:AID_Ele_Water_Intrin_T03"
+      },
+      "Gameplay.Damage.Physical.Energy": {
+        "NewAlteration": "Alteration:AID_Ele_Energy_Intrin_T03"
+      },
+      "Gameplay.Damage.Physical.Energy.Laser": {
+        "NewAlteration": "Alteration:AID_Ele_Energy_Intrin_T03"
+      }
+    }
+  }
+]

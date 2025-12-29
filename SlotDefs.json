@@ -1,0 +1,5140 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "SlotDefs",
+    "Class": "UScriptClass'DataTable'",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'AlterationSlotDefinition'",
+        "ObjectPath": "/Script/FortniteGame"
+      }
+    },
+    "Rows": {
+      "Slot.Att.Conditional.A": {
+        "InitTierGroup": "AGRP.Att.Conditional.A",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_generic"
+            },
+            "Quantity": 600
+          }
+        ]
+      },
+      "Slot.Att.Elemental": {
+        "InitTierGroup": "AGRP.Att.Elemental.Rolled",
+        "BaseRespecCosts": []
+      },
+      "Slot.Att.IntrinsicEle.Energy": {
+        "InitTierGroup": "AGRP.Intrinsic.Att.Elemental.Energy",
+        "BaseRespecCosts": []
+      },
+      "Slot.Att.IntrinsicEle.Fire": {
+        "InitTierGroup": "AGRP.Intrinsic.Att.Elemental.Fire",
+        "BaseRespecCosts": []
+      },
+      "Slot.Att.IntrinsicEle.Nature": {
+        "InitTierGroup": "AGRP.Intrinsic.Att.Elemental.Nature",
+        "BaseRespecCosts": []
+      },
+      "Slot.Att.IntrinsicEle.Physical": {
+        "InitTierGroup": "AGRP.Intrinsic.Att.Elemental.Physical",
+        "BaseRespecCosts": []
+      },
+      "Slot.Att.IntrinsicEle.Water": {
+        "InitTierGroup": "AGRP.Intrinsic.Att.Elemental.Water",
+        "BaseRespecCosts": []
+      },
+      "Slot.Att.Melee.Damage.A": {
+        "InitTierGroup": "AGRP.Att.Melee.Damage.A",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_generic"
+            },
+            "Quantity": 600
+          }
+        ]
+      },
+      "Slot.Att.Melee.Damage.B": {
+        "InitTierGroup": "AGRP.Att.Melee.Damage.B",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_generic"
+            },
+            "Quantity": 600
+          }
+        ]
+      },
+      "Slot.Att.Melee.Damage.C": {
+        "InitTierGroup": "AGRP.Att.Melee.Damage.C",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_generic"
+            },
+            "Quantity": 600
+          }
+        ]
+      },
+      "Slot.Att.Melee.Damage.D": {
+        "InitTierGroup": "AGRP.Att.Melee.Damage.D",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_generic"
+            },
+            "Quantity": 600
+          }
+        ]
+      },
+      "Slot.Att.Melee.Damage.E": {
+        "InitTierGroup": "AGRP.Att.Melee.Damage.E",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_generic"
+            },
+            "Quantity": 600
+          }
+        ]
+      },
+      "Slot.Att.Melee.Damage.F": {
+        "InitTierGroup": "AGRP.Att.Melee.Damage.F",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_generic"
+            },
+            "Quantity": 600
+          }
+        ]
+      },
+      "Slot.Att.Melee.Damage.G": {
+        "InitTierGroup": "AGRP.Att.Melee.Damage.G",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_generic"
+            },
+            "Quantity": 600
+          }
+        ]
+      },
+      "Slot.Att.Melee.Damage.H": {
+        "InitTierGroup": "AGRP.Att.Melee.Damage.H",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_generic"
+            },
+            "Quantity": 600
+          }
+        ]
+      },
+      "Slot.Att.Melee.Damage.I": {
+        "InitTierGroup": "AGRP.Att.Melee.Damage.I",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_generic"
+            },
+            "Quantity": 600
+          }
+        ]
+      },
+      "Slot.Att.Melee.Damage.J": {
+        "InitTierGroup": "AGRP.Att.Melee.Damage.J",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_generic"
+            },
+            "Quantity": 600
+          }
+        ]
+      },
+      "Slot.Att.Melee.Damage.K": {
+        "InitTierGroup": "AGRP.Att.Melee.Damage.K",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_generic"
+            },
+            "Quantity": 600
+          }
+        ]
+      },
+      "Slot.Att.Melee.Damage.L": {
+        "InitTierGroup": "AGRP.Att.Melee.Damage.L",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_generic"
+            },
+            "Quantity": 600
+          }
+        ]
+      },
+      "Slot.Att.Melee.Damage.M": {
+        "InitTierGroup": "AGRP.Att.Melee.Damage.M",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_generic"
+            },
+            "Quantity": 600
+          }
+        ]
+      },
+      "Slot.Att.Melee.Damage.N": {
+        "InitTierGroup": "AGRP.Att.Melee.Damage.N",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_generic"
+            },
+            "Quantity": 600
+          }
+        ]
+      },
+      "Slot.Att.Melee.Damage.O": {
+        "InitTierGroup": "AGRP.Att.Melee.Damage.O",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_generic"
+            },
+            "Quantity": 600
+          }
+        ]
+      },
+      "Slot.Att.Melee.Damage.P": {
+        "InitTierGroup": "AGRP.Att.Melee.Damage.P",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_generic"
+            },
+            "Quantity": 600
+          }
+        ]
+      },
+      "Slot.Att.Melee.Handling": {
+        "InitTierGroup": "AGRP.Att.Melee.Handling",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_generic"
+            },
+            "Quantity": 600
+          }
+        ]
+      },
+      "Slot.Att.Ranged.Damage.A": {
+        "InitTierGroup": "AGRP.Att.Ranged.Damage.A",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_generic"
+            },
+            "Quantity": 600
+          }
+        ]
+      },
+      "Slot.Att.Ranged.Damage.A.Mag.nCC": {
+        "InitTierGroup": "AGRP.Att.Ranged.Damage.A.Mag.nCC",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_generic"
+            },
+            "Quantity": 600
+          }
+        ]
+      },
+      "Slot.Att.Ranged.Damage.B": {
+        "InitTierGroup": "AGRP.Att.Ranged.Damage.B",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_generic"
+            },
+            "Quantity": 600
+          }
+        ]
+      },
+      "Slot.Att.Ranged.Damage.C": {
+        "InitTierGroup": "AGRP.Att.Ranged.Damage.C",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_generic"
+            },
+            "Quantity": 600
+          }
+        ]
+      },
+      "Slot.Att.Ranged.Damage.D": {
+        "InitTierGroup": "AGRP.Att.Ranged.Damage.D",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_generic"
+            },
+            "Quantity": 600
+          }
+        ]
+      },
+      "Slot.Att.Ranged.Damage.E": {
+        "InitTierGroup": "AGRP.Att.Ranged.Damage.E",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_generic"
+            },
+            "Quantity": 600
+          }
+        ]
+      },
+      "Slot.Att.Ranged.Damage.F": {
+        "InitTierGroup": "AGRP.Att.Ranged.Damage.F",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_generic"
+            },
+            "Quantity": 600
+          }
+        ]
+      },
+      "Slot.Att.Ranged.Damage.G": {
+        "InitTierGroup": "AGRP.Att.Ranged.Damage.G",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_generic"
+            },
+            "Quantity": 600
+          }
+        ]
+      },
+      "Slot.Att.Ranged.Damage.H": {
+        "InitTierGroup": "AGRP.Att.Ranged.Damage.H",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_generic"
+            },
+            "Quantity": 600
+          }
+        ]
+      },
+      "Slot.Att.Ranged.Damage.I": {
+        "InitTierGroup": "AGRP.Att.Ranged.Damage.I",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_generic"
+            },
+            "Quantity": 600
+          }
+        ]
+      },
+      "Slot.Att.Ranged.Damage.J": {
+        "InitTierGroup": "AGRP.Att.Ranged.Damage.J",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_generic"
+            },
+            "Quantity": 600
+          }
+        ]
+      },
+      "Slot.Att.Ranged.Damage.K": {
+        "InitTierGroup": "AGRP.Att.Ranged.Damage.K",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_generic"
+            },
+            "Quantity": 600
+          }
+        ]
+      },
+      "Slot.Att.Ranged.Damage.L": {
+        "InitTierGroup": "AGRP.Att.Ranged.Damage.L",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_generic"
+            },
+            "Quantity": 600
+          }
+        ]
+      },
+      "Slot.Att.Ranged.Damage.Mash.A": {
+        "InitTierGroup": "AGRP.Att.Ranged.Damage.Mash.A",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_generic"
+            },
+            "Quantity": 600
+          }
+        ]
+      },
+      "Slot.Att.Ranged.Damage.Mash.B": {
+        "InitTierGroup": "AGRP.Att.Ranged.Damage.Mash.B",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_generic"
+            },
+            "Quantity": 600
+          }
+        ]
+      },
+      "Slot.Att.Ranged.Damage.Mash.C": {
+        "InitTierGroup": "AGRP.Att.Ranged.Damage.Mash.C",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_generic"
+            },
+            "Quantity": 600
+          }
+        ]
+      },
+      "Slot.Att.Ranged.Damage.Mash.D": {
+        "InitTierGroup": "AGRP.Att.Ranged.Damage.Mash.D",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_generic"
+            },
+            "Quantity": 600
+          }
+        ]
+      },
+      "Slot.Att.Ranged.Damage.O": {
+        "InitTierGroup": "AGRP.Att.Ranged.Damage.O",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_generic"
+            },
+            "Quantity": 600
+          }
+        ]
+      },
+      "Slot.Att.Ranged.Damage.Overheat.A": {
+        "InitTierGroup": "AGRP.Att.Ranged.Damage.Overheat.A",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_generic"
+            },
+            "Quantity": 600
+          }
+        ]
+      },
+      "Slot.Att.Ranged.Damage.Overheat.B": {
+        "InitTierGroup": "AGRP.Att.Ranged.Damage.Overheat.B",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_generic"
+            },
+            "Quantity": 600
+          }
+        ]
+      },
+      "Slot.Att.Ranged.Damage.Overheat.C": {
+        "InitTierGroup": "AGRP.Att.Ranged.Damage.Overheat.C",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_generic"
+            },
+            "Quantity": 600
+          }
+        ]
+      },
+      "Slot.Att.Ranged.Damage.P": {
+        "InitTierGroup": "AGRP.Att.Ranged.Damage.P",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_generic"
+            },
+            "Quantity": 600
+          }
+        ]
+      },
+      "Slot.Att.Ranged.Damage.Q": {
+        "InitTierGroup": "AGRP.Att.Ranged.Damage.Q",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_generic"
+            },
+            "Quantity": 600
+          }
+        ]
+      },
+      "Slot.Att.Ranged.Damage.R": {
+        "InitTierGroup": "AGRP.Att.Ranged.Damage.R",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_generic"
+            },
+            "Quantity": 600
+          }
+        ]
+      },
+      "Slot.Att.Ranged.Damage.S": {
+        "InitTierGroup": "AGRP.Att.Ranged.Damage.S",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_generic"
+            },
+            "Quantity": 600
+          }
+        ]
+      },
+      "Slot.Att.Ranged.Damage.T": {
+        "InitTierGroup": "AGRP.Att.Ranged.Damage.T",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_generic"
+            },
+            "Quantity": 600
+          }
+        ]
+      },
+      "Slot.Att.Ranged.Damage.U": {
+        "InitTierGroup": "AGRP.Att.Ranged.Damage.U",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_generic"
+            },
+            "Quantity": 600
+          }
+        ]
+      },
+      "Slot.Att.Ranged.Damage.V": {
+        "InitTierGroup": "AGRP.Att.Ranged.Damage.V",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_generic"
+            },
+            "Quantity": 600
+          }
+        ]
+      },
+      "Slot.Att.Ranged.Handling": {
+        "InitTierGroup": "AGRP.Att.Ranged.Handling",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_generic"
+            },
+            "Quantity": 600
+          }
+        ]
+      },
+      "Slot.Att.Ranged.Handling.Impact.nMag": {
+        "InitTierGroup": "AGRP.Att.Ranged.Handling.Impact.nMag",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_generic"
+            },
+            "Quantity": 600
+          }
+        ]
+      },
+      "Slot.Att.Ranged.Handling.Overheat": {
+        "InitTierGroup": "AGRP.Att.Ranged.Handling.Overheat",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_generic"
+            },
+            "Quantity": 600
+          }
+        ]
+      },
+      "Slot.Att.Trap.Generic.A": {
+        "InitTierGroup": "AGRP.Att.Trap.Generic.A",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_generic"
+            },
+            "Quantity": 600
+          }
+        ]
+      },
+      "Slot.Att.Trap.Generic.B": {
+        "InitTierGroup": "AGRP.Att.Trap.Generic.B",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_generic"
+            },
+            "Quantity": 600
+          }
+        ]
+      },
+      "Slot.Att.Trap.GenericNoKnockback.A": {
+        "InitTierGroup": "AGRP.Att.Trap.GenericNoKnockback.A",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_generic"
+            },
+            "Quantity": 600
+          }
+        ]
+      },
+      "Slot.Att.Trap.Utility": {
+        "InitTierGroup": "AGRP.Att.Trap.Utility",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_generic"
+            },
+            "Quantity": 600
+          }
+        ]
+      },
+      "Slot.Att.UtilDamage": {
+        "InitTierGroup": "AGRP.Att.UtilDamage",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_generic"
+            },
+            "Quantity": 600
+          }
+        ]
+      },
+      "Slot.ConditionalAlteration.Melee.BlackMetal": {
+        "InitTierGroup": "AGRP.ConditionalAlteration.Melee.BlackMetal",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_generic"
+            },
+            "Quantity": 600
+          }
+        ]
+      },
+      "Slot.ConditionalAlteration.Ranged.BlackMetal": {
+        "InitTierGroup": "AGRP.ConditionalAlteration.Ranged.BlackMetal",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_generic"
+            },
+            "Quantity": 600
+          }
+        ]
+      },
+      "Slot.Explicit.Att.BuildingHeal.Trap": {
+        "InitTierGroup": "AGRP.Explicit.Att.BuildingHeal.Trap",
+        "BaseRespecCosts": []
+      },
+      "Slot.Explicit.Att.CritChance": {
+        "InitTierGroup": "AGRP.Explicit.Att.CritChance",
+        "BaseRespecCosts": []
+      },
+      "Slot.Explicit.Att.CritDamage": {
+        "InitTierGroup": "AGRP.Explicit.Att.CritDamage",
+        "BaseRespecCosts": []
+      },
+      "Slot.Explicit.Att.Damage": {
+        "InitTierGroup": "AGRP.Explicit.Att.Damage",
+        "BaseRespecCosts": []
+      },
+      "Slot.Explicit.Att.DamageResistance": {
+        "InitTierGroup": "AGRP.Explicit.Att.DamageResistance",
+        "BaseRespecCosts": []
+      },
+      "Slot.Explicit.Att.Durability": {
+        "InitTierGroup": "AGRP.Explicit.Att.Durability",
+        "BaseRespecCosts": []
+      },
+      "Slot.Explicit.Att.Durability.Trap": {
+        "InitTierGroup": "AGRP.Explicit.Att.Durability.Trap",
+        "BaseRespecCosts": []
+      },
+      "Slot.Explicit.Att.EffectDuration": {
+        "InitTierGroup": "AGRP.Explicit.Att.EffectDuration",
+        "BaseRespecCosts": []
+      },
+      "Slot.Explicit.Att.Elemental.Energy": {
+        "InitTierGroup": "AGRP.Explicit.Att.Elemental.Energy",
+        "BaseRespecCosts": []
+      },
+      "Slot.Explicit.Att.Elemental.Fire": {
+        "InitTierGroup": "AGRP.Explicit.Att.Elemental.Fire",
+        "BaseRespecCosts": []
+      },
+      "Slot.Explicit.Att.Elemental.Nature": {
+        "InitTierGroup": "AGRP.Explicit.Att.Elemental.Nature",
+        "BaseRespecCosts": []
+      },
+      "Slot.Explicit.Att.Elemental.Physical": {
+        "InitTierGroup": "AGRP.Explicit.Att.Elemental.Physical",
+        "BaseRespecCosts": []
+      },
+      "Slot.Explicit.Att.Elemental.Water": {
+        "InitTierGroup": "AGRP.Explicit.Att.Elemental.Water",
+        "BaseRespecCosts": []
+      },
+      "Slot.Explicit.Att.FireRate.Melee": {
+        "InitTierGroup": "AGRP.Explicit.Att.FireRate.Melee",
+        "BaseRespecCosts": []
+      },
+      "Slot.Explicit.Att.FireRate.Ranged": {
+        "InitTierGroup": "AGRP.Explicit.Att.FireRate.Ranged",
+        "BaseRespecCosts": []
+      },
+      "Slot.Explicit.Att.HeadshotDamage": {
+        "InitTierGroup": "AGRP.Explicit.Att.HeadshotDamage",
+        "BaseRespecCosts": []
+      },
+      "Slot.Explicit.Att.Healing": {
+        "InitTierGroup": "AGRP.Explicit.Att.Healing",
+        "BaseRespecCosts": []
+      },
+      "Slot.Explicit.Att.HeavyAttackStaminaCost": {
+        "InitTierGroup": "AGRP.Explicit.Att.HeavyAttackStaminaCost",
+        "BaseRespecCosts": []
+      },
+      "Slot.Explicit.Att.KnockbackImpact.Trap": {
+        "InitTierGroup": "AGRP.Explicit.Att.KnockbackImpact.Trap",
+        "BaseRespecCosts": []
+      },
+      "Slot.Explicit.Att.LifeLeech": {
+        "InitTierGroup": "AGRP.Explicit.Att.LifeLeech",
+        "BaseRespecCosts": []
+      },
+      "Slot.Explicit.Att.MagazineSize": {
+        "InitTierGroup": "AGRP.Explicit.Att.MagazineSize",
+        "BaseRespecCosts": []
+      },
+      "Slot.Explicit.Att.MaxBuildingHealth.Trap": {
+        "InitTierGroup": "AGRP.Explicit.Att.MaxBuildingHealth.Trap",
+        "BaseRespecCosts": []
+      },
+      "Slot.Explicit.Att.MovementSpeed": {
+        "InitTierGroup": "AGRP.Explicit.Att.MovementSpeed",
+        "BaseRespecCosts": []
+      },
+      "Slot.Explicit.Att.ReloadSpeed.Ranged": {
+        "InitTierGroup": "AGRP.Explicit.Att.ReloadSpeed.Ranged",
+        "BaseRespecCosts": []
+      },
+      "Slot.Explicit.Att.ReloadSpeed.Trap": {
+        "InitTierGroup": "AGRP.Explicit.Att.ReloadSpeed.Trap",
+        "BaseRespecCosts": []
+      },
+      "Slot.Explicit.Att.Stability": {
+        "InitTierGroup": "AGRP.Explicit.Att.Stability",
+        "BaseRespecCosts": []
+      },
+      "Slot.Explicit.Conditional.Damage.VsAfflicted": {
+        "InitTierGroup": "AGRP.Explicit.Conditional.Damage.VsAfflicted",
+        "BaseRespecCosts": []
+      },
+      "Slot.Explicit.Conditional.Damage.VsBoss": {
+        "InitTierGroup": "AGRP.Explicit.Conditional.Damage.VsBoss",
+        "BaseRespecCosts": []
+      },
+      "Slot.Explicit.Conditional.Damage.VsSlowed": {
+        "InitTierGroup": "AGRP.Explicit.Conditional.Damage.VsSlowed",
+        "BaseRespecCosts": []
+      },
+      "Slot.Explicit.Conditional.Damage.VsStunned": {
+        "InitTierGroup": "AGRP.Explicit.Conditional.Damage.VsStunned",
+        "BaseRespecCosts": []
+      },
+      "Slot.Explicit.GameplayAlteration.Affliction": {
+        "InitTierGroup": "AGRP.Explicit.GameplayAlteration.Affliction",
+        "BaseRespecCosts": []
+      },
+      "Slot.Explicit.GameplayAlteration.HeadshotDeath.Explode.Ranged": {
+        "InitTierGroup": "AGRP.Explicit.GameplayAlteration.HeadshotDeath.Explode.Ranged",
+        "BaseRespecCosts": []
+      },
+      "Slot.Explicit.GameplayAlteration.HeadshotStreak.DamageBonus.Ranged": {
+        "InitTierGroup": "AGRP.Explicit.GameplayAlteration.HeadshotStreak.DamageBonus.Ranged",
+        "BaseRespecCosts": []
+      },
+      "Slot.Explicit.GameplayAlteration.HitStreak.AOE.Damage": {
+        "InitTierGroup": "AGRP.Explicit.GameplayAlteration.HitStreak.AOE.Damage",
+        "BaseRespecCosts": []
+      },
+      "Slot.Explicit.GameplayAlteration.IronSights.DamageBonus.Ranged": {
+        "InitTierGroup": "AGRP.Explicit.GameplayAlteration.IronSights.DamageBonus.Ranged",
+        "BaseRespecCosts": []
+      },
+      "Slot.Explicit.GameplayAlteration.KillStreak.FirePool": {
+        "InitTierGroup": "AGRP.Explicit.GameplayAlteration.KillStreak.FirePool",
+        "BaseRespecCosts": []
+      },
+      "Slot.Explicit.GameplayAlteration.KnockbackImpact": {
+        "InitTierGroup": "AGRP.Explicit.GameplayAlteration.KnockbackImpact",
+        "BaseRespecCosts": []
+      },
+      "Slot.Explicit.GameplayAlteration.OnCrit.Explode.Melee": {
+        "InitTierGroup": "AGRP.Explicit.GameplayAlteration.OnCrit.Explode.Melee",
+        "BaseRespecCosts": []
+      },
+      "Slot.Explicit.GameplayAlteration.OnCrit.SpawnEnergyProjectiles": {
+        "InitTierGroup": "AGRP.Explicit.Gameplay.OnCrit.SpawnEnergyProjectiles",
+        "BaseRespecCosts": []
+      },
+      "Slot.Explicit.GameplayAlteration.OnDamageDealt.DamageBonus.Melee": {
+        "InitTierGroup": "AGRP.Explicit.GameplayAlteration.OnDamageDealt.DamageBonus.Melee",
+        "BaseRespecCosts": []
+      },
+      "Slot.Explicit.GameplayAlteration.OnDamageDealt.GiveEnergy": {
+        "InitTierGroup": "AGRP.Explicit.GameplayAlteration.OnDamageDealt.GiveEnergy",
+        "BaseRespecCosts": []
+      },
+      "Slot.Explicit.GameplayAlteration.OnDamageDealt.GiveShield": {
+        "InitTierGroup": "AGRP.Explicit.GameplayAlteration.OnDamageDealt.GiveShield",
+        "BaseRespecCosts": []
+      },
+      "Slot.Explicit.GameplayAlteration.OnDamageDealt.Shrapnel.Ranged": {
+        "InitTierGroup": "AGRP.Explicit.GameplayAlteration.OnDamageDealt.Shrapnel.Ranged",
+        "BaseRespecCosts": []
+      },
+      "Slot.Explicit.GameplayAlteration.OnDamageDealt.Snare": {
+        "InitTierGroup": "AGRP.Explicit.GameplayAlteration.OnDamageDealt.Snare",
+        "BaseRespecCosts": []
+      },
+      "Slot.Explicit.GameplayAlteration.OnDamageDealt.Stun": {
+        "InitTierGroup": "AGRP.Explicit.GameplayAlteration.OnDamageDealt.Stun",
+        "BaseRespecCosts": []
+      },
+      "Slot.Explicit.GameplayAlteration.OnDamageReceived.DamageBonus.Melee": {
+        "InitTierGroup": "AGRP.Explicit.GameplayAlteration.OnDamageReceived.DamageBonus.Melee",
+        "BaseRespecCosts": []
+      },
+      "Slot.Explicit.GameplayAlteration.OnDamageToAfflicted.AOE.Knockback": {
+        "InitTierGroup": "AGRP.Explicit.GameplayAlteration.OnDamageToAfflicted.AOE.Knockback",
+        "BaseRespecCosts": []
+      },
+      "Slot.Explicit.GameplayAlteration.OnHit.ChainBullet.Ranged": {
+        "InitTierGroup": "AGRP.Explicit.GameplayAlteration.OnHit.ChainBullet.Ranged",
+        "BaseRespecCosts": []
+      },
+      "Slot.Explicit.GameplayAlteration.OnHit.EnergyNova": {
+        "InitTierGroup": "AGRP.Explicit.GameplayAlteration.OnHit.EnergyNova",
+        "BaseRespecCosts": []
+      },
+      "Slot.Explicit.GameplayAlteration.OnImpact.SpawnSparkBurst.Melee": {
+        "InitTierGroup": "AGRP.Explicit.GameplayAlteration.OnImpact.SpawnSparkBurst.Melee",
+        "BaseRespecCosts": []
+      },
+      "Slot.Explicit.GameplayAlteration.OnImpact.SpawnSparkBurst.Ranged": {
+        "InitTierGroup": "AGRP.Explicit.GameplayAlteration.OnImpact.SpawnSparkBurst.Ranged",
+        "BaseRespecCosts": []
+      },
+      "Slot.Explicit.GameplayAlteration.OnImpactBreak.Dance": {
+        "InitTierGroup": "AGRP.Explicit.GameplayAlteration.OnImpactBreak.Dance",
+        "BaseRespecCosts": []
+      },
+      "Slot.Explicit.GameplayAlteration.OnKill.Dance": {
+        "InitTierGroup": "AGRP.Explicit.GameplayAlteration.OnKill.Dance",
+        "BaseRespecCosts": []
+      },
+      "Slot.Explicit.GameplayAlteration.OnKill.FastReload": {
+        "InitTierGroup": "AGRP.Explicit.GameplayAlteration.OnKill.FastReload",
+        "BaseRespecCosts": []
+      },
+      "Slot.Explicit.GameplayAlteration.OnKill.Spawn.HealthPickUps": {
+        "InitTierGroup": "AGRP.Explicit.Gameplay.OnKill.Spawn.HealthPickUps",
+        "BaseRespecCosts": []
+      },
+      "Slot.Explicit.GameplayAlteration.OnKill.Spawn.HealthPickUps.Gumdrops": {
+        "InitTierGroup": "AGRP.Explicit.Gameplay.OnKill.Spawn.HealthPickUps.Gumdrops",
+        "BaseRespecCosts": []
+      },
+      "Slot.Explicit.GameplayAlteration.OnKill.SpawnFirework": {
+        "InitTierGroup": "AGRP.Explicit.GameplayAlteration.OnKill.SpawnFirework",
+        "BaseRespecCosts": []
+      },
+      "Slot.Explicit.GameplayAlteration.OnKill.SpawnRetroSciFiRing": {
+        "InitTierGroup": "AGRP.Explicit.Gameplay.OnKill.SpawnRetroSciFiRing",
+        "BaseRespecCosts": []
+      },
+      "Slot.Explicit.GameplayAlteration.OnKill.SpawnSparkBurst": {
+        "InitTierGroup": "AGRP.Explicit.GameplayAlteration.OnKill.SpawnSparkBurst",
+        "BaseRespecCosts": []
+      },
+      "Slot.Explicit.GameplayAlteration.OnKill.SpawnSteamCloud": {
+        "InitTierGroup": "AGRP.Explicit.GameplayAlteration.OnKill.SpawnSteamCloud",
+        "BaseRespecCosts": []
+      },
+      "Slot.Explicit.GameplayAlteration.OnKill.Woosh.Melee": {
+        "InitTierGroup": "AGRP.Explicit.GameplayAlteration.OnKill.Woosh.Melee",
+        "BaseRespecCosts": []
+      },
+      "Slot.Explicit.GameplayAlteration.OnMeleeCrit.PistolHeadshotDamage": {
+        "InitTierGroup": "AGRP.Explicit.Gameplay.OnMeleeCrit.PistolHeadshotDamage",
+        "BaseRespecCosts": []
+      },
+      "Slot.Explicit.GameplayAlteration.OnMeleeHit.Stack.AOE.Stun": {
+        "InitTierGroup": "AGRP.Explicit.Gameplay.OnMeleeHit.Stack.AOE.Stun",
+        "BaseRespecCosts": []
+      },
+      "Slot.Explicit.GameplayAlteration.OnMeleeHit.StackingBuff.Armor": {
+        "InitTierGroup": "AGRP.Explicit.GameplayAlteration.OnMeleeHit.StackingBuff.Armor",
+        "BaseRespecCosts": []
+      },
+      "Slot.Explicit.GameplayAlteration.OnMeleeHit.StackingBuff.CritChance": {
+        "InitTierGroup": "AGRP.Explicit.GameplayAlteration.OnMeleeHit.StackingBuff.CritChance",
+        "BaseRespecCosts": []
+      },
+      "Slot.Explicit.GameplayAlteration.OnMeleeHit.StackingBuff.Damage": {
+        "InitTierGroup": "AGRP.Explicit.GameplayAlteration.OnMeleeHit.StackingBuff.Damage",
+        "BaseRespecCosts": []
+      },
+      "Slot.Explicit.GameplayAlteration.OnMeleeHit.StackingBuff.FireRate": {
+        "InitTierGroup": "AGRP.Explicit.GameplayAlteration.OnMeleeHit.StackingBuff.FireRate",
+        "BaseRespecCosts": []
+      },
+      "Slot.Explicit.GameplayAlteration.OnMeleeHit.StackingBuff.MoveSpeed": {
+        "InitTierGroup": "AGRP.Explicit.GameplayAlteration.OnMeleeHit.StackingBuff.MoveSpeed",
+        "BaseRespecCosts": []
+      },
+      "Slot.Explicit.GameplayAlteration.OnMeleeHitStreak.Dance": {
+        "InitTierGroup": "AGRP.Explicit.GameplayAlteration.OnMeleeHitStreak.Dance",
+        "BaseRespecCosts": []
+      },
+      "Slot.Explicit.GameplayAlteration.OnMeleeKill.RegenShields": {
+        "InitTierGroup": "AGRP.Explicit.GameplayAlteration.OnMeleeKill.RegenShields",
+        "BaseRespecCosts": []
+      },
+      "Slot.Explicit.GameplayAlteration.OnRangedFire.StackingBuff.CritChance": {
+        "InitTierGroup": "AGRP.Explicit.GameplayAlteration.OnRangedFire.StackingBuff.CritChance",
+        "BaseRespecCosts": []
+      },
+      "Slot.Explicit.GameplayAlteration.OnRangedFire.StackingBuff.Damage": {
+        "InitTierGroup": "AGRP.Explicit.GameplayAlteration.OnRangedFire.StackingBuff.Damage",
+        "BaseRespecCosts": []
+      },
+      "Slot.Explicit.GameplayAlteration.OnRangedFire.StackingBuff.FireRate": {
+        "InitTierGroup": "AGRP.Explicit.GameplayAlteration.OnRangedFire.StackingBuff.FireRate",
+        "BaseRespecCosts": []
+      },
+      "Slot.Explicit.GameplayAlteration.OnRangedHeadShot.BuffSwordCritRating": {
+        "InitTierGroup": "AGRP.Explicit.Gameplay.OnRangedHeadShot.BuffSwordCritRating",
+        "BaseRespecCosts": []
+      },
+      "Slot.Explicit.GameplayAlteration.OnRangedHitStreak.Dance": {
+        "InitTierGroup": "AGRP.Explicit.GameplayAlteration.OnRangedHitStreak.Dance",
+        "BaseRespecCosts": []
+      },
+      "Slot.Explicit.GameplayAlteration.OnRangedHitStreak.DanceAfflict": {
+        "InitTierGroup": "AGRP.Explicit.GameplayAlteration.OnRangedHitStreak.DanceAfflict",
+        "BaseRespecCosts": []
+      },
+      "Slot.Explicit.GameplayAlteration.OnReload.SpawnSparkBurst": {
+        "InitTierGroup": "AGRP.Explicit.GameplayAlteration.OnReload.SpawnSparkBurst",
+        "BaseRespecCosts": []
+      },
+      "Slot.Explicit.GameplayAlteration.OnShieldBreak.AOE.Incendiary": {
+        "InitTierGroup": "AGRP.Explicit.GameplayAlteration.OnShieldBreak.AOE.Incendiary",
+        "BaseRespecCosts": []
+      },
+      "Slot.Explicit.GameplayAlteration.OnKill.ChainLightning": {
+        "InitTierGroup": "AGRP.Explicit.GameplayAlteration.OnKill.ChainLightning",
+        "BaseRespecCosts": []
+      },
+      "Slot.Explicit.GameplayAlteration.OnKill.SpawnSparkBurst.Ranged.Bow": {
+        "InitTierGroup": "AGRP.Explicit.GameplayAlteration.OnKill.SpawnSparkBurst.Ranged.Bow",
+        "BaseRespecCosts": []
+      },
+      "Slot.Gameplay.Generic": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Generic",
+        "BaseRespecCosts": []
+      },
+      "Slot.Gameplay.Melee.OnHit.StackingBuff": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Melee.OnHit.StackingBuff",
+        "BaseRespecCosts": []
+      },
+      "Slot.Gameplay.Ranged.OnFire.StackingBuff": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Ranged.OnFire.StackingBuff",
+        "BaseRespecCosts": []
+      },
+      "Slot.GameplayAlteration.Melee.BlackMetal": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Melee.BlackMetal",
+        "BaseRespecCosts": []
+      },
+      "Slot.GameplayAlteration.Melee.Boombox": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Melee.Boombox",
+        "BaseRespecCosts": []
+      },
+      "Slot.GameplayAlteration.Melee.Medieval": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Melee.Medieval",
+        "BaseRespecCosts": []
+      },
+      "Slot.GameplayAlteration.Melee.RetroScifi": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Melee.RetroSciFi",
+        "BaseRespecCosts": []
+      },
+      "Slot.GameplayAlteration.Melee.Steampunk": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Melee.Steampunk",
+        "BaseRespecCosts": []
+      },
+      "Slot.GameplayAlteration.Ranged.BlackMetal": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Ranged.BlackMetal",
+        "BaseRespecCosts": []
+      },
+      "Slot.GameplayAlteration.Ranged.Boombox": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Ranged.Boombox",
+        "BaseRespecCosts": []
+      },
+      "Slot.GameplayAlteration.Ranged.Boombox.NoHitStreak": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Ranged.Boombox.NoHitStreak",
+        "BaseRespecCosts": []
+      },
+      "Slot.GameplayAlteration.Ranged.Medieval": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Ranged.Medieval",
+        "BaseRespecCosts": []
+      },
+      "Slot.GameplayAlteration.Ranged.Military": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Ranged.Military",
+        "BaseRespecCosts": []
+      },
+      "Slot.GameplayAlteration.Ranged.RetroScifi": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Ranged.RetroSciFi",
+        "BaseRespecCosts": []
+      },
+      "Slot.GameplayAlteration.Ranged.Steampunk": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Ranged.Steampunk",
+        "BaseRespecCosts": []
+      },
+      "Slot.GameplayAlteration.Ranged.BlackMetalSniper": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Ranged.BlackMetalSniper",
+        "BaseRespecCosts": []
+      },
+      "Slot.Explicit.GameplayAlteration.OnHit.ChargeStormKingHammer": {
+        "InitTierGroup": "AGRP.Explicit.GameplayAlteration.OnHit.ChargeStormKingHammer",
+        "BaseRespecCosts": []
+      },
+      "Slot.Explicit.GameplayAlteration.OnHit.ChargeStormKingSword": {
+        "InitTierGroup": "AGRP.Explicit.GameplayAlteration.OnHit.ChargeStormKingSword",
+        "BaseRespecCosts": []
+      },
+      "Slot.Explicit.GameplayAlteration.StormKingLauncherCharge": {
+        "InitTierGroup": "AGRP.Explicit.GameplayAlteration.StormKingLauncherCharge",
+        "BaseRespecCosts": []
+      },
+      "Slot.Explicit.GameplayAlteration.StormKingPistolHomingProjectiles": {
+        "InitTierGroup": "AGRP.Explicit.GameplayAlteration.StormKingPistolHomingProjectiles",
+        "BaseRespecCosts": []
+      },
+      "Slot.Explicit.GameplayAlteration.OnHit.Stack.StormkingAssault": {
+        "InitTierGroup": "AGRP.Explicit.GameplayAlteration.OnHit.Stack.StormkingAssault",
+        "BaseRespecCosts": []
+      },
+      "Slot.Explicit.GameplayAlteration.OnImpactBreak.Freeze": {
+        "InitTierGroup": "AGRP.Explicit.GameplayAlteration.OnImpactBreak.Freeze",
+        "BaseRespecCosts": []
+      },
+      "Slot.Att.Ranged.Damage.W": {
+        "InitTierGroup": "AGRP.Att.Ranged.Damage.W",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_generic"
+            },
+            "Quantity": 600
+          }
+        ]
+      },
+      "Slot.Att.Ranged.Damage.X": {
+        "InitTierGroup": "AGRP.Att.Ranged.Damage.X",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_generic"
+            },
+            "Quantity": 600
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Melee.BoxingGloveClub": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Melee.BoxingGloveClub",
+        "BaseRespecCosts": []
+      },
+      "Slot.Explicit.GameplayAlteration.OnHitStreak.Freeze": {
+        "InitTierGroup": "AGRP.Explicit.GameplayAlteration.OnHitStreak.Freeze",
+        "BaseRespecCosts": []
+      },
+      "Slot.Explicit.GameplayAlteration.OnCrit.Freeze": {
+        "InitTierGroup": "AGRP.Explicit.GameplayAlteration.OnCrit.Freeze",
+        "BaseRespecCosts": []
+      },
+      "Slot.GameplayAlteration.Freeze": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Freeze",
+        "BaseRespecCosts": []
+      },
+      "Slot.GameplayAlteration.Melee.AirplaneAxe": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Melee.AirplaneAxe",
+        "BaseRespecCosts": []
+      },
+      "Slot.Att.Melee.Damage.Q": {
+        "InitTierGroup": "AGRP.Att.Melee.Damage.Q",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_generic"
+            },
+            "Quantity": 600
+          }
+        ]
+      },
+      "Slot.Att.Melee.Damage.R": {
+        "InitTierGroup": "AGRP.Att.Melee.Damage.R",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_generic"
+            },
+            "Quantity": 600
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Ranged.Fleming": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Ranged.Fleming",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.Explicit.GameplayAlteration.OnHit.Lovestruck": {
+        "InitTierGroup": "AGRP.Explicit.GameplayAlteration.OnHit.Lovestruck",
+        "BaseRespecCosts": []
+      },
+      "Slot.Explicit.GameplayAlteration.OnHit.HuntersMark": {
+        "InitTierGroup": "AGRP.Explicit.GameplayAlteration.OnHit.HuntersMark",
+        "BaseRespecCosts": []
+      },
+      "Slot.GameplayAlteration.Melee.ArtDeco": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Melee.ArtDeco",
+        "BaseRespecCosts": []
+      },
+      "Slot.GameplayAlteration.Ranged.ArtDeco": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Ranged.ArtDeco",
+        "BaseRespecCosts": []
+      },
+      "Slot.Att.Ranged.Damage.Y": {
+        "InitTierGroup": "AGRP.Att.Ranged.Damage.Y",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_generic"
+            },
+            "Quantity": 600
+          }
+        ]
+      },
+      "Slot.Att.Melee.Damage.S": {
+        "InitTierGroup": "AGRP.Att.Melee.Damage.S",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_generic"
+            },
+            "Quantity": 600
+          }
+        ]
+      },
+      "Slot.Att.Ranged.Damage.Z": {
+        "InitTierGroup": "AGRP.Att.Ranged.Damage.Z",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_generic"
+            },
+            "Quantity": 600
+          }
+        ]
+      },
+      "Slot.Att.IntrinsicEle.NatureAndEnergy": {
+        "InitTierGroup": "AGRP.Intrinsic.Att.Elemental.NatureAndEnergy",
+        "BaseRespecCosts": []
+      },
+      "Slot.Att.Trap.Utility.Range": {
+        "InitTierGroup": "AGRP.Att.Trap.Utility.Range",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_generic"
+            },
+            "Quantity": 600
+          }
+        ]
+      },
+      "Slot.Explicit.GameplayAlteration.OnFire.DamageStack": {
+        "InitTierGroup": "AGRP.Explicit.GameplayAlteration.OnFire.DamageStack",
+        "BaseRespecCosts": []
+      },
+      "Slot.Explicit.GameplayAlteration.OnReload.Explode": {
+        "InitTierGroup": "AGRP.Explicit.GameplayAlteration.OnReload.Explode",
+        "BaseRespecCosts": []
+      },
+      "Slot.Explicit.GameplayAlteration.OnReload.DamageBuff": {
+        "InitTierGroup": "AGRP.Explicit.GameplayAlteration.OnReload.DamageBuff",
+        "BaseRespecCosts": []
+      },
+      "Slot.Explicit.GameplayAlteration.OnReload.DamageStack": {
+        "InitTierGroup": "AGRP.Explicit.GameplayAlteration.OnReload.DamageStack",
+        "BaseRespecCosts": []
+      },
+      "Slot.Explicit.GameplayAlteration.OnHit.ShieldRegen": {
+        "InitTierGroup": "AGRP.Explicit.GameplayAlteration.OnHit.ShieldRegen",
+        "BaseRespecCosts": []
+      },
+      "Slot.Att.Ranged.Damage.D.F": {
+        "InitTierGroup": "AGRP.Att.Ranged.Damage.D.F",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_generic"
+            },
+            "Quantity": 600
+          }
+        ]
+      },
+      "Slot.Att.Ranged.Damage.Mash.E": {
+        "InitTierGroup": "AGRP.Att.Ranged.Damage.Mash.E",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_generic"
+            },
+            "Quantity": 600
+          }
+        ]
+      },
+      "Slot.Att.Ranged.Damage.Mash.F": {
+        "InitTierGroup": "AGRP.Att.Ranged.Damage.Mash.F",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_generic"
+            },
+            "Quantity": 600
+          }
+        ]
+      },
+      "Slot.Att.Ranged.Damage.F.A": {
+        "InitTierGroup": "AGRP.Att.Ranged.Damage.F.A",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_generic"
+            },
+            "Quantity": 600
+          }
+        ]
+      },
+      "Slot.Att.Melee.Damage.T": {
+        "InitTierGroup": "AGRP.Att.Melee.Damage.T",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_generic"
+            },
+            "Quantity": 600
+          }
+        ]
+      },
+      "Slot.Att.Ranged.Damage.AA": {
+        "InitTierGroup": "AGRP.Att.Ranged.Damage.AA",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_generic"
+            },
+            "Quantity": 600
+          }
+        ]
+      },
+      "Slot.Att.Ranged.Damage.AB": {
+        "InitTierGroup": "AGRP.Att.Ranged.Damage.AB",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_generic"
+            },
+            "Quantity": 600
+          }
+        ]
+      },
+      "Slot.Explicit.GameplayAlteration.OnKill.ChainLightning.Real": {
+        "InitTierGroup": "AGRP.Explicit.GameplayAlteration.OnKill.ChainLightning.Real",
+        "BaseRespecCosts": []
+      },
+      "Slot.GameplayAlteration.ArtDeco.Sniper": {
+        "InitTierGroup": "AGRP.GameplayAlteration.ArtDeco.Sniper",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.ArtDeco.Sword": {
+        "InitTierGroup": "AGRP.GameplayAlteration.ArtDeco.Sword",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.ArtDeco.Axe": {
+        "InitTierGroup": "AGRP.GameplayAlteration.ArtDeco.Axe",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.ArtDeco.Break.Shotgun": {
+        "InitTierGroup": "AGRP.GameplayAlteration.ArtDeco.Break.Shotgun",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.ArtDeco.Shotgun": {
+        "InitTierGroup": "AGRP.GameplayAlteration.ArtDeco.Shotgun",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.ArtDeco.Hammer": {
+        "InitTierGroup": "AGRP.GameplayAlteration.ArtDeco.Hammer",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.ArtDeco.Assault": {
+        "InitTierGroup": "AGRP.GameplayAlteration.ArtDeco.Assault",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.ArtDeco.Revolver": {
+        "InitTierGroup": "AGRP.GameplayAlteration.ArtDeco.Revolver",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.ArtDeco.Launcher": {
+        "InitTierGroup": "AGRP.GameplayAlteration.ArtDeco.Launcher",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.BlackMetal.Assault": {
+        "InitTierGroup": "AGRP.GameplayAlteration.BlackMetal.Assault",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.BlackMetal.Shotgun": {
+        "InitTierGroup": "AGRP.GameplayAlteration.BlackMetal.Shotgun",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.BlackMetal.Sniper": {
+        "InitTierGroup": "AGRP.GameplayAlteration.BlackMetal.Sniper",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.BlackMetal.Spear": {
+        "InitTierGroup": "AGRP.GameplayAlteration.BlackMetal.Spear",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.BlackMetal.Axe": {
+        "InitTierGroup": "AGRP.GameplayAlteration.BlackMetal.Axe",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.BlackMetal.Sword": {
+        "InitTierGroup": "AGRP.GameplayAlteration.BlackMetal.Sword",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.BlackMetal.Pistol": {
+        "InitTierGroup": "AGRP.GameplayAlteration.BlackMetal.Pistol",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.BlackMetal.Scythe": {
+        "InitTierGroup": "AGRP.GameplayAlteration.BlackMetal.Scythe",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.BlackMetal.Launcher": {
+        "InitTierGroup": "AGRP.GameplayAlteration.BlackMetal.Launcher",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.BlackMetal.Bow": {
+        "InitTierGroup": "AGRP.GameplayAlteration.BlackMetal.Bow",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Boombox.Hammer": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Boombox.Hammer",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Boombox.Bat": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Boombox.Bat",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Boombox.Spear": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Boombox.Spear",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Boombox.Assault": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Boombox.Assault",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Boombox.ShotgunBreak": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Boombox.ShotgunBreak",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Boombox.Pistol": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Boombox.Pistol",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Boombox.Launcher": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Boombox.Launcher",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Boombox.ShotgunDrum": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Boombox.ShotgunDrum",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Boombox.Sniper": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Boombox.Sniper",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Dragon.Assault": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Dragon.Assault",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Dragon.Pistol": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Dragon.Pistol",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Dragon.Launcher": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Dragon.Launcher",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Dragon.Shotgun": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Dragon.Shotgun",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Dragon.Sniper": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Dragon.Sniper",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Dragon.Shotgun.Drum": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Dragon.Shotgun.Drum",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Dragon.Hammer": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Dragon.Hammer",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Dragon.Sword": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Dragon.Sword",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Dragon.Spear": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Dragon.Spear",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Easter.Launcher": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Easter.Launcher",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Flintlock.Pistol": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Flintlock.Pistol",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Flintlock.Sniper": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Flintlock.Sniper",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Flintlock.Hammer": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Flintlock.Hammer",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Flintlock.Hammer.Heavy": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Flintlock.Hammer.Heavy",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Flintlock.Scythe": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Flintlock.Scythe",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Flintlock.Shotgun": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Flintlock.Shotgun",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Flintlock.Pistol.Pirate": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Flintlock.Pistol.Pirate",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Flintlock.Sniper.Scoped": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Flintlock.Sniper.Scoped",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Flintlock.Bow": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Flintlock.Bow",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Flintlock.Sword.Pirate": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Flintlock.Sword.Pirate",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Flintlock.Launcher": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Flintlock.Launcher",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Flintlock.Assault": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Flintlock.Assault",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Flintlock.Pegleg": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Flintlock.Pegleg",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Halloween.Launcher": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Halloween.Launcher",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Halloween.Sword": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Halloween.Sword",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Halloween.Shovel": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Halloween.Shovel",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Halloween.LMG": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Halloween.LMG",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Halloween.Assault": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Halloween.Assault",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Halloween.Pistol": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Halloween.Pistol",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Doomhammer": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Doomhammer",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Revenants.Wrath": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Revenants.Wrath",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.HuskCleaver": {
+        "InitTierGroup": "AGRP.GameplayAlteration.HuskCleaver",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Stabsworth": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Stabsworth",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Hunter.Killer": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Hunter.Killer",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Judge": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Judge",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Jackal": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Jackal",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Tigerjaw": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Tigerjaw",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Deathwing": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Deathwing",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Dragonfly": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Dragonfly",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Zap.Zapp": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Zap.Zapp",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Husk.Stomper": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Husk.Stomper",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Reaper.Scythe": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Reaper.Scythe",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Stormblade": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Stormblade",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Deathray": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Deathray",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Zapotron": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Zapotron",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.HolidayFun.Axe": {
+        "InitTierGroup": "AGRP.GameplayAlteration.HolidayFun.Axe",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.HolidayFun.Assault": {
+        "InitTierGroup": "AGRP.GameplayAlteration.HolidayFun.Assault",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.HolidayFun.Club": {
+        "InitTierGroup": "AGRP.GameplayAlteration.HolidayFun.Club",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.HolidayFun.Pistol": {
+        "InitTierGroup": "AGRP.GameplayAlteration.HolidayFun.Pistol",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.HolidayFun.Launcher": {
+        "InitTierGroup": "AGRP.GameplayAlteration.HolidayFun.Launcher",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Hydraulic.Pistol": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Hydraulic.Pistol",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Hydraulic.Assault.Drum": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Hydraulic.Assault.Drum",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Hydraulic.Shotgun": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Hydraulic.Shotgun",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Hydraulic.Sniper": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Hydraulic.Sniper",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Hydraulic.Hammer": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Hydraulic.Hammer",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Hydraulic.Sword": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Hydraulic.Sword",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Hydraulic.Spear": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Hydraulic.Spear",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Hydraulic.Launcher": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Hydraulic.Launcher",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Hydraulic.Assault.Hydra": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Hydraulic.Assault.Hydra",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Hydraulic.Bow": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Hydraulic.Bow",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Medieval.Assault": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Medieval.Assault",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Medieval.Pistol": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Medieval.Pistol",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Medieval.Sniper": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Medieval.Sniper",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Medieval.Shotgun": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Medieval.Shotgun",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Medieval.Sword": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Medieval.Sword",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Medieval.Hammer": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Medieval.Hammer",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Medieval.Axe": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Medieval.Axe",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Medieval.Spear": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Medieval.Spear",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Medieval.Bow": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Medieval.Bow",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Medieval.Launcher": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Medieval.Launcher",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Military.Assault.SMG.Silenced": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Military.Assault.SMG.Silenced",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Military.Assault.SMG.Unsilenced": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Military.Assault.SMG.Unsilenced",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Military.Pistol.Handcannon": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Military.Pistol.Handcannon",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Military.Pistol.Silenced": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Military.Pistol.Silenced",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Military.Shotgun": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Military.Shotgun",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Military.Crossbow": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Military.Crossbow",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Military.Assault.Auto": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Military.Assault.Auto",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Military.Assault.Burst": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Military.Assault.Burst",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Military.Assault.Silenced": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Military.Assault.Silenced",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Military.Assault.Surgical": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Military.Assault.Surgical",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Military.Sniper": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Military.Sniper",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Military.Spear": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Military.Spear",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Military.Launcher": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Military.Launcher",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Military.LMG": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Military.LMG",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Neon.Axe": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Neon.Axe",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Neon.Scythe": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Neon.Scythe",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Neon.Sword": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Neon.Sword",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Neon.Shotgun": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Neon.Shotgun",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Neon.Assault": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Neon.Assault",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Neon.Pistol": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Neon.Pistol",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Neon.Launcher": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Neon.Launcher",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Neon.LMG": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Neon.LMG",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Neon.Sniper": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Neon.Sniper",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Neon.Bow": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Neon.Bow",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.JunkyardPal": {
+        "InitTierGroup": "AGRP.GameplayAlteration.JunkyardPal",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Falcon": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Falcon",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Nighthawk": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Nighthawk",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.SpaceInvader": {
+        "InitTierGroup": "AGRP.GameplayAlteration.SpaceInvader",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.LongarmEnforcer": {
+        "InitTierGroup": "AGRP.GameplayAlteration.LongarmEnforcer",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.RoomSweeper": {
+        "InitTierGroup": "AGRP.GameplayAlteration.RoomSweeper",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Stampede": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Stampede",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Breacher": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Breacher",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Ranger": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Ranger",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Deathstalker": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Deathstalker",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Viper": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Viper",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Thrasher": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Thrasher",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Monsoon": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Monsoon",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Razor": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Razor",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Terminator": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Terminator",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Hammercrush": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Hammercrush",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Knight": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Knight",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.BoltBolt": {
+        "InitTierGroup": "AGRP.GameplayAlteration.BoltBolt",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.HaywireStorm": {
+        "InitTierGroup": "AGRP.GameplayAlteration.HaywireStorm",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Deadeye": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Deadeye",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.OneShot": {
+        "InitTierGroup": "AGRP.GameplayAlteration.OneShot",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.SuperShredder": {
+        "InitTierGroup": "AGRP.GameplayAlteration.SuperShredder",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.TripleTap": {
+        "InitTierGroup": "AGRP.GameplayAlteration.TripleTap",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Backbreaker": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Backbreaker",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Panther": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Panther",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Nightclaw": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Nightclaw",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Thunderbolt": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Thunderbolt",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.StormChasersRevenge": {
+        "InitTierGroup": "AGRP.GameplayAlteration.StormChasersRevenge",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.MastersDriver": {
+        "InitTierGroup": "AGRP.GameplayAlteration.MastersDriver",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.MrRed": {
+        "InitTierGroup": "AGRP.GameplayAlteration.MrRed",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.SliceNDice": {
+        "InitTierGroup": "AGRP.GameplayAlteration.SliceNDice",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.HeavyWrench": {
+        "InitTierGroup": "AGRP.GameplayAlteration.HeavyWrench",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.SocketSlugger": {
+        "InitTierGroup": "AGRP.GameplayAlteration.SocketSlugger",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.TrustyPipe": {
+        "InitTierGroup": "AGRP.GameplayAlteration.TrustyPipe",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.SkiCleaver": {
+        "InitTierGroup": "AGRP.GameplayAlteration.SkiCleaver",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Claxe": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Claxe",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Armaggeddon": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Armaggeddon",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Reaver": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Reaver",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.ElegantScythe": {
+        "InitTierGroup": "AGRP.GameplayAlteration.ElegantScythe",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.HockeyStick": {
+        "InitTierGroup": "AGRP.GameplayAlteration.HockeyStick",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.FarmersGlory": {
+        "InitTierGroup": "AGRP.GameplayAlteration.FarmersGlory",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.MightyPitchfork": {
+        "InitTierGroup": "AGRP.GameplayAlteration.MightyPitchfork",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.WhirlingDoom": {
+        "InitTierGroup": "AGRP.GameplayAlteration.WhirlingDoom",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.TheInitiator": {
+        "InitTierGroup": "AGRP.GameplayAlteration.TheInitiator",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.MightySlugger": {
+        "InitTierGroup": "AGRP.GameplayAlteration.MightySlugger",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.FortsvilleSlugger3000": {
+        "InitTierGroup": "AGRP.GameplayAlteration.FortsvilleSlugger3000",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Maverick": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Maverick",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.FreedomsHerald": {
+        "InitTierGroup": "AGRP.GameplayAlteration.FreedomsHerald",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Thumper": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Thumper",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Bazooka": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Bazooka",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.TinyInstrumentOfDeath": {
+        "InitTierGroup": "AGRP.GameplayAlteration.TinyInstrumentOfDeath",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Typewriter": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Typewriter",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.LastWord": {
+        "InitTierGroup": "AGRP.GameplayAlteration.LastWord",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Valentines.Crossbow": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Valentines.Crossbow",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Explosive.Bow": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Explosive.Bow",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Ratrod.Assault.Drum": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Ratrod.Assault.Drum",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Ratrod.Sniper": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Ratrod.Sniper",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Ratrod.Shotgun": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Ratrod.Shotgun",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Ratrod.Hammer": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Ratrod.Hammer",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Ratrod.Club": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Ratrod.Club",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Ratrod.Axe": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Ratrod.Axe",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Ratrod.Assault.Slug": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Ratrod.Assault.Slug",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Ratrod.Pistol": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Ratrod.Pistol",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Ratrod.Launcher": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Ratrod.Launcher",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.RetroSciFi.Hammer": {
+        "InitTierGroup": "AGRP.GameplayAlteration.RetroSciFi.Hammer",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.RetroSciFi.Spear": {
+        "InitTierGroup": "AGRP.GameplayAlteration.RetroSciFi.Spear",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.RetroSciFi.Club": {
+        "InitTierGroup": "AGRP.GameplayAlteration.RetroSciFi.Club",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.RetroSciFi.Launcher": {
+        "InitTierGroup": "AGRP.GameplayAlteration.RetroSciFi.Launcher",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.RetroSciFi.Assault.Burst": {
+        "InitTierGroup": "AGRP.GameplayAlteration.RetroSciFi.Assault.Burst",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.RetroSciFi.Shotgun": {
+        "InitTierGroup": "AGRP.GameplayAlteration.RetroSciFi.Shotgun",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.RetroSciFi.Pistol.Auto": {
+        "InitTierGroup": "AGRP.GameplayAlteration.RetroSciFi.Pistol.Auto",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.RetroSciFi.Sniper": {
+        "InitTierGroup": "AGRP.GameplayAlteration.RetroSciFi.Sniper",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.RetroSciFi.Pistol": {
+        "InitTierGroup": "AGRP.GameplayAlteration.RetroSciFi.Pistol",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Scavenger.Assault": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Scavenger.Assault",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Scavenger.Pistol": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Scavenger.Pistol",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Scavenger.Shotgun": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Scavenger.Shotgun",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Scavenger.Sniper": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Scavenger.Sniper",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Scavenger.Club": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Scavenger.Club",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Scavenger.Axe": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Scavenger.Axe",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Scavenger.Spear": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Scavenger.Spear",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Scavenger.Shotgun.Break": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Scavenger.Shotgun.Break",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Scavenger.Launcher": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Scavenger.Launcher",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Scavenger.Bow": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Scavenger.Bow",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Steampunk.Assault.Drum": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Steampunk.Assault.Drum",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Steampunk.Shotgun": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Steampunk.Shotgun",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Steampunk.Hammer": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Steampunk.Hammer",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Steampunk.Scythe": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Steampunk.Scythe",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Steampunk.Spear": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Steampunk.Spear",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Steampunk.Pistol": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Steampunk.Pistol",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Steampunk.Assault": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Steampunk.Assault",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Steampunk.Sniper": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Steampunk.Sniper",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Steampunk.Launcher": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Steampunk.Launcher",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.VacuumTube.Assault": {
+        "InitTierGroup": "AGRP.GameplayAlteration.VacuumTube.Assault",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.VacuumTube.Pistol.Auto": {
+        "InitTierGroup": "AGRP.GameplayAlteration.VacuumTube.Pistol.Auto",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.VacuumTube.Pistol.Revolver": {
+        "InitTierGroup": "AGRP.GameplayAlteration.VacuumTube.Pistol.Revolver",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.VacuumTube.Shotgun": {
+        "InitTierGroup": "AGRP.GameplayAlteration.VacuumTube.Shotgun",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.VacuumTube.Sniper": {
+        "InitTierGroup": "AGRP.GameplayAlteration.VacuumTube.Sniper",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.VacuumTube.Launcher": {
+        "InitTierGroup": "AGRP.GameplayAlteration.VacuumTube.Launcher",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.VacuumTube.Axe": {
+        "InitTierGroup": "AGRP.GameplayAlteration.VacuumTube.Axe",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.VacuumTube.Sword": {
+        "InitTierGroup": "AGRP.GameplayAlteration.VacuumTube.Sword",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.VacuumTube.Spear": {
+        "InitTierGroup": "AGRP.GameplayAlteration.VacuumTube.Spear",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Vindertech.Assault": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Vindertech.Assault",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Vindertech.Pistol.Auto": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Vindertech.Pistol.Auto",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Vindertech.Pistol.Handcannon.Semi": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Vindertech.Pistol.Handcannon.Semi",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Vindertech.Sniper": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Vindertech.Sniper",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Vindertech.Pistol.Handcannon": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Vindertech.Pistol.Handcannon",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Vindertech.Shotgun": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Vindertech.Shotgun",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Vindertech.Hammer": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Vindertech.Hammer",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Vindertech.Axe": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Vindertech.Axe",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Vindertech.Sword": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Vindertech.Sword",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Vindertech.Bow": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Vindertech.Bow",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Winter.Shotgun": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Winter.Shotgun",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Winter.Pistol.Ginger": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Winter.Pistol.Ginger",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Winter.Pistol.Silenced": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Winter.Pistol.Silenced",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Winter.Sniper": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Winter.Sniper",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Winter.Sniper.BBGun": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Winter.Sniper.BBGun",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Winter.Launcher.Grenade": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Winter.Launcher.Grenade",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Winter.Sword": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Winter.Sword",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Winter.Assault": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Winter.Assault",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Winter.Launcher": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Winter.Launcher",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Invasion.RayGun": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Invasion.RayGun",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Invasion.PulseRifle": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Invasion.PulseRifle",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Invasion.RailGun": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Invasion.RailGun",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Invasion.PlasmaCannon": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Invasion.PlasmaCannon",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.Att.Ranged.Handling.B": {
+        "InitTierGroup": "AGRP.Att.Ranged.Handling.B",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.Att.Ranged.Handling.C": {
+        "InitTierGroup": "AGRP.Att.Ranged.Handling.C",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Primal.Shotgun": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Primal.Shotgun",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Primal.StinkBow": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Primal.StinkBow",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Primal.Rifle": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Primal.Rifle",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Primal.SMG": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Primal.SMG",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Primal.Pistol": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Primal.Pistol",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.Att.Elemental.NoEnergy": {
+        "InitTierGroup": "AGRP.Att.Elemental.NoEnergy",
+        "BaseRespecCosts": []
+      },
+      "Slot.GameplayAlteration.Melee.Freeze": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Melee.Freeze",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Primal.FlameBow": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Primal.FlameBow",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.GameplayAlteration.Ancient.Launcher": {
+        "InitTierGroup": "AGRP.GameplayAlteration.Ancient.Launcher",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_gameplay_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.Att.Elemental.PhysicalEnergy": {
+        "InitTierGroup": "AGRP.Att.Elemental.EnergyPhysical",
+        "BaseRespecCosts": []
+      },
+      "Slot.Att.Ranged.Handling.D": {
+        "InitTierGroup": "AGRP.Att.Ranged.Handling.D",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      },
+      "Slot.Att.Ranged.Damage.AC": {
+        "InitTierGroup": "AGRP.Att.Ranged.Damage.AC",
+        "BaseRespecCosts": [
+          {
+            "ItemPrimaryAssetId": {
+              "PrimaryAssetType": {
+                "Name": "AccountResource"
+              },
+              "PrimaryAssetName": "reagent_alteration_generic"
+            },
+            "Quantity": 1
+          }
+        ]
+      }
+    }
+  }
+]
