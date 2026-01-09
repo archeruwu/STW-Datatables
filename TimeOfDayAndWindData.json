@@ -1,0 +1,338 @@
+[
+  {
+    "Type": "FortTimeOfDayData",
+    "Name": "TimeOfDayAndWindData",
+    "Class": "UScriptClass'FortTimeOfDayData'",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "WorldAmbientPropertiesList": [
+        {
+          "QueryToMatch": {
+            "TokenStreamVersion": 0,
+            "TagDictionary": [
+              {
+                "TagName": "Stat.ZoneTheme.Route99"
+              },
+              {
+                "TagName": "Stat.ZoneTheme.Desert"
+              },
+              {
+                "TagName": "Stat.ZoneTheme.GhostTown"
+              },
+              {
+                "TagName": "Stat.Mission.Primary.Gate"
+              },
+              {
+                "TagName": "Stat.Mission.Primary.DestroyTheEncampments"
+              },
+              {
+                "TagName": "Stat.Mission.Primary.EvacuateTheSurvivors"
+              }
+            ],
+            "QueryTokenStream": [
+              0,
+              1,
+              5,
+              2,
+              1,
+              3,
+              0,
+              1,
+              2,
+              1,
+              3,
+              3,
+              4,
+              5
+            ],
+            "UserDescription": "",
+            "AutoDescription": " ALL(  ANY( Stat.ZoneTheme.Route99, Stat.ZoneTheme.Desert, Stat.ZoneTheme.GhostTown ),  ANY( Stat.Mission.Primary.Gate, Stat.Mission.Primary.DestroyTheEncampments, Stat.Mission.Primary.EvacuateTheSurvivors ) )"
+          },
+          "TimeOfDayTheme": {
+            "TimeOfDayCollections": [],
+            "AdditionalTimeOfDayManagers": [
+              {
+                "AssetPathName": "/SaveTheWorld/TimeOfDay/TODM/STW/Children/TOD_R99_StormGate.TOD_R99_StormGate_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/SaveTheWorld/TimeOfDay/TODM/STW/Children/TOD_R99_StormGate_V2.TOD_R99_StormGate_V2_C",
+                "SubPathString": ""
+              }
+            ],
+            "ProhibitedTimeOfDayManagers": []
+          },
+          "GlobalWindInfo": {
+            "ValidWindInfos": [
+              {
+                "WindIntensity": 0.325,
+                "WindHeading": 45.0
+              }
+            ]
+          }
+        },
+        {
+          "QueryToMatch": {
+            "TokenStreamVersion": 0,
+            "TagDictionary": [
+              {
+                "TagName": "Stat.ZoneTheme.Route99"
+              },
+              {
+                "TagName": "Stat.ZoneTheme.Desert"
+              }
+            ],
+            "QueryTokenStream": [
+              0,
+              1,
+              1,
+              2,
+              0,
+              1
+            ],
+            "UserDescription": "",
+            "AutoDescription": " ANY( Stat.ZoneTheme.Route99, Stat.ZoneTheme.Desert )"
+          },
+          "TimeOfDayTheme": {
+            "TimeOfDayCollections": [],
+            "AdditionalTimeOfDayManagers": [
+              {
+                "AssetPathName": "/SaveTheWorld/TimeOfDay/TODM/STW/Children/TODM_STW_Arid-WtS_R99.TODM_STW_Arid-WtS_R99_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/SaveTheWorld/TimeOfDay/TODM/STW/Children/TODM_STW_Arid-WtS_R99_V2.TODM_STW_Arid-WtS_R99_V2_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/SaveTheWorld/TimeOfDay/TODM/STW/Children/TODM_STW_Arid-WtS_WW.TODM_STW_Arid-WtS_WW_C",
+                "SubPathString": ""
+              }
+            ],
+            "ProhibitedTimeOfDayManagers": []
+          },
+          "GlobalWindInfo": {
+            "ValidWindInfos": []
+          }
+        },
+        {
+          "QueryToMatch": {
+            "TokenStreamVersion": 0,
+            "TagDictionary": [
+              {
+                "TagName": "Stat.ZoneTheme.GhostTown"
+              }
+            ],
+            "QueryTokenStream": [
+              0,
+              1,
+              1,
+              1,
+              0
+            ],
+            "UserDescription": "",
+            "AutoDescription": " ANY( Stat.ZoneTheme.GhostTown )"
+          },
+          "TimeOfDayTheme": {
+            "TimeOfDayCollections": [],
+            "AdditionalTimeOfDayManagers": [
+              {
+                "AssetPathName": "/SaveTheWorld/TimeOfDay/TODM/STW/Children/TODM_STW_Arid-WtS_WW.TODM_STW_Arid-WtS_WW_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/SaveTheWorld/TimeOfDay/TODM/STW/Children/TODM_STW_Arid-WtS_R99_V2.TODM_STW_Arid-WtS_R99_V2_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/SaveTheWorld/TimeOfDay/TODM/STW/Children/TODM_STW_Arid_WtS_WW_V2.TODM_STW_Arid_WtS_WW_V2_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/SaveTheWorld/TimeOfDay/TODM/STW/Children/TODM_STW_Arid-WtS_WW_V3.TODM_STW_Arid-WtS_WW_V3_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/SaveTheWorld/TimeOfDay/TODM/STW/Children/TODM_STW_Arid-WtS_WW_V4.TODM_STW_Arid-WtS_WW_V4_C",
+                "SubPathString": ""
+              }
+            ],
+            "ProhibitedTimeOfDayManagers": []
+          },
+          "GlobalWindInfo": {
+            "ValidWindInfos": []
+          }
+        },
+        {
+          "QueryToMatch": {
+            "TokenStreamVersion": 0,
+            "TagDictionary": [
+              {
+                "TagName": "Stat.ZoneTheme.TheAutumnCity"
+              },
+              {
+                "TagName": "Stat.ZoneTheme.TheAutumnForest"
+              },
+              {
+                "TagName": "Stat.ZoneTheme.TheAutumnIndustrialPark"
+              },
+              {
+                "TagName": "Stat.ZoneTheme.TheAutumnSuburbs"
+              },
+              {
+                "TagName": "Stat.ZoneTheme.TheLakeside"
+              },
+              {
+                "TagName": "Stat.Mission.Primary.Gate"
+              },
+              {
+                "TagName": "Stat.Mission.Primary.DestroyTheEncampments"
+              },
+              {
+                "TagName": "Stat.Mission.Primary.EvacuateTheSurvivors"
+              }
+            ],
+            "QueryTokenStream": [
+              0,
+              1,
+              5,
+              2,
+              1,
+              5,
+              0,
+              1,
+              2,
+              3,
+              4,
+              1,
+              3,
+              5,
+              6,
+              7
+            ],
+            "UserDescription": "",
+            "AutoDescription": " ALL(  ANY( Stat.ZoneTheme.TheAutumnCity, Stat.ZoneTheme.TheAutumnForest, Stat.ZoneTheme.TheAutumnIndustrialPark, Stat.ZoneTheme.TheAutumnSuburbs, Stat.ZoneTheme.TheLakeside ),  ANY( Stat.Mission.Primary.Gate, Stat.Mission.Primary.DestroyTheEncampments, Stat.Mission.Primary.EvacuateTheSurvivors ) )"
+          },
+          "TimeOfDayTheme": {
+            "TimeOfDayCollections": [],
+            "AdditionalTimeOfDayManagers": [
+              {
+                "AssetPathName": "/Game/TimeOfDay/TODM/STW/Children/TODM_24_Fall_Storm.TODM_24_Fall_Storm_C",
+                "SubPathString": ""
+              }
+            ],
+            "ProhibitedTimeOfDayManagers": []
+          },
+          "GlobalWindInfo": {
+            "ValidWindInfos": [
+              {
+                "WindIntensity": 0.325,
+                "WindHeading": 45.0
+              }
+            ]
+          }
+        },
+        {
+          "QueryToMatch": {
+            "TokenStreamVersion": 0,
+            "TagDictionary": [
+              {
+                "TagName": "Stat.ZoneTheme.TheAutumnCity"
+              },
+              {
+                "TagName": "Stat.ZoneTheme.TheAutumnForest"
+              },
+              {
+                "TagName": "Stat.ZoneTheme.TheAutumnIndustrialPark"
+              },
+              {
+                "TagName": "Stat.ZoneTheme.TheAutumnSuburbs"
+              },
+              {
+                "TagName": "Stat.ZoneTheme.TheLakeside"
+              }
+            ],
+            "QueryTokenStream": [
+              0,
+              1,
+              1,
+              5,
+              0,
+              1,
+              2,
+              3,
+              4
+            ],
+            "UserDescription": "",
+            "AutoDescription": " ANY( Stat.ZoneTheme.TheAutumnCity, Stat.ZoneTheme.TheAutumnForest, Stat.ZoneTheme.TheAutumnIndustrialPark, Stat.ZoneTheme.TheAutumnSuburbs, Stat.ZoneTheme.TheLakeside )"
+          },
+          "TimeOfDayTheme": {
+            "TimeOfDayCollections": [],
+            "AdditionalTimeOfDayManagers": [
+              {
+                "AssetPathName": "/Game/TimeOfDay/TODM/STW/Children/TODM_24_Fall.TODM_24_Fall_C",
+                "SubPathString": ""
+              }
+            ],
+            "ProhibitedTimeOfDayManagers": []
+          },
+          "GlobalWindInfo": {
+            "ValidWindInfos": []
+          }
+        },
+        {
+          "QueryToMatch": {
+            "TokenStreamVersion": 0,
+            "TagDictionary": [
+              {
+                "TagName": "Stat.ZoneTheme.Swamp"
+              }
+            ],
+            "QueryTokenStream": [
+              0,
+              1,
+              1,
+              1,
+              0
+            ],
+            "UserDescription": "",
+            "AutoDescription": " ANY( Stat.ZoneTheme.Swamp )"
+          },
+          "TimeOfDayTheme": {
+            "TimeOfDayCollections": [],
+            "AdditionalTimeOfDayManagers": [
+              {
+                "AssetPathName": "/SaveTheWorld/TimeOfDay/TODM/STW/Children/TODM_STW_TRV_SW_LF.TODM_STW_TRV_SW_LF_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/SaveTheWorld/TimeOfDay/TODM/STW/Children/TODM_STW_TRV_SW_LF.TODM_STW_TRV_SW_LF_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/SaveTheWorld/TimeOfDay/TODM/STW/Children/TODM_STW_TRV_SW_TF.TODM_STW_TRV_SW_TF_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/SaveTheWorld/TimeOfDay/TODM/STW/Children/TODM_STW_TRV_SW_BF.TODM_STW_TRV_SW_BF_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/SaveTheWorld/TimeOfDay/TODM/STW/Children/TODM_STW_TRV_SW_DF.TODM_STW_TRV_SW_DF_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/SaveTheWorld/TimeOfDay/TODM/STW/Children/TODM_STW_TRV_SW_DF.TODM_STW_TRV_SW_DF_C",
+                "SubPathString": ""
+              }
+            ],
+            "ProhibitedTimeOfDayManagers": []
+          },
+          "GlobalWindInfo": {
+            "ValidWindInfos": []
+          }
+        }
+      ]
+    }
+  }
+]

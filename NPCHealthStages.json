@@ -1,0 +1,79 @@
+[
+  {
+    "Type": "CurveTable",
+    "Name": "NPCHealthStages",
+    "Class": "UScriptClass'CurveTable'",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "CurveTableMode": "SimpleCurves",
+    "Rows": {
+      "VendPawn": {
+        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "Keys": [
+          {
+            "Time": 1.0,
+            "Value": 0.75
+          },
+          {
+            "Time": 2.0,
+            "Value": 0.5
+          },
+          {
+            "Time": 3.0,
+            "Value": 0.0
+          },
+          {
+            "Time": 10.0,
+            "Value": 0.0
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant",
+        "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
+      },
+      "TestEnemy": {
+        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "Keys": [
+          {
+            "Time": 1.0,
+            "Value": 0.95
+          },
+          {
+            "Time": 2.0,
+            "Value": 0.9
+          },
+          {
+            "Time": 3.0,
+            "Value": 0.8
+          },
+          {
+            "Time": 4.0,
+            "Value": 0.7
+          },
+          {
+            "Time": 5.0,
+            "Value": 0.65
+          },
+          {
+            "Time": 6.0,
+            "Value": 0.4
+          },
+          {
+            "Time": 8.0,
+            "Value": 0.2
+          },
+          {
+            "Time": 9.0,
+            "Value": 0.1
+          },
+          {
+            "Time": 10.0,
+            "Value": 0.05
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant",
+        "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
+      }
+    }
+  }
+]
